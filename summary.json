@@ -1,25 +1,94 @@
 {
-  "global_theme": "Geopolitical tensions are escalating, driving market volatility and increasing living costs, while technological advancements continue to create new digital skill demands and business models.",
-  "market_mood": "Risk-Off / Cautious",
-  "risk_signal": "Escalating Middle East conflict and potential for global inflation",
-  "opportunity_signal": "Portugal's economic growth and the continuous evolution of digital skills and AI-driven services",
-  "key_points": [
-    "Geopolitical instability likely increases energy/fuel costs, directly impacting Alex's living expenses and business operations and savings goals.",
-    "'AI layoffs loom large' emphasizes acquiring high-demand digital skills for resilience, beyond basic AI, to remain competitive.",
-    "Portugal's 2025 economic growth suggests a relatively stable local environment for launching a business and accumulating savings.",
-    "Digital platforms (Polymarket) show diverse monetization and ethical challenges in online business. Prioritize audience relevance like MLB's digital strategy.",
-    "Rising gasoline costs due to conflict mean meticulous budgeting. Explore energy-efficient alternatives and avoid speculative 'wellness peptide' fads.",
-    "New smart devices (Lego, Honor) highlight demand for skills in IoT integration, user-centric design, and smart home ecosystem development.",
-    "Escalating Middle East conflict will drive up European energy and fuel costs, impacting Alex's business expenses and personal budgets.",
-    "Wellness industry shows demand, but requires ethical navigation. Digital content strategy for niche markets (MLB, auto) remains a growth area.",
-    "Family financial issues underscore the critical need for clear personal boundaries, proactive financial planning, and legal advice for wealth preservation.",
-    "Prioritize developing resilient, adaptable income streams and robust cost management to navigate current global economic uncertainties effectively."
+  "global_theme": "The dominant global narrative is the escalating US-Israel war with Iran, driving market uncertainty and significantly impacting oil prices, with direct relevance for global stability and European economies.",
+  "market_mood": "Risk-Off",
+  "risk_signal": "Escalating Middle East conflict, soaring oil prices, and potential economic fallout.",
+  "opportunity_signal": "Long-term stock market rebounds, diversification into international stocks, and strategic AI application amidst evolving tech landscape.",
+  "finance_sentiment": [
+    {
+      "i": 1,
+      "s": "+"
+    },
+    {
+      "i": 2,
+      "s": "-"
+    },
+    {
+      "i": 3,
+      "s": "-"
+    },
+    {
+      "i": 4,
+      "s": "+"
+    },
+    {
+      "i": 5,
+      "s": "="
+    },
+    {
+      "i": 6,
+      "s": "-"
+    },
+    {
+      "i": 7,
+      "s": "-"
+    },
+    {
+      "i": 8,
+      "s": "-"
+    },
+    {
+      "i": 9,
+      "s": "+"
+    },
+    {
+      "i": 10,
+      "s": "-"
+    },
+    {
+      "i": 11,
+      "s": "-"
+    },
+    {
+      "i": 12,
+      "s": "-"
+    },
+    {
+      "i": 13,
+      "s": "-"
+    },
+    {
+      "i": 14,
+      "s": "="
+    },
+    {
+      "i": 15,
+      "s": "-"
+    }
   ],
-  "learning_task": "Research the current geopolitical impact on European energy prices and strategies for incorporating inflation forecasts into personal financial planning.",
-  "biz_opportunity": {
-    "niche": "Digital Reskilling & Upskilling for AI-Impacted Professionals",
-    "target_customer": "European professionals concerned about job security due to AI, seeking to acquire future-proof digital skills.",
-    "why_now": "The explicit mention of 'AI layoffs loom large' creates immediate demand for guidance and training to navigate career transitions and identify resilient skill sets."
+  "insights": {
+    "g1": [
+      "Geopolitical conflict in the Middle East will drive oil prices up, impacting global and Portuguese economies.",
+      "Stock markets face significant fallout from war, requiring careful risk assessment for any investments.",
+      "Historical data suggests stock markets rebound; a long-term perspective is crucial despite current downturns.",
+      "Consider international stock diversification as $104 billion flows into these markets, potentially offering growth.",
+      "Be wary of market bubbles, as some experts compare current tech valuations to past dot-com peaks."
+    ],
+    "g2": [
+      "Emerging AI risks, like potential economic crashes or subtle 'whispers', demand critical understanding of AI.",
+      "Be aware of the evolving landscape of AI SaaS, as investor priorities are shifting away from hype.",
+      "Explore ethical AI implementation and its role in government/defense, understanding dual-use technology.",
+      "Focus on practical, non-hyped AI applications, given the growing scrutiny and potential negative impacts.",
+      "Leverage alternatives to popular platforms (like Discord) to build community and reduce vendor lock-in."
+    ],
+    "g3": [
+      "Portugal's stock market shows resilience; monitor local financial trends for economic stability signals.",
+      "Portuguese real estate is entering a new cycle; understanding local market dynamics is vital for related ventures.",
+      "Digital transformation is acknowledged in Portugal; identify opportunities to integrate technology locally.",
+      "Global events (like the Iran war) have local impacts; prepare for potential shifts in tourism and consumer behavior.",
+      "Explore niche opportunities in supporting digital literacy or specialized tech services for local businesses."
+    ]
   },
-  "built_at": "2026-03-01T17:01:14.869667+00:00"
+  "learning_task": "Spend 30 minutes researching how past geopolitical conflicts impacted oil prices and subsequent consumer spending in Europe, to better anticipate market shifts for your €35k goal.",
+  "biz_opportunity": "Offer tailored AI-powered market intelligence dashboards for Portuguese tourism and real estate businesses, enabling proactive adaptation to global economic shifts and local market cycles.",
+  "built_at": "2026-03-01T21:58:29.362986+00:00"
 }

@@ -2,38 +2,61 @@ name: Daily News Briefing
 
 on:
   schedule:
-    # Runs at 07:05 UTC every day
+    # 07:05 UTC every day (09:05 Lisbon summer / 08:05 winter)
     - cron: '5 7 * * *'
-  workflow_dispatch: # Allows manual runs from the "Actions" tab
+  workflow_dispatch: # Allow manual runs from the Actions tab
 
 permissions:
-  contents: write
+  contents: write  # Required by git-auto-commit-action to push changes
 
 jobs:
   build-and-deploy:
     runs-on: ubuntu-latest
+
     steps:
+      # ── 1. Checkout ──────────────────────────────────────────────────────
       - name: Checkout Repository
         uses: actions/checkout@v4
+        with:
+          # Fetch full history so the action can diff changes correctly
+          fetch-depth: 0
 
-      - name: Set up Python
+      # ── 2. Python setup ──────────────────────────────────────────────────
+      - name: Set up Python 3.11
         uses: actions/setup-python@v5
         with:
           python-version: '3.11'
+          cache: 'pip'  # Cache pip deps for faster runs
 
+      # ── 3. Install dependencies ──────────────────────────────────────────
       - name: Install Dependencies
         run: |
           python -m pip install --upgrade pip
           pip install -r requirements.txt
 
-      - name: Run Scraper and Summary
+      # ── 4. Build ─────────────────────────────────────────────────────────
+      - name: Run Scraper and Gemini Analysis
         env:
           GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
         run: python build.py
 
-      - name: Commit and Push Changes
-        run: |
-          git config --global user.name "github-actions[bot]"
-          git config --global user.email "github-actions[bot]@users.noreply.github.com"
-          git add content.json summary.json build.log
-          git diff --quiet && git diff --staged --quiet || (git commit -m "Daily brief update: $(date -u)" && git push)
+      # ── 5. Upload build log as artifact (visible in Actions UI) ──────────
+      - name: Upload Build Log
+        if: always()   # Upload even if build.py fails, for debugging
+        uses: actions/upload-artifact@v4
+        with:
+          name: build-log-${{ github.run_number }}
+          path: build.log
+          retention-days: 14
+
+      # ── 6. Commit and push updated JSON files ────────────────────────────
+      - name: Commit Updated Data Files
+        uses: stefanzweifel/git-auto-commit-action@v5
+        with:
+          commit_message: "chore: daily brief update [skip ci]"
+          file_pattern: "content.json summary.json build.log"
+          commit_user_name: "github-actions[bot]"
+          commit_user_email: "github-actions[bot]@users.noreply.github.com"
+          commit_author: "github-actions[bot] <github-actions[bot]@users.noreply.github.com>"
+          # Skip push if nothing changed (idempotent)
+          skip_dirty_check: false

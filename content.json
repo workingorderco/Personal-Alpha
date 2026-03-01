@@ -1,194 +1,539 @@
 {
-  "built_at": "2026-03-01T17:01:14.869667+00:00",
+  "built_at": "2026-03-01T21:58:29.362986+00:00",
   "sections": {
     "Finance": [
       {
-        "title": "Stocks face Iran jitters and a crucial jobs report in the week ahead as AI layoffs loom large",
-        "source": "MarketWatch.com - Top Stories",
-        "published": "Sun, 01 Mar 2026 17:00:00 GMT",
-        "url": "https://www.marketwatch.com/story/stocks-face-iran-jitters-and-a-crucial-jobs-report-in-the-week-ahead-as-ai-layoffs-loom-large-5da09c93?mod=mw_rss_topstories"
+        "title": "History Says Stocks Always Rebound, Even After Deep Downturns. Here's the Proof",
+        "source": "Yahoo Finance",
+        "published": "2026-03-01T21:50:00Z",
+        "url": "https://finance.yahoo.com/news/history-says-stocks-always-rebound-215000773.html",
+        "is_priority": false
       },
       {
-        "title": "My brother is paranoid, alone and has forgotten that he sold his house. How can we help?",
-        "source": "MarketWatch.com - Top Stories",
-        "published": "Sun, 01 Mar 2026 16:30:00 GMT",
-        "url": "https://www.marketwatch.com/story/my-sister-and-i-are-his-only-family-my-brother-is-paranoid-and-forgot-he-sold-his-house-what-can-i-do-006a8d3a?mod=mw_rss_topstories"
+        "title": "Live updates: Trump vows to 'avenge' the deaths of U.S. service members, says combat operations continue",
+        "source": "US Top News and Analysis",
+        "published": "Sun, 01 Mar 2026 21:49:18 GMT",
+        "url": "https://www.cnbc.com/2026/03/01/us-iran-live-updates-khamenei-death-trump-gulf-strikes.html",
+        "is_priority": false
       },
       {
-        "title": "‘I have a legal and a moral question’: My dad left when I was 9, reconnected with me in my 50s and now needs money. What do I owe him?",
-        "source": "MarketWatch.com - Top Stories",
-        "published": "Sun, 01 Mar 2026 16:11:00 GMT",
-        "url": "https://www.marketwatch.com/story/i-have-a-legal-and-a-moral-question-my-dad-left-when-i-was-9-reconnected-with-me-in-my-50s-and-now-needs-money-what-do-i-owe-him-ca780520?mod=mw_rss_topstories"
+        "title": "U.S. crude oil set to top $70 a barrel when trading begins on fears of Iran supply disruption",
+        "source": "US Top News and Analysis",
+        "published": "Sun, 01 Mar 2026 21:48:52 GMT",
+        "url": "https://www.cnbc.com/2026/03/01/crude-oil-futures-iran.html",
+        "is_priority": false
       },
       {
-        "title": "‘I dread the snow’: My heating and air conditioning always breaks down. Do I spend $15,000 on a new one?",
-        "source": "MarketWatch.com - Top Stories",
-        "published": "Sun, 01 Mar 2026 16:04:00 GMT",
-        "url": "https://www.marketwatch.com/story/i-dread-the-snow-my-heating-and-air-conditioning-always-breaks-down-do-i-spend-15k-on-a-new-one-e4cbf07e?mod=mw_rss_topstories"
+        "title": "Why Rigetti Computing Stock Surged This Week",
+        "source": "Yahoo Finance",
+        "published": "2026-03-01T21:47:25Z",
+        "url": "https://finance.yahoo.com/news/why-rigetti-computing-stock-surged-214725177.html",
+        "is_priority": false
       },
       {
-        "title": "Iran strikes by Israel and the U.S. mean you’ll be paying a lot more for gasoline this spring, forecasts GasBuddy",
-        "source": "MarketWatch.com - Top Stories",
-        "published": "Sun, 01 Mar 2026 15:31:00 GMT",
-        "url": "https://www.marketwatch.com/story/heres-how-much-you-could-pay-for-a-gallon-of-gas-by-may-because-of-the-attacks-on-iran-e12e976f?mod=mw_rss_topstories"
+        "title": "Dow Jones Futures, Oil Prices Loom; Trump Says Iran's New Leaders 'Want To Talk'",
+        "source": "Yahoo Finance",
+        "published": "2026-03-01T21:46:15Z",
+        "url": "https://www.investors.com/market-trend/stock-market-today/trump-us-israel-massive-attacks-iran-dow-jones-futures-oil-prices/?src=A00220&yptr=yahoo",
+        "is_priority": false
+      },
+      {
+        "title": "Stock Market Investors Brace for Iran War Fallout",
+        "source": "NYT > Business",
+        "published": "Sun, 01 Mar 2026 21:43:28 +0000",
+        "url": "https://www.nytimes.com/2026/03/01/business/stock-market-iran-war-fallout.html",
+        "is_priority": false
+      },
+      {
+        "title": "FBI probes possible terror link to Texas shooting that left three dead, 14 injured",
+        "source": "All News",
+        "published": "2026-03-01 21:42:26",
+        "url": "https://www.investing.com/news/world-news/three-dead-14-injured-after-shooting-in-austin-texas-4533500",
+        "is_priority": false
+      },
+      {
+        "title": "This Luxury Good Reseller's CFO Sold a Luxurious Amount of Shares",
+        "source": "Yahoo Finance",
+        "published": "2026-03-01T21:38:26Z",
+        "url": "https://finance.yahoo.com/news/luxury-good-resellers-cfo-sold-213826630.html",
+        "is_priority": false
+      },
+      {
+        "title": "$104 Billion Is Flowing to International Stocks. Should You Join in?",
+        "source": "Yahoo Finance",
+        "published": "2026-03-01T21:35:00Z",
+        "url": "https://finance.yahoo.com/news/104-billion-flowing-international-stocks-213500460.html",
+        "is_priority": false
+      },
+      {
+        "title": "Israel hits Tehran again after killing Khamenei, leadership council takes over",
+        "source": "All News",
+        "published": "2026-03-01 21:31:18",
+        "url": "https://www.investing.com/news/world-news/more-strikes-aimed-at-iran-after-us-israeli-assault-kills-supreme-leader-4533465",
+        "is_priority": false
+      },
+      {
+        "title": "Trump says combat operations in Iran will continue until all objectives achieved",
+        "source": "All News",
+        "published": "2026-03-01 21:30:56",
+        "url": "https://www.investing.com/news/world-news/trump-says-combat-operations-in-iran-will-continue-until-all-objectives-achieved-4533561",
+        "is_priority": false
+      },
+      {
+        "title": "Michael Burry Compares Nvidia's $95 Billion Purchase Commitments To Cisco's Dot-Com Peak: 'This Is Not Business as Usual. This Is Risk.'",
+        "source": "Yahoo Finance",
+        "published": "2026-03-01T21:30:54Z",
+        "url": "https://finance.yahoo.com/news/michael-burry-compares-nvidias-95-213054783.html",
+        "is_priority": false
+      },
+      {
+        "title": "U.S. and Israeli War With Iran Will Likely Send Oil Prices Soaring",
+        "source": "NYT > Business",
+        "published": "Sun, 01 Mar 2026 21:24:21 +0000",
+        "url": "https://www.nytimes.com/2026/03/01/business/energy-environment/iran-war-oil-prices.html",
+        "is_priority": false
+      },
+      {
+        "title": "Russia stocks lower at close of trade; MOEX Russia Index unchanged",
+        "source": "All News",
+        "published": "2026-03-01 21:20:03",
+        "url": "https://www.investing.com/news/stock-market-news/russia-stocks-lower-at-close-of-trade-moex-russia-index-unchanged-4533560",
+        "is_priority": false
+      },
+      {
+        "title": "Could AI Crash the Economy in 2 Years? One Research Firm Says Yes.",
+        "source": "Yahoo Finance",
+        "published": "2026-03-01T21:20:00Z",
+        "url": "https://finance.yahoo.com/news/could-ai-crash-economy-2-212000083.html",
+        "is_priority": false
       }
     ],
     "World News": [
       {
-        "title": "At least 153 dead after reported strike on school, Iran says",
-        "source": "BBC News",
-        "published": "Sun, 01 Mar 2026 15:32:26 GMT",
-        "url": "https://www.bbc.com/news/articles/c1l7rvqq51eo?at_medium=RSS&at_campaign=rss"
-      },
-      {
-        "title": "Nine dead in missile attack on Israel as Iran strikes region",
-        "source": "BBC News",
-        "published": "Sun, 01 Mar 2026 16:55:57 GMT",
-        "url": "https://www.bbc.com/news/articles/c363zkp1pgxo?at_medium=RSS&at_campaign=rss"
+        "title": "In Turn From Iran Talks to War, U.S. Casts Doubt on Diplomacy",
+        "source": "NYT > World News",
+        "published": "Sun, 01 Mar 2026 21:50:54 +0000",
+        "url": "https://www.nytimes.com/2026/03/01/us/politics/iran-nuclear-talks-war-trump-diplomacy.html",
+        "is_priority": false
       },
       {
         "title": "What we know so far about the US-Israel attacks and Iran's retaliation",
         "source": "BBC News",
-        "published": "Sun, 01 Mar 2026 10:58:33 GMT",
-        "url": "https://www.bbc.com/news/articles/cx2dyz6p3weo?at_medium=RSS&at_campaign=rss"
+        "published": "Sun, 01 Mar 2026 21:45:33 GMT",
+        "url": "https://www.bbc.com/news/articles/cx2dyz6p3weo?at_medium=RSS&at_campaign=rss",
+        "is_priority": false
       },
       {
-        "title": "Where have Nepal's 'nepo kids' gone as corruption takes centre stage in election?",
-        "source": "BBC News",
-        "published": "Sat, 28 Feb 2026 23:03:48 GMT",
-        "url": "https://www.bbc.com/news/articles/cgqgl3j5nj4o?at_medium=RSS&at_campaign=rss"
+        "title": "Delroy Lindo thankful for ‘love and support’ after N-word incident at Baftas",
+        "source": "The Guardian",
+        "published": "Sun, 01 Mar 2026 21:43:55 GMT",
+        "url": "https://www.theguardian.com/film/2026/mar/01/delroy-lindo-baftas-support-michael-b-jordan",
+        "is_priority": false
       },
       {
-        "title": "Wellness peptide craze: Why people are injecting drugs 'not for human consumption'",
-        "source": "BBC News",
-        "published": "Sun, 01 Mar 2026 00:51:29 GMT",
-        "url": "https://www.bbc.com/news/articles/cdr268m5pxro?at_medium=RSS&at_campaign=rss"
+        "title": "Maps: Where the U.S.-Led Strikes Hit Iran and Tehran’s Retaliation",
+        "source": "NYT > World News",
+        "published": "Sun, 01 Mar 2026 21:41:51 +0000",
+        "url": "https://www.nytimes.com/2026/02/28/world/middleeast/us-israel-iran-attack-maps.html",
+        "is_priority": false
+      },
+      {
+        "title": "Huge fire at Bahrain port home to US Navy’s Fifth Fleet",
+        "source": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
+        "published": "Sun, 01 Mar 2026 21:40:19 +0000",
+        "url": "https://www.aljazeera.com/video/newsfeed/2026/3/1/huge-fire-at-bahrain-port-home-to-us-navys-fifth-fleet?traffic_source=rss",
+        "is_priority": false
+      },
+      {
+        "title": "What’s Next for Iran? Big Change Seems Certain, but Direction Is Unclear.",
+        "source": "NYT > World News",
+        "published": "Sun, 01 Mar 2026 21:40:15 +0000",
+        "url": "https://www.nytimes.com/2026/03/01/world/middleeast/iran-what-next.html",
+        "is_priority": false
+      },
+      {
+        "title": "US-Israel war on Iran live: Trump says attack could last four weeks as death tolls rise across Middle East",
+        "source": "World news | The Guardian",
+        "published": "Sun, 01 Mar 2026 21:39:12 GMT",
+        "url": "https://www.theguardian.com/us-news/live/2026/mar/01/us-israel-war-on-iran-ayatollah-ali-khamenei-i-dead-latest-reports",
+        "is_priority": false
+      },
+      {
+        "title": "What Now in Iran?",
+        "source": "NYT > World News",
+        "published": "Sun, 01 Mar 2026 21:38:32 +0000",
+        "url": "https://www.nytimes.com/2026/03/01/world/ali-khamenei-iran-us-israel.html",
+        "is_priority": false
+      },
+      {
+        "title": "Politics live: Marles confirms Australia not involved in Iran strikes; Wong says 115,000 Australians in region as flights cancelled",
+        "source": "World news | The Guardian",
+        "published": "Sun, 01 Mar 2026 21:38:14 GMT",
+        "url": "https://www.theguardian.com/australia-news/live/2026/mar/02/politics-updates-federal-parliament-anthony-albanese-labor-angus-taylor-coalition-nsw-budget-estimates-iran-war-reactions-ntwnfb",
+        "is_priority": false
+      },
+      {
+        "title": "How the Assault on Iran Unfolded",
+        "source": "NYT > World News",
+        "published": "Sun, 01 Mar 2026 21:38:13 +0000",
+        "url": "https://www.nytimes.com/2026/03/01/world/middleeast/iran-israel-strikes.html",
+        "is_priority": false
+      },
+      {
+        "title": "Here’s the latest.",
+        "source": "NYT > World News",
+        "published": "Sun, 01 Mar 2026 21:22:40 +0000",
+        "url": "https://www.nytimes.com/live/2026/03/01/world/iran-attack-khamenei-trump/heres-the-latest",
+        "is_priority": false
+      },
+      {
+        "title": "‘My heart almost stopped’: Arteta praises David Raya for vital saves in Arsenal win",
+        "source": "The Guardian",
+        "published": "Sun, 01 Mar 2026 20:58:21 GMT",
+        "url": "https://www.theguardian.com/football/2026/mar/01/mikel-arteta-arsenal-liam-rosenior-chelsea-premier-league-title-race",
+        "is_priority": false
+      },
+      {
+        "title": "9 Killed in Israeli City Near Jerusalem After Iranian Missile Strike",
+        "source": "NYT > World News",
+        "published": "Sun, 01 Mar 2026 20:57:56 +0000",
+        "url": "https://www.nytimes.com/2026/03/01/world/middleeast/9-killed-beit-shemesh-iranian-missiles.html",
+        "is_priority": false
+      },
+      {
+        "title": "Trump open to talks with Iran as conflict deepens in Middle East",
+        "source": "World news | The Guardian",
+        "published": "Sun, 01 Mar 2026 20:54:00 GMT",
+        "url": "https://www.theguardian.com/world/2026/mar/01/trump-open-to-talks-with-iran-as-conflict-deepens-in-middle-east",
+        "is_priority": false
+      },
+      {
+        "title": "Iran’s Ballistic Missile Launchers Have Been Cut by Half, Israeli Official Says",
+        "source": "NYT > World News",
+        "published": "Sun, 01 Mar 2026 20:52:33 +0000",
+        "url": "https://www.nytimes.com/2026/03/01/world/middleeast/iran-missile-launchers.html",
+        "is_priority": false
       }
     ],
     "Tech": [
       {
+        "title": "How the Government Deceived Congress in the Debate over Surveillance Powers (2013)",
+        "source": "Hacker News: Front Page",
+        "published": "Sun, 01 Mar 2026 20:55:22 +0000",
+        "url": "https://www.eff.org/deeplinks/2013/06/director-national-intelligences-word-games-explained-how-government-deceived",
+        "is_priority": false
+      },
+      {
+        "title": "How Talks Between Anthropic and the Defense Dept. Fell Apart",
+        "source": "NYT > Technology",
+        "published": "Sun, 01 Mar 2026 20:47:22 +0000",
+        "url": "https://www.nytimes.com/2026/03/01/technology/anthropic-defense-dept-openai-talks.html",
+        "is_priority": false
+      },
+      {
+        "title": "Portable Sonos Play speaker leaks on Canadian Best Buy",
+        "source": "The Verge",
+        "published": "2026-03-01T15:10:10-05:00",
+        "url": "https://www.theverge.com/tech/887220/sonos-play-leak",
+        "is_priority": false
+      },
+      {
+        "title": "Why does C have the best file API",
+        "source": "Hacker News: Front Page",
+        "published": "Sun, 01 Mar 2026 19:25:04 +0000",
+        "url": "https://maurycyz.com/misc/c_files/",
+        "is_priority": false
+      },
+      {
+        "title": "Operational issue – Multiple services (UAE)",
+        "source": "Hacker News: Front Page",
+        "published": "Sun, 01 Mar 2026 19:24:30 +0000",
+        "url": "https://health.aws.amazon.com/health/status",
+        "is_priority": false
+      },
+      {
+        "title": "Polymarket saw $529M traded on bets tied to bombing of Iran",
+        "source": "TechCrunch",
+        "published": "Sun, 01 Mar 2026 19:05:35 +0000",
+        "url": "https://techcrunch.com/2026/03/01/polymarket-saw-529m-traded-on-bets-tied-to-bombing-of-iran/",
+        "is_priority": false
+      },
+      {
+        "title": "Let’s explore the best alternatives to Discord",
+        "source": "TechCrunch",
+        "published": "Sun, 01 Mar 2026 19:00:01 +0000",
+        "url": "https://techcrunch.com/2026/03/01/best-discord-alternatives-age-verification-identity-privacy/",
+        "is_priority": false
+      },
+      {
+        "title": "What if the real risk of AI isn’t deepfakes — but daily whispers?",
+        "source": "VentureBeat",
+        "published": "Sun, 01 Mar 2026 19:00:00 GMT",
+        "url": "https://venturebeat.com/technology/what-if-the-real-risk-of-ai-isnt-deepfakes-but-daily-whispers",
+        "is_priority": false
+      },
+      {
+        "title": "Kalshi voids some bets on Khamenei’s ouster because it’s ‘directly tied to death’",
+        "source": "The Verge",
+        "published": "2026-03-01T13:06:10-05:00",
+        "url": "https://www.theverge.com/tech/887210/kalshi-void-bets-khamenei-death",
+        "is_priority": false
+      },
+      {
+        "title": "The 5 Big ‘Known Unknowns’ of Donald Trump’s New War With Iran",
+        "source": "WIRED",
+        "published": "Sun, 01 Mar 2026 17:47:31 +0000",
+        "url": "https://www.wired.com/story/5-big-known-unknowns-donald-trump-iran-war/",
+        "is_priority": false
+      },
+      {
+        "title": "Google looks to tackle longstanding RCS spam in India — but not alone",
+        "source": "TechCrunch",
+        "published": "Sun, 01 Mar 2026 17:30:00 +0000",
+        "url": "https://techcrunch.com/2026/03/01/google-looks-to-tackle-longstanding-rcs-spam-in-india-but-not-alone/",
+        "is_priority": false
+      },
+      {
+        "title": "Investors spill what they aren’t looking for anymore in AI SaaS companies",
+        "source": "TechCrunch",
+        "published": "Sun, 01 Mar 2026 17:00:00 +0000",
+        "url": "https://techcrunch.com/2026/03/01/investors-spill-what-they-arent-looking-for-anymore-in-ai-saas-companies/",
+        "is_priority": false
+      },
+      {
+        "title": "When does MCP make sense vs CLI?",
+        "source": "Hacker News: Front Page",
+        "published": "Sun, 01 Mar 2026 16:54:49 +0000",
+        "url": "https://ejholmes.github.io/2026/02/28/mcp-is-dead-long-live-the-cli.html",
+        "is_priority": false
+      },
+      {
+        "title": "OpenAI reveals more details about its agreement with the Pentagon",
+        "source": "TechCrunch",
+        "published": "Sun, 01 Mar 2026 16:30:10 +0000",
+        "url": "https://techcrunch.com/2026/03/01/openai-shares-more-details-about-its-agreement-with-the-pentagon/",
+        "is_priority": false
+      },
+      {
         "title": "Lego’s Smart Brick is here, and it transforms these new Star Wars sets",
         "source": "The Verge",
         "published": "2026-03-01T11:00:10-05:00",
-        "url": "https://www.theverge.com/gadgets/886014/lego-smart-brick-star-wars-set-price-availability-release-date-buy"
-      },
-      {
-        "title": "Soundcore’s Space 2 are an evolution of its budget headphones",
-        "source": "The Verge",
-        "published": "2026-03-01T10:00:00-05:00",
-        "url": "https://www.theverge.com/tech/886180/soundcore-space-2-announcement-mwc-2026"
-      },
-      {
-        "title": "Honor claims its Robot Phone will launch later this year",
-        "source": "The Verge",
-        "published": "2026-03-01T09:22:27-05:00",
-        "url": "https://www.theverge.com/gadgets/887140/honor-robot-phone-mwc-release-date-specs"
-      },
-      {
-        "title": "Resident Evil Requiem leans too much on the series’ past",
-        "source": "The Verge",
-        "published": "2026-03-01T08:00:00-05:00",
-        "url": "https://www.theverge.com/games/885811/resident-evil-requiem-grace-leon-nostalgia-ending"
-      },
-      {
-        "title": "How MLB can make baseball relevant on a fast-changing internet",
-        "source": "The Verge",
-        "published": "2026-03-01T08:00:00-05:00",
-        "url": "https://www.theverge.com/column/886115/how-mlb-can-make-baseball-relevant-on-a-fast-changing-internet"
-      },
-      {
-        "title": "Meta won’t let morality get in the way of a product launch",
-        "source": "The Verge",
-        "published": "2026-03-01T08:00:00-05:00",
-        "url": "https://www.theverge.com/policy/886348/meta-glasses-ice-doxxing-privacy"
-      },
-      {
-        "title": "Honor’s Magic V6 is the first foldable with an IP69 rating",
-        "source": "The Verge",
-        "published": "2026-03-01T08:00:00-05:00",
-        "url": "https://www.theverge.com/tech/887104/honor-magic-v6-thinnest-battery-launch-mwc"
-      },
-      {
-        "title": "Polymarket defends its decision to allow betting on war as ‘invaluable’",
-        "source": "The Verge",
-        "published": "2026-02-28T15:46:35-05:00",
-        "url": "https://www.theverge.com/tech/887040/polymarket-iran-war-betting-invaluable"
-      },
-      {
-        "title": "The Rubin Observatory’s alert system sent 800,000 pings on its first night",
-        "source": "The Verge",
-        "published": "2026-02-28T14:33:51-05:00",
-        "url": "https://www.theverge.com/science/887037/vera-c-rubin-observatory-800000-alerts"
-      },
-      {
-        "title": "You can still grab great deals on Bose headphones and Astro Bot this weekend",
-        "source": "The Verge",
-        "published": "2026-02-28T11:07:14-05:00",
-        "url": "https://www.theverge.com/gadgets/886520/bose-quietcomfort-headphones-samsung-galaxy-s26-ultra-deal-sale"
+        "url": "https://www.theverge.com/gadgets/886014/lego-smart-brick-star-wars-set-price-availability-release-date-buy",
+        "is_priority": false
       }
     ],
     "Automotive/Motorcycle": [
       {
-        "title": "Speak Softly and Carry a Big V-8: 1994 Cadillac Fleetwood on Bring a Trailer",
-        "source": "Latest Content - Car and Driver",
-        "published": "Sun, 01 Mar 2026 16:00:00 +0000",
-        "url": "https://www.caranddriver.com/news/a70515211/1994-cadillac-fleetwood-bring-a-trailer-auction/"
+        "title": "These Are The Longest Range EVs Of 2026",
+        "source": "Jalopnik - Obsessed with the culture of cars",
+        "published": "Sun, 01 Mar 2026 21:45:00 +0000",
+        "url": "https://www.jalopnik.com/2105992/longest-range-evs-2026-ranked/",
+        "is_priority": false
       },
       {
-        "title": "A Close-Up Look at the Air/Water Show in Photos",
-        "source": "Latest Content - Car and Driver",
-        "published": "Sat, 28 Feb 2026 23:03:00 +0000",
-        "url": "https://www.caranddriver.com/photos/g70554026/close-up-look-at-air-water-show-gallery/"
+        "title": "Budget-focused electric bike maker set to go public with IPO",
+        "source": "Electrek",
+        "published": "Sun, 01 Mar 2026 21:37:00 +0000",
+        "url": "https://electrek.co/2026/03/01/budget-focused-electric-bike-maker-set-to-go-public-with-ipo/",
+        "is_priority": false
       },
       {
-        "title": "Attention Porsche Fanatics: The Air/Water Show Returns to California in April",
-        "source": "Latest Content - Car and Driver",
-        "published": "Sat, 28 Feb 2026 23:00:00 +0000",
-        "url": "https://www.caranddriver.com/news/a70540684/porsche-air-water-show-california-april/"
+        "title": "Bruce Springsteen Has An Extensive Car Collection, But There's Only One European Model In The Bunch",
+        "source": "Jalopnik - Obsessed with the culture of cars",
+        "published": "Sun, 01 Mar 2026 21:25:00 +0000",
+        "url": "https://www.jalopnik.com/2111473/bruce-springsteen-car-collection-european-model-range-rover-l322/",
+        "is_priority": false
       },
       {
-        "title": "Your Guide to Buying a New Electric Vehicle in 2026",
-        "source": "Latest Content - Car and Driver",
-        "published": "Sat, 28 Feb 2026 21:11:00 +0000",
-        "url": "https://www.caranddriver.com/shopping-advice/a65603699/new-electric-vehicle-buyers-guide/"
+        "title": "Van Life Isn't Cheap Anymore: Here's What It Can Cost Today",
+        "source": "Jalopnik - Obsessed with the culture of cars",
+        "published": "Sun, 01 Mar 2026 21:05:00 +0000",
+        "url": "https://www.jalopnik.com/2111425/van-life-costs/",
+        "is_priority": false
       },
       {
-        "title": "Two Racing Pettys Signed This 1992 Pontiac Grand Prix for Sale on Bring a Trailer",
+        "title": "Chinese SUV Beats Lexus GX, Toyota Land Cruiser In Off-Road Test",
+        "source": "Jalopnik - Obsessed with the culture of cars",
+        "published": "Sun, 01 Mar 2026 20:25:00 +0000",
+        "url": "https://www.jalopnik.com/2111136/gwm-tank-chinese-suv-beats-lexus-gx-toyota-land-cruiser-off-road-test/",
+        "is_priority": false
+      },
+      {
+        "title": "Mr. Rogers Once Dedicated An Episode To A Car Show Because He Was The Best",
+        "source": "Jalopnik - Obsessed with the culture of cars",
+        "published": "Sun, 01 Mar 2026 20:05:00 +0000",
+        "url": "https://www.jalopnik.com/2110354/mr-rogers-car-show-episode/",
+        "is_priority": false
+      },
+      {
+        "title": "IndyCar is Still the Alex Palou Show, Defending Champion Opens Season with Win at St. Pete",
+        "source": "Latest Content - Road & Track",
+        "published": "Sun, 01 Mar 2026 19:51:00 +0000",
+        "url": "https://www.roadandtrack.com/news/a70563120/indycar-alex-palou-defending-champion-opens-season-win-st-pete/",
+        "is_priority": false
+      },
+      {
+        "title": "Charles Leclerc Drives 1957 Ferrari 250 Testa Rossa as Getaway Car Following His Wedding in Monaco",
+        "source": "Latest Content - Road & Track",
+        "published": "Sun, 01 Mar 2026 18:50:00 +0000",
+        "url": "https://www.roadandtrack.com/news/a70550153/charles-leclerc-drives-1957-ferrari-250-testa-rossa-getaway-car-wedding-monaco/",
+        "is_priority": false
+      },
+      {
+        "title": "AMC Canceled The First Car With An Onboard Computer At The 11th Hour",
+        "source": "Jalopnik - Obsessed with the culture of cars",
+        "published": "Sun, 01 Mar 2026 18:05:00 +0000",
+        "url": "https://www.jalopnik.com/2110832/cars-have-had-computers-for-longer-than-you-think/",
+        "is_priority": false
+      },
+      {
+        "title": "Mick Schumacher's IndyCar Debut Ends on Lap One",
+        "source": "Latest Content - Road & Track",
+        "published": "Sun, 01 Mar 2026 18:01:00 +0000",
+        "url": "https://www.roadandtrack.com/news/a70562413/mick-schumachers-indycar-debut-ends-lap-one/",
+        "is_priority": false
+      },
+      {
+        "title": "Tesla increases Cybertruck AWD price to $70,000 after creating artificial urgency",
+        "source": "Electrek",
+        "published": "Sun, 01 Mar 2026 17:38:24 +0000",
+        "url": "https://electrek.co/2026/03/01/tesla-cybertruck-awd-price-increase-70000-artificial-urgency/",
+        "is_priority": false
+      },
+      {
+        "title": "See the 2026 Mercedes-AMG S63 E Performance on a California Road Trip",
         "source": "Latest Content - Car and Driver",
-        "published": "Sat, 28 Feb 2026 16:00:00 +0000",
-        "url": "https://www.caranddriver.com/news/a70501112/1992-pontiac-grand-prix-bring-a-trailer-auction/"
+        "published": "Sun, 01 Mar 2026 17:30:00 +0000",
+        "url": "https://www.caranddriver.com/photos/g70515568/2026-mercedes-amg-s63-road-trip-gallery/",
+        "is_priority": false
+      },
+      {
+        "title": "A Good Luxury Car Nullifies the Stress of Being on the Road",
+        "source": "Latest Content - Car and Driver",
+        "published": "Sun, 01 Mar 2026 17:30:00 +0000",
+        "url": "https://www.caranddriver.com/features/a70514867/2026-mercedes-amg-s63-california-road-trip/",
+        "is_priority": false
+      },
+      {
+        "title": "Why Do Harley-Davidson Motorcycles Have Such A Distinct Sound?",
+        "source": "Jalopnik - Obsessed with the culture of cars",
+        "published": "Sun, 01 Mar 2026 17:25:00 +0000",
+        "url": "https://www.jalopnik.com/2110822/why-do-harley-davidson-motorcycles-have-distinct-sound/",
+        "is_priority": false
+      },
+      {
+        "title": "Hell Yeah: GTA Online Has A Kei Truck Now",
+        "source": "Motor1.com - News",
+        "published": "Sun, 01 Mar 2026 17:00:00 +0000",
+        "url": "https://www.motor1.com/news/788579/gta-online-adds-kei-truck-drift-update/",
+        "is_priority": false
       }
     ],
     "Portugal": [
       {
-        "title": "The Door is Always Ajar",
-        "source": "The Portugal News",
-        "published": "Sun, 01 Mar 2026 16:32:00 +0000",
-        "url": "https://www.theportugalnews.com/news/2026-03-01/the-door-is-always-ajar/983967"
+        "title": "Portugal conquista seis títulos no Mundial de Remo Indoor Virtual",
+        "source": "dn",
+        "published": "Sun, 01 Mar 2026 21:32:32 +0000",
+        "url": "https://www.dn.pt/desporto/portugal-conquista-seis-ttulos-no-mundial-de-remo-indoor-virtual",
+        "is_priority": true
       },
       {
-        "title": "Community, Friendship, and Being Together: St Vincent’s Praia da Luz",
-        "source": "The Portugal News",
-        "published": "Sun, 01 Mar 2026 16:21:00 +0000",
-        "url": "https://www.theportugalnews.com/news/2026-03-01/community-friendship-and-being-together-st-vincents-praia-da-luz/983951"
+        "title": "E o \"day after\"?",
+        "source": "Jornal de Negocios",
+        "published": "Sun, 01 Mar 2026 21:30:00 Z",
+        "url": "https://www.jornaldenegocios.pt/opiniao/colunistas/camilo-lourenco/detalhe/e-o-day-after",
+        "is_priority": true
       },
       {
-        "title": "Portuguese economy grew in 2025",
-        "source": "The Portugal News",
-        "published": "Sun, 01 Mar 2026 16:03:00 +0000",
-        "url": "https://www.theportugalnews.com/news/2026-03-01/portuguese-economy-grew-in-2025/982858"
+        "title": "Apesar das contas, bolsa de Lisboa tem melhor mês em mais de três anos",
+        "source": "Jornal de Negocios",
+        "published": "Sun, 01 Mar 2026 21:29:00 Z",
+        "url": "https://www.jornaldenegocios.pt/mercados/bolsa/detalhe/apesar-das-contas-bolsa-de-lisboa-tem-melhor-mes-em-mais-de-tres-anos",
+        "is_priority": true
       },
       {
-        "title": "Portuguese scientist investigating male infertility",
-        "source": "The Portugal News",
-        "published": "Sun, 01 Mar 2026 15:03:00 +0000",
-        "url": "https://www.theportugalnews.com/news/2026-03-01/portuguese-scientist-investigating-male-infertility/982520"
+        "title": "Corina Machado volta à Venezuela dentro de \"semanas\"",
+        "source": "Observador - Últimas",
+        "published": "Sun, 01 Mar 2026 21:23:44 +0000",
+        "url": "https://observador.pt/2026/03/01/lider-da-oposicao-corina-machado-promete-regressar-a-venezuela-dentro-de-semanas/",
+        "is_priority": true
       },
       {
-        "title": "Is your snoring a sign of something more serious?",
+        "title": "Três militares norte-americanos mortos e cinco feridos",
+        "source": "Observador - Últimas",
+        "published": "Sun, 01 Mar 2026 21:20:14 +0000",
+        "url": "https://observador.pt/2026/03/01/tres-militares-norte-americanos-mortos-em-operacoes-contra-o-irao-cinco-gravemente-feridos/",
+        "is_priority": true
+      },
+      {
+        "title": "Intervenção militar no Irão pode demorar cerca de quatro semanas, diz Trump",
+        "source": "Jornal de Negocios",
+        "published": "Sun, 01 Mar 2026 21:17:00 Z",
+        "url": "https://www.jornaldenegocios.pt/economia/mundo/detalhe/eua-e-israel-lancam-ofensiva-contra-irao-governo-portugues-acompanha-ao-minuto",
+        "is_priority": true
+      },
+      {
+        "title": "21h. Morte de Ali Khamenei traz esperança aos iranianos",
+        "source": "Observador - Últimas",
+        "published": "Sun, 01 Mar 2026 21:13:49 +0000",
+        "url": "https://observador.pt/programas/noticiario/as-noticias-das-20h-1862/",
+        "is_priority": true
+      },
+      {
+        "title": "Mau tempo: Apoios a fundo perdido? \"Sem dúvida\", diz setor agroalimentar",
+        "source": "Jornal de Negocios",
+        "published": "Sun, 01 Mar 2026 21:03:00 Z",
+        "url": "https://www.jornaldenegocios.pt/empresas/agricultura-e-pescas/detalhe/mau-tempo-apoios-a-fundo-perdido-sem-duvida-diz-setor-agroalimentar",
+        "is_priority": true
+      },
+      {
+        "title": "Fotos de satélite mostram destruição em bases iranianas (fotogaleria)",
+        "source": "dn",
+        "published": "Sun, 01 Mar 2026 20:59:48 +0000",
+        "url": "https://www.dn.pt/internacional/fotos-de-satlite-mostram-destruio-em-bases-iranianas-fotogaleria",
+        "is_priority": true
+      },
+      {
+        "title": "Historical Figures of Portugal: Queen Isabel of Portugal",
         "source": "The Portugal News",
-        "published": "Sun, 01 Mar 2026 14:50:00 +0000",
-        "url": "https://www.theportugalnews.com/news/2026-03-01/is-your-snoring-a-sign-of-something-more-serious/982809"
+        "published": "Sun, 01 Mar 2026 20:10:00 +0000",
+        "url": "https://www.theportugalnews.com/news/2026-03-01/historical-figures-of-portugal-queen-isabel-of-portugal/983844",
+        "is_priority": false
+      },
+      {
+        "title": "AIMA receives 2025 Digital Transformation Award",
+        "source": "The Portugal News",
+        "published": "Sun, 01 Mar 2026 20:03:00 +0000",
+        "url": "https://www.theportugalnews.com/news/2026-03-01/aima-receives-2025-digital-transformation-award/982969",
+        "is_priority": false
+      },
+      {
+        "title": "Overnight stays decrease registered",
+        "source": "The Portugal News",
+        "published": "Sun, 01 Mar 2026 19:03:00 +0000",
+        "url": "https://www.theportugalnews.com/news/2026-03-01/overnight-stays-decrease-registered/982922",
+        "is_priority": false
+      },
+      {
+        "title": "Portuguese real estate enters a new cycle",
+        "source": "The Portugal News",
+        "published": "Sun, 01 Mar 2026 18:01:00 +0000",
+        "url": "https://www.theportugalnews.com/news/2026-03-01/portuguese-real-estate-enters-a-new-cycle/983323",
+        "is_priority": false
+      },
+      {
+        "title": "Podence Street Art",
+        "source": "The Portugal News",
+        "published": "Sun, 01 Mar 2026 17:31:00 +0000",
+        "url": "https://www.theportugalnews.com/news/2026-03-01/podence-street-art/983828",
+        "is_priority": false
+      },
+      {
+        "title": "Emergency rooms closing in Portugal",
+        "source": "The Portugal News",
+        "published": "Sun, 01 Mar 2026 17:03:00 +0000",
+        "url": "https://www.theportugalnews.com/news/2026-03-01/emergency-rooms-closing-in-portugal/982524",
+        "is_priority": false
       }
     ]
   }

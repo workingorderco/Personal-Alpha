@@ -1,7 +1,19 @@
 {
-  "built_at": "2026-03-01T16:13:26.123953+00:00",
+  "built_at": "2026-03-01T17:01:14.869667+00:00",
   "sections": {
     "Finance": [
+      {
+        "title": "Stocks face Iran jitters and a crucial jobs report in the week ahead as AI layoffs loom large",
+        "source": "MarketWatch.com - Top Stories",
+        "published": "Sun, 01 Mar 2026 17:00:00 GMT",
+        "url": "https://www.marketwatch.com/story/stocks-face-iran-jitters-and-a-crucial-jobs-report-in-the-week-ahead-as-ai-layoffs-loom-large-5da09c93?mod=mw_rss_topstories"
+      },
+      {
+        "title": "My brother is paranoid, alone and has forgotten that he sold his house. How can we help?",
+        "source": "MarketWatch.com - Top Stories",
+        "published": "Sun, 01 Mar 2026 16:30:00 GMT",
+        "url": "https://www.marketwatch.com/story/my-sister-and-i-are-his-only-family-my-brother-is-paranoid-and-forgot-he-sold-his-house-what-can-i-do-006a8d3a?mod=mw_rss_topstories"
+      },
       {
         "title": "‘I have a legal and a moral question’: My dad left when I was 9, reconnected with me in my 50s and now needs money. What do I owe him?",
         "source": "MarketWatch.com - Top Stories",
@@ -19,18 +31,6 @@
         "source": "MarketWatch.com - Top Stories",
         "published": "Sun, 01 Mar 2026 15:31:00 GMT",
         "url": "https://www.marketwatch.com/story/heres-how-much-you-could-pay-for-a-gallon-of-gas-by-may-because-of-the-attacks-on-iran-e12e976f?mod=mw_rss_topstories"
-      },
-      {
-        "title": "Has the retail industry rebounded? We’ll find out this week from Target, Costco, Best Buy and others’ earnings",
-        "source": "MarketWatch.com - Top Stories",
-        "published": "Sun, 01 Mar 2026 15:00:00 GMT",
-        "url": "https://www.marketwatch.com/story/has-the-retail-industry-rebounded-well-find-out-this-week-from-target-costco-best-buy-and-others-earnings-4ea65430?mod=mw_rss_topstories"
-      },
-      {
-        "title": "Iran conflict risks Strait of Hormuz standstill and sparks talk of $100-a-barrel oil",
-        "source": "MarketWatch.com - Top Stories",
-        "published": "Sun, 01 Mar 2026 14:23:00 GMT",
-        "url": "https://www.marketwatch.com/story/iran-conflict-raises-talk-of-a-return-to-100-a-barrel-oil-63bbc1b3?mod=mw_rss_topstories"
       }
     ],
     "World News": [
@@ -43,7 +43,7 @@
       {
         "title": "Nine dead in missile attack on Israel as Iran strikes region",
         "source": "BBC News",
-        "published": "Sun, 01 Mar 2026 14:56:21 GMT",
+        "published": "Sun, 01 Mar 2026 16:55:57 GMT",
         "url": "https://www.bbc.com/news/articles/c363zkp1pgxo?at_medium=RSS&at_campaign=rss"
       },
       {
@@ -161,6 +161,24 @@
     ],
     "Portugal": [
       {
+        "title": "The Door is Always Ajar",
+        "source": "The Portugal News",
+        "published": "Sun, 01 Mar 2026 16:32:00 +0000",
+        "url": "https://www.theportugalnews.com/news/2026-03-01/the-door-is-always-ajar/983967"
+      },
+      {
+        "title": "Community, Friendship, and Being Together: St Vincent’s Praia da Luz",
+        "source": "The Portugal News",
+        "published": "Sun, 01 Mar 2026 16:21:00 +0000",
+        "url": "https://www.theportugalnews.com/news/2026-03-01/community-friendship-and-being-together-st-vincents-praia-da-luz/983951"
+      },
+      {
+        "title": "Portuguese economy grew in 2025",
+        "source": "The Portugal News",
+        "published": "Sun, 01 Mar 2026 16:03:00 +0000",
+        "url": "https://www.theportugalnews.com/news/2026-03-01/portuguese-economy-grew-in-2025/982858"
+      },
+      {
         "title": "Portuguese scientist investigating male infertility",
         "source": "The Portugal News",
         "published": "Sun, 01 Mar 2026 15:03:00 +0000",
@@ -171,24 +189,6 @@
         "source": "The Portugal News",
         "published": "Sun, 01 Mar 2026 14:50:00 +0000",
         "url": "https://www.theportugalnews.com/news/2026-03-01/is-your-snoring-a-sign-of-something-more-serious/982809"
-      },
-      {
-        "title": "Riverside atmosphere in Portimão in the Algarve",
-        "source": "The Portugal News",
-        "published": "Sun, 01 Mar 2026 14:31:00 +0000",
-        "url": "https://www.theportugalnews.com/news/2026-03-01/riverside-atmosphere-in-portimao-in-the-algarve/983537"
-      },
-      {
-        "title": "Portugal on the digital podium... but the transformation is not over yet",
-        "source": "The Portugal News",
-        "published": "Sun, 01 Mar 2026 14:01:00 +0000",
-        "url": "https://www.theportugalnews.com/news/2026-03-01/portugal-on-the-digital-podium-but-the-transformation-is-not-over-yet/981746"
-      },
-      {
-        "title": "A woof away from the wolves...",
-        "source": "The Portugal News",
-        "published": "Sun, 01 Mar 2026 13:04:00 +0000",
-        "url": "https://www.theportugalnews.com/news/2026-03-01/a-woof-away-from-the-wolves/982375"
       }
     ]
   }

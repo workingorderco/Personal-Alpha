@@ -28,26 +28,29 @@ log = logging.getLogger(__name__)
 # ---------------------------------------------------------------------------
 RSS_FEEDS = {
     'Finance': [
-        'https://feeds.content.dowjones.io/public/rss/mw_topstories',
-        'https://rss.nytimes.com/services/xml/rss/nyt/Business.xml',
+        'https://feeds.content.dowjones.io/public/rss/mw_topstories',  # MarketWatch
+        'https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114',  # CNBC Markets
+        'https://feeds.bloomberg.com/markets/news.rss',  # Bloomberg Markets
     ],
     'World News': [
-        'http://feeds.bbci.co.uk/news/world/rss.xml',
-        'https://feeds.npr.org/1004/rss.xml',
+        'http://feeds.bbci.co.uk/news/world/rss.xml',  # BBC World
+        'https://www.aljazeera.com/xml/rss/all.xml',  # Al Jazeera
     ],
     'Tech': [
-        'https://www.theverge.com/rss/index.xml',
-        'https://www.wired.com/feed/rss',
-        'https://hnrss.org/frontpage',
+        'https://www.theverge.com/rss/index.xml',  # The Verge
+        'https://www.wired.com/feed/rss',  # Wired
+        'https://sifted.eu/feed/',  # Sifted (EU startup scene)
+        'https://hnrss.org/frontpage',  # Hacker News
     ],
     'Automotive/Motorcycle': [
-        'https://www.caranddriver.com/rss/all.xml/',
-        'https://www.motorcyclenews.com/feed/',
-        'https://www.visordown.com/feed',
+        'https://www.caranddriver.com/rss/all.xml/',  # Car and Driver
+        'https://www.motorcyclenews.com/feed/',  # MCN
+        'https://www.visordown.com/feed',  # Visordown
     ],
     'Portugal': [
-        'https://www.theportugalnews.com/rss/',
-        'https://www.theportugalresident.com/feed/',
+        'https://www.theportugalnews.com/rss/',  # The Portugal News
+        'https://www.theportugalresident.com/feed/',  # Portugal Resident
+        'https://www.lusa.pt/rss/ultimas/',  # Lusa (national wire)
     ],
 }
 
@@ -118,32 +121,34 @@ def build_prompt(sections: dict) -> str:
             lines.append(f"- {article['title']} ({article['source']})")
     headlines_block = '\n'.join(lines)
 
-    return f"""You are a strategic intelligence analyst briefing a 34-year-old entrepreneur who is starting from €0 capital and building toward financial independence over 6 years.
+    return f"""You are a strategic intelligence analyst briefing Alex, a 34-year-old solopreneur based in Portugal.
+Alex is on a 6-year mission (2026-2032) to grow from €0 to €35,000 in savings and reach financial independence.
+He is building digital skills, exploring solopreneur business models, and tracking global macro trends that affect his journey.
 
-Analyze these today's news headlines and extract maximum actionable value:
+Analyze today's news headlines and extract maximum actionable value for Alex's €0 to €35k wealth journey:
 
 {headlines_block}
 
 Return ONLY valid JSON with NO markdown formatting, NO code blocks, NO extra text. Use exactly this structure:
 {{
-  "global_theme": "One sentence describing the dominant global narrative today.",
-  "market_mood": "Short phrase describing the overall market sentiment (e.g. Cautiously Bullish).",
-  "risk_signal": "The primary risk to watch right now (short phrase).",
-  "opportunity_signal": "The most actionable opportunity visible today (short phrase).",
+  "global_theme": "One sentence describing the dominant global narrative today and its relevance to someone building wealth from scratch in Europe.",
+  "market_mood": "Short phrase describing overall market sentiment (e.g. Cautiously Bullish, Risk-Off, Tech Rotation).",
+  "risk_signal": "The primary macro or financial risk Alex should be aware of right now (short phrase).",
+  "opportunity_signal": "The most actionable opportunity today for a solopreneur building toward €35k (short phrase).",
   "key_points": [
-    "Strategic insight 1 relevant to the entrepreneur, max 25 words.",
-    "Strategic insight 2 relevant to the entrepreneur, max 25 words.",
-    "Strategic insight 3 relevant to the entrepreneur, max 25 words.",
-    "Strategic insight 4 relevant to the entrepreneur, max 25 words.",
-    "Strategic insight 5 relevant to the entrepreneur, max 25 words.",
-    "Strategic insight 6 relevant to the entrepreneur, max 25 words.",
-    "Strategic insight 7 relevant to the entrepreneur, max 25 words.",
-    "Strategic insight 8 relevant to the entrepreneur, max 25 words.",
-    "Strategic insight 9 relevant to the entrepreneur, max 25 words.",
-    "Strategic insight 10 relevant to the entrepreneur, max 25 words."
+    "Insight 1: How today's news affects Alex's €0 to €35k journey. Max 25 words, be specific.",
+    "Insight 2: A market or tech trend Alex can learn from or act on. Max 25 words.",
+    "Insight 3: A Portugal or EU angle relevant to building income or savings. Max 25 words.",
+    "Insight 4: A solopreneur or digital business takeaway from today's headlines. Max 25 words.",
+    "Insight 5: A frugality, saving, or low-cost investing angle. Max 25 words.",
+    "Insight 6: A tech or AI development that could accelerate Alex's skill-building. Max 25 words.",
+    "Insight 7: A global macro signal that affects European cost of living or opportunity. Max 25 words.",
+    "Insight 8: A specific industry or niche showing growth Alex could target. Max 25 words.",
+    "Insight 9: A mindset or strategy insight from today's stories. Max 25 words.",
+    "Insight 10: The single most important thing for Alex to act on today. Max 25 words."
   ],
-  "learning_task": "One specific 30-minute tech skill or concept to study today, directly inspired by today's news.",
-  "biz_opportunity": "One specific solopreneur business gap or niche identified from today's news, with a concrete angle."
+  "learning_task": "One specific 30-minute skill or concept Alex should study today, directly tied to today's news and his €35k goal.",
+  "biz_opportunity": "One concrete solopreneur business gap identified from today's news — include the niche, target customer, and why now."
 }}"""
 
 

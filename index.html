@@ -28,6 +28,13 @@
         .hl-title { font-size: 1.1rem; margin-bottom: 5px; }
         .hl-meta { font-size: 0.75rem; color: var(--dim); text-transform: uppercase; }
 
+        /* News Feed */
+        .section-title { font-family: var(--serif); font-size: 1rem; color: var(--accent); text-transform: uppercase; letter-spacing: 3px; border-bottom: 1px solid #222; padding-bottom: 8px; margin: 35px 0 5px 0; }
+        .headline { display: block; padding: 14px 0; border-bottom: 1px solid #1a1a1a; text-decoration: none; color: inherit; transition: padding-left 0.2s; }
+        .headline:hover { padding-left: 8px; border-bottom-color: var(--accent); }
+        .hl-title { font-size: 1rem; margin-bottom: 5px; line-height: 1.4; }
+        .hl-meta { font-size: 0.7rem; color: var(--dim); text-transform: uppercase; letter-spacing: 1px; }
+
         @media (max-width: 600px) { .alpha-grid { grid-template-columns: 1fr; } }
     </style>
 </head>
@@ -55,26 +62,59 @@
             document.getElementById('countdown').innerText = `${daysRemaining} Days to Mastery (${percent}%)`;
         }
 
+        function fmtDate(str) {
+            try {
+                return new Date(str).toLocaleDateString('en-GB', {
+                    day: 'numeric', month: 'short',
+                    hour: '2-digit', minute: '2-digit'
+                });
+            } catch(e) { return str; }
+        }
+
         async function loadBrief() {
             try {
-                const res = await fetch(`summary.json?v=${Date.now()}`);
-                const data = await res.json();
-                const contentRes = await fetch(`content.json?v=${Date.now()}`);
+                const [summaryRes, contentRes] = await Promise.all([
+                    fetch(`summary.json?v=${Date.now()}`),
+                    fetch(`content.json?v=${Date.now()}`)
+                ]);
+                const data = await summaryRes.json();
                 const news = await contentRes.json();
-                let html = `
+
+                // --- Intelligence Feed: all sections + headlines ---
+                const feedHtml = Object.entries(news.sections).map(([section, articles]) => `
+                    <h2 class="section-title">${section}</h2>
+                    ${articles.map(a => `
+                        <a class="headline" href="${a.url}" target="_blank" rel="noopener noreferrer">
+                            <div class="hl-title">${a.title}</div>
+                            <div class="hl-meta">${a.source}&nbsp;&nbsp;·&nbsp;&nbsp;${fmtDate(a.published)}</div>
+                        </a>`).join('')}
+                `).join('');
+
+                const html = `
                     <h1>The Daily Alpha</h1>
                     <p class="theme">${data.global_theme}</p>
-                    
+
                     <div class="alpha-grid">
-                        <div class="alpha-card"><h3>Tech Learning Task</h3><div class="alpha-content">${data.learning_task || 'Analyze market trends for 30m.'}</div></div>
-                        <div class="alpha-card"><h3>Solopreneur Gap</h3><div class="alpha-content">${data.biz_opportunity || 'Identify a niche in Portugal SaaS.'}</div></div>
+                        <div class="alpha-card">
+                            <h3>Tech Learning Task</h3>
+                            <div class="alpha-content">${data.learning_task || 'Analyze market trends for 30m.'}</div>
+                        </div>
+                        <div class="alpha-card">
+                            <h3>Solopreneur Gap</h3>
+                            <div class="alpha-content">${data.biz_opportunity || 'Identify a niche in Portugal SaaS.'}</div>
+                        </div>
                     </div>
 
-                    <h2 style="color:var(--accent); border-bottom:1px solid #222; padding-bottom:10px;">Strategic Insights</h2>
-                    <ul>${data.key_points.map(p => `<li style="margin-bottom:10px;">${p}</li>`).join('')}</ul>
+                    <h2 class="section-title" style="margin-top:10px;">Strategic Insights</h2>
+                    <ul style="padding-left:20px; margin-bottom:0;">
+                        ${data.key_points.map(p => `<li style="margin-bottom:10px; line-height:1.5;">${p}</li>`).join('')}
+                    </ul>
+
+                    <h2 class="section-title" style="margin-top:40px;">Intelligence Feed &mdash; ${new Date(news.built_at).toLocaleDateString('en-GB',{weekday:'long',day:'numeric',month:'long'})}</h2>
+                    ${feedHtml}
                 `;
                 document.getElementById('content-area').innerHTML = html;
-            } catch (e) { 
+            } catch (e) {
                 document.getElementById('content-area').innerHTML = "Awaiting first automated build...";
             }
         }

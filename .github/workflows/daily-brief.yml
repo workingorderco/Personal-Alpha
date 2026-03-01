@@ -1,0 +1,39 @@
+name: Daily News Briefing
+
+on:
+  schedule:
+    # Runs at 07:05 UTC every day
+    - cron: '5 7 * * *'
+  workflow_dispatch: # Allows manual runs from the "Actions" tab
+
+permissions:
+  contents: write
+
+jobs:
+  build-and-deploy:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout Repository
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+
+      - name: Install Dependencies
+        run: |
+          python -m pip install --upgrade pip
+          pip install -r requirements.txt
+
+      - name: Run Scraper and Summary
+        env:
+          GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
+        run: python build.py
+
+      - name: Commit and Push Changes
+        run: |
+          git config --global user.name "github-actions[bot]"
+          git config --global user.email "github-actions[bot]@users.noreply.github.com"
+          git add content.json summary.json build.log
+          git diff --quiet && git diff --staged --quiet || (git commit -m "Daily brief update: $(date -u)" && git push)

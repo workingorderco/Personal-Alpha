@@ -1,538 +1,538 @@
 {
-  "built_at": "2026-03-02T11:28:48.609105+00:00",
+  "built_at": "2026-03-03T08:06:14.610916+00:00",
   "sections": {
     "Finance": [
       {
-        "title": "Dow futures drop over 500 points as oil prices spike following U.S. attack on Iran: Live updates",
+        "title": "Beiersdorf flags softer 2026 outlook on cost and FX pressures",
+        "source": "All News",
+        "published": "2026-03-03 07:53:33",
+        "url": "https://www.investing.com/news/earnings/beiersdorf-flags-softer-2026-outlook-on-cost-and-fx-pressures-4536901",
+        "is_priority": false
+      },
+      {
+        "title": "Kodal Minerals faces arbitration over Mali payment dispute",
+        "source": "All News",
+        "published": "2026-03-03 07:52:07",
+        "url": "https://www.investing.com/news/company-news/kodal-minerals-faces-arbitration-over-mali-payment-dispute-93CH-4536900",
+        "is_priority": false
+      },
+      {
+        "title": "IWG posts record results, ups buyback to $100 mln",
+        "source": "All News",
+        "published": "2026-03-03 07:50:21",
+        "url": "https://www.investing.com/news/earnings/iwg-posts-record-results-ups-buyback-to-100-mln-4536897",
+        "is_priority": false
+      },
+      {
+        "title": "JPMorgan initiates Once Upon a Farm stock coverage with Overweight rating",
+        "source": "All News",
+        "published": "2026-03-03 07:49:04",
+        "url": "https://www.investing.com/news/analyst-ratings/jpmorgan-initiates-once-upon-a-farm-stock-coverage-with-overweight-rating-93CH-4536896",
+        "is_priority": false
+      },
+      {
+        "title": "RBC Capital initiates Healthcare Services Group stock at Sector Perform",
+        "source": "All News",
+        "published": "2026-03-03 07:49:02",
+        "url": "https://www.investing.com/news/analyst-ratings/rbc-capital-initiates-healthcare-services-group-stock-at-sector-perform-93CH-4536895",
+        "is_priority": false
+      },
+      {
+        "title": "RBC Capital initiates IQVIA Holdings stock at Outperform on trial activity outlook",
+        "source": "All News",
+        "published": "2026-03-03 07:48:54",
+        "url": "https://www.investing.com/news/analyst-ratings/rbc-capital-initiates-iqvia-holdings-stock-at-outperform-on-trial-activity-outlook-93CH-4536893",
+        "is_priority": false
+      },
+      {
+        "title": "At least 42 civilians killed in Afghanistan in conflict with Pakistan, UN agency says",
+        "source": "All News",
+        "published": "2026-03-03 07:48:27",
+        "url": "https://www.investing.com/news/world-news/at-least-42-civilians-killed-in-afghanistan-in-conflict-with-pakistan-un-agency-says-4536833",
+        "is_priority": false
+      },
+      {
+        "title": "Stock futures tumble as traders monitor latest with U.S.-Iran conflict: Live updates",
         "source": "US Top News and Analysis",
-        "published": "Mon, 02 Mar 2026 11:27:09 GMT",
-        "url": "https://www.cnbc.com/2026/03/01/stock-market-today-live-update.html",
+        "published": "Tue, 03 Mar 2026 07:44:22 GMT",
+        "url": "https://www.cnbc.com/2026/03/02/stock-market-today-live-updates.html",
         "is_priority": false
       },
       {
-        "title": "Live updates: Oil seen hitting $80 a barrel as Iran conflict stretches into third day",
+        "title": "Trump says ’sad to see’ US-UK relationship is not what it was",
+        "source": "All News",
+        "published": "2026-03-03 07:42:28",
+        "url": "https://www.investing.com/news/commodities-news/trump-says-sad-to-see-usuk-relationship-is-not-what-it-was-4536892",
+        "is_priority": false
+      },
+      {
+        "title": "Form 4 JBTMarel Corp For: 3 March",
+        "source": "All News",
+        "published": "2026-03-03 07:42:22",
+        "url": "https://www.investing.com/news/filings/form-4-jbtmarel-corp-for-3-march-93CH-4536891",
+        "is_priority": false
+      },
+      {
+        "title": "South Korea's Kospi sees worst day in 19 months amid broader decline in Asia markets",
         "source": "US Top News and Analysis",
-        "published": "Mon, 02 Mar 2026 11:23:01 GMT",
-        "url": "https://www.cnbc.com/2026/03/02/us-iran-live-updates-trump-oil-gold.html",
+        "published": "Tue, 03 Mar 2026 07:42:04 GMT",
+        "url": "https://www.cnbc.com/2026/03/03/asia-markets-live-iran-oil-trump-nikkei-kospi-hang-seng.html",
         "is_priority": false
       },
       {
-        "title": "Truist cuts Progyny stock price target on covered lives miss",
+        "title": "Iran war live updates: U.S. embassy in Riyadh hit by drones, Trump promises response 'soon'",
+        "source": "US Top News and Analysis",
+        "published": "Tue, 03 Mar 2026 07:41:54 GMT",
+        "url": "https://www.cnbc.com/2026/03/03/us-iran-war-live-updates.html",
+        "is_priority": false
+      },
+      {
+        "title": "Kier Group launches £25m share buyback program",
         "source": "All News",
-        "published": "2026-03-02 11:17:20",
-        "url": "https://www.investing.com/news/analyst-ratings/truist-cuts-progyny-stock-price-target-on-covered-lives-miss-93CH-4534082",
+        "published": "2026-03-03 07:41:43",
+        "url": "https://www.investing.com/news/company-news/kier-group-launches-25m-share-buyback-program-93CH-4536890",
         "is_priority": false
       },
       {
-        "title": "Stifel raises Micron stock price target on memory pricing strength",
-        "source": "All News",
-        "published": "2026-03-02 11:17:11",
-        "url": "https://www.investing.com/news/analyst-ratings/stifel-raises-micron-stock-price-target-on-memory-pricing-strength-93CH-4534081",
-        "is_priority": false
-      },
-      {
-        "title": "Citizens reiterates Roku stock rating on OEM partnerships, TV strategy",
-        "source": "All News",
-        "published": "2026-03-02 11:17:10",
-        "url": "https://www.investing.com/news/analyst-ratings/citizens-reiterates-roku-stock-rating-on-oem-partnerships-tv-strategy-93CH-4534080",
-        "is_priority": false
-      },
-      {
-        "title": "Evercore ISI initiates Bob’s Discount Furniture stock at Outperform",
-        "source": "All News",
-        "published": "2026-03-02 11:17:04",
-        "url": "https://www.investing.com/news/analyst-ratings/evercore-isi-initiates-bobs-discount-furniture-stock-at-outperform-93CH-4534079",
-        "is_priority": false
-      },
-      {
-        "title": "Jefferies sees defense spending boost, airline pressure from Iran strikes",
-        "source": "All News",
-        "published": "2026-03-02 11:17:03",
-        "url": "https://www.investing.com/news/analyst-ratings/jefferies-sees-defense-spending-boost-airline-pressure-from-iran-strikes-93CH-4534078",
-        "is_priority": false
-      },
-      {
-        "title": "Arcellx stock rating cut to Hold by TD Cowen on Gilead deal",
-        "source": "All News",
-        "published": "2026-03-02 11:17:03",
-        "url": "https://www.investing.com/news/analyst-ratings/arcellx-stock-rating-cut-to-hold-by-td-cowen-on-gilead-deal-93CH-4534077",
-        "is_priority": false
-      },
-      {
-        "title": "Goldman adds ConocoPhillips and Loar Holdings stock to conviction list",
-        "source": "All News",
-        "published": "2026-03-02 11:17:02",
-        "url": "https://www.investing.com/news/analyst-ratings/goldman-adds-conocophillips-and-loar-holdings-stock-to-conviction-list-93CH-4534076",
-        "is_priority": false
-      },
-      {
-        "title": "Citizens reiterates Docusign stock rating on AI opportunity and market position",
-        "source": "All News",
-        "published": "2026-03-02 11:17:02",
-        "url": "https://www.investing.com/news/analyst-ratings/citizens-reiterates-docusign-stock-rating-on-ai-opportunity-and-market-position-93CH-4534075",
-        "is_priority": false
-      },
-      {
-        "title": "Wolfe Research raises MasTec stock price target on strong results",
-        "source": "All News",
-        "published": "2026-03-02 11:17:01",
-        "url": "https://www.investing.com/news/analyst-ratings/wolfe-research-raises-mastec-stock-price-target-on-strong-results-93CH-4534074",
-        "is_priority": false
-      },
-      {
-        "title": "Byline Bancorp head of CRE sells $145,775 in stock",
-        "source": "All News",
-        "published": "2026-03-02 11:16:14",
-        "url": "https://www.investing.com/news/insider-trading-news/byline-bancorp-head-of-cre-sells-145775-in-stock-93CH-4534069",
-        "is_priority": false
-      },
-      {
-        "title": "Stocks Sell Off as US Attack on Iran Drives Oil Prices Higher",
+        "title": "AlFaisal: Provocative Step by Iran to Get GCC Response",
         "source": "Bloomberg Markets",
-        "published": "Mon, 02 Mar 2026 11:14:13 GMT",
-        "url": "https://www.bloomberg.com/news/newsletters/2026-03-02/stocks-sell-off-as-us-attack-on-iran-drives-oil-prices-higher",
+        "published": "Tue, 03 Mar 2026 07:36:35 GMT",
+        "url": "https://www.bloomberg.com/news/videos/2026-03-03/alfaisal-provocative-step-by-iran-to-get-gcc-response-video",
         "is_priority": false
       },
       {
-        "title": "Analysis-South Bow plan to revive parts of Keystone XL needs Trump approval, US oil pipeline links",
-        "source": "Yahoo Finance",
-        "published": "2026-03-02T11:08:31Z",
-        "url": "https://finance.yahoo.com/news/analysis-south-bow-plan-revive-110330802.html",
-        "is_priority": false
-      },
-      {
-        "title": "Iran Conflict Disrupts Global Air Travel",
-        "source": "Bloomberg Markets",
-        "published": "Mon, 02 Mar 2026 11:07:30 GMT",
-        "url": "https://www.bloomberg.com/news/videos/2026-03-02/iran-conflict-disrupts-global-air-travel-video",
+        "title": "South Korea defense stocks soar with heavyweight Hanwha Aerospace surging 20% as traders react to Iran war",
+        "source": "US Top News and Analysis",
+        "published": "Tue, 03 Mar 2026 07:34:06 GMT",
+        "url": "https://www.cnbc.com/2026/03/03/south-korea-defense-stocks-soar-hanwha-aerospace-iran-us-israel-war.html",
         "is_priority": false
       }
     ],
     "World News": [
       {
-        "title": "Live Updates: Mideast Conflict Widens Across Multiple Fronts",
+        "title": "Why Frankenstein should win the best picture Oscar",
+        "source": "The Guardian",
+        "published": "Tue, 03 Mar 2026 08:00:33 GMT",
+        "url": "https://www.theguardian.com/film/2026/mar/03/why-frankenstein-should-win-the-best-picture-oscar",
+        "is_priority": false
+      },
+      {
+        "title": "My sexual freedom odyssey: what ancient African wisdom can teach us about pleasure today",
+        "source": "The Guardian",
+        "published": "Tue, 03 Mar 2026 08:00:33 GMT",
+        "url": "https://www.theguardian.com/global-development/2026/mar/03/sexual-freedom-ancient-african-wisdom-teach-us-about-pleasure-today-nana-darkoa-sekyiama",
+        "is_priority": false
+      },
+      {
+        "title": "Minorities in adverts are menaced, footballers observing Ramadan are booed. Is this the Britain we want? | Jason Okundaye",
+        "source": "The Guardian",
+        "published": "Tue, 03 Mar 2026 08:00:33 GMT",
+        "url": "https://www.theguardian.com/commentisfree/2026/mar/03/minorities-adverts-menaced-footballers-observing-ramadan-booed-britain",
+        "is_priority": false
+      },
+      {
+        "title": "Here’s the latest.",
         "source": "NYT > World News",
-        "published": "Mon, 02 Mar 2026 11:26:06 +0000",
+        "published": "Tue, 03 Mar 2026 07:51:30 +0000",
+        "url": "https://www.nytimes.com/live/2026/03/03/world/iran-war-israel-lebanon-trump/heres-the-latest",
+        "is_priority": false
+      },
+      {
+        "title": "Spring forecast: Rachel Reeves to insist government has ‘right economic plan’, as Middle East crisis threatens inflation spike – live updates",
+        "source": "World news | The Guardian",
+        "published": "Tue, 03 Mar 2026 07:48:44 GMT",
+        "url": "https://www.theguardian.com/business/live/2026/mar/03/spring-forecast-rachel-reeves-statement-economic-plan-obr-oil-gas-stock-markets-live-updates",
+        "is_priority": false
+      },
+      {
+        "title": "Middle East crisis live: Israel launches fresh attacks on Tehran and Beirut",
+        "source": "World news | The Guardian",
+        "published": "Tue, 03 Mar 2026 07:44:44 GMT",
+        "url": "https://www.theguardian.com/world/live/2026/mar/03/us-israel-war-iran-live-updates-attacks-strikes-trump-netanyahu-lebanon-middle-east-latest-news",
+        "is_priority": false
+      },
+      {
+        "title": "UAE and Qatar to cover hotel and meal costs for those stranded in country during Iran attacks",
+        "source": "News | Euronews RSS",
+        "published": "Tue, 03 Mar 2026 08:43:21 +0100",
+        "url": "http://www.euronews.com/2026/03/03/uae-to-cover-hotel-and-meal-costs-for-those-stranded-in-country-during-iran-attacks",
+        "is_priority": false
+      },
+      {
+        "title": "Australia news live: Kyle and Jackie O’s breakfast radio show on Kiis taken off-air effective immediately",
+        "source": "World news | The Guardian",
+        "published": "Tue, 03 Mar 2026 07:42:10 GMT",
+        "url": "https://www.theguardian.com/australia-news/live/2026/mar/03/australia-politics-live-anthony-albanese-mark-carney-iran-parliament-question-time-angus-taylor-pauline-hanson-jim-chalmers-rba-interest-rates-cost-of-living-inflation-ntwnfb",
+        "is_priority": false
+      },
+      {
+        "title": "Police improperly granted Kelly Wilkinson’s estranged husband bail days before he murdered her, inquest hears",
+        "source": "World news | The Guardian",
+        "published": "Tue, 03 Mar 2026 07:33:34 GMT",
+        "url": "https://www.theguardian.com/australia-news/2026/mar/03/kelly-wilkinson-murder-inquest-estranged-husband-bail-ntwnfb",
+        "is_priority": false
+      },
+      {
+        "title": "Isaac Herzog held secret meeting with Asio boss during Australia trip, intelligence agency confirms",
+        "source": "World news | The Guardian",
+        "published": "Tue, 03 Mar 2026 07:32:14 GMT",
+        "url": "https://www.theguardian.com/australia-news/2026/mar/03/isaac-herzog-israeli-president-asio-meeting-australia-visit-ntwnfb",
+        "is_priority": false
+      },
+      {
+        "title": "Lucy Letby case expert witness was under fitness to practise investigation during trial",
+        "source": "World news | The Guardian",
+        "published": "Tue, 03 Mar 2026 07:30:32 GMT",
+        "url": "https://www.theguardian.com/uk-news/2026/mar/03/lucy-letby-case-expert-witness-peter-hindmarsh-was-under-fitness-to-practise-investigation-during-trial",
+        "is_priority": false
+      },
+      {
+        "title": "Building collapses in southern Lebanon after Israeli strike targets Hezbollah-linked institution",
+        "source": "News | Euronews RSS",
+        "published": "Tue, 03 Mar 2026 08:22:57 +0100",
+        "url": "http://www.euronews.com/video/2026/03/03/building-collapses-in-southern-lebanon-after-israeli-strike-targets-hezbollah-linked-insti",
+        "is_priority": false
+      },
+      {
+        "title": "US claims destroyed IRGC command centre, more Israel attacks on Tehran",
+        "source": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
+        "published": "Tue, 03 Mar 2026 07:11:10 +0000",
+        "url": "https://www.aljazeera.com/news/2026/3/3/us-claims-destroyed-irgc-command-centre-more-israel-attacks-on-tehran?traffic_source=rss",
+        "is_priority": false
+      },
+      {
+        "title": "Iran Escalates Retaliatory Strikes as U.S. Signals Long Battle",
+        "source": "NYT > World News",
+        "published": "Tue, 03 Mar 2026 07:02:38 +0000",
         "url": "https://www.nytimes.com/live/2026/03/02/world/iran-us-israel-attack-trump",
         "is_priority": false
       },
       {
-        "title": "Deadly Texas bar shooting 'potentially act of terrorism', FBI says",
-        "source": "BBC News",
-        "published": "Mon, 02 Mar 2026 11:24:48 GMT",
-        "url": "https://www.bbc.com/news/articles/cgjznzgly0po?at_medium=RSS&at_campaign=rss",
-        "is_priority": false
-      },
-      {
-        "title": "RAF airbase in Cyprus hit as Cooper defends decision to allow US to use UK bases for Iran strikes – UK politics live",
-        "source": "World news | The Guardian",
-        "published": "Mon, 02 Mar 2026 11:08:09 GMT",
-        "url": "https://www.theguardian.com/politics/live/2026/mar/02/raf-cyprus-yvette-cooper-keir-starmer-us-iran-israel-uk-politics-latest-news",
-        "is_priority": false
-      },
-      {
-        "title": "After Attack on Iran by the U.S. and Israel, See Photos and Videos From the Middle East",
-        "source": "NYT > World News",
-        "published": "Mon, 02 Mar 2026 11:08:02 +0000",
-        "url": "https://www.nytimes.com/2026/02/28/world/middleeast/iran-israel-trump-attack-photos.html",
-        "is_priority": false
-      },
-      {
-        "title": "Democrats thrown into disarray as US offensive on Iran creates cracks",
-        "source": "World news | The Guardian",
-        "published": "Mon, 02 Mar 2026 11:00:10 GMT",
-        "url": "https://www.theguardian.com/us-news/2026/mar/02/democrats-divided-iran-trump",
-        "is_priority": false
-      },
-      {
-        "title": "The UK has arrested high-profile figures connected to Jeffrey Epstein. Will the US?",
+        "title": "Want to go skiing in Switzerland without breaking the bank? Here’s where to go …",
         "source": "The Guardian",
-        "published": "Mon, 02 Mar 2026 11:00:10 GMT",
-        "url": "https://www.theguardian.com/us-news/2026/mar/02/jeffrey-epstein-uk-us-arrests",
-        "is_priority": false
-      },
-      {
-        "title": "No one can predict how the war with Iran will unfold | Rajan Menon and Dan DePetris",
-        "source": "The Guardian",
-        "published": "Mon, 02 Mar 2026 11:00:10 GMT",
-        "url": "https://www.theguardian.com/commentisfree/2026/mar/02/us-trump-iran-war",
-        "is_priority": false
-      },
-      {
-        "title": "I’m on the Meta Oversight Board. We need AI protections now | Suzanne Nossel",
-        "source": "The Guardian",
-        "published": "Mon, 02 Mar 2026 11:00:09 GMT",
-        "url": "https://www.theguardian.com/commentisfree/2026/mar/02/meta-oversight-board-ai",
-        "is_priority": false
-      },
-      {
-        "title": "Why are British estate agents so weird online? | Emma Beddington",
-        "source": "The Guardian",
-        "published": "Mon, 02 Mar 2026 11:00:09 GMT",
-        "url": "https://www.theguardian.com/commentisfree/2026/mar/02/why-are-british-estate-agents-so-weird-online",
-        "is_priority": false
-      },
-      {
-        "title": "As measles spreads in South Carolina, RFK Jr’s allies work to gut vaccine laws",
-        "source": "World news | The Guardian",
-        "published": "Mon, 02 Mar 2026 11:00:08 GMT",
-        "url": "https://www.theguardian.com/us-news/2026/mar/02/measles-south-carolina-rfk-jr-vaccine-laws",
-        "is_priority": false
-      },
-      {
-        "title": "There’s a lot to hate about AI. But what if there was a mindful way to use it?",
-        "source": "The Guardian",
-        "published": "Mon, 02 Mar 2026 11:00:08 GMT",
-        "url": "https://www.theguardian.com/lifeandstyle/ng-interactive/2026/mar/02/how-to-use-ai-practically",
-        "is_priority": false
-      },
-      {
-        "title": "The King’s Warden review – lively Korean period drama, as 15th century deposed monarch takes refuge",
-        "source": "The Guardian",
-        "published": "Mon, 02 Mar 2026 11:00:08 GMT",
-        "url": "https://www.theguardian.com/film/2026/mar/02/the-kings-warden-review-genre-confused-15th-century-korean-court-drama",
-        "is_priority": false
-      },
-      {
-        "title": "The one change that worked: I stopped planning holidays – and found the joy in travel",
-        "source": "The Guardian",
-        "published": "Mon, 02 Mar 2026 11:00:07 GMT",
-        "url": "https://www.theguardian.com/lifeandstyle/2026/mar/02/the-one-change-that-worked-i-stopped-planning-holidays-and-found-the-joy-in-travel",
-        "is_priority": false
-      },
-      {
-        "title": "US-Israel war on Iran live: conflict spreads to Lebanon and wider region, as Kuwait reports ‘several’ US warplanes crashing",
-        "source": "World news | The Guardian",
-        "published": "Mon, 02 Mar 2026 10:59:52 GMT",
-        "url": "https://www.theguardian.com/world/live/2026/mar/02/us-israel-war-iran-live-updates-attacks-strikes-tehran-lebanon-beirut-hezbollah-dubai-latest-news",
-        "is_priority": false
-      },
-      {
-        "title": "Weather tracker: February temperature records broken in France and Spain",
-        "source": "The Guardian",
-        "published": "Mon, 02 Mar 2026 10:51:10 GMT",
-        "url": "https://www.theguardian.com/environment/2026/mar/02/weather-tracker-february-temperature-records-broken-in-france-and-spain",
+        "published": "Tue, 03 Mar 2026 07:00:34 GMT",
+        "url": "https://www.theguardian.com/travel/2026/mar/03/skiing-switzerland-without-breaking-bank-verbier-la-tzoumaz",
         "is_priority": false
       }
     ],
     "Tech": [
       {
-        "title": "When the Internet Goes Dark, the Truth Goes With It",
+        "title": "I built a pint-sized Macintosh",
+        "source": "Hacker News: Front Page",
+        "published": "Tue, 03 Mar 2026 07:06:22 +0000",
+        "url": "https://www.jeffgeerling.com/blog/2026/pint-sized-macintosh-pico-micro-mac/",
+        "is_priority": false
+      },
+      {
+        "title": "L.L.Bean Promo Codes and Deals: Up to 75% Off Outdoor Gear",
         "source": "WIRED",
-        "published": "Mon, 02 Mar 2026 10:30:00 +0000",
-        "url": "https://www.wired.com/story/plestia-alaqad-gaza-citizen-journalist-social-media/",
+        "published": "Tue, 03 Mar 2026 06:03:00 +0000",
+        "url": "https://www.wired.com/story/ll-bean-promo-code/",
         "is_priority": false
       },
       {
-        "title": "Microsoft bans the word \"Microslop\" on its Discord, then locks the server",
-        "source": "Hacker News: Front Page",
-        "published": "Mon, 02 Mar 2026 10:23:06 +0000",
-        "url": "https://www.windowslatest.com/2026/03/02/microsoft-gets-tired-of-microslop-bans-the-word-on-its-discord-then-locks-the-server-after-backlash/",
-        "is_priority": false
-      },
-      {
-        "title": "Jolla phone – a full-stack European alternative",
-        "source": "Hacker News: Front Page",
-        "published": "Mon, 02 Mar 2026 10:21:24 +0000",
-        "url": "https://commerce.jolla.com/products/jolla-phone-sept-26",
-        "is_priority": false
-      },
-      {
-        "title": "Paramount Won Over Warner Bros. Now for the Regulators.",
-        "source": "NYT > Technology",
-        "published": "Mon, 02 Mar 2026 10:02:19 +0000",
-        "url": "https://www.nytimes.com/2026/03/02/technology/paramount-deal-approval.html",
-        "is_priority": false
-      },
-      {
-        "title": "The Data Centers Have Arrived at the Edge of the Arctic Circle",
+        "title": "Lowe’s Promo Codes and Deals: Up to $300 Off Appliances",
         "source": "WIRED",
-        "published": "Mon, 02 Mar 2026 10:00:00 +0000",
-        "url": "https://www.wired.com/story/ai-supremacy-data-center-expansion-arctic-circle/",
+        "published": "Tue, 03 Mar 2026 06:00:00 +0000",
+        "url": "https://www.wired.com/story/lowes-promo-code/",
         "is_priority": false
       },
       {
-        "title": "U.S. science agency moves to restrict foreign scientists from its labs",
+        "title": "Buckle Up for Bumpier Skies",
         "source": "Hacker News: Front Page",
-        "published": "Mon, 02 Mar 2026 09:20:06 +0000",
-        "url": "https://www.science.org/content/article/nist-moves-restrict-foreign-scientists-its-labs",
+        "published": "Tue, 03 Mar 2026 05:51:02 +0000",
+        "url": "https://www.newyorker.com/magazine/2026/03/09/buckle-up-for-bumpier-skies",
         "is_priority": false
       },
       {
-        "title": "/e/OS is a complete \"deGoogled\", mobile ecosystem",
+        "title": "Daily Driving GrapheneOS",
         "source": "Hacker News: Front Page",
-        "published": "Mon, 02 Mar 2026 09:09:44 +0000",
-        "url": "https://e.foundation/e-os/",
+        "published": "Tue, 03 Mar 2026 05:18:24 +0000",
+        "url": "https://blog.matthewbrunelle.com/8-4-months-of-daily-driving-grapheneos/",
         "is_priority": false
       },
       {
-        "title": "How infrastructure is changing agentic payments: ‘A quiet but fundamental shift’",
+        "title": "Exclusive: Stealth AI startup founded by Cambridge scientists unveils plan to challenge Nvidia’s dominance",
         "source": "Sifted",
-        "published": "Mon, 02 Mar 2026 09:00:19 GMT",
-        "url": "https://sifted.eu/articles/infrastructure-agentic-payments-brnd/",
+        "published": "Tue, 03 Mar 2026 05:00:45 GMT",
+        "url": "https://sifted.eu/articles/zettafleet-ai-llm-training/",
         "is_priority": false
       },
       {
-        "title": "Tecno’s latest concept phone is lit by neon",
-        "source": "The Verge",
-        "published": "2026-03-02T04:00:00-05:00",
-        "url": "https://www.theverge.com/gadgets/886923/tecnos-latest-concept-phone-is-lit-by-neon",
+        "title": "Exclusive: Ovo founder Stephen Fitzpatrick to lead Kraken challenger Kaluza",
+        "source": "Sifted",
+        "published": "Tue, 03 Mar 2026 05:00:44 GMT",
+        "url": "https://sifted.eu/articles/ovo-founder-stephen-fitzpatrick-kaluza/",
         "is_priority": false
       },
       {
-        "title": "Show HN: Omni – Open-source workplace search and chat, built on Postgres",
+        "title": "What HBO's Industry gets right — and wrong — about European fintech",
+        "source": "Sifted",
+        "published": "Tue, 03 Mar 2026 05:00:41 GMT",
+        "url": "https://sifted.eu/articles/industry-european-fintech/",
+        "is_priority": false
+      },
+      {
+        "title": "Intent-Based Commits",
         "source": "Hacker News: Front Page",
-        "published": "Mon, 02 Mar 2026 08:58:14 +0000",
-        "url": "https://github.com/getomnico/omni",
+        "published": "Tue, 03 Mar 2026 04:20:37 +0000",
+        "url": "https://github.com/adamveld12/ghost",
         "is_priority": false
       },
       {
-        "title": "AMD will bring its \"Ryzen AI\" processors to standard desktop PCs for the first time",
-        "source": "Ars Technica - All content",
-        "published": "Mon, 02 Mar 2026 08:00:29 +0000",
-        "url": "https://arstechnica.com/gadgets/2026/03/amd-ryzen-ai-400-cpus-will-bring-upgraded-graphics-to-socket-am5-desktops/",
+        "title": "OpenAI Amends A.I. Deal With the Pentagon",
+        "source": "NYT > Technology",
+        "published": "Tue, 03 Mar 2026 03:57:04 +0000",
+        "url": "https://www.nytimes.com/2026/03/02/technology/openai-pentagon-deal-amended-surveillance.html",
         "is_priority": false
       },
       {
-        "title": "Vivo’s next phone will launch with a professional camera rig",
-        "source": "The Verge",
-        "published": "2026-03-02T03:00:00-05:00",
-        "url": "https://www.theverge.com/gadgets/887250/vivo-x300-ultra-global-launch-telephoto-camera-cage",
-        "is_priority": false
-      },
-      {
-        "title": "How to talk to anyone and why you should",
+        "title": "Elevated Errors in Claude.ai",
         "source": "Hacker News: Front Page",
-        "published": "Mon, 02 Mar 2026 07:30:12 +0000",
-        "url": "https://www.theguardian.com/lifeandstyle/2026/feb/24/stranger-secret-how-to-talk-to-anyone-why-you-should",
+        "published": "Tue, 03 Mar 2026 03:31:07 +0000",
+        "url": "https://status.claude.com/incidents/yf48hzysrvl5",
         "is_priority": false
       },
       {
-        "title": "Qualcomm’s new chip is geared toward wearable AI gadgets",
-        "source": "The Verge",
-        "published": "2026-03-02T02:00:00-05:00",
-        "url": "https://www.theverge.com/tech/886434/qualcomm-snapdragon-wear-elite-wearables",
-        "is_priority": false
-      },
-      {
-        "title": "Motorola announces a partnership with GrapheneOS Foundation",
+        "title": "The Excommunicated Devs Making Games with AI",
         "source": "Hacker News: Front Page",
-        "published": "Mon, 02 Mar 2026 06:48:07 +0000",
-        "url": "https://motorolanews.com/motorola-three-new-b2b-solutions-at-mwc-2026/",
+        "published": "Tue, 03 Mar 2026 02:16:52 +0000",
+        "url": "https://www.tyleo.com/blog/the-excommunicated-devs-making-games-with-ai",
+        "is_priority": false
+      },
+      {
+        "title": "Cursor has reportedly surpassed $2B in annualized revenue",
+        "source": "TechCrunch",
+        "published": "Tue, 03 Mar 2026 01:53:59 +0000",
+        "url": "https://techcrunch.com/2026/03/02/cursor-has-reportedly-surpassed-2b-in-annualized-revenue/",
+        "is_priority": false
+      },
+      {
+        "title": "India’s Pronto formalizes house help as its valuation jumps 8x in under a year",
+        "source": "TechCrunch",
+        "published": "Tue, 03 Mar 2026 01:15:00 +0000",
+        "url": "https://techcrunch.com/2026/03/02/indias-pronto-formalizes-house-help-as-its-valuation-jumps-8x-in-under-a-year/",
+        "is_priority": false
+      },
+      {
+        "title": "Ars Technica fires reporter after AI controversy involving fabricated quotes",
+        "source": "Hacker News: Front Page",
+        "published": "Tue, 03 Mar 2026 01:12:30 +0000",
+        "url": "https://futurism.com/artificial-intelligence/ars-technica-fires-reporter-ai-quotes",
         "is_priority": false
       }
     ],
     "Automotive/Motorcycle": [
       {
-        "title": "Classic status at last? It's time to give the Austin Allegro some love",
-        "source": "Autocar RSS Feed",
-        "published": "Mon, 2 Mar 2026 10:34:30 +0000",
-        "url": "https://www.autocar.co.uk/opinion/used-cars/classic-status-last-its-time-give-austin-allegro-some-love",
-        "is_priority": false
-      },
-      {
-        "title": "Hot Vauxhall Corsa GSE breaks cover with more aggressive look",
-        "source": "Autocar RSS Feed",
-        "published": "Mon, 2 Mar 2026 10:30:03 +0000",
-        "url": "https://www.autocar.co.uk/car-news/new-cars/hot-vauxhall-corsa-gse-breaks-cover-more-aggressive-look",
-        "is_priority": false
-      },
-      {
-        "title": "How To Tell When Your Control Arms Need To Be Replaced",
-        "source": "Jalopnik - Obsessed with the culture of cars",
-        "published": "Mon, 02 Mar 2026 10:25:00 +0000",
-        "url": "https://www.jalopnik.com/2111615/signs-control-arms-need-replacing/",
-        "is_priority": false
-      },
-      {
-        "title": "Tesla’s Cheapest Cybertruck Isn’t So Cheap Anymore",
-        "source": "InsideEVs - Articles",
-        "published": "Mon, 02 Mar 2026 09:14:26 +0000",
-        "url": "https://insideevs.com/news/788659/tesla-cybertruck-awd-new-price-increase/",
-        "is_priority": false
-      },
-      {
-        "title": "BMW Makes The M2 Faster Without Touching The Engine",
-        "source": "Motor1.com - News",
-        "published": "Mon, 02 Mar 2026 08:15:27 +0000",
-        "url": "https://www.motor1.com/news/788648/bmw-m2-track-kit-revealed/",
-        "is_priority": false
-      },
-      {
-        "title": "HEV, MHEV, DM-i – hybrid car names are utterly bewildering",
-        "source": "Autocar RSS Feed",
-        "published": "Mon, 2 Mar 2026 07:00:00 +0000",
-        "url": "https://www.autocar.co.uk/opinion/new-cars/hev-mhev-dm-i-%E2%80%93-hybrid-car-names-are-utterly-bewildering",
-        "is_priority": false
-      },
-      {
-        "title": "'Baby' Defender Sport to have true \"go-anywhere capability\"",
-        "source": "Autocar RSS Feed",
-        "published": "Mon, 2 Mar 2026 06:00:00 +0000",
-        "url": "https://www.autocar.co.uk/car-news/electric-cars/baby-defender-sport-have-true-go-anywhere-capability",
-        "is_priority": false
-      },
-      {
-        "title": "Renault CEO calls for range-extender EVs to replace 'fake PHEVs'",
-        "source": "Autocar RSS Feed",
-        "published": "Mon, 2 Mar 2026 05:00:00 +0000",
-        "url": "https://www.autocar.co.uk/car-news/business-electric-vehicles/renault-ceo-calls-range-extender-evs-replace-fake-phevs",
-        "is_priority": false
-      },
-      {
-        "title": "IndyCar St. Petersburg: Palou dominates opener from McLaughlin",
+        "title": "Autosport magazine: Your essential F1 2026 guide",
         "source": "Autosport.com - All - Stories",
-        "published": "Mon, 02 Mar 2026 04:30:03 +0000",
-        "url": "https://www.autosport.com/indycar/news/indycar-st-petersburg-palou-dominates-opener-from-mclaughlin/10801517/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-ALL&utm_term=News&utm_content=uk",
+        "published": "Tue, 03 Mar 2026 08:00:02 +0000",
+        "url": "https://www.autosport.com/general/news/autosport-magazine-your-essential-f1-2026-guide/10801627/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-ALL&utm_term=News&utm_content=uk",
         "is_priority": false
       },
       {
-        "title": "How To Find (And Fix) An Engine Vacuum Leak Yourself",
-        "source": "Jalopnik - Obsessed with the culture of cars",
-        "published": "Mon, 02 Mar 2026 04:25:00 +0000",
-        "url": "https://www.jalopnik.com/2110992/how-to-find-fix-engine-vacuum-leak/",
+        "title": "Fast, compact e-motos are getting even more affordable with Yozma IN10 Pro+ launch",
+        "source": "Electrek",
+        "published": "Tue, 03 Mar 2026 08:00:00 +0000",
+        "url": "https://electrek.co/2026/03/03/fast-compact-e-motos-are-getting-even-more-affordable-with-yozma-in10-pro-launch/",
         "is_priority": false
       },
       {
-        "title": "Acura Will Sell Its First Model Ever In Japan",
+        "title": "Volkswagen’s Giant SUV For China Is A Rolling Screen Fest",
         "source": "Motor1.com - News",
-        "published": "Mon, 02 Mar 2026 02:00:00 +0000",
-        "url": "https://www.motor1.com/news/788565/acura-integra-honda-passport-japan-export/",
+        "published": "Tue, 03 Mar 2026 07:53:31 +0000",
+        "url": "https://www.motor1.com/news/788777/vw-giant-suv-screen-fest/",
         "is_priority": false
       },
       {
-        "title": "How Denmark's Red Streetlights Do A Lot More Than Save Energy",
+        "title": "The new low-cost 40 MPH e-moped that teens will love and HOAs will hate",
+        "source": "Electrek",
+        "published": "Tue, 03 Mar 2026 07:48:04 +0000",
+        "url": "https://electrek.co/2026/03/02/the-new-low-cost-40-mph-e-moped-that-teens-will-love-and-hoas-will-hate/",
+        "is_priority": false
+      },
+      {
+        "title": "Why it’s not easy for car makers in the US to ditch electric cars",
+        "source": "Autocar RSS Feed",
+        "published": "Tue, 3 Mar 2026 05:00:00 +0000",
+        "url": "https://www.autocar.co.uk/car-news/business/why-it%E2%80%99s-not-easy-car-makers-us-ditch-electric-cars",
+        "is_priority": false
+      },
+      {
+        "title": "GM Is Facing A Lawsuit Over Selling Drivers' Onstar Data",
         "source": "Jalopnik - Obsessed with the culture of cars",
-        "published": "Mon, 02 Mar 2026 01:25:00 +0000",
-        "url": "https://www.jalopnik.com/2111787/denmark-red-streetlights-doing-more-than-saving-energy/",
+        "published": "Tue, 03 Mar 2026 04:25:00 +0000",
+        "url": "https://www.jalopnik.com/2111866/gm-facing-lawsuit-over-selling-driver-onstar-data/",
         "is_priority": false
       },
       {
-        "title": "How Different Countries Tackled Hand Signals Before Mechanical Turn Signals Were Invented",
+        "title": "Why Early Harley-Davidsons Had Bicycle Pedals",
         "source": "Jalopnik - Obsessed with the culture of cars",
-        "published": "Mon, 02 Mar 2026 00:05:00 +0000",
-        "url": "https://www.jalopnik.com/2111727/signaling-turns-before-signals-around-the-world/",
+        "published": "Tue, 03 Mar 2026 03:25:00 +0000",
+        "url": "https://www.jalopnik.com/2113917/old-harley-davidsons-with-bicycle-pedals/",
         "is_priority": false
       },
       {
-        "title": "Tyler Reddick Makes History as First Driver to Open NASCAR Cup Season with Three Wins",
+        "title": "Here's How The Depreciation Curve Works For Cars",
+        "source": "Jalopnik - Obsessed with the culture of cars",
+        "published": "Tue, 03 Mar 2026 02:25:00 +0000",
+        "url": "https://www.jalopnik.com/2113914/how-depreciation-curve-works-cars/",
+        "is_priority": false
+      },
+      {
+        "title": "Here's How Airports Get Named After Presidents",
+        "source": "Jalopnik - Obsessed with the culture of cars",
+        "published": "Tue, 03 Mar 2026 01:25:00 +0000",
+        "url": "https://www.jalopnik.com/2113821/how-airports-named-after-presidents/",
+        "is_priority": false
+      },
+      {
+        "title": "5 US National Parks With Famously Scenic Drives",
+        "source": "Jalopnik - Obsessed with the culture of cars",
+        "published": "Tue, 03 Mar 2026 00:25:00 +0000",
+        "url": "https://www.jalopnik.com/2113891/scenic-drives-us-national-parks/",
+        "is_priority": false
+      },
+      {
+        "title": "Buc-Ee's Brings Beaver Nuggets, Brisket, Buckets Of Beaver-Themed Baubles To Seven New States By Next Year",
+        "source": "Jalopnik - Obsessed with the culture of cars",
+        "published": "Mon, 02 Mar 2026 23:35:14 +0000",
+        "url": "https://www.jalopnik.com/2114108/buc-ees-expanding-to-seven-new-states-by-next-year/",
+        "is_priority": false
+      },
+      {
+        "title": "These EVs Have The Best Shots At Being Future Classics",
+        "source": "Jalopnik - Obsessed with the culture of cars",
+        "published": "Mon, 02 Mar 2026 23:25:00 +0000",
+        "url": "https://www.jalopnik.com/2113551/ev-future-classics/",
+        "is_priority": false
+      },
+      {
+        "title": "Audi RS5",
+        "source": "Autocar RSS Feed",
+        "published": "Mon, 2 Mar 2026 23:01:00 +0000",
+        "url": "https://www.autocar.co.uk/car-review/audi/rs5",
+        "is_priority": false
+      },
+      {
+        "title": "TAG Heuer Connected Calibre E5 x Formula 1 Is the Ultimate Race-Weekend Watch",
         "source": "Latest Content - Road & Track",
-        "published": "Mon, 02 Mar 2026 00:00:00 +0000",
-        "url": "https://www.roadandtrack.com/news/a70564608/tyler-reddick-makes-history-first-driver-to-open-nascar-cup-season-with-three-wins/",
+        "published": "Mon, 02 Mar 2026 23:00:00 +0000",
+        "url": "https://www.roadandtrack.com/gear/a70573980/tag-heuer-connected-calibre-e5-x-formula-1-watch/",
         "is_priority": false
       },
       {
-        "title": "The Rowdiest Kiwi Racers Even Drive Lawn Mowers Better Than You Do",
-        "source": "Jalopnik - Obsessed with the culture of cars",
-        "published": "Sun, 01 Mar 2026 23:25:00 +0000",
-        "url": "https://www.jalopnik.com/2111072/red-bull-lawn-mower-race-with-kiwi-f1-nascar-drift-drivers/",
+        "title": "Volkswagen Is A Sneaky EV Success Story",
+        "source": "InsideEVs - Articles",
+        "published": "Mon, 02 Mar 2026 22:53:32 +0000",
+        "url": "https://insideevs.com/news/788767/vw-ev-sales-2-million-2026/",
         "is_priority": false
       }
     ],
     "Portugal": [
       {
-        "title": "Dívida pública dá salto de 6 mil milhões de euros em janeiro com emissão sindicada",
-        "source": "Jornal de Negocios",
-        "published": "Mon, 02 Mar 2026 11:23:57 Z",
-        "url": "https://www.jornaldenegocios.pt/economia/financas-publicas/detalhe/divida-publica-da-salto-de-6-mil-milhoes-de-euros-em-janeiro-com-emissao-sindicada",
+        "title": "Armas nucleares francesas podem ser salvação da Europa?",
+        "source": "Observador - Últimas",
+        "published": "Tue, 03 Mar 2026 08:02:03 +0000",
+        "url": "https://observador.pt/programas/gabinete-de-guerra/armas-nucleares-francesas-podem-ser-salvacao-da-europa/",
         "is_priority": true
       },
       {
-        "title": "Horóscopo. Sagitário, Capricórnio e Aquário enfrentam limites e criam novos caminhos",
+        "title": "Obesidade. Especialistas desafiam Governo a aplicar medidas",
+        "source": "Observador - Últimas",
+        "published": "Tue, 03 Mar 2026 08:01:41 +0000",
+        "url": "https://observador.pt/2026/03/03/especialistas-e-doentes-desafiam-governo-a-tirar-do-papel-medidas-contra-obesidade/",
+        "is_priority": true
+      },
+      {
+        "title": "Taça. Sporting e FC Porto no primeiro round pela final",
+        "source": "Observador - Últimas",
+        "published": "Tue, 03 Mar 2026 08:01:16 +0000",
+        "url": "https://observador.pt/2026/03/03/sporting-e-fc-porto-no-primeiro-round-pela-final-da-taca-portugal/",
+        "is_priority": true
+      },
+      {
+        "title": "Metro de Macau regista recorde de passageiros em fevereiro",
+        "source": "Observador - Últimas",
+        "published": "Tue, 03 Mar 2026 08:00:08 +0000",
+        "url": "https://observador.pt/2026/03/03/metro-ligeiro-de-macau-regista-novo-recorde-maximo-de-passageiros-em-fevereiro/",
+        "is_priority": true
+      },
+      {
+        "title": "Que impacto vai ter a guerra no Irão na economia portuguesa?",
+        "source": "Observador - Últimas",
+        "published": "Tue, 03 Mar 2026 07:58:27 +0000",
+        "url": "https://observador.pt/programas/conferencia-de-imprensa/que-impacto-vai-ter-a-guerra-no-irao-na-economia-portuguesa/",
+        "is_priority": true
+      },
+      {
+        "title": "O mundo está a ficar mais perigoso?",
+        "source": "Observador - Últimas",
+        "published": "Tue, 03 Mar 2026 07:57:30 +0000",
+        "url": "https://observador.pt/programas/ainda-bem-que-faz-essa-pergunta/o-mundo-esta-a-ficar-mais-perigoso/",
+        "is_priority": true
+      },
+      {
+        "title": "Esqueleto de Triceratops em leilão entre 17 e 31 de março",
+        "source": "Observador - Últimas",
+        "published": "Tue, 03 Mar 2026 07:57:18 +0000",
+        "url": "https://observador.pt/2026/03/03/esqueleto-de-triceratops-vai-a-leilao-em-fase-de-crescimento-do-mercado-de-dinossauros/",
+        "is_priority": true
+      },
+      {
+        "title": "Preço do barril do petróleo Brent continua a subir, ouro e prata caem",
         "source": "Correio da Manhã",
-        "published": "Mon, 02 Mar 2026 11:16:18 Z",
-        "url": "https://www.maxima.pt/atual/detalhe/horoscopo-sagitario-capricornio-e-aquario-enfrentam-limites-e-criam-novos-caminhos",
+        "published": "Tue, 03 Mar 2026 07:50:25 Z",
+        "url": "https://www.cmjornal.pt/mundo/detalhe/preco-do-barril-do-petroleo-brent-continua-a-subir-ouro-e-prata-caem",
         "is_priority": true
       },
       {
-        "title": "Dívida pública cresce 2,2% para mais de 280 mil milhões de euros no arranque do ano",
-        "source": "ECO",
-        "published": "Mon, 02 Mar 2026 11:16:01 +0000",
-        "url": "https://eco.sapo.pt/2026/03/02/divida-publica-cresce-22-para-mais-de-280-mil-milhoes-de-euros-no-arranque-do-ano/",
-        "is_priority": true
-      },
-      {
-        "title": "Galp vê impacto limitado da tensão geopolítica e reforça foco operacional",
-        "source": "Jornal de Negocios",
-        "published": "Mon, 02 Mar 2026 11:13:00 Z",
-        "url": "https://www.jornaldenegocios.pt/empresas/energia/detalhe/galp-ve-impacto-limitado-da-tensao-geopolitica-e-reforca-foco-operacional",
-        "is_priority": true
-      },
-      {
-        "title": "Open Cosmos lança nova constelação de satélites ConnectedCosmos",
-        "source": "ECO",
-        "published": "Mon, 02 Mar 2026 11:11:42 +0000",
-        "url": "https://eco.sapo.pt/2026/03/02/open-cosmos-lanca-nova-constelacao-de-satelites-connectedcosmos/",
-        "is_priority": true
-      },
-      {
-        "title": "RTP estreia primeiras microsséries de ficção para serem vistas em telemóveis",
-        "source": "ECO",
-        "published": "Mon, 02 Mar 2026 11:11:42 +0000",
-        "url": "https://eco.sapo.pt/2026/03/02/rtp-estreia-primeiras-microsseries-de-ficcao-para-serem-vistas-em-telemoveis/",
-        "is_priority": true
-      },
-      {
-        "title": "Sirenes voltam a soar na base aérea britânica em Chipre",
+        "title": "Mais de 30 voos cancelados no Aeroporto da Madeira",
         "source": "Correio da Manhã",
-        "published": "Mon, 02 Mar 2026 11:10:14 Z",
-        "url": "https://www.cmjornal.pt/cmtv/videos/detalhe/sirenes-voltam-a-soar-na-base-aerea-britanica-em-chipre",
+        "published": "Tue, 03 Mar 2026 07:47:00 Z",
+        "url": "https://www.cmjornal.pt/sociedade/detalhe/mais-de-30-voos-cancelados-no-aeroporto-da-madeira",
         "is_priority": true
       },
       {
-        "title": "Ormuz. Estreito pelo qual Portugal lutou está (mais uma vez) no centro das atenções dos mercados",
-        "source": "ECO",
-        "published": "Mon, 02 Mar 2026 11:10:09 +0000",
-        "url": "https://eco.sapo.pt/2026/03/02/ormuz-estreito-pelo-qual-portugal-lutou-esta-mais-uma-vez-no-centro-das-atencoes-dos-mercados/",
-        "is_priority": true
-      },
-      {
-        "title": "Faturação das 5.000 maiores empresas portuguesas sobe 4,5% em 2024 para 305 mil milhões",
-        "source": "dn",
-        "published": "Mon, 02 Mar 2026 11:08:05 +0000",
-        "url": "http://dinheirovivo.dn.pt/empresas/faturao-das-5000-maiores-empresas-portuguesas-sobe-45-em-2024-para-305-mil-milhes",
-        "is_priority": true
-      },
-      {
-        "title": "Bad weather cancels flights again at Madeira Airport",
+        "title": "Hoteliers call for suspending EES",
         "source": "The Portugal News",
-        "published": "Mon, 02 Mar 2026 11:03:00 +0000",
-        "url": "https://www.theportugalnews.com/news/2026-03-02/bad-weather-cancels-flights-again-at-madeira-airport/984160",
+        "published": "Mon, 02 Mar 2026 20:03:00 +0000",
+        "url": "https://www.theportugalnews.com/news/2026-03-02/hoteliers-call-for-suspending-ees/984341",
         "is_priority": false
       },
       {
-        "title": "Weather warning issued in Portugal due to new storm",
+        "title": "Areeiro Metro station in Lisbon",
         "source": "The Portugal News",
-        "published": "Mon, 02 Mar 2026 10:03:00 +0000",
-        "url": "https://www.theportugalnews.com/news/2026-03-02/weather-warning-issued-in-portugal-due-to-new-storm/984144",
+        "published": "Mon, 02 Mar 2026 19:59:00 +0000",
+        "url": "https://www.theportugalnews.com/news/2026-03-02/areeiro-metro-station-in-lisbon/984031",
         "is_priority": false
       },
       {
-        "title": "D. Maria II National Theatre in Lisbon",
+        "title": "Portuguese Government to control oil prices",
         "source": "The Portugal News",
-        "published": "Mon, 02 Mar 2026 09:59:00 +0000",
-        "url": "https://www.theportugalnews.com/news/2026-03-02/d-maria-ii-national-theatre-in-lisbon/979149",
+        "published": "Mon, 02 Mar 2026 19:03:00 +0000",
+        "url": "https://www.theportugalnews.com/news/2026-03-02/portuguese-government-to-control-oil-prices/984342",
         "is_priority": false
       },
       {
-        "title": "Portuguese companies supporting each other",
+        "title": "Air traffic in Portugal grows",
         "source": "The Portugal News",
-        "published": "Mon, 02 Mar 2026 09:03:00 +0000",
-        "url": "https://www.theportugalnews.com/news/2026-03-02/portuguese-companies-supporting-each-other/982859",
+        "published": "Mon, 02 Mar 2026 18:03:00 +0000",
+        "url": "https://www.theportugalnews.com/news/2026-03-02/air-traffic-in-portugal-grows/984282",
         "is_priority": false
       },
       {
-        "title": "Portugal enhancing entrepreneurs training",
+        "title": "New Euro Banknotes are coming",
         "source": "The Portugal News",
-        "published": "Mon, 02 Mar 2026 08:03:00 +0000",
-        "url": "https://www.theportugalnews.com/news/2026-03-02/portugal-enhancing-entrepreneurs-training/982526",
+        "published": "Mon, 02 Mar 2026 17:03:00 +0000",
+        "url": "https://www.theportugalnews.com/news/2026-03-02/new-euro-banknotes-are-coming/984283",
         "is_priority": false
       },
       {
-        "title": "Historical Figures of Portugal: Queen Isabel of Portugal",
+        "title": "Who is the best Portuguese tennis player?",
         "source": "The Portugal News",
-        "published": "Sun, 01 Mar 2026 20:10:00 +0000",
-        "url": "https://www.theportugalnews.com/news/2026-03-01/historical-figures-of-portugal-queen-isabel-of-portugal/983844",
+        "published": "Mon, 02 Mar 2026 16:02:00 +0000",
+        "url": "https://www.theportugalnews.com/news/2026-03-02/who-is-the-best-portuguese-tennis-player/984269",
         "is_priority": false
       }
     ]

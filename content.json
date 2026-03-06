@@ -1,538 +1,538 @@
 {
-  "built_at": "2026-03-05T08:05:28.086593+00:00",
+  "built_at": "2026-03-06T08:03:00.453943+00:00",
   "sections": {
     "Finance": [
       {
-        "title": "S&P 500 futures slide after major averages rebound, traders' U.S.-Iran fears ease: Live updates",
+        "title": "Marwyn Acquisition Company III ends talks with Palmer Street",
+        "source": "All News",
+        "published": "2026-03-06 07:54:59",
+        "url": "https://www.investing.com/news/stock-market-news/marwyn-acquisition-company-iii-ends-talks-with-palmer-street-93CH-4546109",
+        "is_priority": false
+      },
+      {
+        "title": "Atos meets €8bn revenue target amid turnaround efforts",
+        "source": "All News",
+        "published": "2026-03-06 07:52:42",
+        "url": "https://www.investing.com/news/earnings/atos-meets-8bn-revenue-target-amid-turnaround-efforts-4546107",
+        "is_priority": false
+      },
+      {
+        "title": "NIBC Bank reports €78M underlying profit, €38M net loss for 2025",
+        "source": "All News",
+        "published": "2026-03-06 07:51:17",
+        "url": "https://www.investing.com/news/company-news/nibc-bank-reports-78m-underlying-profit-38m-net-loss-for-2025-93CH-4546106",
+        "is_priority": false
+      },
+      {
+        "title": "Asia markets eke out gains as Iran conflict-led oil worries keep investors jittery",
         "source": "US Top News and Analysis",
-        "published": "Thu, 05 Mar 2026 08:02:22 GMT",
-        "url": "https://www.cnbc.com/2026/03/04/stock-market-today-live-updates-iran-war.html",
+        "published": "Fri, 06 Mar 2026 07:49:46 GMT",
+        "url": "https://www.cnbc.com/2026/03/06/asia-markets-live-oil-prices-iran-nikkei-kospi-hang-seng.html",
         "is_priority": false
       },
       {
-        "title": "$2.5 Million Rift Pits Cannabis Pioneer Against Group That Backed Her",
-        "source": "NYT > Business",
-        "published": "Thu, 05 Mar 2026 08:00:06 +0000",
-        "url": "https://www.nytimes.com/2026/03/05/nyregion/cannabis-housingworks-new-york-dispute.html",
-        "is_priority": false
-      },
-      {
-        "title": "Investors poured billions into private credit. Now many want their money back",
-        "source": "US Top News and Analysis",
-        "published": "Thu, 05 Mar 2026 07:55:27 GMT",
-        "url": "https://www.cnbc.com/2026/03/05/private-credit-blackstone-blue-owl-kkr-carlyle-retail-wealth-investors-liquid.html",
-        "is_priority": false
-      },
-      {
-        "title": "Smith & Nephew CEO joins Reckitt Benckiser board",
-        "source": "All News",
-        "published": "2026-03-05 07:52:52",
-        "url": "https://www.investing.com/news/company-news/smith--nephew-ceo-joins-reckitt-benckiser-board-93CH-4542936",
-        "is_priority": false
-      },
-      {
-        "title": "Admiral tops FY EPS forecasts, unveils strategy to boost earnings growth",
-        "source": "All News",
-        "published": "2026-03-05 07:51:25",
-        "url": "https://www.investing.com/news/stock-market-news/admiral-tops-fy-eps-forecasts-unveils-strategy-to-boost-earnings-growth-93CH-4542934",
-        "is_priority": false
-      },
-      {
-        "title": "Form 4 Ambarella Inc For: 5 March",
-        "source": "All News",
-        "published": "2026-03-05 07:51:22",
-        "url": "https://www.investing.com/news/filings/form-4-ambarella-inc-for-5-march-93CH-4542933",
-        "is_priority": false
-      },
-      {
-        "title": "Oil leaps 3% on supply concerns as Iran conflict widens",
-        "source": "All News",
-        "published": "2026-03-05 07:49:16",
-        "url": "https://www.investing.com/news/commodities-news/oil-prices-rise-as-iran-conflict-widens-4542739",
-        "is_priority": false
-      },
-      {
-        "title": "WH Smith first-half sales grow 5% on North America boost",
-        "source": "All News",
-        "published": "2026-03-05 07:49:00",
-        "url": "https://www.investing.com/news/stock-market-news/wh-smith-firsthalf-sales-grow-5-on-north-america-boost-4542932",
-        "is_priority": false
-      },
-      {
-        "title": "PPC, Metlen form JV for 1,500MW energy storage in SE Europe",
-        "source": "All News",
-        "published": "2026-03-05 07:48:53",
-        "url": "https://www.investing.com/news/company-news/ppc-metlen-form-jv-for-1500mw-energy-storage-in-se-europe-93CH-4542931",
-        "is_priority": false
-      },
-      {
-        "title": "Analysis-Anger among Pakistan’s Shi’ites underlines its Iran-U.S. tightrope walk",
-        "source": "All News",
-        "published": "2026-03-05 07:48:34",
-        "url": "https://www.investing.com/news/world-news/analysisanger-among-pakistans-shiites-underlines-its-iranus-tightrope-walk-4542930",
-        "is_priority": false
-      },
-      {
-        "title": "Bank Hapoalim reports 13% return on equity in fourth quarter",
-        "source": "All News",
-        "published": "2026-03-05 07:47:51",
-        "url": "https://www.investing.com/news/stock-market-news/bank-hapoalim-reports-13-return-on-equity-in-fourth-quarter-93CH-4542929",
-        "is_priority": false
-      },
-      {
-        "title": "Elementis beats estimates on margin gains, sells pharma unit",
-        "source": "All News",
-        "published": "2026-03-05 07:46:08",
-        "url": "https://www.investing.com/news/earnings/elementis-beats-estimates-on-margin-gains-sells-pharma-unit-4542927",
-        "is_priority": false
-      },
-      {
-        "title": "Reckitt beats Q4 sales expectations on emerging markets strength",
-        "source": "All News",
-        "published": "2026-03-05 07:44:37",
-        "url": "https://www.investing.com/news/earnings/reckitt-beats-q4-sales-expectations-on-emerging-markets-strength-4542925",
-        "is_priority": false
-      },
-      {
-        "title": "Canal+’s MultiChoice to End Loss-Making Showmax Platform",
+        "title": "Horizons Middle East & Africa 03/06/2026 (Video)",
         "source": "Bloomberg Markets",
-        "published": "Thu, 05 Mar 2026 07:44:05 GMT",
-        "url": "https://www.bloomberg.com/news/articles/2026-03-05/canal-s-multichoice-to-end-loss-making-showmax-platform",
+        "published": "Fri, 06 Mar 2026 07:48:06 GMT",
+        "url": "https://www.bloomberg.com/news/videos/2026-03-06/horizons-middle-east-africa-03-06-2026-video",
         "is_priority": false
       },
       {
-        "title": "UK’s CMA to Review Private Dentistry Market After Price Hikes",
+        "title": "Newcastle Building Society reports total assets top £7bn in 2025",
+        "source": "All News",
+        "published": "2026-03-06 07:47:10",
+        "url": "https://www.investing.com/news/company-news/newcastle-building-society-reports-total-assets-top-7bn-in-2025-93CH-4546104",
+        "is_priority": false
+      },
+      {
+        "title": "BOJ likely to put off rate hike until June or July, ex-top economist says",
+        "source": "All News",
+        "published": "2026-03-06 07:42:25",
+        "url": "https://www.investing.com/news/economy-news/boj-likely-to-put-off-rate-hike-until-june-or-july-extop-economist-says-4546095",
+        "is_priority": false
+      },
+      {
+        "title": "Sports Brands Bet on Marathons for Loyalty, Growth",
         "source": "Bloomberg Markets",
-        "published": "Thu, 05 Mar 2026 07:41:39 GMT",
-        "url": "https://www.bloomberg.com/news/articles/2026-03-05/uk-s-cma-to-review-private-dentistry-market-after-price-hikes",
+        "published": "Fri, 06 Mar 2026 07:42:16 GMT",
+        "url": "https://www.bloomberg.com/news/videos/2026-03-06/sports-brands-bet-on-marathons-for-loyalty-growth-video",
+        "is_priority": false
+      },
+      {
+        "title": "Getlink reports decline in shuttle traffic for February",
+        "source": "All News",
+        "published": "2026-03-06 07:42:04",
+        "url": "https://www.investing.com/news/stock-market-news/getlink-reports-decline-in-shuttle-traffic-for-february-93CH-4546094",
+        "is_priority": false
+      },
+      {
+        "title": "UK house prices reach new high in February as market shows resilience",
+        "source": "All News",
+        "published": "2026-03-06 07:36:07",
+        "url": "https://www.investing.com/news/economic-indicators/uk-house-prices-reach-new-high-in-february-as-market-shows-resilience-4546088",
+        "is_priority": false
+      },
+      {
+        "title": "Pantheon Resources announces non-executive director departure",
+        "source": "All News",
+        "published": "2026-03-06 07:35:35",
+        "url": "https://www.investing.com/news/company-news/pantheon-resources-announces-nonexecutive-director-departure-93CH-4546087",
+        "is_priority": false
+      },
+      {
+        "title": "Missing Foreign Investor Stalls Nigeria Firm’s Revival Plan",
+        "source": "Bloomberg Markets",
+        "published": "Fri, 06 Mar 2026 07:30:33 GMT",
+        "url": "https://www.bloomberg.com/news/articles/2026-03-06/nigerian-firm-s-revival-plan-stalled-by-a-missing-foreign-investor",
+        "is_priority": false
+      },
+      {
+        "title": "Trump officials ruling out Treasury oil futures trades for now, Bloomberg News reports",
+        "source": "All News",
+        "published": "2026-03-06 07:30:30",
+        "url": "https://www.investing.com/news/commodities-news/trump-officials-ruling-out-treasury-oil-futures-trades-for-now-bloomberg-news-reports-4546084",
+        "is_priority": false
+      },
+      {
+        "title": "EKF Diagnostics buys back 213,000 shares at 26p each",
+        "source": "All News",
+        "published": "2026-03-06 07:27:41",
+        "url": "https://www.investing.com/news/company-news/ekf-diagnostics-buys-back-213000-shares-at-26p-each-93CH-4546083",
+        "is_priority": false
+      },
+      {
+        "title": "Satterfield: Iran Concessions to End War Unlikely",
+        "source": "Bloomberg Markets",
+        "published": "Fri, 06 Mar 2026 07:26:15 GMT",
+        "url": "https://www.bloomberg.com/news/videos/2026-03-06/satterfield-iran-concessions-to-end-war-unlikely-video",
         "is_priority": false
       }
     ],
     "World News": [
       {
-        "title": "Defence minister flies to Cyprus to ease tension over drone strike on RAF base",
-        "source": "World news | The Guardian",
-        "published": "Thu, 05 Mar 2026 07:51:16 GMT",
-        "url": "https://www.theguardian.com/world/2026/mar/05/uk-defence-minister-flies-to-cyprus-drone-strike-raf-base-iran-war-middle-east-crisis",
-        "is_priority": false
-      },
-      {
-        "title": "China sets a lower economic growth target of 4.5% to 5% for 2026 as challenges loom",
-        "source": "NPR Topics: World",
-        "published": "Thu, 05 Mar 2026 02:49:11 -0500",
-        "url": "https://www.npr.org/2026/03/05/g-s1-112586/china-sets-a-lower-economic-growth-target-of-4-5-to-5-for-2026-as-challenges-loom",
-        "is_priority": false
-      },
-      {
-        "title": "Middle East crisis live: Israel launches fresh strikes on Tehran; Iran claims to have targeted Kurdish groups in Iraq",
-        "source": "World news | The Guardian",
-        "published": "Thu, 05 Mar 2026 07:48:12 GMT",
-        "url": "https://www.theguardian.com/world/live/2026/mar/05/iran-war-latest-updates-canada-carney-trump-israel-tehran-strikes",
-        "is_priority": false
-      },
-      {
-        "title": "Wizz Air issues profits warning due to Middle East crisis; China ‘tells refiners to halt diesel and gasoline exports’ – business live",
+        "title": "Oil price heading for biggest weekly gain in four years, as strait of Hormuz traffic grinds to a halt – business live",
         "source": "The Guardian",
-        "published": "Thu, 05 Mar 2026 07:47:38 GMT",
-        "url": "https://www.theguardian.com/business/live/2026/mar/05/wizz-air-profits-warning-iran-travel-middle-east-crisis-airlines-china-diesel-gasoline-exports-news-updates",
+        "published": "Fri, 06 Mar 2026 08:01:47 GMT",
+        "url": "https://www.theguardian.com/business/live/2026/mar/06/oil-biggest-weekly-gain-four-years-strait-of-hormuz-traffic-halt-stock-markets-dollar-imf-news-updates",
         "is_priority": false
       },
       {
-        "title": "Senate Republicans Block War Powers Limits as Mideast Crisis Widens",
+        "title": "War Machine review – Netflix bravely asks: what if Predator but Transformers?",
+        "source": "The Guardian",
+        "published": "Fri, 06 Mar 2026 08:01:15 GMT",
+        "url": "https://www.theguardian.com/film/2026/mar/06/war-machine-netflix",
+        "is_priority": false
+      },
+      {
+        "title": "Faith leaders pray over Trump in Oval Office",
+        "source": "News | Euronews RSS",
+        "published": "Fri, 06 Mar 2026 09:00:56 +0100",
+        "url": "http://www.euronews.com/video/2026/03/06/faith-leaders-pray-over-trump-in-oval-office",
+        "is_priority": false
+      },
+      {
+        "title": "Influencers sold the world a fantasy Dubai – and now it’s gone in a puff of missile smoke | Gaby Hinsliff",
+        "source": "The Guardian",
+        "published": "Fri, 06 Mar 2026 08:00:17 GMT",
+        "url": "https://www.theguardian.com/commentisfree/2026/mar/06/influencers-sold-fantasy-dubai-missile-economic-migrants",
+        "is_priority": false
+      },
+      {
+        "title": "Week in wildlife: a watchful egret, a sun-seeking swan and a procession of caterpillars",
+        "source": "The Guardian",
+        "published": "Fri, 06 Mar 2026 08:00:16 GMT",
+        "url": "https://www.theguardian.com/environment/gallery/2026/mar/06/week-in-wildlife-a-watchful-egret-a-sun-seeking-swan-and-a-procession-of-caterpillars",
+        "is_priority": false
+      },
+      {
+        "title": "Why Hamnet should win the best picture Oscar",
+        "source": "The Guardian",
+        "published": "Fri, 06 Mar 2026 08:00:15 GMT",
+        "url": "https://www.theguardian.com/film/2026/mar/06/hamnet-oscars-jessie-buckley-paul-mescal-chloe-zhao",
+        "is_priority": false
+      },
+      {
+        "title": "‘The beast inside me wants to move!’ The smart, slapstick world of Audrey Hobert, the Steve Martin of pop",
+        "source": "The Guardian",
+        "published": "Fri, 06 Mar 2026 08:00:15 GMT",
+        "url": "https://www.theguardian.com/music/2026/mar/06/audrey-hobert-interview-gracie-abrams-songwriter-steve-martin-of-pop",
+        "is_priority": false
+      },
+      {
+        "title": "Australia v India: one-off women’s cricket Test, day one – live",
+        "source": "The Guardian",
+        "published": "Fri, 06 Mar 2026 07:58:02 GMT",
+        "url": "https://www.theguardian.com/sport/live/2026/mar/06/australia-vs-india-test-day-one-live-blog-updates-scores-results-start-time-waca-perth",
+        "is_priority": false
+      },
+      {
+        "title": "Iran war live: Israel bombards Tehran and Beirut; US allows India to buy Russian oil",
+        "source": "World news | The Guardian",
+        "published": "Fri, 06 Mar 2026 07:52:49 GMT",
+        "url": "https://www.theguardian.com/world/live/2026/mar/06/iran-war-live-updates-us-temporarily-lets-india-buy-russian-oil-amid-energy-fears-israeli-military-launches-strikes-on-beirut",
+        "is_priority": false
+      },
+      {
+        "title": "Australia news live: Liberals say One Nation’s move to rule out preference deals in SA election is ‘highly destructive’",
+        "source": "World news | The Guardian",
+        "published": "Fri, 06 Mar 2026 07:36:00 GMT",
+        "url": "https://www.theguardian.com/australia-news/live/2026/mar/06/middle-east-flights-return-queensland-weather-nsw-budget-estimates-anthony-albanese-angus-taylor-labor-coalition-politics-updates-ntwnfb",
+        "is_priority": false
+      },
+      {
+        "title": "Israel: Rocket interception debris sparks fire near Tel Aviv",
+        "source": "News | Euronews RSS",
+        "published": "Fri, 06 Mar 2026 08:29:56 +0100",
+        "url": "http://www.euronews.com/video/2026/03/06/israel-rocket-interception-debris-sparks-fire-near-tel-aviv",
+        "is_priority": false
+      },
+      {
+        "title": "Israel Attacks Beirut and Tehran as Fighting in Middle East Accelerates",
         "source": "NYT > World News",
-        "published": "Thu, 05 Mar 2026 07:43:53 +0000",
-        "url": "https://www.nytimes.com/live/2026/03/04/world/iran-war-israel-lebanon-trump",
+        "published": "Fri, 06 Mar 2026 07:28:11 +0000",
+        "url": "https://www.nytimes.com/live/2026/03/05/world/iran-war-israel-trump",
         "is_priority": false
       },
       {
-        "title": "NATO Air Defenses Shoot Down Iranian Missile Headed Toward Turkey",
+        "title": "Why Torpedoed Iranian Warship Is a Problem for India",
         "source": "NYT > World News",
-        "published": "Thu, 05 Mar 2026 07:43:51 +0000",
-        "url": "https://www.nytimes.com/2026/03/04/world/middleeast/nato-iranian-missile-turkey.html",
+        "published": "Fri, 06 Mar 2026 07:28:09 +0000",
+        "url": "https://www.nytimes.com/2026/03/05/world/middleeast/iranian-warship-torpedo-india-exercises.html",
         "is_priority": false
       },
       {
-        "title": "Rapper-turned-politician votes in Nepal election",
+        "title": "Death toll in Israel’s Lebanon attacks over 120 as Beirut, south, east hit",
         "source": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
-        "published": "Thu, 05 Mar 2026 07:33:00 +0000",
-        "url": "https://www.aljazeera.com/video/newsfeed/2026/3/5/rapper-turned-politician-votes-in-nepal-election?traffic_source=rss",
+        "published": "Fri, 06 Mar 2026 07:23:30 +0000",
+        "url": "https://www.aljazeera.com/news/2026/3/6/death-toll-in-israels-lebanon-attacks-over-120-as-beirut-south-east-hit?traffic_source=rss",
         "is_priority": false
       },
       {
-        "title": "Iran war: What is happening on day six of US-Israel attacks?",
-        "source": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
-        "published": "Thu, 05 Mar 2026 07:10:01 +0000",
-        "url": "https://www.aljazeera.com/news/2026/3/5/iran-war-what-is-happening-on-day-six-of-us-israel-attacks?traffic_source=rss",
-        "is_priority": false
-      },
-      {
-        "title": "Two ADF aircraft sent to assist Australians stranded in Middle East – as it happened",
-        "source": "World news | The Guardian",
-        "published": "Thu, 05 Mar 2026 07:06:21 GMT",
-        "url": "https://www.theguardian.com/australia-news/live/2026/mar/05/australia-politics-live-anthony-albanese-angus-taylor-parliament-question-time-labor-coalition-one-nation-middle-east-mark-carney-canada-iran-ntwnfb",
-        "is_priority": false
-      },
-      {
-        "title": "Israeli strikes hit Beirut amid threats on Iranian officials in Lebanon",
-        "source": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
-        "published": "Thu, 05 Mar 2026 07:05:25 +0000",
-        "url": "https://www.aljazeera.com/news/2026/3/5/israeli-strikes-hit-beirut-amid-threats-on-iranian-officials-in-lebanon?traffic_source=rss",
-        "is_priority": false
-      },
-      {
-        "title": "Google Pixel 10a review: cheaper Android is great, but no real advance",
-        "source": "The Guardian",
-        "published": "Thu, 05 Mar 2026 07:00:55 GMT",
-        "url": "https://www.theguardian.com/technology/2026/mar/05/google-pixel-10a-review-cheaper-android-camera-software-battery-life",
-        "is_priority": false
-      },
-      {
-        "title": "Exercise and freedom: inside a children’s mental health centre in Gaza",
-        "source": "The Guardian",
-        "published": "Thu, 05 Mar 2026 07:00:54 GMT",
-        "url": "https://www.theguardian.com/world/gallery/2026/mar/05/childrens-mental-health-centre-gaza",
-        "is_priority": false
-      },
-      {
-        "title": "On the trail of Peaky Blinders, Black Sabbath and the perfect pint – an alternative guide to Birmingham",
-        "source": "The Guardian",
-        "published": "Thu, 05 Mar 2026 07:00:54 GMT",
-        "url": "https://www.theguardian.com/travel/2026/mar/05/alternative-guide-birmingham-peaky-blinders-black-sabbath-food-drink-nightlife",
-        "is_priority": false
-      },
-      {
-        "title": "Tales of the Suburbs by John Grindrod review – an entertaining alternative history of queer Britain",
-        "source": "The Guardian",
-        "published": "Thu, 05 Mar 2026 07:00:54 GMT",
-        "url": "https://www.theguardian.com/books/2026/mar/05/tales-of-the-suburbs-by-john-grindrod-review-an-entertaining-alternative-history-of-queer-britain",
-        "is_priority": false
-      },
-      {
-        "title": "Breaking Social review – Rutger Bregman leads an irresistible rallying cry for global activism",
-        "source": "The Guardian",
-        "published": "Thu, 05 Mar 2026 07:00:53 GMT",
-        "url": "https://www.theguardian.com/film/2026/mar/05/breaking-social-review-global-activism-fredrik-gertten-rutger-bregman",
+        "title": "State Department Is Accused of Slow Assistance in Iran War for Americans Abroad",
+        "source": "NYT > World News",
+        "published": "Fri, 06 Mar 2026 07:18:31 +0000",
+        "url": "https://www.nytimes.com/2026/03/05/us/politics/state-department-iran-evacuations.html",
         "is_priority": false
       }
     ],
     "Tech": [
       {
-        "title": "Breaking Social review – Rutger Bregman leads an irresistible rallying cry for global activism",
-        "source": "Technology | The Guardian",
-        "published": "Thu, 05 Mar 2026 07:00:53 GMT",
-        "url": "https://www.theguardian.com/film/2026/mar/05/breaking-social-review-global-activism-fredrik-gertten-rutger-bregman",
-        "is_priority": false
-      },
-      {
-        "title": "The Self-Help Trap: What 20 Years of \"Optimizing\" Has Taught Me",
+        "title": "Stardex (YC S21) is hiring customer success engineers",
         "source": "Hacker News: Front Page",
-        "published": "Thu, 05 Mar 2026 06:59:30 +0000",
-        "url": "https://tim.blog/2026/03/04/the-self-help-trap/",
+        "published": "Fri, 06 Mar 2026 07:02:08 +0000",
+        "url": "https://www.ycombinator.com/companies/stardex/jobs/lag1C1P-customer-success-engineer-ai-data-migration",
         "is_priority": false
       },
       {
-        "title": "Relax NG is a schema language for XML",
+        "title": "Mattress Firm Coupons and Discounts: Save Up to $600",
+        "source": "WIRED",
+        "published": "Fri, 06 Mar 2026 06:08:00 +0000",
+        "url": "https://www.wired.com/story/mattress-firm-coupon/",
+        "is_priority": false
+      },
+      {
+        "title": "KitchenAid Promo Codes and Discounts: Save Up To 50%",
+        "source": "WIRED",
+        "published": "Fri, 06 Mar 2026 06:05:00 +0000",
+        "url": "https://www.wired.com/story/exclusive-kitchenaid-promo-code/",
+        "is_priority": false
+      },
+      {
+        "title": "Peacock Promo Codes: 40% Off March 2026",
+        "source": "WIRED",
+        "published": "Fri, 06 Mar 2026 06:02:00 +0000",
+        "url": "https://www.wired.com/story/peacock-promo-code/",
+        "is_priority": false
+      },
+      {
+        "title": "TurboTax Service Codes: Up to $150 Off | March 2026",
+        "source": "WIRED",
+        "published": "Fri, 06 Mar 2026 06:00:00 +0000",
+        "url": "https://www.wired.com/story/turbotax-coupon/",
+        "is_priority": false
+      },
+      {
+        "title": "Norton Coupon Codes and Discounts: Up to 58% Off",
+        "source": "WIRED",
+        "published": "Fri, 06 Mar 2026 06:00:00 +0000",
+        "url": "https://www.wired.com/story/norton-coupon-code/",
+        "is_priority": false
+      },
+      {
+        "title": "TeX Live 2026 is available for download now",
         "source": "Hacker News: Front Page",
-        "published": "Thu, 05 Mar 2026 06:01:18 +0000",
-        "url": "https://relaxng.org/",
+        "published": "Fri, 06 Mar 2026 05:20:10 +0000",
+        "url": "https://www.tug.org/texlive/acquire.html",
         "is_priority": false
       },
       {
-        "title": "Relicensing with AI-Assisted Rewrite",
-        "source": "Hacker News: Front Page",
-        "published": "Thu, 05 Mar 2026 05:07:33 +0000",
-        "url": "https://tuananh.net/2026/03/05/relicensing-with-ai-assisted-rewrite/",
-        "is_priority": false
-      },
-      {
-        "title": "Europe’s big fusion opportunity",
+        "title": "European fintech’s most active angel investors",
         "source": "Sifted",
-        "published": "Thu, 05 Mar 2026 05:00:50 GMT",
-        "url": "https://sifted.eu/articles/europes-big-fusion-opportunity/",
+        "published": "Fri, 06 Mar 2026 05:00:48 GMT",
+        "url": "https://sifted.eu/articles/european-fintech-angel-list/",
         "is_priority": false
       },
       {
-        "title": "French tech’s unicorns-in-waiting",
+        "title": "13 Danish startups to watch, according to investors",
         "source": "Sifted",
-        "published": "Thu, 05 Mar 2026 05:00:01 GMT",
-        "url": "https://sifted.eu/articles/french-techs-unicorns-in-waiting/",
+        "published": "Fri, 06 Mar 2026 05:00:39 GMT",
+        "url": "https://sifted.eu/articles/13-danish-startups-to-watch-2026/",
         "is_priority": false
       },
       {
-        "title": "You Just Reveived",
+        "title": "Show HN: Swarm – Program a colony of 200 ants using a custom assembly language",
         "source": "Hacker News: Front Page",
-        "published": "Thu, 05 Mar 2026 04:37:43 +0000",
-        "url": "https://dylan.gr/1772520728",
+        "published": "Fri, 06 Mar 2026 04:15:40 +0000",
+        "url": "https://dev.moment.com/",
         "is_priority": false
       },
       {
-        "title": "The L in \"LLM\" Stands for Lying",
+        "title": "System76 on Age Verification Laws",
         "source": "Hacker News: Front Page",
-        "published": "Thu, 05 Mar 2026 04:02:32 +0000",
-        "url": "https://acko.net/blog/the-l-in-llm-stands-for-lying/",
+        "published": "Fri, 06 Mar 2026 04:12:26 +0000",
+        "url": "https://blog.system76.com/post/system76-on-age-verification/",
         "is_priority": false
       },
       {
-        "title": "Show HN: Poppy – a simple app to stay intentional with relationships",
+        "title": "Breaking Down 50M Pins: A Smarter Way to Design 3D IC Packages",
         "source": "Hacker News: Front Page",
-        "published": "Thu, 05 Mar 2026 03:56:38 +0000",
-        "url": "https://poppy-connection-keeper.netlify.app/",
+        "published": "Fri, 06 Mar 2026 03:56:52 +0000",
+        "url": "https://www.allaboutcircuits.com/industry-articles/breaking-down-50-million-pins-a-smarter-way-to-design-3d-ic-packages/",
         "is_priority": false
       },
       {
-        "title": "What Python's asyncio primitives get wrong about shared state",
-        "source": "Hacker News: Front Page",
-        "published": "Thu, 05 Mar 2026 02:55:57 +0000",
-        "url": "https://www.inngest.com/blog/no-lost-updates-python-asyncio",
+        "title": "Anthropic to challenge DOD’s supply-chain label in court",
+        "source": "TechCrunch",
+        "published": "Fri, 06 Mar 2026 01:28:54 +0000",
+        "url": "https://techcrunch.com/2026/03/05/anthropic-to-challenge-dods-supply-chain-label-in-court/",
         "is_priority": false
       },
       {
-        "title": "Elon Musk Defends Social Media Posts in Twitter Shareholder Lawsuit",
+        "title": "Amazon.com says things are fixed after some issues with logging in and checking out",
+        "source": "The Verge",
+        "published": "2026-03-05T20:24:36-05:00",
+        "url": "https://www.theverge.com/tech/890215/amazon-is-down-login-prices",
+        "is_priority": false
+      },
+      {
+        "title": "Pentagon Officially Notifies Anthropic It Is a ‘Supply Chain Risk’",
         "source": "NYT > Technology",
-        "published": "Thu, 05 Mar 2026 02:40:24 +0000",
-        "url": "https://www.nytimes.com/2026/03/04/technology/elon-musk-testifies-twitter-lawsuit.html",
-        "is_priority": false
-      },
-      {
-        "title": "Jensen Huang says Nvidia is pulling back from OpenAI and Anthropic",
-        "source": "Hacker News: Front Page",
-        "published": "Thu, 05 Mar 2026 02:33:58 +0000",
-        "url": "https://techcrunch.com/2026/03/04/jensen-huang-says-nvidia-is-pulling-back-from-openai-and-anthropic-but-his-explanation-raises-more-questions-than-it-answers/",
-        "is_priority": false
-      },
-      {
-        "title": "Did Live Nation punish a venue by taking Billie Eilish away?",
-        "source": "The Verge",
-        "published": "2026-03-04T21:21:41-05:00",
-        "url": "https://www.theverge.com/policy/889720/live-nation-ticketmaster-trial-doj-barclays-center-threats",
-        "is_priority": false
-      },
-      {
-        "title": "Chaos and Dystopian news for the dead internet survivors",
-        "source": "Hacker News: Front Page",
-        "published": "Thu, 05 Mar 2026 01:50:51 +0000",
-        "url": "https://www.fubardaily.com",
-        "is_priority": false
-      },
-      {
-        "title": "A new video from the White House mixes Call of Duty footage with actual video of Iran strikes",
-        "source": "The Verge",
-        "published": "2026-03-04T20:09:54-05:00",
-        "url": "https://www.theverge.com/games/889701/trump-white-house-call-of-duty-footage-iran",
+        "published": "Fri, 06 Mar 2026 01:23:35 +0000",
+        "url": "https://www.nytimes.com/2026/03/05/technology/anthropic-supply-chain-risk-defense-department.html",
         "is_priority": false
       }
     ],
     "Automotive/Motorcycle": [
       {
-        "title": "Supercars Melbourne: Kostecki wins to end Chevrolet’s 12-race streak",
+        "title": "Supercars Melbourne: Kostecki doubles up as Payne maintains title lead",
         "source": "Autosport.com - All - Stories",
-        "published": "Thu, 05 Mar 2026 07:57:58 +0000",
-        "url": "https://www.autosport.com/supercars/news/supercars-melbourne-kostecki-wins-to-end-chevrolets-12-race-streak/10802153/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-ALL&utm_term=News&utm_content=uk",
+        "published": "Fri, 06 Mar 2026 07:53:06 +0000",
+        "url": "https://www.autosport.com/supercars/news/supercars-melbourne-kostecki-doubles-up-as-payne-maintains-title-lead/10802517/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-ALL&utm_term=News&utm_content=uk",
         "is_priority": false
       },
       {
-        "title": "The Honda Insight Is Back, And It's Gone Fully Electric",
-        "source": "Motor1.com - News",
-        "published": "Thu, 05 Mar 2026 07:55:31 +0000",
-        "url": "https://www.motor1.com/news/789024/2027-honda-insight-debut-specs/",
-        "is_priority": false
-      },
-      {
-        "title": "Why Mercedes is so confident about overtaking in Australian GP when rivals aren't",
+        "title": "Why Aston Martin and Newey feel \"powerless\" in Honda's F1 struggles",
         "source": "Autosport.com - All - Stories",
-        "published": "Thu, 05 Mar 2026 07:47:44 +0000",
-        "url": "https://www.autosport.com/f1/news/why-mercedes-is-so-confident-about-overtaking-in-australian-gp-when-rivals-arent/10802149/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-ALL&utm_term=News&utm_content=uk",
+        "published": "Fri, 06 Mar 2026 07:07:20 +0000",
+        "url": "https://www.autosport.com/f1/news/why-aston-martin-and-newey-feel-powerless-amid-hondas-f1-struggles/10802479/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-ALL&utm_term=News&utm_content=uk",
         "is_priority": false
       },
       {
-        "title": "Dacia Striker: new £25k petrol estate to be revealed next week",
-        "source": "Autocar RSS Feed",
-        "published": "Thu, 5 Mar 2026 07:00:00 +0000",
-        "url": "https://www.autocar.co.uk/car-news/new-cars/dacia-striker-new-%C2%A325k-petrol-estate-be-revealed-next-week",
-        "is_priority": false
-      },
-      {
-        "title": "Inside the UK-led battle to cut the cost of EV repair bills",
-        "source": "Autocar RSS Feed",
-        "published": "Thu, 5 Mar 2026 05:00:00 +0000",
-        "url": "https://www.autocar.co.uk/car-news/business-electric-vehicles/inside-uk-led-battle-cut-cost-ev-repair-bills",
-        "is_priority": false
-      },
-      {
-        "title": "This Poor, Abandoned Acura MDX Gathered $8,660 In Parking Tickets",
-        "source": "Jalopnik - Obsessed with the culture of cars",
-        "published": "Thu, 05 Mar 2026 04:25:00 +0000",
-        "url": "https://www.jalopnik.com/2115774/abandoned-acura-mdx-gets-nearly-9000-dollars-in-parking-tickets/",
-        "is_priority": false
-      },
-      {
-        "title": "Alonso's defiant message on Aston Martin's F1 car limitations",
-        "source": "Autosport.com - All - Stories",
-        "published": "Thu, 05 Mar 2026 04:02:57 +0000",
-        "url": "https://www.autosport.com/f1/news/fernando-alonsos-defiant-message-on-aston-martins-f1-car-limitations/10802073/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-ALL&utm_term=News&utm_content=uk",
-        "is_priority": false
-      },
-      {
-        "title": "Just 25 laps in Melbourne? The key questions behind Aston Martin and Honda’s F1 crisis",
-        "source": "Autosport.com - All - Stories",
-        "published": "Thu, 05 Mar 2026 02:57:43 +0000",
-        "url": "https://www.autosport.com/f1/news/just-25-laps-in-melbourne-the-key-questions-behind-aston-martin-and-hondas-f1-crisis/10802054/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-ALL&utm_term=News&utm_content=uk",
-        "is_priority": false
-      },
-      {
-        "title": "Aston Martin F1 drivers limited to 25 laps to avoid nerve damage",
-        "source": "Autosport.com - All - Stories",
-        "published": "Thu, 05 Mar 2026 02:35:21 +0000",
-        "url": "https://www.autosport.com/f1/news/aston-martin-f1-drivers-limited-to-25-laps-to-avoid-nerve-damage/10802052/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-ALL&utm_term=News&utm_content=uk",
-        "is_priority": false
-      },
-      {
-        "title": "As The New Dodge Charger Sixpack Reaches Owners, Let's Honor The Hot Aussie Mopar Six",
-        "source": "Jalopnik - Obsessed with the culture of cars",
-        "published": "Thu, 05 Mar 2026 02:25:00 +0000",
-        "url": "https://www.jalopnik.com/2114924/dodge-charger-sixpack-og-australian/",
-        "is_priority": false
-      },
-      {
-        "title": "Interview: it’s all solar, all the time with Emily from EnergySage",
+        "title": "California dad hit with felony after son runs red light, crashes illegal electric motorbike",
         "source": "Electrek",
-        "published": "Thu, 05 Mar 2026 01:29:51 +0000",
-        "url": "https://electrek.co/2026/03/04/interview-its-all-solar-all-the-time-with-emily-from-energysage/",
+        "published": "Fri, 06 Mar 2026 07:06:04 +0000",
+        "url": "https://electrek.co/2026/03/05/california-dad-hit-with-felony-after-son-runs-red-light-crashes-illegal-electric-motorbike/",
         "is_priority": false
       },
       {
-        "title": "5 Easy Ways To Put A Tape Deck In Your Car (Because Lexus Was Right All Along)",
+        "title": "Why F1 Bahrain and Saudi Arabia GPs are unlikely to be replaced if cancelled",
+        "source": "Autosport.com - All - Stories",
+        "published": "Fri, 06 Mar 2026 06:39:02 +0000",
+        "url": "https://www.autosport.com/f1/news/why-f1-bahrain-and-saudi-arabia-gps-are-unlikely-to-be-replaced-if-cancelled/10802461/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-ALL&utm_term=News&utm_content=uk",
+        "is_priority": false
+      },
+      {
+        "title": "F1 Australian GP: Piastri leads FP2 as Aston Martin's woes continue",
+        "source": "Autosport.com - All - Stories",
+        "published": "Fri, 06 Mar 2026 06:11:54 +0000",
+        "url": "https://www.autosport.com/f1/news/f1-australian-gp-piastri-leads-fp2-as-aston-martins-woes-continue/10802458/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-ALL&utm_term=News&utm_content=uk",
+        "is_priority": false
+      },
+      {
+        "title": "F1 2026 for beginners: The radical new rules explained",
+        "source": "Autocar RSS Feed",
+        "published": "Fri, 6 Mar 2026 06:00:00 +0000",
+        "url": "https://www.autocar.co.uk/car-news/motorsport-f1/f1-2026-beginners-radical-new-rules-explained",
+        "is_priority": false
+      },
+      {
+        "title": "Jeep Has Finally Fixed the Biggest Issue With the Wrangler, IIHS Says",
+        "source": "Latest Content - Road & Track",
+        "published": "Fri, 06 Mar 2026 05:01:00 +0000",
+        "url": "https://www.roadandtrack.com/news/a70626221/jeep-fixed-biggest-issue-wrangler-iihs-says/",
+        "is_priority": false
+      },
+      {
+        "title": "Aston Martin out of spare batteries for Honda power unit at Australian GP",
+        "source": "Autosport.com - All - Stories",
+        "published": "Fri, 06 Mar 2026 04:37:37 +0000",
+        "url": "https://www.autosport.com/f1/news/aston-martin-out-of-spare-batteries-for-honda-power-unit-at-australian-gp/10802429/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-ALL&utm_term=News&utm_content=uk",
+        "is_priority": false
+      },
+      {
+        "title": "Pennsylvania's License Plate Readers Can't Tell The Difference Between The New Zero And Eight",
         "source": "Jalopnik - Obsessed with the culture of cars",
-        "published": "Thu, 05 Mar 2026 00:25:00 +0000",
-        "url": "https://www.jalopnik.com/2114929/tape-deck-installation-methods-to-make-lexus-proud/",
+        "published": "Fri, 06 Mar 2026 04:25:00 +0000",
+        "url": "https://www.jalopnik.com/2116510/license-plate-readers-mix-up-numbers-issue-tolls-to-wrong-drivers/",
         "is_priority": false
       },
       {
-        "title": "Germany is getting a wind + solar hybrid power plant – here’s how it works",
+        "title": "F1 Australian GP: Leclerc tops first 2026 practice as McLaren and Aston Martin hit trouble",
+        "source": "Autosport.com - All - Stories",
+        "published": "Fri, 06 Mar 2026 02:45:35 +0000",
+        "url": "https://www.autosport.com/f1/news/f1-australian-gp-charles-leclerc-leads-first-2026-practice-as-mclaren-and-aston-martin-hit-trouble/10802401/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-ALL&utm_term=News&utm_content=uk",
+        "is_priority": false
+      },
+      {
+        "title": "Some Call It The Worst-Looking Chevy Corvette Ever Made, Others Just See An Old C4",
+        "source": "Jalopnik - Obsessed with the culture of cars",
+        "published": "Fri, 06 Mar 2026 02:25:00 +0000",
+        "url": "https://www.jalopnik.com/2115421/worst-looking-corvette-ever-made-indy-pace-car/",
+        "is_priority": false
+      },
+      {
+        "title": "6 Cars That Missed Out On The Hemi They Deserved",
+        "source": "Jalopnik - Obsessed with the culture of cars",
+        "published": "Fri, 06 Mar 2026 00:25:00 +0000",
+        "url": "https://www.jalopnik.com/2115172/cars-that-deserved-a-hemi-engine/",
+        "is_priority": false
+      },
+      {
+        "title": "The US’s largest clean energy project just installed 242 giant wind turbines",
         "source": "Electrek",
-        "published": "Wed, 04 Mar 2026 23:30:45 +0000",
-        "url": "https://electrek.co/2026/03/04/germany-wind-solar-hybrid-power-plant-vattenfall/",
+        "published": "Thu, 05 Mar 2026 22:31:50 +0000",
+        "url": "https://electrek.co/2026/03/05/the-us-largest-clean-energy-project-just-installed-242-giant-wind-turbines/",
         "is_priority": false
       },
       {
-        "title": "Freedom Plane Celebrates America's 250th Birthday By Bringing Founding-Era Documents To You",
+        "title": "The World's First 9-Speed Automatic Transmission Was Plagued With Problems",
         "source": "Jalopnik - Obsessed with the culture of cars",
-        "published": "Wed, 04 Mar 2026 23:03:50 +0000",
-        "url": "https://www.jalopnik.com/2116010/freedom-plane-founding-era-documents-america-250th-birthday/",
+        "published": "Thu, 05 Mar 2026 22:25:00 +0000",
+        "url": "https://www.jalopnik.com/2115365/worlds-first-9-speed-transmission-plagued-with-problems/",
         "is_priority": false
       },
       {
-        "title": "Gridlife Was Just Bought by the Same Group That Owns 'Racer' Mag",
-        "source": "Latest Content - Car and Driver",
-        "published": "Wed, 04 Mar 2026 22:55:00 +0000",
-        "url": "https://www.caranddriver.com/news/a70605190/gridlife-racing-series-sold/",
+        "title": "BYD unveils stunning flagship electric SUV for the first time [Images]",
+        "source": "Electrek",
+        "published": "Thu, 05 Mar 2026 22:16:46 +0000",
+        "url": "https://electrek.co/2026/03/05/byd-unveils-stunning-flagship-electric-suv-images/",
         "is_priority": false
       }
     ],
     "Portugal": [
       {
-        "title": "Preços do petróleo e do gás continuam em alta",
+        "title": "O adeus a António Lobo Antunes",
+        "source": "Observador - Últimas",
+        "published": "Fri, 06 Mar 2026 07:56:21 +0000",
+        "url": "https://observador.pt/programas/no-se-fala-de-outra-coisa/o-adeus-a-antonio-lobo-antunes-2/",
+        "is_priority": true
+      },
+      {
+        "title": "Israel anuncia \"nova fase\" na guerra contra Teerão",
+        "source": "Observador - Últimas",
+        "published": "Fri, 06 Mar 2026 07:51:22 +0000",
+        "url": "https://observador.pt/2026/03/06/israel-anuncia-nova-fase-na-guerra-contra-teerao/",
+        "is_priority": true
+      },
+      {
+        "title": "Hong Kong. Lai não recorre de pena de prisão de 20 anos",
+        "source": "Observador - Últimas",
+        "published": "Fri, 06 Mar 2026 07:51:02 +0000",
+        "url": "https://observador.pt/2026/03/06/hong-kong-ex-magnata-jimmy-lai-nao-recorre-de-condenacao-a-20-anos-de-prisao/",
+        "is_priority": true
+      },
+      {
+        "title": "Ásia ainda recupera mas fecha pior semana desde a pandemia. Europa aponta para ganhos",
+        "source": "Jornal de Negocios",
+        "published": "Fri, 06 Mar 2026 07:50:39 Z",
+        "url": "https://www.jornaldenegocios.pt/mercados/mercados-num-minuto/detalhe/asia-ainda-recupera-mas-fecha-pior-semana-desde-a-pandemia-europa-aponta-para-ganhos",
+        "is_priority": true
+      },
+      {
+        "title": "Quinze distritos sob avisos devido à neve, vento e agitação marítima",
         "source": "Correio da Manhã",
-        "published": "Thu, 05 Mar 2026 08:01:31 Z",
-        "url": "https://www.cmjornal.pt/economia/detalhe/precos-do-petroleo-e-do-gas-continuam-em-alta",
+        "published": "Fri, 06 Mar 2026 07:50:05 Z",
+        "url": "https://www.cmjornal.pt/sociedade/clima/detalhe/quinze-distritos-sob-avisos-devido-a-neve-vento-e-agitacao-maritima",
         "is_priority": true
       },
       {
-        "title": "\"Sempre dissemos que não víamos cenário\" catastrófico com entrada da Digi, garante CEO da Nos",
-        "source": "Jornal de Negocios",
-        "published": "Thu, 05 Mar 2026 08:00:00 Z",
-        "url": "https://www.jornaldenegocios.pt/empresas/telecomunicacoes/detalhe/sempre-dissemos-que-nao-viamos-cenario-catastrofico-com-entrada-da-digi-garante-ceo-da-nos",
-        "is_priority": true
-      },
-      {
-        "title": "Cartoon SA 05-03-2026",
-        "source": "Jornal de Negocios",
-        "published": "Thu, 05 Mar 2026 08:00:00 Z",
-        "url": "https://www.jornaldenegocios.pt/opiniao/cartoon-sa/detalhe/cartoon-sa-05-03-2026",
-        "is_priority": true
-      },
-      {
-        "title": "Israel considera que a aliança com os EUA está a mudar a história",
-        "source": "Correio da Manhã",
-        "published": "Thu, 05 Mar 2026 07:59:18 Z",
-        "url": "https://www.cmjornal.pt/mais-cm/especiais/conflito-no-medio-oriente/detalhe/israel-considera-que-a-alianca-com-os-eua-esta-a-mudar-a-historia",
-        "is_priority": true
-      },
-      {
-        "title": "Lay-off pago a dois terços ou 100%? Quem dá mais?",
+        "title": "Bye, bye presidente Marcelo Rebelo de Sousa",
         "source": "Observador - Últimas",
-        "published": "Thu, 05 Mar 2026 07:58:58 +0000",
-        "url": "https://observador.pt/programas/ainda-bem-que-faz-essa-pergunta/lay-off-pago-a-dois-tercos-ou-100-quem-da-mais/",
+        "published": "Fri, 06 Mar 2026 07:49:03 +0000",
+        "url": "https://observador.pt/programas/ainda-bem-que-faz-essa-pergunta/bye-bye-presidente-marcelo-rebelo-de-sousa/",
         "is_priority": true
       },
       {
-        "title": "Warner Bros e Netflix: o amor impossível",
+        "title": "Irão. Voo militar com 39 passageiros chega a Lisboa",
         "source": "Observador - Últimas",
-        "published": "Thu, 05 Mar 2026 07:54:14 +0000",
-        "url": "https://observador.pt/programas/no-se-fala-de-outra-coisa/warner-bros-e-netflix-o-amor-impossivel/",
+        "published": "Fri, 06 Mar 2026 07:48:56 +0000",
+        "url": "https://observador.pt/2026/03/06/irao-voo-militar-com-39-passageiros-incluindo-24-portugueses-chega-a-lisboa/",
         "is_priority": true
       },
       {
-        "title": "Estudo sobre sono dos peixes ajuda no tratamento de insónias",
+        "title": "Estados americanos processam governo Trump pelas novas tarifas impostas após derrota no Supremo",
+        "source": "ECO",
+        "published": "Fri, 06 Mar 2026 07:45:04 +0000",
+        "url": "https://eco.sapo.pt/2026/03/06/estados-americanos-processam-governo-trump-pelas-novas-tarifas-impostas-apos-derrota-no-supremo/",
+        "is_priority": true
+      },
+      {
+        "title": "\"The Hack\": esta televisão não é fácil, mas não é aborrecida",
         "source": "Observador - Últimas",
-        "published": "Thu, 05 Mar 2026 07:52:35 +0000",
-        "url": "https://observador.pt/2026/03/05/estudo-sobre-sono-dos-peixes-procura-avancos-no-tratamento-da-insonia-em-humanos/",
+        "published": "Fri, 06 Mar 2026 07:44:15 +0000",
+        "url": "https://observador.pt/2026/03/06/the-hack-esta-televisao-nao-e-facil-mas-nao-e-aborrecida/",
         "is_priority": true
       },
       {
-        "title": "Ásia segue ganhos europeus e dos EUA. Bolsa sul-coreana dispara 9% depois de um \"crash\"",
-        "source": "Jornal de Negocios",
-        "published": "Thu, 05 Mar 2026 07:52:00 Z",
-        "url": "https://www.jornaldenegocios.pt/mercados/mercados-num-minuto/detalhe/asia-segue-ganhos-europeus-e-dos-eua-bolsa-sul-coreana-dispara-9-depois-de-um-crash",
-        "is_priority": true
-      },
-      {
-        "title": "Imigrantes lamentam aumento de taxas da AIMA",
-        "source": "Observador - Últimas",
-        "published": "Thu, 05 Mar 2026 07:50:40 +0000",
-        "url": "https://observador.pt/2026/03/05/imigrantes-lamentam-aumento-das-taxas-da-agencia-para-as-migracoes/",
-        "is_priority": true
-      },
-      {
-        "title": "Significant rise in fuel prices expected",
+        "title": "Ryanair reduces flight prices",
         "source": "The Portugal News",
-        "published": "Wed, 04 Mar 2026 20:03:00 +0000",
-        "url": "https://www.theportugalnews.com/news/2026-03-04/significant-rise-in-fuel-prices-expected/985014",
+        "published": "Thu, 05 Mar 2026 20:03:00 +0000",
+        "url": "https://www.theportugalnews.com/news/2026-03-05/ryanair-reduces-flight-prices/985472",
         "is_priority": false
       },
       {
-        "title": "AIMA raises regularisation fees",
+        "title": "Alert for fake AIMA website",
         "source": "The Portugal News",
-        "published": "Wed, 04 Mar 2026 19:03:00 +0000",
-        "url": "https://www.theportugalnews.com/news/2026-03-04/aima-raises-regularisation-fees/984951",
+        "published": "Thu, 05 Mar 2026 19:03:00 +0000",
+        "url": "https://www.theportugalnews.com/news/2026-03-05/alert-for-fake-aima-website/985470",
         "is_priority": false
       },
       {
-        "title": "Ryanair's ceasing Azores operation will impact local economy",
+        "title": "Portugal grants licence for space vehicle re-entry",
         "source": "The Portugal News",
-        "published": "Wed, 04 Mar 2026 18:03:00 +0000",
-        "url": "https://www.theportugalnews.com/news/2026-03-04/ryanairs-ceasing-azores-operation-will-impact-local-economy/984952",
+        "published": "Thu, 05 Mar 2026 18:03:00 +0000",
+        "url": "https://www.theportugalnews.com/news/2026-03-05/portugal-grants-licence-for-space-vehicle-re-entry/985469",
         "is_priority": false
       },
       {
-        "title": "Is Portugal prepared for an attack from Iran?",
+        "title": "Whale fossils found in Portugal",
         "source": "The Portugal News",
-        "published": "Wed, 04 Mar 2026 17:03:00 +0000",
-        "url": "https://www.theportugalnews.com/news/2026-03-04/is-portugal-prepared-for-an-attack-from-iran/984950",
+        "published": "Thu, 05 Mar 2026 17:03:00 +0000",
+        "url": "https://www.theportugalnews.com/news/2026-03-05/whale-fossils-found-in-portugal/985327",
         "is_priority": false
       },
       {
-        "title": "United Kingdom suspends granting of study visas",
+        "title": "Portugal considered the best place for retirement",
         "source": "The Portugal News",
-        "published": "Wed, 04 Mar 2026 16:33:00 +0000",
-        "url": "https://www.theportugalnews.com/news/2026-03-04/united-kingdom-suspends-granting-of-study-visas/984874",
+        "published": "Thu, 05 Mar 2026 16:03:00 +0000",
+        "url": "https://www.theportugalnews.com/news/2026-03-05/portugal-considered-the-best-place-for-retirement/985387",
         "is_priority": false
       },
       {
-        "title": "Increase in sales of obesity medication in Portugal",
+        "title": "Germany sees Portugal as a safe haven",
         "source": "The Portugal News",
-        "published": "Wed, 04 Mar 2026 16:03:00 +0000",
-        "url": "https://www.theportugalnews.com/news/2026-03-04/increase-in-sales-of-obesity-medication-in-portugal/984873",
+        "published": "Thu, 05 Mar 2026 15:03:00 +0000",
+        "url": "https://www.theportugalnews.com/news/2026-03-05/germany-sees-portugal-as-a-safe-haven/985346",
         "is_priority": false
       }
     ]

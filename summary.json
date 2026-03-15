@@ -1,16 +1,16 @@
 {
-  "global_theme": "Escalating Middle East geopolitical conflict introduces significant oil market volatility, while China's travel surge and Portugal's local economic stability present contrasting opportunities.",
-  "market_mood": "Volatile / Cautious",
-  "risk_signal": "Geopolitical conflict threatening global oil supply and shipping lanes.",
-  "opportunity_signal": "Increased global travel and local Portuguese economic initiatives, particularly in tourism and education.",
+  "global_theme": "Geopolitical instability in the Middle East is driving oil price volatility and supply chain concerns, impacting global economic stability and wealth accumulation, including for the EU.",
+  "market_mood": "Cautious Volatility",
+  "risk_signal": "Escalating geopolitical conflict, energy price surges",
+  "opportunity_signal": "AI-driven efficiency, resilient digital assets",
   "finance_sentiment": [
     {
       "i": 1,
-      "s": "-"
+      "s": "="
     },
     {
       "i": 2,
-      "s": "="
+      "s": "+"
     },
     {
       "i": 3,
@@ -18,27 +18,27 @@
     },
     {
       "i": 4,
-      "s": "+"
+      "s": "="
     },
     {
       "i": 5,
-      "s": "="
-    },
-    {
-      "i": 6,
-      "s": "="
-    },
-    {
-      "i": 7,
-      "s": "="
-    },
-    {
-      "i": 8,
       "s": "-"
     },
     {
-      "i": 9,
+      "i": 6,
+      "s": "-"
+    },
+    {
+      "i": 7,
+      "s": "-"
+    },
+    {
+      "i": 8,
       "s": "="
+    },
+    {
+      "i": 9,
+      "s": "-"
     },
     {
       "i": 10,
@@ -46,19 +46,19 @@
     },
     {
       "i": 11,
-      "s": "="
-    },
-    {
-      "i": 12,
       "s": "-"
     },
     {
+      "i": 12,
+      "s": "+"
+    },
+    {
       "i": 13,
-      "s": "="
+      "s": "+"
     },
     {
       "i": 14,
-      "s": "+"
+      "s": "="
     },
     {
       "i": 15,
@@ -67,28 +67,28 @@
   ],
   "insights": {
     "g1": [
-      "Global oil market volatility due to Middle East conflict directly impacts energy costs.",
-      "Geopolitical tensions demand a diversified investment strategy, mitigating regional risks.",
-      "Observe consumer travel trends (e.g., China) for potential service or product opportunities.",
-      "Raw material development, like Mozambique coking coal, signals long-term industrial demand.",
-      "Monitoring international conflicts is crucial for assessing broader economic stability and supply chains."
+      "Global conflicts amplify energy costs, directly impacting operational expenses for your solopreneur venture.",
+      "Supply chain disruptions necessitate agile sourcing strategies and possibly local production focus.",
+      "AI-driven efficiency, as seen with large retailers, is critical for solopreneurs to stay competitive.",
+      "Institutional interest in Bitcoin suggests digital assets could offer a hedge against traditional market volatility.",
+      "Widespread economic uncertainty may reduce consumer discretionary spending, requiring focus on essential value."
     ],
     "g2": [
-      "AI developments, though iterative ('starting over'), signify rapid evolution and opportunity for adaptation.",
-      "Cybersecurity threats (e.g., exposed API keys, scam centers) highlight demand for security expertise.",
-      "Content optimization for agents suggests a need for AI-driven content strategy skills.",
-      "Understanding new digital regulations (e.g., loot box age ratings) is vital for online businesses.",
-      "Explore AI tools for efficiency gains, like for content creation or customer service, to scale operations."
+      "AI's role in optimizing supply chains highlights its potential for solopreneurs managing complex operations.",
+      "Investigate how AI tools, like language models and creative software, can automate and enhance your workflow.",
+      "Exploring open-source tech (e.g., Han, GrobPaint) can provide cost-effective ways to develop unique solutions.",
+      "Understanding kernel anti-cheats or LLM distillation enhances your grasp of advanced tech applications.",
+      "The Claude Partner Network suggests growing opportunities for AI service integration and development skills."
     ],
     "g3": [
-      "Portugal's approval of fuel price reduction can positively impact local business operating costs.",
-      "'Futuralia 2026' and faster residence cards indicate government support for education and immigration, impacting local talent pool.",
-      "Stability in life expectancy suggests a healthy, potentially active older demographic for services.",
-      "Growth in luxury sectors in Portugal points to a target market for premium offerings.",
-      "Portuguese festivals gaining Iberian awards highlights cultural tourism potential for service providers."
+      "Portugal's new AI Law signals a need for solopreneurs to understand and adapt to emerging tech regulations.",
+      "Increasing building permits in Portugal could indicate opportunities in property-related or ancillary services.",
+      "Navigating changes with entities like AIMA (fees increase) is crucial for compliance and operational budgeting.",
+      "Local community needs, like those highlighted by associations, can reveal niche service opportunities.",
+      "Connecting with local networks can provide insights into regional economic shifts and collaborative ventures."
     ]
   },
-  "learning_task": "Dedicate 30 minutes to research 'AI content optimization tools' and explore their application for generating marketing copy or social media posts for your business.",
-  "biz_opportunity": "Offer AI-driven content creation services to small Portuguese tourism businesses struggling with multilingual marketing, capitalizing on increased travel and local event promotions.",
-  "built_at": "2026-03-14T07:59:00.212386+00:00"
+  "learning_task": "Spend 30 minutes researching free AI tools for solopreneurs to automate marketing, content creation, or customer service, directly contributing to efficiency gains towards your €35k goal.",
+  "biz_opportunity": "Offer specialized AI-powered efficiency consulting services for Portuguese solopreneurs, leveraging new AI regulations to help them optimize operations and stay compliant.",
+  "built_at": "2026-03-15T08:04:36.434375+00:00"
 }

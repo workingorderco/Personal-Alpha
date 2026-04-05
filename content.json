@@ -1,538 +1,538 @@
 {
-  "built_at": "2026-04-04T07:50:34.402475+00:00",
+  "built_at": "2026-04-05T07:56:58.523575+00:00",
   "sections": {
     "Finance": [
       {
-        "title": "Police investigate explosion at Israel Centre in the Netherlands",
+        "title": "OPEC+ Plans Symbolic Output Quota Hike Amid War, Delegates Say",
+        "source": "Bloomberg Markets",
+        "published": "Sun, 05 Apr 2026 07:30:21 GMT",
+        "url": "https://www.bloomberg.com/news/articles/2026-04-05/opec-plans-symbolic-output-quota-hike-amid-war-delegates-say",
+        "is_priority": false
+      },
+      {
+        "title": "High-stakes US special forces mission rescues airman from Iran after F-15 crash",
         "source": "All News",
-        "published": "2026-04-04 07:24:32",
-        "url": "https://www.investing.com/news/world-news/police-investigate-explosion-at-israel-centre-in-the-netherlands-4597522",
+        "published": "2026-04-05 07:18:47",
+        "url": "https://www.investing.com/news/world-news/us-rescues-airman-whose-f15-was-downed-in-iran-us-officials-say-4597580",
         "is_priority": false
       },
       {
-        "title": "Exclusive-Five EU finance ministers call for windfall profit tax on energy companies",
+        "title": "Egypt says it held calls with US Witkoff, regional counterparts",
         "source": "All News",
-        "published": "2026-04-04 07:24:30",
-        "url": "https://www.investing.com/news/stock-market-news/exclusivefive-eu-finance-ministers-call-for-windfall-profit-tax-on-energy-companies-4597521",
+        "published": "2026-04-05 07:18:31",
+        "url": "https://www.investing.com/news/world-news/egypt-says-it-held-calls-with-us-witkoff-regional-counterparts-4597589",
         "is_priority": false
       },
       {
-        "title": "IMF urges BOJ to keep raising rates even as Iran war poses new risks",
+        "title": "How could the DOJ shakeup affect the Powell investigation?",
         "source": "All News",
-        "published": "2026-04-04 07:18:24",
-        "url": "https://www.investing.com/news/economy-news/imf-urges-boj-to-keep-raising-rates-even-as-iran-war-poses-new-risks-4597520",
+        "published": "2026-04-05 07:10:08",
+        "url": "https://www.investing.com/news/economy-news/how-could-the-doj-shakeup-affect-the-powell-investigation-4597588",
         "is_priority": false
       },
       {
-        "title": "Ukrainian drones strike commercial ship and chemical hubs in Southern Russia",
-        "source": "All News",
-        "published": "2026-04-04 06:58:24",
-        "url": "https://www.investing.com/news/economy-news/ukrainian-drones-strike-commercial-ship-and-chemical-hubs-in-southern-russia-4597519",
-        "is_priority": false
-      },
-      {
-        "title": "Ukrainian drone and missile attack kills at least one in southern Russia, governor says",
-        "source": "All News",
-        "published": "2026-04-04 06:36:32",
-        "url": "https://www.investing.com/news/commodities-news/ukrainian-drone-and-missile-attack-kills-at-least-one-in-southern-russia-governor-says-4597518",
-        "is_priority": false
-      },
-      {
-        "title": "Iran executes two linked to opposition group, media say",
-        "source": "All News",
-        "published": "2026-04-04 06:36:10",
-        "url": "https://www.investing.com/news/world-news/iran-executes-two-linked-to-opposition-group-media-say-4597517",
-        "is_priority": false
-      },
-      {
-        "title": "Telegram’s Durov says Russia triggered payment system problem by blocking VPNs",
-        "source": "All News",
-        "published": "2026-04-04 06:30:28",
-        "url": "https://www.investing.com/news/economy-news/telegrams-durov-says-russia-triggered-payment-system-problem-by-blocking-vpns-4597516",
-        "is_priority": false
-      },
-      {
-        "title": "What’s behind Nomura’s call for later Fed rate cuts?",
-        "source": "All News",
-        "published": "2026-04-04 06:00:48",
-        "url": "https://www.investing.com/news/economy-news/whats-behind-nomuras-call-for-later-fed-rate-cuts-4597515",
-        "is_priority": false
-      },
-      {
-        "title": "Downed planes spell new peril for Trump as Tehran hunts missing US pilot",
-        "source": "All News",
-        "published": "2026-04-04 05:54:27",
-        "url": "https://www.investing.com/news/commodities-news/downed-planes-spell-new-peril-for-trump-as-tehran-hunts-missing-us-pilot-4597514",
-        "is_priority": false
-      },
-      {
-        "title": "Soccer-One killed, dozens hurt as Peru stadium event goes awry",
-        "source": "All News",
-        "published": "2026-04-04 05:54:10",
-        "url": "https://www.investing.com/news/world-news/soccerone-killed-dozens-hurt-as-peru-stadium-event-goes-awry-4597513",
-        "is_priority": false
-      },
-      {
-        "title": "In the Philippines, Rising Fuel Prices Force Travelers to Stay Home During Holy Week",
-        "source": "NYT > Business",
-        "published": "Sat, 04 Apr 2026 01:25:35 +0000",
-        "url": "https://www.nytimes.com/2026/04/03/world/asia/philippines-holy-week-oil-fuel-prices.html",
-        "is_priority": false
-      },
-      {
-        "title": "March Jobs Report Shows Stronger U.S. Market Than Expected With 178,000 New Positions",
-        "source": "NYT > Business",
-        "published": "Sat, 04 Apr 2026 00:07:47 +0000",
-        "url": "https://www.nytimes.com/2026/04/03/business/economy/jobs-report-hiring-unemployment.html",
-        "is_priority": false
-      },
-      {
-        "title": "War With Iran Clarifies Trump’s Spending Priorities: The Military, Not Child Care",
-        "source": "NYT > Business",
-        "published": "Sat, 04 Apr 2026 00:02:20 +0000",
-        "url": "https://www.nytimes.com/2026/04/02/us/politics/trump-military-spending-budget.html",
-        "is_priority": false
-      },
-      {
-        "title": "OpenAI's Fidji Simo takes medical leave, announces leadership changes",
+        "title": "Trump confirms both military officers missing in Iran have been rescued",
         "source": "US Top News and Analysis",
-        "published": "Fri, 03 Apr 2026 22:40:38 GMT",
-        "url": "https://www.cnbc.com/2026/04/03/openai-fidji-simo-medical-leave-executive-changes.html",
+        "published": "Sun, 05 Apr 2026 07:08:08 GMT",
+        "url": "https://www.cnbc.com/2026/04/05/us-trump-confirms-missing-us-pilot-rescued.html",
         "is_priority": false
       },
       {
-        "title": "'Chasing vibes' — OpenAI's M&A strategy gets more confusing with TBPN purchase",
-        "source": "US Top News and Analysis",
-        "published": "Fri, 03 Apr 2026 22:13:34 GMT",
-        "url": "https://www.cnbc.com/2026/04/03/chasing-vibes-openai-ma-strategy-gets-more-confusing-with-tbpn-.html",
+        "title": "Saudi non-oil sector hits first contraction since 2020 as war halts orders",
+        "source": "All News",
+        "published": "2026-04-05 06:08:45",
+        "url": "https://www.investing.com/news/economy-news/saudi-nonoil-sector-hits-first-contraction-since-2020-as-war-halts-orders-4597587",
+        "is_priority": false
+      },
+      {
+        "title": "Saudi Arabia’s non-oil business activity shrinks in March amid conflict, PMI shows",
+        "source": "All News",
+        "published": "2026-04-05 05:48:28",
+        "url": "https://www.investing.com/news/commodities-news/saudi-arabias-nonoil-business-activity-shrinks-in-march-amid-conflict-pmi-shows-4597586",
+        "is_priority": false
+      },
+      {
+        "title": "War weighs on Egypt’s private sector as PMI hits near two-year low in March",
+        "source": "All News",
+        "published": "2026-04-05 05:42:23",
+        "url": "https://www.investing.com/news/economic-indicators/war-weighs-on-egypts-private-sector-as-pmi-hits-near-twoyear-low-in-march-4597585",
+        "is_priority": false
+      },
+      {
+        "title": "Iran executes two men involved in January protests judiciary news outlet says",
+        "source": "All News",
+        "published": "2026-04-05 05:36:07",
+        "url": "https://www.investing.com/news/world-news/iran-executes-two-men-involved-in-january-protests-judiciary-news-outlet-says-4597584",
+        "is_priority": false
+      },
+      {
+        "title": "Italy Sets Jet Fuel Limits at Some Airports on Supply Shortage",
+        "source": "Bloomberg Markets",
+        "published": "Sun, 05 Apr 2026 05:03:49 GMT",
+        "url": "https://www.bloomberg.com/news/articles/2026-04-05/italy-sets-jet-fuel-limits-at-some-airports-on-supply-shortage",
+        "is_priority": false
+      },
+      {
+        "title": "Britain woos Anthropic expansion after US defence clash, FT says",
+        "source": "All News",
+        "published": "2026-04-05 05:00:29",
+        "url": "https://www.investing.com/news/stock-market-news/britain-woos-expansion-effort-by-anthropic-after-us-defence-clash-ft-says-4597582",
+        "is_priority": false
+      },
+      {
+        "title": "Danantara Advances Asset Manager Merger With $159 Million Deal",
+        "source": "Bloomberg Markets",
+        "published": "Sun, 05 Apr 2026 05:00:26 GMT",
+        "url": "https://www.bloomberg.com/news/articles/2026-04-05/danantara-advances-asset-manager-merger-with-159-million-deal",
+        "is_priority": false
+      },
+      {
+        "title": "Can the energy price shock push the UK into recession?",
+        "source": "All News",
+        "published": "2026-04-05 04:52:30",
+        "url": "https://www.investing.com/news/economy-news/can-the-energy-price-shock-push-the-uk-into-recession-4597583",
+        "is_priority": false
+      },
+      {
+        "title": "2nd-U.S. pilot rescued in Iran, ‘we got him!’ says Trump",
+        "source": "All News",
+        "published": "2026-04-05 04:23:34",
+        "url": "https://www.investing.com/news/economy-news/kuwait-petroleum-headquarters-engulfed-in-flames-following-iranian-drone-strike-4597572",
+        "is_priority": false
+      },
+      {
+        "title": "Missing US Airman Rescued as Iran Steps Up Attacks on Neighbors",
+        "source": "Bloomberg Markets",
+        "published": "Sun, 05 Apr 2026 03:49:59 GMT",
+        "url": "https://www.bloomberg.com/news/articles/2026-04-05/missing-us-airman-rescued-after-jet-downed-in-iran-axios",
         "is_priority": false
       }
     ],
     "World News": [
       {
-        "title": "Manchester City v Liverpool kicks off FA Cup quarter-finals, Fernández latest and more – matchday live",
+        "title": "West Ham v Leeds buildup plus Scottish Premiership and Women’s FA Cup – matchday live",
         "source": "The Guardian",
-        "published": "Sat, 04 Apr 2026 07:43:31 GMT",
-        "url": "https://www.theguardian.com/football/live/2026/apr/04/manchester-city-v-liverpool-kicks-off-fa-cup-quarter-finals-fernandez-latest-and-more-matchday-live",
+        "published": "Sun, 05 Apr 2026 07:52:30 GMT",
+        "url": "https://www.theguardian.com/football/live/2026/apr/05/west-ham-v-leeds-buildup-plus-scottish-premiership-and-womens-fa-cup-matchday-live",
         "is_priority": false
       },
       {
-        "title": "Afghanistan earthquake kills eight members of same family",
-        "source": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
-        "published": "Sat, 04 Apr 2026 07:23:53 +0000",
-        "url": "https://www.aljazeera.com/news/2026/4/4/afghanistan-earthquake-kills-eight-members-of-same-family?traffic_source=rss",
-        "is_priority": false
-      },
-      {
-        "title": "Middle East crisis live: US and Iranian forces race to recover missing pilot from downed jet; Israel bombards Beirut",
+        "title": "Middle East crisis live: Trump says F-15 crew member missing in Iran is ‘safe’ after ‘dozens of aircraft’ sent to recover him",
         "source": "World news | The Guardian",
-        "published": "Sat, 04 Apr 2026 07:21:45 GMT",
-        "url": "https://www.theguardian.com/world/live/2026/apr/04/middle-east-crisis-live-us-iran-war-missing-pilot-downed-jet-israel-bombards-beirut",
+        "published": "Sun, 05 Apr 2026 07:47:18 GMT",
+        "url": "https://www.theguardian.com/world/live/2026/apr/05/middle-east-crisis-live-iran-israel-us-war-trump-strait-hormuz-missing-pilot-downed",
         "is_priority": false
       },
       {
-        "title": "Iran War Live Updates: U.S. Forces Search for Missing Airman After Iran Downs Jet",
+        "title": "Iran War Live Updates: U.S. Rescues Officer From Downed Fighter Jet in Iran, Trump Says",
         "source": "NYT > World News",
-        "published": "Sat, 04 Apr 2026 07:07:51 +0000",
-        "url": "https://www.nytimes.com/live/2026/04/04/world/iran-war-trump-news",
+        "published": "Sun, 05 Apr 2026 07:35:33 +0000",
+        "url": "https://www.nytimes.com/live/2026/04/05/world/iran-war-trump-news",
         "is_priority": false
       },
       {
-        "title": "Architect of the Easter Rising, hanged as a traitor: for Roger Casement, a pardon still seems far away | Rory Carroll",
+        "title": "How Paris swapped cars for bikes – and transformed its streets",
+        "source": "World news | The Guardian",
+        "published": "Sun, 05 Apr 2026 07:00:44 GMT",
+        "url": "https://www.theguardian.com/world/2026/apr/05/how-paris-swapped-cars-for-bikes-and-remade-its-streets",
+        "is_priority": false
+      },
+      {
+        "title": "Preparations for the Miyako Odori, Kyoto’s spring dance festival – in pictures",
         "source": "The Guardian",
-        "published": "Sat, 04 Apr 2026 07:00:16 GMT",
-        "url": "https://www.theguardian.com/commentisfree/2026/apr/04/roger-casement-hanged-traitor-pardon-ireland-easter-rising",
+        "published": "Sun, 05 Apr 2026 07:00:44 GMT",
+        "url": "https://www.theguardian.com/world/gallery/2026/apr/05/miyako-odori-kyoto-japan-spring-dance-festival-in-pictures",
         "is_priority": false
       },
       {
-        "title": "Death, displacement and military duties: children plunged into crisis by Middle East war",
+        "title": "How a mother turned her drowned daughter’s passion into a thriving patisserie",
         "source": "The Guardian",
-        "published": "Sat, 04 Apr 2026 07:00:15 GMT",
-        "url": "https://www.theguardian.com/world/2026/apr/04/children-us-israel-iran-war-middle-east",
+        "published": "Sun, 05 Apr 2026 07:00:44 GMT",
+        "url": "https://www.theguardian.com/world/2026/apr/05/germany-patisserie-johanna-orth-bereaved-parents-ahr-valley-floods",
         "is_priority": false
       },
       {
-        "title": "Southampton’s Daniel Peretz: ‘We have a lot of respect for Arsenal, but we are not afraid’",
+        "title": "Spurs gamble on creative but combative De Zerbi conjuring up an escape plan",
         "source": "The Guardian",
-        "published": "Sat, 04 Apr 2026 07:00:14 GMT",
-        "url": "https://www.theguardian.com/football/2026/apr/04/southamptons-daniel-peretz-we-have-a-lot-of-respect-for-arsenal-but-we-are-not-afraid",
+        "published": "Sun, 05 Apr 2026 07:00:43 GMT",
+        "url": "https://www.theguardian.com/football/2026/apr/05/spurs-roberto-de-zerbi-premier-league-escape-plan",
         "is_priority": false
       },
       {
-        "title": "Artemis II crew now halfway to Moon as they take 'spectacular' image of Earth",
+        "title": "What we know so far about rescue of US airman in Iran",
         "source": "BBC News",
-        "published": "Sat, 04 Apr 2026 06:42:48 GMT",
-        "url": "https://www.bbc.com/news/articles/ce8jzr423p9o?at_medium=RSS&at_campaign=rss",
+        "published": "Sun, 05 Apr 2026 06:59:48 GMT",
+        "url": "https://www.bbc.com/news/articles/cm2k1dgz142o?at_medium=RSS&at_campaign=rss",
         "is_priority": false
       },
       {
-        "title": "Confidential report found former home affairs boss Michael Pezzullo was ‘reckless’ in engagement with Liberal powerbroker",
-        "source": "World news | The Guardian",
-        "published": "Sat, 04 Apr 2026 06:40:09 GMT",
-        "url": "https://www.theguardian.com/australia-news/2026/apr/04/confidential-report-found-former-home-affairs-boss-michael-pezzullo-was-reckless-in-engagement-with-liberal-powerbroker",
-        "is_priority": false
-      },
-      {
-        "title": "Man and woman arrested on suspicion of murder in Barnsley after pedestrian dies in collision",
-        "source": "World news | The Guardian",
-        "published": "Sat, 04 Apr 2026 06:34:22 GMT",
-        "url": "https://www.theguardian.com/uk-news/2026/apr/04/man-woman-arrested-barnsley-collision",
+        "title": "‘Miraculous’: US rescues second pilot downed in Iran, Trump confirms",
+        "source": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
+        "published": "Sun, 05 Apr 2026 06:51:57 +0000",
+        "url": "https://www.aljazeera.com/news/2026/4/5/us-rescues-airman-whose-f-15-was-downed-in-iran-trump-confirms?traffic_source=rss",
         "is_priority": false
       },
       {
         "title": "Here’s the latest.",
         "source": "NYT > World News",
-        "published": "Sat, 04 Apr 2026 06:33:56 +0000",
-        "url": "https://www.nytimes.com/live/2026/04/04/world/iran-war-trump-news/heres-the-latest",
+        "published": "Sun, 05 Apr 2026 06:37:05 +0000",
+        "url": "https://www.nytimes.com/live/2026/04/05/world/iran-war-trump-news/heres-the-latest",
         "is_priority": false
       },
       {
-        "title": "Victoria police arrest two people as part of Dezi Freeman investigation",
+        "title": "Missing US pilot has been rescued in Iran, says Trump",
+        "source": "News | Euronews RSS",
+        "published": "Sun, 05 Apr 2026 08:30:43 +0200",
+        "url": "http://www.euronews.com/my-europe/2026/04/05/missing-us-pilot-has-been-rescued-in-iran-says-trump",
+        "is_priority": false
+      },
+      {
+        "title": "Wilder edges retiring Chisora in chaotic heavyweight boxing fight",
+        "source": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
+        "published": "Sun, 05 Apr 2026 06:30:20 +0000",
+        "url": "https://www.aljazeera.com/sports/2026/4/5/wilder-edges-retiring-chisora-in-chaotic-heavyweight-boxing-fight?traffic_source=rss",
+        "is_priority": false
+      },
+      {
+        "title": "‘Nothing prepares you’: The invisible lives of carers in the UK",
+        "source": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
+        "published": "Sun, 05 Apr 2026 06:08:05 +0000",
+        "url": "https://www.aljazeera.com/features/2026/4/5/nothing-prepares-you-the-invisible-lives-of-carers-in-the-uk?traffic_source=rss",
+        "is_priority": false
+      },
+      {
+        "title": "Fair Work Agency’s priorities criticised days before its launch",
         "source": "World news | The Guardian",
-        "published": "Sat, 04 Apr 2026 06:32:12 GMT",
-        "url": "https://www.theguardian.com/global/2026/apr/04/dezi-freeman-investigation-arrests-victoria-police-porepunkah-ntwnfb",
+        "published": "Sun, 05 Apr 2026 06:00:43 GMT",
+        "url": "https://www.theguardian.com/business/2026/apr/05/fair-work-agency-criticised-launch-dead-duck-employment-rights",
         "is_priority": false
       },
       {
-        "title": "Oats, sardines and crisps: emergency foods to stockpile – and why you should share them",
-        "source": "The Guardian",
-        "published": "Sat, 04 Apr 2026 06:00:15 GMT",
-        "url": "https://www.theguardian.com/food/2026/apr/04/foods-to-stockpile-emergency-store",
-        "is_priority": false
-      },
-      {
-        "title": "Chess Mates: the fantastic true story of the sex toy rumour that buzzed around the world",
-        "source": "The Guardian",
-        "published": "Sat, 04 Apr 2026 06:00:15 GMT",
-        "url": "https://www.theguardian.com/tv-and-radio/2026/apr/04/chess-mates-untold-cheating-scandal-netflix",
-        "is_priority": false
-      },
-      {
-        "title": "What links PT Barnum’s elephant with a book of Job beast? The Saturday quiz",
-        "source": "The Guardian",
-        "published": "Sat, 04 Apr 2026 06:00:15 GMT",
-        "url": "https://www.theguardian.com/lifeandstyle/2026/apr/04/what-links-pt-barnums-elephant-with-a-book-of-job-beast-the-saturday-quiz",
+        "title": "Ministers working with Labour backbenchers to temper Mahmood immigration plans",
+        "source": "World news | The Guardian",
+        "published": "Sun, 05 Apr 2026 06:00:42 GMT",
+        "url": "https://www.theguardian.com/uk-news/2026/apr/05/ministers-labour-backbenchers-temper-shabana-mahmood-immigration-plans",
         "is_priority": false
       }
     ],
     "Tech": [
       {
-        "title": "Anker’s Nebula P1 projector is the portable sound king",
-        "source": "The Verge",
-        "published": "2026-04-04T03:00:00-04:00",
-        "url": "https://www.theverge.com/reviews/906455/anker-nebula-p1-review-vanlife-sound-champ",
-        "is_priority": false
-      },
-      {
-        "title": "Emotion concepts and their function in a large language model",
+        "title": "Modern Generic SVGA driver for Windows 3.1",
         "source": "Hacker News: Front Page",
-        "published": "Sat, 04 Apr 2026 06:30:25 +0000",
-        "url": "https://www.anthropic.com/research/emotion-concepts-function",
+        "published": "Sun, 05 Apr 2026 05:28:41 +0000",
+        "url": "https://github.com/PluMGMK/vbesvga.drv",
         "is_priority": false
       },
       {
-        "title": "Scientists are working on \"everything vaccines\"",
+        "title": "Introduction to Computer Music (2009) [pdf]",
         "source": "Hacker News: Front Page",
-        "published": "Sat, 04 Apr 2026 05:47:18 +0000",
-        "url": "https://economist.com/science-and-technology/2026/04/01/scientists-are-working-on-everything-vaccines",
+        "published": "Sun, 05 Apr 2026 01:54:29 +0000",
+        "url": "https://composerprogrammer.com/introductiontocomputermusic.pdf",
         "is_priority": false
       },
       {
-        "title": "Maytag Promo Codes and Deals: Appliances Under $300",
-        "source": "WIRED",
-        "published": "Sat, 04 Apr 2026 05:00:00 +0000",
-        "url": "https://www.wired.com/story/maytag-promo-code/",
-        "is_priority": false
-      },
-      {
-        "title": "Anthropic cuts off the ability to use Claude subscriptions with OpenClaw and third-party AI agents",
-        "source": "VentureBeat",
-        "published": "Sat, 04 Apr 2026 03:55:25 GMT",
-        "url": "https://venturebeat.com/technology/anthropic-cuts-off-the-ability-to-use-claude-subscriptions-with-openclaw-and",
-        "is_priority": false
-      },
-      {
-        "title": "Gold overtakes U.S. Treasuries as the largest foreign reserve asset",
+        "title": "Demonstrating Real Time AV2 Decoding on Consumer Laptops",
         "source": "Hacker News: Front Page",
-        "published": "Sat, 04 Apr 2026 02:30:32 +0000",
-        "url": "https://economictimes.indiatimes.com/news/international/us/gold-overtakes-u-s-treasuries-as-the-worlds-largest-foreign-reserve-asset-in-2026-can-gold-challenge-the-u-s-dollars-dominance-and-hold-its-ground/articleshow/126420128.cms?from=mdr",
+        "published": "Sun, 05 Apr 2026 01:32:28 +0000",
+        "url": "http://aomedia.org/blog%20posts/Demonstrating-Real-Time-AV2-Decoding-on-Consumer-Laptops/",
         "is_priority": false
       },
       {
-        "title": "Show HN: Travel Hacking Toolkit – Points search and trip planning with AI",
+        "title": "Show HN: Contrapunk – Real-time counterpoint harmony from guitar input, in Rust",
         "source": "Hacker News: Front Page",
-        "published": "Sat, 04 Apr 2026 02:26:42 +0000",
-        "url": "https://github.com/borski/travel-hacking-toolkit",
+        "published": "Sun, 05 Apr 2026 00:40:18 +0000",
+        "url": "https://contrapunk.com/",
         "is_priority": false
       },
       {
-        "title": "Delve removed from Y Combinator",
+        "title": "AWS engineer reports PostgreSQL perf halved by Linux 7.0, fix may not be easy",
         "source": "Hacker News: Front Page",
-        "published": "Sat, 04 Apr 2026 01:37:02 +0000",
-        "url": "https://www.ycombinator.com/companies/delve",
+        "published": "Sun, 05 Apr 2026 00:13:55 +0000",
+        "url": "https://www.phoronix.com/news/Linux-7.0-AWS-PostgreSQL-Drop",
         "is_priority": false
       },
       {
-        "title": "Anthropic is having a moment in the private markets; SpaceX could spoil the party",
-        "source": "TechCrunch",
-        "published": "Sat, 04 Apr 2026 01:31:00 +0000",
-        "url": "https://techcrunch.com/2026/04/03/anthropic-is-having-a-moment-in-the-private-markets-spacex-could-spoil-the-party/",
-        "is_priority": false
-      },
-      {
-        "title": "Lucid blames dip in Q1 sales on seat supplier issue",
-        "source": "TechCrunch",
-        "published": "Sat, 04 Apr 2026 01:03:13 +0000",
-        "url": "https://techcrunch.com/2026/04/03/lucid-blames-dip-in-q1-sales-on-seat-supplier-issue/",
-        "is_priority": false
-      },
-      {
-        "title": "The FAA’s flight restriction for drones is an attempt to criminalize filming ICE",
-        "source": "Hacker News: Front Page",
-        "published": "Fri, 03 Apr 2026 23:56:32 +0000",
-        "url": "https://www.eff.org/deeplinks/2026/04/faas-temporary-flight-restriction-drones-blatant-attempt-criminalize-filming-ice",
-        "is_priority": false
-      },
-      {
-        "title": "Anthropic essentially bans OpenClaw from Claude by making subscribers pay extra",
-        "source": "The Verge",
-        "published": "2026-04-03T19:52:49-04:00",
-        "url": "https://www.theverge.com/ai-artificial-intelligence/907074/anthropic-openclaw-claude-subscription-ban",
-        "is_priority": false
-      },
-      {
-        "title": "Karpathy shares 'LLM Knowledge Base' architecture that bypasses RAG with an evolving markdown library maintained by AI",
-        "source": "VentureBeat",
-        "published": "Fri, 03 Apr 2026 23:30:50 GMT",
-        "url": "https://venturebeat.com/data/karpathy-shares-llm-knowledge-base-architecture-that-bypasses-rag-with-an",
-        "is_priority": false
-      },
-      {
-        "title": "Nvidia launches enterprise AI agent platform with Adobe, Salesforce, SAP among 17 adopters at GTC 2026",
-        "source": "VentureBeat",
-        "published": "Fri, 03 Apr 2026 23:25:01 GMT",
-        "url": "https://venturebeat.com/technology/nvidia-launches-enterprise-ai-agent-platform-with-adobe-salesforce-sap-among",
-        "is_priority": false
-      },
-      {
-        "title": "Trump proposes steep cut to NASA budget as astronauts head for the Moon",
+        "title": "Artemis II is going so well that we're left to talk about frozen urine",
         "source": "Ars Technica - All content",
-        "published": "Fri, 03 Apr 2026 23:19:36 +0000",
-        "url": "https://arstechnica.com/space/2026/04/trump-proposes-steep-cut-to-nasa-budget-as-astronauts-head-for-the-moon/",
+        "published": "Sun, 05 Apr 2026 00:12:45 +0000",
+        "url": "https://arstechnica.com/space/2026/04/artemis-ii-is-going-so-well-that-were-left-to-talk-about-frozen-urine/",
+        "is_priority": false
+      },
+      {
+        "title": "Nvim-treesitter (13K+ Stars) is Archived",
+        "source": "Hacker News: Front Page",
+        "published": "Sat, 04 Apr 2026 23:39:44 +0000",
+        "url": "https://github.com/nvim-treesitter/nvim-treesitter/discussions/8627",
+        "is_priority": false
+      },
+      {
+        "title": "Advice to young people, the lies I tell myself (2024)",
+        "source": "Hacker News: Front Page",
+        "published": "Sat, 04 Apr 2026 23:18:54 +0000",
+        "url": "https://jxnl.co/writing/2024/06/01/advice-to-young-people/",
+        "is_priority": false
+      },
+      {
+        "title": "German implementation of eIDAS will require an Apple/Google account to function",
+        "source": "Hacker News: Front Page",
+        "published": "Sat, 04 Apr 2026 22:57:44 +0000",
+        "url": "https://bmi.usercontent.opencode.de/eudi-wallet/wallet-development-documentation-public/latest/architecture-concept/06-mobile-devices/02-mdvm/",
+        "is_priority": false
+      },
+      {
+        "title": "Peter Thiel’s big bet on solar-powered cow collars",
+        "source": "TechCrunch",
+        "published": "Sat, 04 Apr 2026 21:30:00 +0000",
+        "url": "https://techcrunch.com/2026/04/04/unpacking-peter-thiels-big-bet-on-solar-powered-cow-collars/",
+        "is_priority": false
+      },
+      {
+        "title": "Embattled startup Delve has ‘parted ways’ with Y Combinator",
+        "source": "TechCrunch",
+        "published": "Sat, 04 Apr 2026 21:03:43 +0000",
+        "url": "https://techcrunch.com/2026/04/04/embattled-startup-delve-has-parted-ways-with-y-combinator/",
+        "is_priority": false
+      },
+      {
+        "title": "Tech companies are trying to neuter Colorado’s landmark right-to-repair law",
+        "source": "Ars Technica - All content",
+        "published": "Sat, 04 Apr 2026 20:36:49 +0000",
+        "url": "https://arstechnica.com/tech-policy/2026/04/tech-companies-are-trying-to-neuter-colorados-landmark-right-to-repair-law/",
+        "is_priority": false
+      },
+      {
+        "title": "Show HN: M. C. Escher spiral in WebGL inspired by 3Blue1Brown",
+        "source": "Hacker News: Front Page",
+        "published": "Sat, 04 Apr 2026 19:43:54 +0000",
+        "url": "https://static.laszlokorte.de/escher/",
+        "is_priority": false
+      },
+      {
+        "title": "How many products does Microsoft have named 'Copilot'?",
+        "source": "Hacker News: Front Page",
+        "published": "Sat, 04 Apr 2026 19:39:43 +0000",
+        "url": "https://teybannerman.com/strategy/2026/03/31/how-many-microsoft-copilot-are-there.html",
+        "is_priority": false
+      },
+      {
+        "title": "What Teens Are Doing With Those Role-Playing Chatbots",
+        "source": "NYT > Technology",
+        "published": "Sat, 04 Apr 2026 18:10:37 +0000",
+        "url": "https://www.nytimes.com/2026/04/04/technology/ai-chatbots-teen-roleplay.html",
         "is_priority": false
       }
     ],
     "Automotive/Motorcycle": [
       {
-        "title": "Analysis: Antonelli is leading F1's title hunt, but is he quicker than Russell?",
+        "title": "Super Formula Motegi: Ohta scores back-to-back wins",
         "source": "Autosport.com - All - Stories",
-        "published": "Sat, 04 Apr 2026 07:35:48 +0000",
-        "url": "https://www.autosport.com/f1/news/analysis-antonelli-is-leading-f1s-title-hunt-but-is-he-quicker-than-russell/10810745/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-ALL&utm_term=News&utm_content=uk",
+        "published": "Sun, 05 Apr 2026 07:38:04 +0000",
+        "url": "https://www.autosport.com/super-formula/news/super-formula-motegi-ohta-scores-back-to-back-wins/10810933/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-ALL&utm_term=News&utm_content=uk",
         "is_priority": false
       },
       {
-        "title": "The longest road tunnels in the world",
+        "title": "Storm chasing in the 634bhp Corvette hybrid: can it hold its own?",
         "source": "Autocar RSS Feed",
-        "published": "Sat, 4 Apr 2026 07:30:00 +0100",
-        "url": "https://www.autocar.co.uk/car-news/slideshow/longest-road-tunnels-world-1",
+        "published": "Sun, 5 Apr 2026 06:00:00 +0100",
+        "url": "https://www.autocar.co.uk/car-news/new-cars/storm-chasing-634bhp-corvette-hybrid-can-it-hold-its-own",
         "is_priority": false
       },
       {
-        "title": "Magnum P.I.'s Ferrari 308 Could Be Yours, Though You'll Still Have To Grow The 'Stache Yourself",
+        "title": "The Key Differences Between Chip Tuning And Remapping",
         "source": "Jalopnik - Obsessed with the culture of cars",
-        "published": "Sat, 04 Apr 2026 03:25:00 +0000",
-        "url": "https://www.jalopnik.com/2139413/magnum-pi-ferrari-308-at-auction/",
+        "published": "Sun, 05 Apr 2026 03:25:00 +0000",
+        "url": "https://www.jalopnik.com/2137651/what-are-key-differences-between-chip-tuning-and-remapping/",
         "is_priority": false
       },
       {
-        "title": "Lucid Gravity",
-        "source": "Autocar RSS Feed",
-        "published": "Fri, 3 Apr 2026 23:01:50 +0100",
-        "url": "https://www.autocar.co.uk/car-review/lucid/gravity",
+        "title": "Are Cars Really Cheaper In America Than Europe?",
+        "source": "Jalopnik - Obsessed with the culture of cars",
+        "published": "Sun, 05 Apr 2026 02:25:00 +0000",
+        "url": "https://www.jalopnik.com/2135759/are-cars-cheaper-in-america-than-europe/",
         "is_priority": false
       },
       {
-        "title": "Lucid to launch in UK next year with BMW iX3 rival",
-        "source": "Autocar RSS Feed",
-        "published": "Fri, 3 Apr 2026 23:01:00 +0100",
-        "url": "https://www.autocar.co.uk/car-news/electric-cars/lucid-launch-uk-next-year-bmw-ix3-rival",
+        "title": "A P-Pump Conversion Kit Could Be The Answer To Upping Your 24V Diesel Cummins' Power",
+        "source": "Jalopnik - Obsessed with the culture of cars",
+        "published": "Sun, 05 Apr 2026 01:25:00 +0000",
+        "url": "https://www.jalopnik.com/2136004/p-pump-conversion-kit-24v-cummins-diesel/",
         "is_priority": false
       },
       {
-        "title": "This new Ohio solar farm is powered by Ohio-made panels",
+        "title": "Used GMC Models To Avoid, According To Consumer Reports",
+        "source": "Jalopnik - Obsessed with the culture of cars",
+        "published": "Sun, 05 Apr 2026 00:25:00 +0000",
+        "url": "https://www.jalopnik.com/2136487/used-gmc-models-avoid-consumer-reports/",
+        "is_priority": false
+      },
+      {
+        "title": "Here's How To Tell If Your Piston Rings Are Stuck (And What To Do About It)",
+        "source": "Jalopnik - Obsessed with the culture of cars",
+        "published": "Sun, 05 Apr 2026 00:05:00 +0000",
+        "url": "https://www.jalopnik.com/2135984/how-to-tell-if-piston-rings-are-stuck/",
+        "is_priority": false
+      },
+      {
+        "title": "Understanding Porsche's 3-Digit Model Names",
+        "source": "Jalopnik - Obsessed with the culture of cars",
+        "published": "Sat, 04 Apr 2026 23:25:00 +0000",
+        "url": "https://www.jalopnik.com/2135971/why-porsche-uses-3-digit-model-names/",
+        "is_priority": false
+      },
+      {
+        "title": "How Reliable Is The Buick Envista? Here's What JD Power Says",
+        "source": "Jalopnik - Obsessed with the culture of cars",
+        "published": "Sat, 04 Apr 2026 22:25:00 +0000",
+        "url": "https://www.jalopnik.com/2135851/buick-envista-reliability-jd-power/",
+        "is_priority": false
+      },
+      {
+        "title": "Mercedes Service Tech Allegedly Uses Customer's Car To Meet A Date At A Sports Bar",
+        "source": "Jalopnik - Obsessed with the culture of cars",
+        "published": "Sat, 04 Apr 2026 21:05:00 +0000",
+        "url": "https://www.jalopnik.com/2139567/mercedes-service-tech-uses-customers-car-meet-date-bar/",
+        "is_priority": false
+      },
+      {
+        "title": "11 Supercars With Mind-Boggling Torque Specs",
+        "source": "Jalopnik - Obsessed with the culture of cars",
+        "published": "Sat, 04 Apr 2026 20:45:00 +0000",
+        "url": "https://www.jalopnik.com/2136758/supercars-with-mind-boggling-torque-specs/",
+        "is_priority": false
+      },
+      {
+        "title": "Does Maserati Deserve Its Bad Reputation? Here's What Owners Say",
+        "source": "Jalopnik - Obsessed with the culture of cars",
+        "published": "Sat, 04 Apr 2026 20:05:00 +0000",
+        "url": "https://www.jalopnik.com/2135684/does-maserati-deserve-bad-reputation-owners/",
+        "is_priority": false
+      },
+      {
+        "title": "Port of LA turns to electric terminal trucks to to slash dwell times",
         "source": "Electrek",
-        "published": "Fri, 03 Apr 2026 21:36:47 +0000",
-        "url": "https://electrek.co/2026/04/03/ohio-solar-farm-powered-by-ohio-made-panels/",
+        "published": "Sat, 04 Apr 2026 19:07:38 +0000",
+        "url": "https://electrek.co/2026/04/04/port-of-la-turns-to-electric-terminal-trucks-to-to-slash-dwell-times/",
         "is_priority": false
       },
       {
-        "title": "U.S.-Iran War Is Stranding Sailors In The Strait Of Hormuz",
+        "title": "Nissan Recalls 51 New Leaf EVs For Spontaneous Combustion, Even When Not Plugged In",
         "source": "Jalopnik - Obsessed with the culture of cars",
-        "published": "Fri, 03 Apr 2026 21:18:42 +0000",
-        "url": "https://www.jalopnik.com/2139587/us-iran-war-stranding-sailors-strait-of-hormuz/",
+        "published": "Sat, 04 Apr 2026 19:05:00 +0000",
+        "url": "https://www.jalopnik.com/2139505/nissan-recalls-51-new-leaf-evs-spontaneous-combustion/",
         "is_priority": false
       },
       {
-        "title": "The Next-Gen Nissan GT-R's Price and Powertrain May Surprise You",
-        "source": "Latest Content - Car and Driver",
-        "published": "Fri, 03 Apr 2026 21:00:00 +0000",
-        "url": "https://www.caranddriver.com/news/a70930066/future-nissan-gtr-price-v6-hybrid-report/",
-        "is_priority": false
-      },
-      {
-        "title": "Jaguar: We Will Be 'Exclusively Electric'",
-        "source": "Motor1.com - News",
-        "published": "Fri, 03 Apr 2026 21:00:00 +0000",
-        "url": "https://www.motor1.com/news/792058/jaguar-rawdon-glover-interview/",
-        "is_priority": false
-      },
-      {
-        "title": "Every Tire Brand Owned By Continental",
-        "source": "Jalopnik - Obsessed with the culture of cars",
-        "published": "Fri, 03 Apr 2026 20:45:00 +0000",
-        "url": "https://www.jalopnik.com/2137527/every-tire-brand-owned-by-continental/",
-        "is_priority": false
-      },
-      {
-        "title": "XCharge NA + JOJO launch EV fast chargers in Illinois – first sites live",
-        "source": "Electrek",
-        "published": "Fri, 03 Apr 2026 20:18:40 +0000",
-        "url": "https://electrek.co/2026/04/03/xcharge-na-jojo-launch-ev-fast-chargers-in-illinois-first-sites-live/",
-        "is_priority": false
-      },
-      {
-        "title": "NHTSA Investigating Chinese Airbags That Have Killed 10 People",
-        "source": "Jalopnik - Obsessed with the culture of cars",
-        "published": "Fri, 03 Apr 2026 20:17:55 +0000",
-        "url": "https://www.jalopnik.com/2139495/nhtsa-investigating-chinese-airbags-killed-10-people/",
-        "is_priority": false
-      },
-      {
-        "title": "Google Planning an Open-Source Platform for Android Auto",
-        "source": "Latest Content - Car and Driver",
-        "published": "Fri, 03 Apr 2026 20:16:00 +0000",
-        "url": "https://www.caranddriver.com/news/a70928680/open-source-android-auto-platform/",
-        "is_priority": false
-      },
-      {
-        "title": "EV Depreciation Is Still Brutal. But Hybrids Should Give Us Hope",
-        "source": "InsideEVs - Articles",
-        "published": "Fri, 03 Apr 2026 20:14:33 +0000",
-        "url": "https://insideevs.com/news/792049/evs-vs-hybrid-depreciation/",
-        "is_priority": false
-      },
-      {
-        "title": "NASA's Artemis II Crew Send Stunning Pictures Of Earth Back To Earth",
-        "source": "Jalopnik - Obsessed with the culture of cars",
-        "published": "Fri, 03 Apr 2026 20:03:12 +0000",
-        "url": "https://www.jalopnik.com/2139483/nasa-artemis-ii-crew-stunning-pictures-of-earth/",
+        "title": "Cleetus McFarland Uses Lessons From the Late Greg Biffle in His ARCA East Top-Five at Rockingham",
+        "source": "Latest Content - Road & Track",
+        "published": "Sat, 04 Apr 2026 18:55:00 +0000",
+        "url": "https://www.roadandtrack.com/news/a70934155/cleetus-mcfarland-uses-lessons-late-greg-biffle-in-his-arca-east-top-five-rockingham/",
         "is_priority": false
       }
     ],
     "Portugal": [
       {
-        "title": "Jovem de 19 anos morre durante prova de todo o terreno em Ourém",
+        "title": "Homem detido por violência doméstica e ameaças de morte à mãe vai ser julgado no Tribunal da Guarda",
         "source": "Correio da Manhã",
-        "published": "Sat, 04 Apr 2026 08:42:15 +0100",
-        "url": "https://www.cmjornal.pt/cmtv/videos/detalhe/20260404-084215-jovem-de-19-anos-morre-durante-prova-de-todo-o-terreno-em-ourem",
+        "published": "Sun, 05 Apr 2026 08:44:53 +0100",
+        "url": "https://www.cmjornal.pt/cmtv/videos/detalhe/homem-detido-por-violencia-domestica-e-ameacas-de-morte-a-mae-vai-ser-julgado-no-tribunal-da-guarda",
         "is_priority": true
       },
       {
-        "title": "Incêndio em Vale de Cambra \"a ceder aos meios de combate\"",
+        "title": "Incêndio em Vale de Cambra terá sido provocado por queimada não autorizada que se descontrolou",
         "source": "Correio da Manhã",
-        "published": "Sat, 04 Apr 2026 08:38:57 +0100",
-        "url": "https://www.cmjornal.pt/cmtv/videos/detalhe/20260404-083857-incendio-em-vale-de-cambra-a-ceder-aos-meios-de-combate",
+        "published": "Sun, 05 Apr 2026 08:43:42 +0100",
+        "url": "https://www.cmjornal.pt/cmtv/videos/detalhe/incendio-em-vale-de-cambra-tera-sido-provocado-por-queimada-nao-autorizada-que-se-descontrolou",
         "is_priority": true
       },
       {
-        "title": "Gasóleo sobe 9 cêntimos e gasolina 4 cêntimos na próxima semana",
+        "title": "Libertado suspeito de provocar incêndio em Resende",
         "source": "Correio da Manhã",
-        "published": "Sat, 04 Apr 2026 08:37:57 +0100",
-        "url": "https://www.cmjornal.pt/cmtv/videos/detalhe/20260404-083757-gasoleo-sobe-9-centimos-e-gasolina-4-centimos-na-proxima-semana",
+        "published": "Sun, 05 Apr 2026 08:26:16 +0100",
+        "url": "https://www.cmjornal.pt/cmtv/videos/detalhe/libertado-suspeito-de-provocar-incendio-em-resende",
         "is_priority": true
       },
       {
-        "title": "As notícias das 8h",
+        "title": "Incêndio deflagra em prédio na zona de Arroios em Lisboa",
+        "source": "Correio da Manhã",
+        "published": "Sun, 05 Apr 2026 08:25:03 +0100",
+        "url": "https://www.cmjornal.pt/cmtv/videos/detalhe/20260405-082503-incendio-deflagra-em-predio-na-zona-de-arroios-em-lisboa",
+        "is_priority": true
+      },
+      {
+        "title": "Professor de desporto acusado de abusos sexuais a crianças do 1º ano em Sátão",
+        "source": "Correio da Manhã",
+        "published": "Sun, 05 Apr 2026 08:19:26 +0100",
+        "url": "https://www.cmjornal.pt/cmtv/videos/detalhe/professor-de-desporto-acusado-de-abusos-sexuais-a-criancas-do-1-ano-em-satao",
+        "is_priority": true
+      },
+      {
+        "title": "Atenção aos fantasmas no sistema de travagem de emergência",
         "source": "Observador - Últimas",
-        "published": "Sat, 04 Apr 2026 08:16:25 +0100",
-        "url": "https://observador.pt/programas/noticiario/as-noticias-das-8h-2358/",
+        "published": "Sun, 05 Apr 2026 08:17:13 +0100",
+        "url": "https://observador.pt/programas/operacao-stop/atencao-aos-fantasmas-no-sistema-de-travagem-de-emergencia/",
         "is_priority": true
       },
       {
-        "title": "Dubai interceta ataque contra sede da norte-americana Oracle",
+        "title": "Homem que matou ex-mulher a tiro em Albergaria-a-Velha só vai a tribunal quando tiver alta do hospital",
         "source": "Correio da Manhã",
-        "published": "Sat, 04 Apr 2026 07:51:39 +0100",
-        "url": "https://www.cmjornal.pt/mais-cm/especiais/conflito-no-medio-oriente/detalhe/dubai-interceta-ataque-contra-sede-da-norte-americana-oracle",
+        "published": "Sun, 05 Apr 2026 08:17:00 +0100",
+        "url": "https://www.cmjornal.pt/cmtv/videos/detalhe/homem-que-matou-ex-mulher-a-tiro-em-albergaria-a-velha-so-vai-a-tribunal-quando-tiver-alta-do-hospital",
         "is_priority": true
       },
       {
-        "title": "Pelo menos um morto e 47 feridos em concentração de adeptos de futebol no Peru",
+        "title": "Enfermeira assassina luta para sair da prisão",
         "source": "Correio da Manhã",
-        "published": "Sat, 04 Apr 2026 07:43:00 +0100",
-        "url": "https://www.cmjornal.pt/mundo/detalhe/pelo-menos-um-morto-e-47-feridos-em-concentracao-de-adeptos-de-futebol-no-peru",
+        "published": "Sun, 05 Apr 2026 08:16:27 +0100",
+        "url": "https://www.cmjornal.pt/cmtv/videos/detalhe/20260405-081627-enfermeira-assassina-luta-para-sair-da-prisao",
         "is_priority": true
       },
       {
-        "title": "TAP retoma voos para Caracas e assinala 50 anos na Venezuela",
-        "source": "Correio da Manhã",
-        "published": "Sat, 04 Apr 2026 07:28:00 +0100",
-        "url": "https://www.cmjornal.pt/mundo/detalhe/tap-retoma-voos-para-caracas-e-assinala-50-anos-na-venezuela",
-        "is_priority": true
-      },
-      {
-        "title": "\"É uma paixão sair em aventura\"",
+        "title": "8h. \"São e salvo\". EUA resgatam piloto em missão \"ousada\"",
         "source": "Observador - Últimas",
-        "published": "Sat, 04 Apr 2026 07:25:16 +0100",
-        "url": "https://observador.pt/programas/conversas-do-fim-do-mundo/e-uma-paixao-sair-em-aventura/",
+        "published": "Sun, 05 Apr 2026 08:13:54 +0100",
+        "url": "https://observador.pt/programas/noticiario/as-noticias-das-8h-2359/",
         "is_priority": true
       },
       {
-        "title": "Incêndio em Vale de Cambra \"a ceder aos meios de combate\"",
-        "source": "Correio da Manhã",
-        "published": "Sat, 04 Apr 2026 07:19:00 +0100",
-        "url": "https://www.cmjornal.pt/portugal/detalhe/incendio-em-vale-de-cambra-a-ceder-aos-meios-de-combate",
-        "is_priority": true
-      },
-      {
-        "title": "Solar Shift",
+        "title": "Portugal Steps into Europe’s Semiconductor Future",
         "source": "The Portugal News",
-        "published": "Sat, 04 Apr 2026 07:31:00 +0000",
-        "url": "https://www.theportugalnews.com/news/2026-04-04/solar-shift/998153",
+        "published": "Sun, 05 Apr 2026 07:01:00 +0000",
+        "url": "https://www.theportugalnews.com/news/2026-04-05/portugal-steps-into-europes-semiconductor-future/999445",
         "is_priority": false
       },
       {
-        "title": "Portugal between two blocs",
+        "title": "Have you walked along Muralha Fernandina in Porto?",
         "source": "The Portugal News",
-        "published": "Sat, 04 Apr 2026 07:01:00 +0000",
-        "url": "https://www.theportugalnews.com/news/2026-04-04/portugal-between-two-blocs/999427",
+        "published": "Sat, 04 Apr 2026 19:05:00 +0000",
+        "url": "https://www.theportugalnews.com/news/2026-04-04/have-you-walked-along-muralha-fernandina-in-porto/1000199",
         "is_priority": false
       },
       {
-        "title": "Grandma's Sweets Fair has returned to the Algarve",
+        "title": "Ryanair worried about travel chaos in Europe",
         "source": "The Portugal News",
-        "published": "Fri, 03 Apr 2026 19:05:00 +0000",
-        "url": "https://www.theportugalnews.com/news/2026-04-03/grandmas-sweets-fair-has-returned-to-the-algarve/1001084",
+        "published": "Sat, 04 Apr 2026 19:03:00 +0000",
+        "url": "https://www.theportugalnews.com/news/2026-04-04/ryanair-worried-about-travel-chaos-in-europe/1000135",
         "is_priority": false
       },
       {
-        "title": "Portugal rent prices fell last year",
+        "title": "Wildlife Recovery",
         "source": "The Portugal News",
-        "published": "Fri, 03 Apr 2026 19:03:00 +0000",
-        "url": "https://www.theportugalnews.com/news/2026-04-03/portugal-rent-prices-fell-last-year/1000134",
+        "published": "Sat, 04 Apr 2026 18:31:00 +0000",
+        "url": "https://www.theportugalnews.com/news/2026-04-04/wildlife-recovery/998198",
         "is_priority": false
       },
       {
-        "title": "easyJet strengthens connection between Lisbon and the United Kingdom",
+        "title": "Why US Investment Is Quietly Reshaping Portugal’s Economy",
         "source": "The Portugal News",
-        "published": "Fri, 03 Apr 2026 18:03:00 +0000",
-        "url": "https://www.theportugalnews.com/news/2026-04-03/easyjet-strengthens-connection-between-lisbon-and-the-united-kingdom/1000072",
+        "published": "Sat, 04 Apr 2026 18:01:00 +0000",
+        "url": "https://www.theportugalnews.com/news/2026-04-04/why-us-investment-is-quietly-reshaping-portugals-economy/999478",
         "is_priority": false
       },
       {
-        "title": "Easter Friday in the Algarve",
+        "title": "Water Rebound",
         "source": "The Portugal News",
-        "published": "Fri, 03 Apr 2026 17:31:00 +0000",
-        "url": "https://www.theportugalnews.com/news/2026-04-03/easter-friday-in-the-algarve/1000886",
+        "published": "Sat, 04 Apr 2026 17:31:00 +0000",
+        "url": "https://www.theportugalnews.com/news/2026-04-04/water-rebound/998197",
         "is_priority": false
       }
     ]

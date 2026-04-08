@@ -1,12 +1,12 @@
 {
-  "global_theme": "Escalating geopolitical tensions in the Middle East, driven by Trump’s ultimatums to Iran, are fueling economic slowdowns across Europe and global market instability, impacting all sectors from finance to energy prices.",
-  "market_mood": "Highly Volatile & Risk-Off",
-  "risk_signal": "Middle East war escalation, surging energy costs, and widespread European economic contraction.",
-  "opportunity_signal": "Niche banking tech trends, renewable energy adoption, and AI-driven efficiency tools.",
+  "global_theme": "A US-Iran ceasefire is driving a significant shift in global markets and sentiment, bringing relief and new economic dynamics for the EU and personal wealth building.",
+  "market_mood": "Cautiously Optimistic",
+  "risk_signal": "Geopolitical volatility & regional economic uncertainty",
+  "opportunity_signal": "Post-ceasefire market rally & AI-driven tech growth",
   "finance_sentiment": [
     {
       "i": 1,
-      "s": "-"
+      "s": "+"
     },
     {
       "i": 2,
@@ -14,7 +14,7 @@
     },
     {
       "i": 3,
-      "s": "-"
+      "s": "+"
     },
     {
       "i": 4,
@@ -22,27 +22,27 @@
     },
     {
       "i": 5,
-      "s": "-"
+      "s": "="
     },
     {
       "i": 6,
-      "s": "-"
+      "s": "+"
     },
     {
       "i": 7,
-      "s": "-"
+      "s": "+"
     },
     {
       "i": 8,
-      "s": "-"
+      "s": "+"
     },
     {
       "i": 9,
-      "s": "-"
+      "s": "+"
     },
     {
       "i": 10,
-      "s": "-"
+      "s": "+"
     },
     {
       "i": 11,
@@ -50,15 +50,15 @@
     },
     {
       "i": 12,
-      "s": "+"
+      "s": "-"
     },
     {
       "i": 13,
-      "s": "+"
+      "s": "="
     },
     {
       "i": 14,
-      "s": "="
+      "s": "+"
     },
     {
       "i": 15,
@@ -67,28 +67,28 @@
   ],
   "insights": {
     "g1": [
-      "Global political instability and rising oil prices will directly impact operational costs and consumer spending.",
-      "European economies are contracting, signaling a challenging market environment for new ventures and existing businesses.",
-      "S&P 500 futures tumbling indicates broad market nervousness, suggesting caution for any short-term investments.",
-      "The surge in German renewables leading to negative power prices could hint at future energy market volatility or opportunities.",
-      "Banking tech trends offer a positive signal, indicating specific sectors can still see growth despite wider economic woes."
+      "Global ceasefire creates market optimism, lowering oil prices and US Treasury yields, reducing business costs.",
+      "Monitor market shifts in the S&P 500 and crude post-ceasefire for strategic re-evaluation and potential investments.",
+      "The EV sector shows strong growth, with record used EV sales and new partnerships, indicating future market expansion.",
+      "Geopolitical events profoundly impact financial markets; stable periods offer opportunities for strategic planning and growth.",
+      "India's cautious central bank highlights ongoing inflation and growth risks despite ceasefire, suggesting careful financial planning."
     ],
     "g2": [
-      "AI startup 'Rocket' offering McKinsey-style reports cheaper presents a direct tool for solopreneurs to access market insights.",
-      "New semiconductor chips from Arago signal advancements that could power next-gen AI tools and hardware for efficiency.",
-      "Understanding 'Why women aren't missing the AI train' offers insights into diverse talent pools for future collaborations.",
-      "Leveraging AI and automation for routine tasks can significantly boost Alex's productivity and reduce overheads.",
-      "Investigate how AI can create personalized content or services, aligning with current trends and reducing manual effort."
+      "Explore the '19 AI agent startups' trend to identify tools that can automate and scale solopreneur tasks efficiently.",
+      "Prioritize optimizing for LLM-referred traffic, converting at 30-40%, to significantly boost digital marketing ROI.",
+      "Investigate offline AI dictation apps for enhancing productivity and content creation, especially for mobile work.",
+      "Learn from frontend development efficiency gains (e.g., Railway's build times) to streamline your own digital operations.",
+      "Monitor Rust-based UI frameworks like Xilem for future, performant application development, enhancing tech capabilities."
     ],
     "g3": [
-      "Rising energy costs, as highlighted by Cerealis, will impact all businesses in Portugal, requiring Alex to factor this into pricing.",
-      "Portugal's aviation potentially running out of fuel indicates supply chain vulnerabilities that could affect various sectors.",
-      "Novo Banco divesting in Africa shows strategic repositioning in the Portuguese financial landscape, possibly freeing up capital.",
-      "The growth in Portugal's beach house real estate market suggests opportunities for service providers catering to affluent residents.",
-      "Support for non-profit sports entities might open doors for grant writing, event management, or digital marketing services locally."
+      "Portugal's 180% house price increase signals robust real estate opportunities, from consulting to digital marketing for agencies.",
+      "Leverage Portugal's 'most colourful cities' appeal and tourism growth for local content creation or niche travel services.",
+      "Understand the new deposit/reimbursement system in Portugal for potential business ideas related to circular economy.",
+      "Explore eco-tourism or environmental service opportunities in Portugal, given concerns like Saharan dust and coastal erosion.",
+      "Analyze EU regulatory impacts (e.g., on UK's EV industry) to anticipate and adapt to policy changes affecting business."
     ]
   },
-  "learning_task": "Spend 30 minutes researching free AI tools like 'Rocket' (or alternatives) for market analysis and competitor research to gain a competitive edge for your €35k goal.",
-  "biz_opportunity": "Launch a niche digital consulting service in Portugal helping small businesses leverage AI tools for cost-saving and market analysis, targeting local service industries impacted by rising costs.",
-  "built_at": "2026-04-07T08:15:55.045228+00:00"
+  "learning_task": "Allocate 30 minutes to research how 'AI agents' or 'LLM-referred traffic' could optimize a solopreneur's marketing funnels, focusing on tools or strategies applicable to service-based businesses to boost leads and conversions towards your €35k goal.",
+  "biz_opportunity": "An AI-driven digital marketing agency specializing in generating high-converting LLM-referred leads for Portugal's booming property and tourism sectors, leveraging the market's current dynamism and increasing digital consumption.",
+  "built_at": "2026-04-08T08:14:54.392862+00:00"
 }

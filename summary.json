@@ -1,12 +1,12 @@
 {
-  "global_theme": "Geopolitical tensions, particularly involving Iran, are creating significant market volatility and impacting luxury goods and global shares, while AI and tech investments continue to surge, presenting a dichotomy for wealth generation within the EU.",
-  "market_mood": "Volatile with cautious optimism",
-  "risk_signal": "Escalating geopolitical conflicts (Iran, Sudan) and their direct economic impact on specific sectors and global stability.",
-  "opportunity_signal": "Strategic investment in resilient tech sectors and leveraging AI for efficiency amidst market uncertainty.",
+  "global_theme": "Geopolitical tensions in the Middle East and Eastern Europe are causing significant energy and commodity price volatility, impacting global supply chains and fostering a cautious economic outlook, while clean tech and AI continue to attract investment, influencing the EU's economic landscape.",
+  "market_mood": "Cautiously Volatile",
+  "risk_signal": "Geopolitical conflict escalating, leading to energy supply chain disruptions and economic uncertainty.",
+  "opportunity_signal": "Surging demand for clean tech and continued growth in AI and advanced tech offerings.",
   "finance_sentiment": [
     {
       "i": 1,
-      "s": "-"
+      "s": "="
     },
     {
       "i": 2,
@@ -22,27 +22,27 @@
     },
     {
       "i": 5,
-      "s": "+"
+      "s": "-"
     },
     {
       "i": 6,
-      "s": "="
+      "s": "-"
     },
     {
       "i": 7,
-      "s": "+"
+      "s": "="
     },
     {
       "i": 8,
-      "s": "="
+      "s": "+"
     },
     {
       "i": 9,
-      "s": "="
+      "s": "-"
     },
     {
       "i": 10,
-      "s": "+"
+      "s": "-"
     },
     {
       "i": 11,
@@ -50,7 +50,7 @@
     },
     {
       "i": 12,
-      "s": "+"
+      "s": "="
     },
     {
       "i": 13,
@@ -58,7 +58,7 @@
     },
     {
       "i": 14,
-      "s": "+"
+      "s": "-"
     },
     {
       "i": 15,
@@ -67,28 +67,28 @@
   ],
   "insights": {
     "g1": [
-      "Geopolitical tensions significantly impact global luxury markets and investor confidence, e.g., Hermes' drop.",
-      "Market sentiment shifts rapidly; peace talk hints can quickly boost world shares for days.",
-      "Personal finance discussions, like wealth distribution to family, require clear communication to avoid conflict.",
-      "Long-term investment strategies should consider stable, growing tech giants like Amazon amid volatility.",
-      "Warnings about overvalued currencies, like the dollar, signal potential future market adjustments and risks."
+      "Geopolitical events (Iran war, Russia-Ukraine) are driving significant volatility in global energy and commodity prices.",
+      "Supply chain disruptions, like the Strait of Hormuz, directly impact regional stock levels and consumer prices (e.g., California gasoline).",
+      "Investment in clean tech is surging globally, presenting a resilient growth area amidst broader economic uncertainty.",
+      "European stock markets are highly volatile during Q1 earnings, requiring a cautious approach to investment decisions.",
+      "Solopreneurs must actively monitor global energy and fertilizer price trends as they directly affect operational costs and supply chains."
     ],
     "g2": [
-      "AI-assisted workflows are critical for boosting solopreneur efficiency and productivity right now.",
-      "Developing privacy-led UX skills builds crucial trust in the rapidly evolving AI era.",
-      "Europe's growth investment gap means opportunities exist for well-positioned tech service providers.",
-      "Remote growth marketer roles paying $80K-$140K highlight high demand for digital marketing expertise.",
-      "Amazon's satellite network expansion points to growing global connectivity markets and related services."
+      "The AI sector is seeing a ramp-up in IPOs and significant investment, particularly in AI chip manufacturing.",
+      "New regulations like the EU Battery Passport will create demand for compliance solutions and product lifecycle management tech.",
+      "Human verification projects, like Sam Altman's World, are expanding into new markets, indicating a growing need for identity solutions.",
+      "Understanding niche technical complexities like IPv6 or advanced graphic rendering (Amiga Graphics) can build specialized value.",
+      "Staying current on major tech ecosystem rivalries (Stripe vs. Airwallex) is crucial for optimizing payment infrastructure choices."
     ],
     "g3": [
-      "Portugal's economic policies, like PRR's debt impact, influence local business operating environments.",
-      "Increased tourism, shown by Emirates returning to Lisbon, creates opportunities for local services.",
-      "Strengthening ties between sports and universities in Portugal could open niche service markets.",
-      "CTT's expansion into Spain signals cross-border EU opportunities for logistics or digital services.",
-      "Local issues like healthcare spending and prison overcrowding reflect ongoing domestic governmental priorities."
+      "Portugal faces domestic economic pessimism and delays in administrative processes (AIMA) affecting immigrant workers.",
+      "The housing market in Portugal has hit a historic milestone, but affordability remains a concern for many households.",
+      "Fraudulent Portuguese language courses for immigrants highlight a high demand for legitimate, trustworthy educational services.",
+      "Local government investment in infrastructure (road paving) might signal opportunities for related local service providers.",
+      "Portugal's fuel reserve concerns for aviation could impact regional travel and logistics costs for businesses operating in the EU."
     ]
   },
-  "learning_task": "Spend 30 minutes researching free AI tools for quickly analyzing news sentiment to inform market awareness and identify emerging business trends for your €35k goal.",
-  "biz_opportunity": "Launch an AI-powered market intelligence service for European tech startups, leveraging the continent's investment gap by providing actionable insights on emerging trends and competitor analysis to a target audience of early-stage founders.",
-  "built_at": "2026-04-15T08:46:52.260381+00:00"
+  "learning_task": "Spend 30 minutes researching the EU Battery Passport's specific requirements for small electronic devices and how a solopreneur could offer compliance consulting or develop relevant software tools to reach your €35k goal.",
+  "biz_opportunity": "Launch a trusted, online platform offering accredited Portuguese language courses and AIMA immigration process navigation for immigrants in Portugal, capitalizing on current demand, reported fraud, and bureaucratic delays.",
+  "built_at": "2026-04-18T08:01:30.770047+00:00"
 }

@@ -1,538 +1,538 @@
 {
-  "built_at": "2026-04-25T08:08:01.464703+00:00",
+  "built_at": "2026-04-26T08:17:33.878609+00:00",
   "sections": {
     "Finance": [
       {
-        "title": "Understanding the Most Viral Chart in Artificial Intelligence",
+        "title": "Trump safe after shooting at White House Correspondents’ dinner, suspect in custody",
+        "source": "All News",
+        "published": "2026-04-26 08:00:29",
+        "url": "https://www.investing.com/news/general-news/trump-removed-from-white-house-correspondents-dinner-as-attendees-take-cover-4637413",
+        "is_priority": false
+      },
+      {
+        "title": "Israeli attacks kill at least four Palestinians in Gaza, medics say",
+        "source": "All News",
+        "published": "2026-04-26 07:54:10",
+        "url": "https://www.investing.com/news/world-news/israeli-attacks-kill-at-least-four-palestinians-in-gaza-medics-say-4637439",
+        "is_priority": false
+      },
+      {
+        "title": "Why Strait of Hormuz disruption is more severe for global LNG markets than for oil",
+        "source": "All News",
+        "published": "2026-04-26 07:53:27",
+        "url": "https://www.investing.com/news/commodities-news/why-strait-of-hormuz-disruption-is-more-severe-for-global-lng-markets-than-for-oil-4637438",
+        "is_priority": false
+      },
+      {
+        "title": "Accesso 2025 results slides: AI bet, revenue guidance dips",
+        "source": "All News",
+        "published": "2026-04-26 07:40:49",
+        "url": "https://www.investing.com/news/company-news/accesso-2025-results-slides-ai-bet-revenue-guidance-dips-93CH-4637437",
+        "is_priority": false
+      },
+      {
+        "title": "Trump’s security again faces scrutiny after press dinner shooting",
+        "source": "All News",
+        "published": "2026-04-26 07:30:29",
+        "url": "https://www.investing.com/news/politics-news/trumps-security-again-faces-scrutiny-after-press-dinner-shooting-4637436",
+        "is_priority": false
+      },
+      {
+        "title": "Hong Kong maintains IPO dominance, though regulatory headwinds mount",
+        "source": "All News",
+        "published": "2026-04-26 07:19:55",
+        "url": "https://www.investing.com/news/stock-market-news/hong-kong-maintains-ipo-dominance-though-regulatory-headwinds-mount-4637435",
+        "is_priority": false
+      },
+      {
+        "title": "Earnings call transcript: Accesso Technology’s Q4 2025 earnings beat expectations",
+        "source": "All News",
+        "published": "2026-04-26 07:13:01",
+        "url": "https://www.investing.com/news/transcripts/earnings-call-transcript-accesso-technologys-q4-2025-earnings-beat-expectations-93CH-4637434",
+        "is_priority": false
+      },
+      {
+        "title": "Gunman Detained After Press Dinner Shooting",
         "source": "Bloomberg Markets",
-        "published": "Sat, 25 Apr 2026 08:00:18 GMT",
-        "url": "https://www.bloomberg.com/news/articles/2026-04-25/understanding-the-most-viral-chart-in-artificial-intelligence",
+        "published": "Sun, 26 Apr 2026 07:06:39 GMT",
+        "url": "https://www.bloomberg.com/news/videos/2026-04-26/gunman-detained-after-press-dinner-shooting-video",
         "is_priority": false
       },
       {
-        "title": "Odd Lots: Understanding the Most Viral Chart in AI (Podcast)",
+        "title": "Thuds, an eerie silence, then chaos at Trump dinner with White House journalists",
+        "source": "All News",
+        "published": "2026-04-26 07:06:38",
+        "url": "https://www.investing.com/news/world-news/thuds-an-eerie-silence-then-chaos-at-trump-dinner-with-white-house-journalists-4637433",
+        "is_priority": false
+      },
+      {
+        "title": "Iran executes alleged militant amid deepening internal unrest",
+        "source": "All News",
+        "published": "2026-04-26 06:45:07",
+        "url": "https://www.investing.com/news/economy-news/iran-executes-alleged-militant-amid-deepening-internal-unrest-4637430",
+        "is_priority": false
+      },
+      {
+        "title": "Trump: Shooter at White House press dinner had multiple weapons, one officer shot",
+        "source": "US Top News and Analysis",
+        "published": "Sun, 26 Apr 2026 06:35:25 GMT",
+        "url": "https://www.cnbc.com/2026/04/25/trump-gunshots-white-house-correspondents-dinner.html",
+        "is_priority": false
+      },
+      {
+        "title": "AI is boosting output rather than cutting jobs: analyst",
+        "source": "All News",
+        "published": "2026-04-26 06:15:09",
+        "url": "https://www.investing.com/news/economy-news/ai-is-boosting-output-rather-than-cutting-jobs-analyst-4637429",
+        "is_priority": false
+      },
+      {
+        "title": "HK Finance Chief Says City’s 2026 IPOs Have Raised $17.9 Billion",
         "source": "Bloomberg Markets",
-        "published": "Sat, 25 Apr 2026 08:00:00 GMT",
-        "url": "https://www.bloomberg.com/news/audio/2026-04-25/odd-lots-understanding-the-most-viral-chart-in-ai-podcast",
+        "published": "Sun, 26 Apr 2026 05:28:37 GMT",
+        "url": "https://www.bloomberg.com/news/articles/2026-04-26/hk-finance-chief-says-city-s-2026-ipos-have-raised-17-9-billion",
         "is_priority": false
       },
       {
-        "title": "Major Russian attack on Ukraine kills four, wounds dozens",
-        "source": "All News",
-        "published": "2026-04-25 07:42:40",
-        "url": "https://www.investing.com/news/world-news/major-russian-attack-on-ukraine-kills-four-wounds-dozens-4637306",
-        "is_priority": false
-      },
-      {
-        "title": "Palestinian local elections give some Gazans a chance to vote for the first time in years",
-        "source": "All News",
-        "published": "2026-04-25 07:42:26",
-        "url": "https://www.investing.com/news/world-news/palestinian-local-elections-give-some-gazans-a-chance-to-vote-for-the-first-time-in-years-4637277",
-        "is_priority": false
-      },
-      {
-        "title": "US negotiators to go to Islamabad, but Iran says no direct talks",
-        "source": "All News",
-        "published": "2026-04-25 07:36:29",
-        "url": "https://www.investing.com/news/world-news/us-negotiators-to-go-to-islamabad-but-iran-says-no-direct-talks-4637304",
-        "is_priority": false
-      },
-      {
-        "title": "DeepSeek unveils new AI model tailored for Huawei chips as China pushes for tech autonomy",
-        "source": "All News",
-        "published": "2026-04-25 07:30:27",
-        "url": "https://www.investing.com/news/stock-market-news/chinas-ai-darling-deepseek-previews-new-model-4634553",
-        "is_priority": false
-      },
-      {
-        "title": "Earnings call transcript: Tidewater Midstream reports Q4 2025 loss amid turnaround impacts",
-        "source": "All News",
-        "published": "2026-04-25 07:26:20",
-        "url": "https://www.investing.com/news/transcripts/earnings-call-transcript-tidewater-midstream-reports-q4-2025-loss-amid-turnaround-impacts-93CH-4637308",
-        "is_priority": false
-      },
-      {
-        "title": "AI in Travel: Threat or opportunity?",
-        "source": "All News",
-        "published": "2026-04-25 07:25:49",
-        "url": "https://www.investing.com/news/economy-news/ai-in-travel-threat-or-opportunity-4637307",
-        "is_priority": false
-      },
-      {
-        "title": "Russian Attack on Ukrainian Cities Kills Four People, Zelenskiy Says",
+        "title": "Gunman Detained After Shooting at Press Dinner",
         "source": "Bloomberg Markets",
-        "published": "Sat, 25 Apr 2026 07:12:47 GMT",
-        "url": "https://www.bloomberg.com/news/articles/2026-04-25/russian-attack-on-ukrainian-cities-kills-four-people-zelenskiy-says",
+        "published": "Sun, 26 Apr 2026 05:05:23 GMT",
+        "url": "https://www.bloomberg.com/news/videos/2026-04-26/gunman-detained-after-shooting-at-press-dinner-video",
         "is_priority": false
       },
       {
-        "title": "Romania says drone fragments damage property during overnight Russian attack on Ukraine",
-        "source": "All News",
-        "published": "2026-04-25 07:00:30",
-        "url": "https://www.investing.com/news/world-news/romania-says-drone-fragments-damage-property-during-overnight-russian-attack-on-ukraine-4637305",
-        "is_priority": false
-      },
-      {
-        "title": "Wildfires abound in US Southeast, Georgia suffers record property losses",
-        "source": "All News",
-        "published": "2026-04-25 06:55:49",
-        "url": "https://www.investing.com/news/world-news/wildfires-abound-in-us-southeast-georgia-suffers-record-property-losses-4637279",
-        "is_priority": false
-      },
-      {
-        "title": "US consumer sentiment slumps to record low in April; inflation expectations rise",
-        "source": "All News",
-        "published": "2026-04-25 06:55:32",
-        "url": "https://www.investing.com/news/economic-indicators/us-consumer-sentiment-drops-to-near-fouryear-low-in-april-4636156",
-        "is_priority": false
-      },
-      {
-        "title": "Israeli fire kills 12 in Gaza, medics say",
-        "source": "All News",
-        "published": "2026-04-25 06:31:00",
-        "url": "https://www.investing.com/news/world-news/israeli-strike-kills-three-in-gaza-medics-say-4636023",
-        "is_priority": false
-      },
-      {
-        "title": "US Grants Maduro Access to Funds for Defense in Criminal Case",
-        "source": "Bloomberg Markets",
-        "published": "Sat, 25 Apr 2026 04:13:00 GMT",
-        "url": "https://www.bloomberg.com/news/articles/2026-04-25/us-grants-maduro-access-to-funds-for-defense-in-criminal-case",
-        "is_priority": false
-      },
-      {
-        "title": "Xi Calls Laos Key Priority in China’s Neighborhood Diplomacy",
-        "source": "Bloomberg Markets",
-        "published": "Sat, 25 Apr 2026 03:35:06 GMT",
-        "url": "https://www.bloomberg.com/news/articles/2026-04-25/xi-calls-laos-key-priority-in-china-s-neighborhood-diplomacy",
+        "title": "Confusion and Fright at the White House Correspondents’ Dinner After Shots Were Fired",
+        "source": "NYT > Business",
+        "published": "Sun, 26 Apr 2026 04:30:41 +0000",
+        "url": "https://www.nytimes.com/2026/04/26/business/media/white-house-correspondents-dinner-shooting.html",
         "is_priority": false
       }
     ],
     "World News": [
       {
-        "title": "Iran War Live Updates: Witkoff and Kushner to Travel to Pakistan for Talks on Iran",
-        "source": "NYT > World News",
-        "published": "Sat, 25 Apr 2026 08:04:22 +0000",
-        "url": "https://www.nytimes.com/live/2026/04/25/world/iran-war-us-talks-pakistan",
-        "is_priority": false
-      },
-      {
-        "title": "FA Cup semi-final buildup, plus crunch games at both ends of the Premier League – matchday live",
+        "title": "London Marathon 2026 – live updates",
         "source": "The Guardian",
-        "published": "Sat, 25 Apr 2026 08:02:50 GMT",
-        "url": "https://www.theguardian.com/football/live/2026/apr/25/matchday-live-fa-cup-semi-final-manchester-city-southampton-premier-league-tottenham-west-ham-arsenal-newcastle",
+        "published": "Sun, 26 Apr 2026 08:15:16 GMT",
+        "url": "https://www.theguardian.com/sport/live/2026/apr/26/london-marathon-2026-live-updates",
         "is_priority": false
       },
       {
-        "title": "‘I saw the backlash coming’: civil rights activist Kimberlé Crenshaw on America and race",
+        "title": "Chelsea and Leeds head to Wembley, a big derby for Hearts and WCL action – matchday live",
         "source": "The Guardian",
-        "published": "Sat, 25 Apr 2026 08:00:40 GMT",
-        "url": "https://www.theguardian.com/books/2026/apr/25/i-saw-the-backlash-coming-civil-rights-activist-kimberle-crenshaw-on-america-and-race",
+        "published": "Sun, 26 Apr 2026 08:11:30 GMT",
+        "url": "https://www.theguardian.com/football/live/2026/apr/26/chelsea-and-leeds-head-to-wembley-a-big-derby-for-hearts-and-wcl-action-matchday-live",
         "is_priority": false
       },
       {
-        "title": "Disco hit: Penne alla vodka, popular in New York 80s clubs, is now a menu staple",
+        "title": "Aljamain Sterling calls for featherweight title shot after UFC 116 win",
+        "source": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
+        "published": "Sun, 26 Apr 2026 08:07:46 +0000",
+        "url": "https://www.aljazeera.com/sports/2026/4/26/aljamain-sterling-calls-for-featherweight-title-shot-after-ufc-116-win?traffic_source=rss",
+        "is_priority": false
+      },
+      {
+        "title": "‘I don’t believe in song shaming!’: Jon Batiste’s honest playlist",
         "source": "The Guardian",
-        "published": "Sat, 25 Apr 2026 08:00:40 GMT",
-        "url": "https://www.theguardian.com/food/2026/apr/25/penne-alla-vodka-popular-new-york-80s-resurgence",
+        "published": "Sun, 26 Apr 2026 08:01:08 GMT",
+        "url": "https://www.theguardian.com/music/2026/apr/26/jon-batiste-honest-playlist-amyl-sniffers-clarence-carter-steely-dan",
         "is_priority": false
       },
       {
-        "title": "‘Athens cannot operate as a giant hotel’: mayor vows to rescue capital from overtourism",
-        "source": "The Guardian",
-        "published": "Sat, 25 Apr 2026 08:00:39 GMT",
-        "url": "https://www.theguardian.com/world/2026/apr/25/athens-cannot-operate-as-a-giant-hotel-mayor-vows-to-rescue-capital-from-overtourism",
+        "title": "How American taxpayers fund Trump’s wars",
+        "source": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
+        "published": "Sun, 26 Apr 2026 07:57:42 +0000",
+        "url": "https://www.aljazeera.com/video/by-the-numbers-3/2026/4/26/how-american-taxpayers-fund-trumps-wars-3?traffic_source=rss",
         "is_priority": false
       },
       {
-        "title": "Middle East crisis live: Witkoff and Kushner head to Pakistan for talks; Israel strikes Lebanon despite ceasefire",
+        "title": "World reacts to shooting at White House correspondents’ dinner",
+        "source": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
+        "published": "Sun, 26 Apr 2026 07:57:13 +0000",
+        "url": "https://www.aljazeera.com/news/2026/4/26/world-reacts-to-shooting-at-white-house-correspondents-dinner?traffic_source=rss",
+        "is_priority": false
+      },
+      {
+        "title": "Starmer says ‘vast majority’ of Labour still supports him, despite Mandelson controversy – UK politics live",
         "source": "World news | The Guardian",
-        "published": "Sat, 25 Apr 2026 07:31:54 GMT",
-        "url": "https://www.theguardian.com/world/live/2026/apr/25/middle-east-crisis-live-witkoff-and-kushner-head-to-pakistan-for-iran-negotiations",
+        "published": "Sun, 26 Apr 2026 07:50:40 GMT",
+        "url": "https://www.theguardian.com/politics/live/2026/apr/26/keir-starmer-labour-support-mandelson-controversy-uk-politics-live",
         "is_priority": false
       },
       {
-        "title": "West Bank scepticism as Palestinians doubt local elections will change much",
+        "title": "Anthony Edwards injures knee in Timberwolves’ Game 4 win against Nuggets",
         "source": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
-        "published": "Sat, 25 Apr 2026 07:16:54 +0000",
-        "url": "https://www.aljazeera.com/features/2026/4/25/west-bank-scepticism-as-palestinians-doubt-local-elections-will-change-much?traffic_source=rss",
+        "published": "Sun, 26 Apr 2026 07:42:38 +0000",
+        "url": "https://www.aljazeera.com/sports/2026/4/26/anthony-edwards-injures-knee-in-timberwolves-game-4-win-against-nuggets?traffic_source=rss",
         "is_priority": false
       },
       {
-        "title": "US sanctions China’s ‘teapot’ refinery for buying Iranian oil",
-        "source": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
-        "published": "Sat, 25 Apr 2026 07:10:19 +0000",
-        "url": "https://www.aljazeera.com/news/2026/4/25/us-sanctions-chinas-teapot-refinery-for-buying-iranian-oil?traffic_source=rss",
-        "is_priority": false
-      },
-      {
-        "title": "Brazil and Chelsea star Estevao’s World Cup hopes in doubt after injury",
-        "source": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
-        "published": "Sat, 25 Apr 2026 07:09:46 +0000",
-        "url": "https://www.aljazeera.com/sports/2026/4/25/brazil-and-chelsea-star-estevaos-world-cup-hopes-in-doubt-after-injury?traffic_source=rss",
-        "is_priority": false
-      },
-      {
-        "title": "Cory Bernardi repays more than $40,000 for flying on Gina Rinehart’s plane during SA election campaign",
+        "title": "Suspect ‘armed with knives and guns’ charged after shooting at White House correspondents’ dinner – as it happened",
         "source": "World news | The Guardian",
-        "published": "Sat, 25 Apr 2026 07:01:43 GMT",
-        "url": "https://www.theguardian.com/australia-news/2026/apr/25/cory-bernardi-repays-more-than-40000-for-flying-on-gina-rineharts-plane-during-sa-election-campaign",
+        "published": "Sun, 26 Apr 2026 07:19:18 GMT",
+        "url": "https://www.theguardian.com/us-news/live/2026/apr/26/donald-trump-evacuated-from-white-house-correspondents-dinner-after-loud-bangs-heard-live",
         "is_priority": false
       },
       {
-        "title": "Arsenal’s Olivia Smith: ‘Being champions of Europe holds weight, but we believe in ourselves’",
-        "source": "The Guardian",
-        "published": "Sat, 25 Apr 2026 07:00:40 GMT",
-        "url": "https://www.theguardian.com/football/2026/apr/25/arsenal-olivia-smith-canada-womens-champions-league-lyon",
+        "title": "We can make sure another Chornobyl disaster does not happen, here is how",
+        "source": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
+        "published": "Sun, 26 Apr 2026 07:16:05 +0000",
+        "url": "https://www.aljazeera.com/opinions/2026/4/26/we-can-make-sure-another-chornobyl-disaster-does-not-happen-here-is-how?traffic_source=rss",
         "is_priority": false
       },
       {
-        "title": "Dyslexic thinking made me the scientist I am today. If we could harness its power, imagine what could be possible | Maggie Aderin",
-        "source": "The Guardian",
-        "published": "Sat, 25 Apr 2026 07:00:40 GMT",
-        "url": "https://www.theguardian.com/commentisfree/2026/apr/25/dyslexic-thinking-scientist-neurodiversity-maggie-aderin",
+        "title": "Washington shooting: Is Trump safe? What we know so far",
+        "source": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
+        "published": "Sun, 26 Apr 2026 07:15:12 +0000",
+        "url": "https://www.aljazeera.com/news/2026/4/26/washington-shooting-is-trump-safe-what-we-know-so-far?traffic_source=rss",
         "is_priority": false
       },
       {
-        "title": "Taking back power or taking the mickey? The activists ‘liberating’ food from big stores",
-        "source": "The Guardian",
-        "published": "Sat, 25 Apr 2026 07:00:39 GMT",
-        "url": "https://www.theguardian.com/world/2026/apr/25/arrested-biscuits-new-civil-resistance-group-calling-for-mass-shoplifting",
+        "title": "Patient allegedly attacks several nurses, police and member of the public at Sydney hospital",
+        "source": "World news | The Guardian",
+        "published": "Sun, 26 Apr 2026 07:09:25 GMT",
+        "url": "https://www.theguardian.com/australia-news/2026/apr/26/patient-shot-with-taser-after-allegedly-injuring-nurse-and-others-in-sydney-hospital-ntwnfb",
         "is_priority": false
       },
       {
-        "title": "Thankless task awaits Charles as soft power of crown meets mercurial Trump",
-        "source": "The Guardian",
-        "published": "Sat, 25 Apr 2026 07:00:38 GMT",
-        "url": "https://www.theguardian.com/uk-news/2026/apr/25/king-charles-donald-trump-visit",
+        "title": "Security video appears to show suspect running towards White House correspondents' dinner",
+        "source": "News | Euronews RSS",
+        "published": "Sun, 26 Apr 2026 09:02:12 +0200",
+        "url": "http://www.euronews.com/2026/04/26/security-video-appears-to-show-suspect-running-towards-white-house-correspondents-dinner",
         "is_priority": false
       },
       {
-        "title": "Cricket’s April wasteland: Cook and Pietersen row like barbecue dads in the battle for Bethell | Barney Ronay",
+        "title": "Suicide-related callouts to fire services triple in England in a decade",
+        "source": "World news | The Guardian",
+        "published": "Sun, 26 Apr 2026 07:01:18 GMT",
+        "url": "https://www.theguardian.com/society/2026/apr/24/suicide-related-callouts-fire-services-triple-england-samaritans",
+        "is_priority": false
+      },
+      {
+        "title": "‘I felt fear I did not understand’: Buffon on the panic attack that threatened his career",
         "source": "The Guardian",
-        "published": "Sat, 25 Apr 2026 07:00:38 GMT",
-        "url": "https://www.theguardian.com/sport/2026/apr/25/cricket-indian-premier-league-england-county-championship-alastair-cook-kevin-pietersen",
+        "published": "Sun, 26 Apr 2026 07:01:07 GMT",
+        "url": "https://www.theguardian.com/football/2026/apr/26/i-felt-fear-i-did-not-understand-buffon-on-the-panic-attack-that-threatened-his-career",
         "is_priority": false
       }
     ],
     "Tech": [
       {
-        "title": "New 10 GbE USB adapters are cooler, smaller, cheaper",
+        "title": "APL is more French than English",
         "source": "Hacker News: Front Page",
-        "published": "Sat, 25 Apr 2026 05:56:12 +0000",
-        "url": "https://www.jeffgeerling.com/blog/2026/new-10-gbe-usb-adapters-cooler-smaller-cheaper/",
+        "published": "Sun, 26 Apr 2026 07:24:07 +0000",
+        "url": "https://www.jsoftware.com/papers/perlis78.htm",
         "is_priority": false
       },
       {
-        "title": "Altra Promo Codes: Get 20% Off Plus Free Shipping",
+        "title": "Exposing Floating Point – Bartosz Ciechanowski (2019)",
+        "source": "Hacker News: Front Page",
+        "published": "Sun, 26 Apr 2026 07:19:20 +0000",
+        "url": "https://ciechanow.ski/exposing-floating-point/",
+        "is_priority": false
+      },
+      {
+        "title": "Terra API (YC W21) Hiring: Applied AI Strategist(Health Intelligence)",
+        "source": "Hacker News: Front Page",
+        "published": "Sun, 26 Apr 2026 07:00:10 +0000",
+        "url": "https://www.ycombinator.com/companies/terra-api/jobs/DY7BCZU-applied-ai-strategist-market-intelligence-health",
+        "is_priority": false
+      },
+      {
+        "title": "The West Forgot How to Make Things. Now It's Forgetting How to Code",
+        "source": "Hacker News: Front Page",
+        "published": "Sun, 26 Apr 2026 06:24:42 +0000",
+        "url": "https://techtrenches.dev/p/the-west-forgot-how-to-make-things",
+        "is_priority": false
+      },
+      {
+        "title": "Ghost MOTs: drivers warned over fake certificates that lead to huge repair bills",
+        "source": "Technology | The Guardian",
+        "published": "Sun, 26 Apr 2026 06:00:07 GMT",
+        "url": "https://www.theguardian.com/money/2026/apr/26/ghost-mot-drivers-warned-fake-certificates-repair-bills-tests",
+        "is_priority": false
+      },
+      {
+        "title": "AGPLv3§74 Empowers Users to Thwart Badgeware Like OnlyOffice",
+        "source": "Hacker News: Front Page",
+        "published": "Sun, 26 Apr 2026 05:06:58 +0000",
+        "url": "https://sfconservancy.org/blog/2026/apr/16/badgeware-onlyoffice-nextcloud-affero-gpl/",
+        "is_priority": false
+      },
+      {
+        "title": "EU Age Control: The trojan horse for digital IDs",
+        "source": "Hacker News: Front Page",
+        "published": "Sun, 26 Apr 2026 03:44:28 +0000",
+        "url": "https://juraj.bednar.io/en/blog-en/2026/04/17/eu-age-control-the-trojan-horse-for-digital-ids/",
+        "is_priority": false
+      },
+      {
+        "title": "California Engineer Identified in Suspected Shooting at White House Correspondents' Dinner",
         "source": "WIRED",
-        "published": "Sat, 25 Apr 2026 05:00:00 +0000",
-        "url": "https://www.wired.com/story/altra-promo-code/",
+        "published": "Sun, 26 Apr 2026 03:26:42 +0000",
+        "url": "https://www.wired.com/story/california-engineer-identified-in-suspected-shooting-at-white-house-correspondents-dinner/",
         "is_priority": false
       },
       {
-        "title": "Turbo Vision 2.0 – a modern port",
+        "title": "GnuPG – post-quantum crypto landing in mainline",
         "source": "Hacker News: Front Page",
-        "published": "Sat, 25 Apr 2026 04:18:01 +0000",
-        "url": "https://github.com/magiblot/tvision",
+        "published": "Sun, 26 Apr 2026 03:25:02 +0000",
+        "url": "https://lists.gnupg.org/pipermail/gnupg-announce/2026q2/000504.html",
         "is_priority": false
       },
       {
-        "title": "Lachy Groom to back India startup Pronto at a $200M valuation, sources say",
-        "source": "TechCrunch",
-        "published": "Sat, 25 Apr 2026 03:30:00 +0000",
-        "url": "https://techcrunch.com/2026/04/24/lachy-groom-to-back-pronto-as-indias-house-help-startup-scales-fast-sources-say/",
-        "is_priority": false
-      },
-      {
-        "title": "This is who's developing Golden Dome's orbital interceptors—if they're ever built",
-        "source": "Ars Technica - All content",
-        "published": "Sat, 25 Apr 2026 02:52:37 +0000",
-        "url": "https://arstechnica.com/space/2026/04/this-is-whos-developing-golden-domes-orbital-interceptors-if-theyre-ever-built/",
-        "is_priority": false
-      },
-      {
-        "title": "Firefox Has Integrated Brave's Adblock Engine",
+        "title": "Reviving BrowserID in 2026",
         "source": "Hacker News: Front Page",
-        "published": "Sat, 25 Apr 2026 01:47:33 +0000",
-        "url": "https://itsfoss.com/news/firefox-ships-brave-adblock-engine/",
+        "published": "Sun, 26 Apr 2026 02:38:51 +0000",
+        "url": "https://wakamoleguy.com/p/reviving-browserid-in-2026",
         "is_priority": false
       },
       {
-        "title": "Open source memory layer so any AI agent can do what Claude.ai and ChatGPT do",
+        "title": "Tell HN: An app is silently installing itself on my iPhone every day",
         "source": "Hacker News: Front Page",
-        "published": "Sat, 25 Apr 2026 01:24:40 +0000",
-        "url": "https://alash3al.github.io/stash?_v01",
+        "published": "Sun, 26 Apr 2026 00:50:56 +0000",
+        "url": "https://news.ycombinator.com/item?id=47906253",
         "is_priority": false
       },
       {
-        "title": "(Blender) Cosmology with Geometry Nodes",
+        "title": "The Super Nintendo Cartridges (2024)",
         "source": "Hacker News: Front Page",
-        "published": "Sat, 25 Apr 2026 01:08:14 +0000",
-        "url": "https://www.blender.org/user-stories/cosmology-with-geometry-nodes/",
+        "published": "Sun, 26 Apr 2026 00:38:01 +0000",
+        "url": "https://fabiensanglard.net/snes_carts/",
         "is_priority": false
       },
       {
-        "title": "\"Plain text has been around for decades and it's here to stay.\" – Unsung",
+        "title": "Why has there been so little progress on Alzheimer's disease?",
         "source": "Hacker News: Front Page",
-        "published": "Sat, 25 Apr 2026 01:03:09 +0000",
-        "url": "https://unsung.aresluna.org/plain-text-has-been-around-for-decades-and-its-here-to-stay/",
+        "published": "Sun, 26 Apr 2026 00:12:47 +0000",
+        "url": "https://freakonomics.com/podcast/why-has-there-been-so-little-progress-on-alzheimers-disease/",
         "is_priority": false
       },
       {
-        "title": "Replace IBM Quantum back end with /dev/urandom",
+        "title": "DeepSeek-V4 on Day 0: From Fast Inference to Verified RL with SGLang and Miles",
         "source": "Hacker News: Front Page",
-        "published": "Sat, 25 Apr 2026 00:58:38 +0000",
-        "url": "https://github.com/yuvadm/quantumslop/blob/25ad2e76ae58baa96f6219742459407db9dd17f5/URANDOM_DEMO.md",
+        "published": "Sat, 25 Apr 2026 23:44:05 +0000",
+        "url": "https://www.lmsys.org/blog/2026-04-25-deepseek-v4/",
         "is_priority": false
       },
       {
-        "title": "Education must go beyond the mere production of words",
+        "title": "USB Cheat Sheet (2022)",
         "source": "Hacker News: Front Page",
-        "published": "Sat, 25 Apr 2026 00:11:43 +0000",
-        "url": "https://www.ncregister.com/commentaries/schnell-repairing-the-ruins",
-        "is_priority": false
-      },
-      {
-        "title": "Steve Ballmer blasts founder he backed who pleaded guilty to fraud: ‘I was duped and feel silly’",
-        "source": "TechCrunch",
-        "published": "Fri, 24 Apr 2026 23:32:11 +0000",
-        "url": "https://techcrunch.com/2026/04/24/steve-ballmer-blasts-founder-he-backed-who-pleaded-guilty-to-fraud-i-was-duped-and-feel-silly/",
-        "is_priority": false
-      },
-      {
-        "title": "Google will invest as much as $40 billion in Anthropic",
-        "source": "Ars Technica - All content",
-        "published": "Fri, 24 Apr 2026 22:05:45 +0000",
-        "url": "https://arstechnica.com/ai/2026/04/google-will-invest-as-much-as-40-billion-in-anthropic/",
-        "is_priority": false
-      },
-      {
-        "title": "Palantir is reportedly helping the IRS investigate financial crimes",
-        "source": "TechCrunch",
-        "published": "Fri, 24 Apr 2026 21:53:44 +0000",
-        "url": "https://techcrunch.com/2026/04/24/palantir-is-reportedly-helping-the-irs-investigate-financial-crimes/",
-        "is_priority": false
-      },
-      {
-        "title": "Show HN: I've built a nice home server OS",
-        "source": "Hacker News: Front Page",
-        "published": "Fri, 24 Apr 2026 21:42:26 +0000",
-        "url": "https://lightwhale.asklandd.dk/",
+        "published": "Sat, 25 Apr 2026 21:51:18 +0000",
+        "url": "https://fabiensanglard.net/usbcheat/index.html",
         "is_priority": false
       }
     ],
     "Automotive/Motorcycle": [
       {
-        "title": "Corners like it's on rails! Driving the Land Rovers built for the railway",
-        "source": "Autocar RSS Feed",
-        "published": "Sat, 25 Apr 2026 07:00:00 +0100",
-        "url": "https://www.autocar.co.uk/car-news/used-cars/corners-its-rails-driving-land-rovers-built-railway",
-        "is_priority": false
-      },
-      {
-        "title": "Denza Z9 GT EV",
-        "source": "Autocar RSS Feed",
-        "published": "Sat, 25 Apr 2026 06:00:00 +0100",
-        "url": "https://www.autocar.co.uk/car-review/denza/z9-gt-ev",
-        "is_priority": false
-      },
-      {
-        "title": "This Long-Tail LaFerrari Prototype Is What Ferrari's LaFerrari Would Look Like If It Actually Looked Cool",
-        "source": "Jalopnik - Obsessed with the culture of cars",
-        "published": "Sat, 25 Apr 2026 03:25:00 +0000",
-        "url": "https://www.jalopnik.com/2155072/long-tail-laferrari-prototype-for-sale/",
-        "is_priority": false
-      },
-      {
-        "title": "Tesla offers 1 year of free Supercharging, claims ~40% premium for non-Tesla EVs",
-        "source": "Electrek",
-        "published": "Sat, 25 Apr 2026 01:00:21 +0000",
-        "url": "https://electrek.co/2026/04/24/tesla-model-3-free-supercharging-non-tesla-pricing-premium/",
-        "is_priority": false
-      },
-      {
-        "title": "Kia cuts EV6 prices by $5,000 on 2026 models",
-        "source": "Electrek",
-        "published": "Fri, 24 Apr 2026 23:22:57 +0000",
-        "url": "https://electrek.co/2026/04/24/kia-cuts-ev6-prices-by-5000-2026-models/",
-        "is_priority": false
-      },
-      {
-        "title": "A Florida convention center doubles its solar with no added panels",
-        "source": "Electrek",
-        "published": "Fri, 24 Apr 2026 22:00:01 +0000",
-        "url": "https://electrek.co/2026/04/24/a-florida-convention-center-doubles-its-solar-with-no-added-panels/",
-        "is_priority": false
-      },
-      {
-        "title": "WRC Canary Islands: Ogier heads Toyota 1-2-3-4-5 after dominant Friday",
+        "title": "Super Formula Autopolis round cancelled by heavy rain",
         "source": "Autosport.com - All - Stories",
-        "published": "Fri, 24 Apr 2026 21:26:33 +0000",
-        "url": "https://www.autosport.com/wrc/news/wrc-canary-islands-sebastien-ogier-leads-as-toyota-locks-out-top-five/10815212/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-ALL&utm_term=News&utm_content=uk",
+        "published": "Sun, 26 Apr 2026 07:05:52 +0000",
+        "url": "https://www.autosport.com/super-formula/news/super-formula-autopolis-round-cancelled-by-heavy-rain/10815547/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-ALL&utm_term=News&utm_content=uk",
         "is_priority": false
       },
       {
-        "title": "Is Somebody Hunting America's Aerospace Engineers And Scientists?",
+        "title": "McLaren: F1 in conversation over future engine hardware tweaks",
+        "source": "Autosport.com - All - Stories",
+        "published": "Sun, 26 Apr 2026 06:30:02 +0000",
+        "url": "https://www.autosport.com/f1/news/mclaren-f1-in-conversation-over-future-engine-hardware-changes/10815169/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-ALL&utm_term=News&utm_content=uk",
+        "is_priority": false
+      },
+      {
+        "title": "The forgotten 1990s Seat that hid a VW Golf GTI underneath",
+        "source": "Autocar RSS Feed",
+        "published": "Sun, 26 Apr 2026 07:00:00 +0100",
+        "url": "https://www.autocar.co.uk/car-news/used-cars/forgotten-1990s-seat-hid-vw-golf-gti-underneath",
+        "is_priority": false
+      },
+      {
+        "title": "Ford bucking Bronco tradition with Europe launch plan – will it work?",
+        "source": "Autocar RSS Feed",
+        "published": "Sun, 26 Apr 2026 06:00:00 +0100",
+        "url": "https://www.autocar.co.uk/car-news/new-cars/ford-bucking-bronco-tradition-europe-launch-plan-%E2%80%93-will-it-work",
+        "is_priority": false
+      },
+      {
+        "title": "What Separates Porsche's GTS Models From The 'Real' GT Cars?",
         "source": "Jalopnik - Obsessed with the culture of cars",
-        "published": "Fri, 24 Apr 2026 21:07:19 +0000",
-        "url": "https://www.jalopnik.com/2156664/is-somebody-hunting-americas-aerospace-engineers-scientists/",
+        "published": "Sun, 26 Apr 2026 03:25:00 +0000",
+        "url": "https://www.jalopnik.com/2153735/are-porsche-gts-models-gt-cars/",
         "is_priority": false
       },
       {
-        "title": "Nissan Says CVTs Make Sense—But Not For Everything: 'Not Putting A CVT In A Skyline'",
-        "source": "Motor1.com - News",
-        "published": "Fri, 24 Apr 2026 21:00:00 +0000",
-        "url": "https://www.motor1.com/news/794035/nissan-cvt-make-sense-interview/",
-        "is_priority": false
-      },
-      {
-        "title": "2026 Porsche Cayenne Electric / Cayenne Coupe Electric",
-        "source": "Latest Content - Car and Driver",
-        "published": "Fri, 24 Apr 2026 20:48:00 +0000",
-        "url": "https://www.caranddriver.com/porsche/cayenne-ev",
-        "is_priority": false
-      },
-      {
-        "title": "Nissan Stagea, Honda Gold Wing, Jeep Wagoneer: The Dopest Cars I Found For Sale Online",
+        "title": "What The 3% Rule Means For Your Tires",
         "source": "Jalopnik - Obsessed with the culture of cars",
-        "published": "Fri, 24 Apr 2026 20:45:00 +0000",
-        "url": "https://www.jalopnik.com/2156197/nissan-stagea-honda-gold-wing-dopest-cars-found-on-sale/",
+        "published": "Sun, 26 Apr 2026 02:25:00 +0000",
+        "url": "https://www.jalopnik.com/2153604/what-three-percent-rule-means-for-tires/",
         "is_priority": false
       },
       {
-        "title": "These 7 Heavy-Duty Vehicles Are Perfect For Your Next Side Hustle",
-        "source": "Jalopnik - Obsessed with the culture of cars",
-        "published": "Fri, 24 Apr 2026 20:45:00 +0000",
-        "url": "https://www.jalopnik.com/2153465/cars-perfect-for-side-hustle/",
-        "is_priority": false
-      },
-      {
-        "title": "Wedgetastic Hyundai Ioniq V Sedan Is Designed For China, But Will Influence Future Hyundais We Get",
-        "source": "Jalopnik - Obsessed with the culture of cars",
-        "published": "Fri, 24 Apr 2026 20:42:19 +0000",
-        "url": "https://www.jalopnik.com/2156636/hyundai-ioniq-v-sedan-designed-for-china/",
-        "is_priority": false
-      },
-      {
-        "title": "ABB E-mobility’s new EV fast charger kills peak power hype",
+        "title": "This fleet is going electric, and sharing their real-world results (and savings) online",
         "source": "Electrek",
-        "published": "Fri, 24 Apr 2026 20:33:50 +0000",
-        "url": "https://electrek.co/2026/04/24/abb-e-mobilitys-new-ev-fast-charger-kills-peak-power-hype/",
+        "published": "Sun, 26 Apr 2026 02:12:40 +0000",
+        "url": "https://electrek.co/2026/04/25/this-fleet-is-going-electric-and-sharing-their-real-world-results-and-savings-online/",
         "is_priority": false
       },
       {
-        "title": "Jaguar Land Rover Recalls 170,000 SUVs with Hybrid System Failure",
-        "source": "Latest Content - Car and Driver",
-        "published": "Fri, 24 Apr 2026 20:32:00 +0000",
-        "url": "https://www.caranddriver.com/news/a71122681/jlr-170000-suv-hybrid-system-failure-recall/",
+        "title": "New bill in California senate could turn your home battery into a moneymaker",
+        "source": "Electrek",
+        "published": "Sun, 26 Apr 2026 01:33:00 +0000",
+        "url": "https://electrek.co/2026/04/25/new-bill-in-california-senate-could-turn-your-home-battery-into-a-moneymaker/",
+        "is_priority": false
+      },
+      {
+        "title": "Cash Vs Credit: Here's How Experts Think It's Best To Pay For A Car In 2026",
+        "source": "Jalopnik - Obsessed with the culture of cars",
+        "published": "Sun, 26 Apr 2026 01:25:00 +0000",
+        "url": "https://www.jalopnik.com/2153534/cash-vs-credit-best-to-pay-for-car-experts/",
+        "is_priority": false
+      },
+      {
+        "title": "How Bernie Madoff's Ponzi Scheme Helped End This Storied American Automaker",
+        "source": "Jalopnik - Obsessed with the culture of cars",
+        "published": "Sun, 26 Apr 2026 00:25:00 +0000",
+        "url": "https://www.jalopnik.com/2153502/bernie-madoff-american-automaker-bankrupt/",
+        "is_priority": false
+      },
+      {
+        "title": "Why Are Oil Leaks Common In Air-Cooled Porsches?",
+        "source": "Jalopnik - Obsessed with the culture of cars",
+        "published": "Sun, 26 Apr 2026 00:05:00 +0000",
+        "url": "https://www.jalopnik.com/2153342/porsche-air-cooled-engine-oil-leaks-common/",
+        "is_priority": false
+      },
+      {
+        "title": "Jason Kelce's One-Off Appearance on a NASCAR Pit Crew Results in a Win",
+        "source": "Latest Content - Road & Track",
+        "published": "Sat, 25 Apr 2026 23:31:00 +0000",
+        "url": "https://www.roadandtrack.com/news/a71127636/jason-kelce-one-off-apparence-a-nascar-pit-crew-results-win/",
+        "is_priority": false
+      },
+      {
+        "title": "How Engineers Made An Engine That Ran On Gas And Diesel At The Same Time",
+        "source": "Jalopnik - Obsessed with the culture of cars",
+        "published": "Sat, 25 Apr 2026 23:25:00 +0000",
+        "url": "https://www.jalopnik.com/2152872/engine-runs-diesel-and-gas/",
+        "is_priority": false
+      },
+      {
+        "title": "THEY TOOK R JOBS: new DroneDog robot security guard gets to work",
+        "source": "Electrek",
+        "published": "Sat, 25 Apr 2026 22:52:27 +0000",
+        "url": "https://electrek.co/2026/04/25/they-took-r-jobs-new-dronedog-robot-security-guard-gets-to-work/",
+        "is_priority": false
+      },
+      {
+        "title": "Corey Day Has His Day, Wins Career First O'Reilly Auto Parts Race at Talladega",
+        "source": "Latest Content - Road & Track",
+        "published": "Sat, 25 Apr 2026 22:44:00 +0000",
+        "url": "https://www.roadandtrack.com/news/a71127421/corey-day-has-his-day-wins-career-first-oreilly-auto-parts-race-talladega/",
         "is_priority": false
       }
     ],
     "Portugal": [
       {
-        "title": "Aeroporto de Teerão retoma voos internacionais",
+        "title": "Três meses depois das depressões, apoios continuam a chegar a “conta-gotas”",
         "source": "ECO",
-        "published": "Sat, 25 Apr 2026 08:05:51 +0000",
-        "url": "https://eco.sapo.pt/2026/04/25/aeroporto-de-teerao-retoma-voos-internacionais/",
+        "published": "Sun, 26 Apr 2026 08:15:55 +0000",
+        "url": "https://eco.sapo.pt/2026/04/26/tres-meses-depois-das-depressoes-apoios-continuam-a-chegar-a-conta-gotas/",
         "is_priority": true
       },
       {
-        "title": "Marítimo: Regresso à Liga é já ali",
-        "source": "Correio da Manhã",
-        "published": "Sat, 25 Apr 2026 09:00:00 +0100",
-        "url": "https://www.cmjornal.pt/desporto/futebol/detalhe/maritimo-regresso-a-liga-e-ja-ali",
-        "is_priority": true
-      },
-      {
-        "title": "\"Só um descalabro tira o título ao FC Porto\", afirma Filipe Martins",
-        "source": "Correio da Manhã",
-        "published": "Sat, 25 Apr 2026 09:00:00 +0100",
-        "url": "https://www.cmjornal.pt/desporto/futebol/detalhe/so-um-descalabro-tira-o-titulo-ao-fc-porto-afirma-filipe-martins",
-        "is_priority": true
-      },
-      {
-        "title": "Luís Figueiredo: O primado da técnica",
-        "source": "Correio da Manhã",
-        "published": "Sat, 25 Apr 2026 09:00:00 +0100",
-        "url": "https://www.cmjornal.pt/desporto/futebol/detalhe/figueiredo-o-primado-da-tecnica",
-        "is_priority": true
-      },
-      {
-        "title": "Mundial: Portugueses pouco confiantes no desempenho da seleção",
-        "source": "Correio da Manhã",
-        "published": "Sat, 25 Apr 2026 09:00:00 +0100",
-        "url": "https://www.cmjornal.pt/desporto/futebol/detalhe/mundial-portugueses-pouco-confiantes-no-desempenho-da-selecao",
-        "is_priority": true
-      },
-      {
-        "title": "Transparência verificou apenas 10% das declarações de políticos em 2024 e 2025",
-        "source": "ECO",
-        "published": "Sat, 25 Apr 2026 07:58:15 +0000",
-        "url": "https://eco.sapo.pt/2026/04/25/transparencia-verificou-apenas-10-das-declaracoes-de-politicos-em-2024-e-2025/",
-        "is_priority": true
-      },
-      {
-        "title": "Homem morre na praia do Rio da Prata em Sesimbra",
-        "source": "Correio da Manhã",
-        "published": "Sat, 25 Apr 2026 08:14:00 +0100",
-        "url": "https://www.cmjornal.pt/portugal/detalhe/homem-morre-na-praia-do-rio-da-prata-em-sesimbra",
-        "is_priority": true
-      },
-      {
-        "title": "8h. Dúvida sobre se há ou não negociações em Islamabad",
+        "title": "Oito distritos sob aviso amarelo por causa da chuva",
         "source": "Observador - Últimas",
-        "published": "Sat, 25 Apr 2026 08:13:36 +0100",
-        "url": "https://observador.pt/programas/noticiario/as-noticias-das-8h-2379/",
+        "published": "Sun, 26 Apr 2026 09:08:37 +0100",
+        "url": "https://observador.pt/2026/04/26/oito-distritos-sob-aviso-amarelo-por-causa-da-chuva-2/",
         "is_priority": true
       },
       {
-        "title": "Comentadores do 'Noite das Estrelas' falam sobre envolvimento entre os concorrentes da Casa dos Segredos Sara e Hugo",
+        "title": "EUA. Trump revela imagem de atirador detido",
+        "source": "Observador - Últimas",
+        "published": "Sun, 26 Apr 2026 09:06:43 +0100",
+        "url": "https://observador.pt/liveblogs/donald-trump-revela-imagem-de-atirador-detido-no-jantar-de-correspondentes-agente-foi-baleado-mas-esta-a-salvo/",
+        "is_priority": true
+      },
+      {
+        "title": "Apagão. Infraestruturas críticas devem ter 72h de autonomia energética",
+        "source": "ECO",
+        "published": "Sun, 26 Apr 2026 08:00:06 +0000",
+        "url": "https://eco.sapo.pt/2026/04/26/apagao-infraestruturas-criticas-devem-ter-72h-de-autonomia-energetica/",
+        "is_priority": true
+      },
+      {
+        "title": "David Uclés: \"O fascismo está a despertar novamente em Espanha, mas nos jovens\"",
         "source": "Correio da Manhã",
-        "published": "Sat, 25 Apr 2026 08:07:20 +0100",
-        "url": "https://www.cmjornal.pt/cmtv/programas/entretenimento/noite-das-estrelas/detalhe/comentadores-do-noite-das-estrelas-falam-sobre-envolvimento-entre-os-concorrentes-da-casa-dos-segredos-sara-e-hugo",
+        "published": "Sun, 26 Apr 2026 09:00:00 +0100",
+        "url": "https://www.cmjornal.pt/domingo/detalhe/david-ucles-o-fascismo-esta-a-despertar-novamente-em-espanha-mas-nos-jovens",
         "is_priority": true
       },
       {
-        "title": "New social housing given in Portugal",
+        "title": "Da Sociedade à Ciência: as mudanças da Revolução",
+        "source": "Correio da Manhã",
+        "published": "Sun, 26 Apr 2026 09:00:00 +0100",
+        "url": "https://www.cmjornal.pt/domingo/detalhe/da-sociedade-a-ciencia-as-mudancas-da-revolucao",
+        "is_priority": true
+      },
+      {
+        "title": "Um dia para celebrar uma casta e os vinhos da sua região",
+        "source": "Correio da Manhã",
+        "published": "Sun, 26 Apr 2026 09:00:00 +0100",
+        "url": "https://www.cmjornal.pt/domingo/detalhe/um-dia-para-celebrar-uma-casta-e-os-vinhos-da-sua-regiao",
+        "is_priority": true
+      },
+      {
+        "title": "Como fazer uma lata de atum dar luz?",
+        "source": "Correio da Manhã",
+        "published": "Sun, 26 Apr 2026 09:00:00 +0100",
+        "url": "https://www.cmjornal.pt/domingo/detalhe/como-fazer-uma-lata-de-atum-dar-luz",
+        "is_priority": true
+      },
+      {
+        "title": "Galp inaugura resultados no PSI em trimestre marcado por escalada na energia",
+        "source": "ECO",
+        "published": "Sun, 26 Apr 2026 07:49:34 +0000",
+        "url": "https://eco.sapo.pt/2026/04/26/galp-inaugura-resultados-no-psi-em-trimestre-marcado-por-escalada-na-energia/",
+        "is_priority": true
+      },
+      {
+        "title": "We Need to Talk About Animal Experimentation",
         "source": "The Portugal News",
-        "published": "Sat, 25 Apr 2026 08:03:00 +0000",
-        "url": "https://www.theportugalnews.com/news/2026-04-25/new-social-housing-given-in-portugal/1011869",
+        "published": "Sun, 26 Apr 2026 08:01:00 +0000",
+        "url": "https://www.theportugalnews.com/news/2026-04-26/we-need-to-talk-about-animal-experimentation/1012365",
         "is_priority": false
       },
       {
-        "title": "Heathrow Boost",
+        "title": "Guess the metro station in Lisbon",
         "source": "The Portugal News",
-        "published": "Sat, 25 Apr 2026 07:31:00 +0000",
-        "url": "https://www.theportugalnews.com/news/2026-04-25/heathrow-boost/1011318",
+        "published": "Sun, 26 Apr 2026 07:31:00 +0000",
+        "url": "https://www.theportugalnews.com/news/2026-04-26/guess-the-metro-station-in-lisbon/1010795",
         "is_priority": false
       },
       {
-        "title": "Free books to be offered in Portugal city",
+        "title": "Beyond Appearances: A Full Moon That Encourages Authentic Living",
         "source": "The Portugal News",
-        "published": "Sat, 25 Apr 2026 07:03:00 +0000",
-        "url": "https://www.theportugalnews.com/news/2026-04-25/free-books-to-be-offered-in-portugal-city/1011831",
+        "published": "Sun, 26 Apr 2026 07:31:00 +0000",
+        "url": "https://www.theportugalnews.com/news/2026-04-26/beyond-appearances-a-full-moon-that-encourages-authentic-living/1012248",
         "is_priority": false
       },
       {
-        "title": "This Algarve beach looks unreal",
+        "title": "Biowaste Management to be discussed in Portugal city",
         "source": "The Portugal News",
-        "published": "Fri, 24 Apr 2026 19:05:00 +0000",
-        "url": "https://www.theportugalnews.com/news/2026-04-24/this-algarve-beach-looks-unreal/1011390",
+        "published": "Sun, 26 Apr 2026 07:03:00 +0000",
+        "url": "https://www.theportugalnews.com/news/2026-04-26/biowaste-management-to-be-discussed-in-portugal-city/1011848",
         "is_priority": false
       },
       {
-        "title": "AIMA receives €28 million from Government",
+        "title": "Why Lagos Is More Than Just a Beach Town",
         "source": "The Portugal News",
-        "published": "Fri, 24 Apr 2026 19:03:00 +0000",
-        "url": "https://www.theportugalnews.com/news/2026-04-24/aima-receives-28-million-from-government/1012332",
+        "published": "Sat, 25 Apr 2026 19:05:00 +0000",
+        "url": "https://www.theportugalnews.com/news/2026-04-25/why-lagos-is-more-than-just-a-beach-town/1010751",
         "is_priority": false
       },
       {
-        "title": "Portugal housing prices keep increasing",
+        "title": "Construction of the Algarve desalination plant confirmed – works are set to begin",
         "source": "The Portugal News",
-        "published": "Fri, 24 Apr 2026 18:03:00 +0000",
-        "url": "https://www.theportugalnews.com/news/2026-04-24/portugal-housing-prices-keep-increasing/1012331",
+        "published": "Sat, 25 Apr 2026 19:03:00 +0000",
+        "url": "https://www.theportugalnews.com/news/2026-04-25/construction-of-the-algarve-desalination-plant-confirmed-works-are-set-to-begin/1012381",
         "is_priority": false
       }
     ]

@@ -1,8 +1,8 @@
 {
-  "global_theme": "Geopolitical conflicts and economic caution persist, yet significant investment and innovation in AI continue to reshape markets and offer substantial wealth creation opportunities, particularly within the EU.",
-  "market_mood": "Cautious but Tech-Optimistic",
-  "risk_signal": "Geopolitical Instability & Inflation",
-  "opportunity_signal": "AI Innovation & Tech Investment",
+  "global_theme": "The global stage is marked by US political instability and geopolitical tensions, while AI's economic impact and strong Asian IPO markets signal evolving wealth opportunities.",
+  "market_mood": "Cautious Optimism",
+  "risk_signal": "Geopolitical Instability, Energy Market Volatility",
+  "opportunity_signal": "AI Integration, Niche Tech Specialization",
   "finance_sentiment": [
     {
       "i": 1,
@@ -10,7 +10,7 @@
     },
     {
       "i": 2,
-      "s": "+"
+      "s": "-"
     },
     {
       "i": 3,
@@ -22,15 +22,15 @@
     },
     {
       "i": 5,
-      "s": "="
+      "s": "-"
     },
     {
       "i": 6,
-      "s": "+"
+      "s": "="
     },
     {
       "i": 7,
-      "s": "-"
+      "s": "+"
     },
     {
       "i": 8,
@@ -50,45 +50,45 @@
     },
     {
       "i": 12,
-      "s": "-"
+      "s": "+"
     },
     {
       "i": 13,
-      "s": "-"
+      "s": "+"
     },
     {
       "i": 14,
-      "s": "="
+      "s": "+"
     },
     {
       "i": 15,
-      "s": "="
+      "s": "-"
     }
   ],
   "insights": {
     "g1": [
-      "AI's economic transformation is a key growth driver, despite global uncertainties.",
-      "Declining US consumer sentiment signals potential economic headwinds globally.",
-      "Geopolitical conflicts continue to pose significant market volatility risks.",
-      "Major tech investments like Google's in Anthropic show confidence in AI's future.",
-      "Portugal's rising housing prices reflect local economic dynamics impacting living costs."
+      "Geopolitical events (US shooting, Middle East conflict) create market volatility impacting investment decisions and energy prices.",
+      "AI is driving significant output increases, suggesting a critical shift for solopreneurs to integrate AI tools for efficiency.",
+      "Strong IPO activity in Asia (HK) highlights global capital availability, indicating potential for international market engagement.",
+      "Strait of Hormuz risks underscore the vulnerability of global energy markets and the need for supply chain resilience.",
+      "Company earnings (e.g., Accesso's AI bet) reveal successful strategic pivots, offering models for business growth and adaptation."
     ],
     "g2": [
-      "DeepSeek's AI model for Huawei highlights specialized AI development and market needs.",
-      "Open-source AI memory layers democratize advanced AI agent capabilities for solopreneurs.",
-      "New 10 GbE USB adapters offer practical and cheaper tech infrastructure upgrades.",
-      "AI in travel poses both threats and opportunities for service-based businesses.",
-      "Google's substantial investment in Anthropic validates AI's enterprise value and future."
+      "AI's output-boosting capacity demands solopreneurs master AI tools to enhance productivity and service delivery.",
+      "Emerging specialized AI roles, like 'Applied AI Strategist (Health Intelligence),' indicate high-value niche opportunities.",
+      "Discussions on open-source licensing (AGPLv3) and digital IDs highlight the growing importance of software governance and data security skills.",
+      "Concerns about 'forgetting how to code' signal a potential competitive advantage for solopreneurs with robust programming skills.",
+      "Learning about post-quantum cryptography or detailed computing concepts prepares for future-proof tech consulting services."
     ],
     "g3": [
-      "Portugal's continuously increasing housing prices present a challenge but also a market for services.",
-      "Discussions around overtourism (Athens) suggest potential for sustainable local business models in Portugal.",
-      "New social housing initiatives in Portugal could indicate demographic shifts or investment areas.",
-      "Portugal's AIMA receiving €28 million points to government focus on migration and integration services.",
-      "Local community initiatives like free books offer insights into non-profit or engagement strategies."
+      "Portugal's mandate for 72-hour energy autonomy for critical infrastructure suggests opportunities in energy consulting or solutions.",
+      "The Algarve desalination plant construction signifies substantial regional investment, creating ancillary business needs for solopreneurs.",
+      "Local discussions on biowaste management indicate a growing market for sustainable solutions and environmental consulting in Portuguese cities.",
+      "Gaps in government support (post-depressions) may open doors for solopreneurs to provide agile, specialized community services.",
+      "Highlighting Lagos beyond tourism suggests exploring diverse local economic drivers for niche market development within Portugal."
     ]
   },
-  "learning_task": "Allocate 30 minutes to research the 'viral chart in AI' to identify specific growth sectors and evaluate their relevance to Alex's €35k target income.",
-  "biz_opportunity": "Offer AI-driven market analysis or content creation services to Portuguese SMBs navigating increased housing costs and tech integration, leveraging local market insights and AI efficiency.",
-  "built_at": "2026-04-25T08:08:01.464703+00:00"
+  "learning_task": "Dedicate 30 minutes to exploring an AI tool like ChatGPT or Claude, focusing on how it can automate a specific repetitive task in your current workflow to boost efficiency.",
+  "biz_opportunity": "Launch an AI-powered content and marketing support service for Portuguese small businesses navigating local regulations and seeking increased digital presence.",
+  "built_at": "2026-04-26T08:17:33.878609+00:00"
 }

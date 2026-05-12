@@ -1,12 +1,12 @@
 {
-  "global_theme": "Geopolitical tensions and shifting consumer spending patterns are impacting global markets, while AI and digital assets continue to attract significant EU and international wealth.",
-  "market_mood": "Cautiously Optimistic/Mixed",
-  "risk_signal": "Geopolitical conflict, luxury sector slowdown, currency overvaluation.",
-  "opportunity_signal": "AI innovation, digital asset funding, strategic European investments.",
+  "global_theme": "Geopolitical tensions and economic uncertainty are driving market volatility, while AI continues its aggressive expansion and regional markets show mixed signals, impacting investment and business confidence.",
+  "market_mood": "Risk-Off",
+  "risk_signal": "Geopolitical conflict and inflation persistence",
+  "opportunity_signal": "Enterprise AI deployment and long-term crypto growth",
   "finance_sentiment": [
     {
       "i": 1,
-      "s": "="
+      "s": "-"
     },
     {
       "i": 2,
@@ -14,43 +14,43 @@
     },
     {
       "i": 3,
-      "s": "+"
+      "s": "-"
     },
     {
       "i": 4,
-      "s": "-"
+      "s": "+"
     },
     {
       "i": 5,
-      "s": "-"
+      "s": "="
     },
     {
       "i": 6,
-      "s": "="
-    },
-    {
-      "i": 7,
-      "s": "="
-    },
-    {
-      "i": 8,
-      "s": "+"
-    },
-    {
-      "i": 9,
       "s": "-"
     },
     {
-      "i": 10,
+      "i": 7,
       "s": "+"
     },
     {
+      "i": 8,
+      "s": "-"
+    },
+    {
+      "i": 9,
+      "s": "+"
+    },
+    {
+      "i": 10,
+      "s": "-"
+    },
+    {
       "i": 11,
-      "s": "="
+      "s": "-"
     },
     {
       "i": 12,
-      "s": "="
+      "s": "+"
     },
     {
       "i": 13,
@@ -58,37 +58,37 @@
     },
     {
       "i": 14,
-      "s": "="
+      "s": "-"
     },
     {
       "i": 15,
-      "s": "="
+      "s": "+"
     }
   ],
   "insights": {
     "g1": [
-      "Luxury sector faces slowdown; consider essential services or recession-proof investments for stability.",
-      "AI-driven companies like Alphabet attract significant investor confidence, highlighting tech growth.",
-      "Upcoming earnings reports will offer critical insights into specific sector health and market volatility.",
-      "Substantial funding for crypto projects like Circle shows continued institutional interest in digital assets.",
-      "Geopolitical events, like the Iran conflict, can swiftly impact global markets and regional economies."
+      "Geopolitical tensions, like the Iran war, drive market uncertainty and inflation risks, impacting investment strategies.",
+      "High government borrowing costs in the UK signal broader economic fragility and potential austerity measures ahead.",
+      "Despite war risks, some analysts see profits eclipsing concerns for stocks, suggesting selective investment opportunities.",
+      "The predicted long-term rise of Bitcoin to $150,000 offers a potential avenue for aggressive wealth building.",
+      "Monitor inflation and interest rate movements closely, as they significantly impact business financing and operational costs."
     ],
     "g2": [
-      "AI's rapid evolution, from \"zero to hero,\" demands continuous learning and adaptation for solopreneurs.",
-      "Creative industries are now secretly training AI, signaling immediate need for AI literacy across fields.",
-      "Nvidia's success highlights software's critical role in hardware; focus on programming or platform development.",
-      "Quantum computing and legal AI's \"Agentic Law\" emergence offer future specialization paths for tech-savvy Alex.",
-      "Understanding how startups spend funding provides clues for lean operations and strategic resource allocation."
+      "OpenAI's DeployCo launch signifies a maturing enterprise AI market, creating demand for specialized integration skills.",
+      "Europe's quantum startups face a commercial talent crunch, highlighting a high-value skill gap for early adopters.",
+      "The 'AI energy crisis' and quantum's arrival underscore the need for efficient, sustainable tech solutions in future.",
+      "Learning robust software architecture principles remains a fundamental skill for building scalable and reliable digital products.",
+      "Explore how AI tools can automate routine tasks, reducing operational costs and freeing time for strategic business growth."
     ],
     "g3": [
-      "EU's geopolitical stance influences economic stability; stay updated on broader European policy and markets.",
-      "Portugal's market needs change, indicating opportunities for solopreneurs to solve local inefficiencies.",
-      "Foreign investment, like Anchorage's €2M into Portugal, points to growth sectors and potential partnerships.",
-      "Algarve's Capital of Culture bid could unlock tourism-related service opportunities for local businesses.",
-      "The Euro's dominance in EU trade ensures currency stability, beneficial for international services from Portugal."
+      "Portugal's real estate trends, especially in Comporta and Carvalhal, offer insights for potential property-related ventures.",
+      "Bruxelas facilitating 'outrageous profits' tax hints at evolving EU regulations impacting energy and other sectors.",
+      "The CTT-DHL partnership creates an 'Iberian giant' in logistics, potentially impacting local delivery and e-commerce models.",
+      "High travel regret among Portuguese suggests a market for enhanced local tourism experiences or improved travel planning services.",
+      "Solopreneurs in Portugal should closely monitor EU economic shifts and local consumer behavior for niche market identification."
     ]
   },
-  "learning_task": "Spend 30 minutes researching how solopreneurs are leveraging AI tools for market research or content creation to identify potential efficiency gains for your €35k goal.",
-  "biz_opportunity": "Offer AI-driven market analysis and strategic planning services to small to medium-sized European luxury brands struggling with slowing growth, leveraging data to identify new customer segments and optimize spending.",
-  "built_at": "2026-05-11T10:40:17.864543+00:00"
+  "learning_task": "Research common enterprise AI deployment challenges and potential solopreneur-friendly tools to leverage for client solutions, aiming for €35k by 2032-05-27.",
+  "biz_opportunity": "Specialized AI deployment consultancy for small to medium-sized businesses in Portugal, because OpenAI's enterprise focus and Europe's talent crunch create a high-demand gap for tailored AI integration solutions.",
+  "built_at": "2026-05-12T09:43:56.143171+00:00"
 }

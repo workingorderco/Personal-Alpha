@@ -1,538 +1,538 @@
 {
-  "built_at": "2026-05-14T09:36:50.744375+00:00",
+  "built_at": "2026-05-15T09:50:14.494418+00:00",
   "sections": {
     "Finance": [
       {
-        "title": "Bond markets are bracing for UK PM Starmer's political rivals to break cover",
-        "source": "US Top News and Analysis",
-        "published": "Thu, 14 May 2026 09:31:58 GMT",
-        "url": "https://www.cnbc.com/2026/05/14/uk-labour-leadership-challenge-starmer-rivals.html",
-        "is_priority": false
-      },
-      {
-        "title": "Xi asks Trump if U.S. and China can avoid 'Thucydides Trap' at high-stakes summit",
-        "source": "US Top News and Analysis",
-        "published": "Thu, 14 May 2026 09:30:55 GMT",
-        "url": "https://www.cnbc.com/2026/05/14/trump-xi-beijing-summit-trade-taiwan-ai-iran-rare-earths-tariffs.html",
-        "is_priority": false
-      },
-      {
-        "title": "A look at which assets are following the script, and which aren’t, on day 75 of the war",
-        "source": "MarketWatch.com - Top Stories",
-        "published": "Thu, 14 May 2026 09:29:00 GMT",
-        "url": "https://www.marketwatch.com/story/a-look-at-which-assets-are-following-the-script-and-which-arent-on-day-75-of-the-war-bdd52fba?mod=mw_rss_topstories",
-        "is_priority": false
-      },
-      {
-        "title": "UK Navy Says Ship in Gulf of Oman Taken, Heading to Iran",
-        "source": "Bloomberg Markets",
-        "published": "Thu, 14 May 2026 09:22:07 GMT",
-        "url": "https://www.bloomberg.com/news/videos/2026-05-14/uk-navy-says-ship-in-gulf-of-oman-taken-heading-to-iran-video",
-        "is_priority": false
-      },
-      {
-        "title": "China’s Credit Growth Misses Expectations as New Loans Contract",
-        "source": "Bloomberg Markets",
-        "published": "Thu, 14 May 2026 09:21:58 GMT",
-        "url": "https://www.bloomberg.com/news/articles/2026-05-14/china-s-credit-growth-misses-expectations-as-new-loans-contract",
-        "is_priority": false
-      },
-      {
-        "title": "Franklin CEO Says Markets Are Underestimating Inflation",
-        "source": "Bloomberg Markets",
-        "published": "Thu, 14 May 2026 09:20:36 GMT",
-        "url": "https://www.bloomberg.com/news/videos/2026-05-14/franklin-ceo-says-markets-are-underestimating-inflation-video",
-        "is_priority": false
-      },
-      {
-        "title": "BlackRock Fund Manager Says European Stocks Are Attractive",
-        "source": "Bloomberg Markets",
-        "published": "Thu, 14 May 2026 09:20:22 GMT",
-        "url": "https://www.bloomberg.com/news/articles/2026-05-14/blackrock-fund-manager-says-european-stocks-are-attractive",
-        "is_priority": false
-      },
-      {
-        "title": "We’re in our 40s. Our mortgage is nearly paid off — how should we invest our extra $1,500 a month?",
-        "source": "MarketWatch.com - Top Stories",
-        "published": "Thu, 14 May 2026 09:15:00 GMT",
-        "url": "https://www.marketwatch.com/story/were-in-our-40s-our-mortgage-is-nearly-paid-off-how-should-we-invest-our-extra-1-500-a-month-af3eec89?mod=mw_rss_topstories",
-        "is_priority": false
-      },
-      {
-        "title": "Fertilizer Firm Eyes More Than $2.5 Billion Value in Oman IPO",
-        "source": "Bloomberg Markets",
-        "published": "Thu, 14 May 2026 09:14:20 GMT",
-        "url": "https://www.bloomberg.com/news/articles/2026-05-14/fertilizer-firm-eyes-more-than-2-5-billion-value-in-oman-ipo",
-        "is_priority": false
-      },
-      {
-        "title": "Polestar CEO tells CNBC ‘pump anxiety’ has made EVs ‘all about money’",
-        "source": "US Top News and Analysis",
-        "published": "Thu, 14 May 2026 09:13:40 GMT",
-        "url": "https://www.cnbc.com/2026/05/14/polestar-ev-hormuz-iran-energy-oil.html",
-        "is_priority": false
-      },
-      {
-        "title": "Cisco's stock pops 17% on surging AI orders, as company says it's cutting almost 4,000 jobs",
-        "source": "US Top News and Analysis",
-        "published": "Thu, 14 May 2026 09:12:01 GMT",
-        "url": "https://www.cnbc.com/2026/05/13/cisco-csco-q3-earnings-report-2026.html",
-        "is_priority": false
-      },
-      {
-        "title": "Offshore Yuan Posts Best Win Streak Since 2017 as Summit Begins",
-        "source": "Bloomberg Markets",
-        "published": "Thu, 14 May 2026 09:11:42 GMT",
-        "url": "https://www.bloomberg.com/news/articles/2026-05-14/offshore-yuan-posts-best-win-streak-since-2017-as-summit-begins",
-        "is_priority": false
-      },
-      {
-        "title": "Congo Eyes Deals With Cobalt Producers to Tackle Illegal Mining",
-        "source": "Bloomberg Markets",
-        "published": "Thu, 14 May 2026 09:09:11 GMT",
-        "url": "https://www.bloomberg.com/news/articles/2026-05-14/congo-eyes-deals-with-cobalt-producers-to-tackle-illegal-mining",
-        "is_priority": false
-      },
-      {
-        "title": "Honda Posts First Ever Annual Loss After Pullback From E.V.s",
-        "source": "NYT > Business",
-        "published": "Thu, 14 May 2026 09:09:09 +0000",
-        "url": "https://www.nytimes.com/2026/05/14/business/honda-earnings-electric-vehicles.html",
-        "is_priority": false
-      },
-      {
-        "title": "Alina Holdings schedules annual meeting for June 17",
+        "title": "Unicorn AIM VCT appoints Tamara Sakovska to board",
         "source": "All News",
-        "published": "2026-05-14 09:08:51",
-        "url": "https://www.investing.com/news/company-news/alina-holdings-schedules-annual-meeting-for-june-17-93CH-4687394",
+        "published": "2026-05-15 09:43:24",
+        "url": "https://www.investing.com/news/company-news/unicorn-aim-vct-appoints-tamara-sakovska-to-board-93CH-4691371",
+        "is_priority": false
+      },
+      {
+        "title": "Goldman Sachs raises Kodiak Gas Services stock price target to $88 on power growth",
+        "source": "All News",
+        "published": "2026-05-15 09:43:18",
+        "url": "https://www.investing.com/news/analyst-ratings/goldman-sachs-raises-kodiak-gas-services-stock-price-target-to-88-on-power-growth-93CH-4691370",
+        "is_priority": false
+      },
+      {
+        "title": "Goldman Sachs raises Viking Holdings stock price target on strong 2027 bookings",
+        "source": "All News",
+        "published": "2026-05-15 09:43:14",
+        "url": "https://www.investing.com/news/analyst-ratings/goldman-sachs-raises-viking-holdings-stock-price-target-on-strong-2027-bookings-93CH-4691369",
+        "is_priority": false
+      },
+      {
+        "title": "Citizens raises Bandwidth stock price target on AI voice opportunity",
+        "source": "All News",
+        "published": "2026-05-15 09:43:09",
+        "url": "https://www.investing.com/news/analyst-ratings/citizens-raises-bandwidth-stock-price-target-on-ai-voice-opportunity-93CH-4691368",
+        "is_priority": false
+      },
+      {
+        "title": "Goldman Sachs lowers Regenxbio stock price target on regulatory uncertainty",
+        "source": "All News",
+        "published": "2026-05-15 09:43:07",
+        "url": "https://www.investing.com/news/analyst-ratings/goldman-sachs-lowers-regenxbio-stock-price-target-on-regulatory-uncertainty-93CH-4691367",
+        "is_priority": false
+      },
+      {
+        "title": "US set to drop criminal fraud case against India’s Gautam Adani, sources say, as deal reached in civil case",
+        "source": "All News",
+        "published": "2026-05-15 09:42:28",
+        "url": "https://www.investing.com/news/stock-market-news/us-set-to-drop-criminal-fraud-case-against-indias-gautam-adani-sources-say-as-deal-reached-in-civil-case-4691055",
+        "is_priority": false
+      },
+      {
+        "title": "Trump Touts ‘Fantastic Trade Deals’ With China, but Details Are Scarce",
+        "source": "NYT > Business",
+        "published": "Fri, 15 May 2026 09:41:29 +0000",
+        "url": "https://www.nytimes.com/2026/05/15/business/economy/trump-china-deals.html",
+        "is_priority": false
+      },
+      {
+        "title": "Ackman's Pershing Square takes stake in Microsoft, citing 'compelling' valuation",
+        "source": "US Top News and Analysis",
+        "published": "Fri, 15 May 2026 09:38:55 GMT",
+        "url": "https://www.cnbc.com/2026/05/15/ackmans-pershing-square-takes-stake-in-microsoft.html",
+        "is_priority": false
+      },
+      {
+        "title": "Standard Life announces board changes effective July 1",
+        "source": "All News",
+        "published": "2026-05-15 09:38:45",
+        "url": "https://www.investing.com/news/company-news/standard-life-announces-board-changes-effective-july-1-93CH-4691366",
+        "is_priority": false
+      },
+      {
+        "title": "Citizens reiterates Aquestive stock rating on Anaphylm progress",
+        "source": "All News",
+        "published": "2026-05-15 09:37:08",
+        "url": "https://www.investing.com/news/analyst-ratings/citizens-reiterates-aquestive-stock-rating-on-anaphylm-progress-93CH-4691365",
+        "is_priority": false
+      },
+      {
+        "title": "Exclusive-Schroders to exit wholly-owned China fund management unit, sources say",
+        "source": "All News",
+        "published": "2026-05-15 09:37:07",
+        "url": "https://www.investing.com/news/stock-market-news/exclusiveschroders-to-exit-whollyowned-china-fund-management-unit-sources-say-4691364",
+        "is_priority": false
+      },
+      {
+        "title": "RBC Capital raises Applied Materials stock price target on growth outlook",
+        "source": "All News",
+        "published": "2026-05-15 09:37:05",
+        "url": "https://www.investing.com/news/analyst-ratings/rbc-capital-raises-applied-materials-stock-price-target-on-growth-outlook-93CH-4691363",
+        "is_priority": false
+      },
+      {
+        "title": "Adani Group Revives Plan to Seek $1 Billion With Dollar Bond",
+        "source": "Bloomberg Markets",
+        "published": "Fri, 15 May 2026 09:33:51 GMT",
+        "url": "https://www.bloomberg.com/news/articles/2026-05-15/adani-group-revives-plan-to-seek-1-billion-with-dollar-bond",
+        "is_priority": false
+      },
+      {
+        "title": "‘I experienced many years of poverty’: I don’t judge other people. Why do wealthy retirees look down on others?",
+        "source": "MarketWatch.com - Top Stories",
+        "published": "Fri, 15 May 2026 09:33:00 GMT",
+        "url": "https://www.marketwatch.com/story/i-experienced-many-years-of-poverty-i-dont-judge-other-people-why-do-wealthy-retirees-look-down-on-others-5e3069e6?mod=mw_rss_topstories",
+        "is_priority": false
+      },
+      {
+        "title": "UAE fast tracks second West-East oil pipeline to bypass Strait of Hormuz",
+        "source": "US Top News and Analysis",
+        "published": "Fri, 15 May 2026 09:19:57 GMT",
+        "url": "https://www.cnbc.com/2026/05/15/uae-west-east-oil-pipeline-strait-hormuz-iran-war.html",
         "is_priority": false
       }
     ],
     "World News": [
       {
-        "title": "Queensland Maroons v NSW Blues: Women’s State of Origin game 2 – live",
+        "title": "Scottish title finale latest, Coleman to leave Everton, Fletcher slams City Youth Cup ‘parade’ – football live",
         "source": "The Guardian",
-        "published": "Thu, 14 May 2026 09:28:32 GMT",
-        "url": "https://www.theguardian.com/sport/live/2026/may/14/womens-state-of-origin-game-2-queensland-maroons-v-nsw-blues-live",
+        "published": "Fri, 15 May 2026 09:47:20 GMT",
+        "url": "https://www.theguardian.com/football/live/2026/may/15/scottish-title-finale-latest-fa-cup-final-countdown-premier-league-news-football-live",
         "is_priority": false
       },
       {
-        "title": "Angela Rayner says Starmer should ‘reflect on’ stepping aside after HMRC clears her over tax affairs - UK politics live",
-        "source": "World news | The Guardian",
-        "published": "Thu, 14 May 2026 09:24:03 GMT",
-        "url": "https://www.theguardian.com/politics/live/2026/may/14/angela-rayner-says-starmer-should-reflect-on-stepping-aside-after-hmrc-clears-her-over-tax-affairs-uk-politics-live",
-        "is_priority": false
-      },
-      {
-        "title": "Live Updates: China’s Xi Warns Trump on Taiwan at Beijing Summit",
-        "source": "NYT > World News",
-        "published": "Thu, 14 May 2026 09:20:52 +0000",
-        "url": "https://www.nytimes.com/live/2026/05/13/world/trump-xi-summit-china",
-        "is_priority": false
-      },
-      {
-        "title": "Australians from hantavirus cruise ship fly out of Netherlands in full PPE after plane and crew secured",
-        "source": "World news | The Guardian",
-        "published": "Thu, 14 May 2026 09:20:16 GMT",
-        "url": "https://www.theguardian.com/australia-news/2026/may/14/hantavirus-australia-cases-cruise-ship-netherlands-to-perth-passengers-full-ppe",
-        "is_priority": false
-      },
-      {
-        "title": "Australia politics live: opposition leader Angus Taylor to deliver budget reply speech",
-        "source": "World news | The Guardian",
-        "published": "Thu, 14 May 2026 09:19:16 GMT",
-        "url": "https://www.theguardian.com/australia-news/live/2026/may/14/budget-reply-angus-taylor-anthony-albanese-jim-chalmers-tax-reform-property-investment-negative-gearing-capital-gains-housing-ntwnfb",
-        "is_priority": false
-      },
-      {
-        "title": "Federal judge blocks US sanctions against UN rapporteur Francesca Albanese",
+        "title": "Trump and Xi move towards business-first relationship after Beijing summit",
         "source": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
-        "published": "Thu, 14 May 2026 09:16:59 +0000",
-        "url": "https://www.aljazeera.com/news/2026/5/14/federal-judge-blocks-us-sanctions-against-un-rapporteur-francesca-albanese?traffic_source=rss",
+        "published": "Fri, 15 May 2026 09:46:56 +0000",
+        "url": "https://www.aljazeera.com/news/2026/5/15/trump-and-xi-move-towards-business-first-relationship-after-beijing-summit?traffic_source=rss",
         "is_priority": false
       },
       {
-        "title": "UAE denies Netanyahu office's claim of secret wartime visit as Iran dubs it 'unforgivable'",
-        "source": "News | Euronews RSS",
-        "published": "Thu, 14 May 2026 11:16:42 +0200",
-        "url": "http://www.euronews.com/2026/05/14/uae-denies-netanyahu-offices-claim-of-secret-wartime-visit-as-iran-dubs-it-unforgivable",
+        "title": "Premier League news: Howe hints at Gordon farewell as Senesi heads for Bournemouth exit",
+        "source": "The Guardian",
+        "published": "Fri, 15 May 2026 09:44:09 GMT",
+        "url": "https://www.theguardian.com/football/2026/may/15/premier-league-news-howe-hints-at-gordon-farewell-as-senesi-heads-for-bournemouth-exit",
         "is_priority": false
       },
       {
-        "title": "Philippine politician wanted by ICC flees senate after days holed up in building",
-        "source": "World news | The Guardian",
-        "published": "Thu, 14 May 2026 09:16:09 GMT",
-        "url": "https://www.theguardian.com/world/2026/may/14/philippines-senator-ronald-dela-rosa-wanted-by-icc-fled",
-        "is_priority": false
-      },
-      {
-        "title": "Anderson juices up the vibes for Dior with spotlight on Hollywood",
-        "source": "World news | The Guardian",
-        "published": "Thu, 14 May 2026 09:13:18 GMT",
-        "url": "https://www.theguardian.com/fashion/2026/may/14/anderson-designer-dior-hollywood-los-angeles",
-        "is_priority": false
-      },
-      {
-        "title": "Elon Musk Returns to Trump’s Side in Beijing",
+        "title": "Delivering Mail on Ukraine’s Front Line",
         "source": "NYT > World News",
-        "published": "Thu, 14 May 2026 09:12:29 +0000",
-        "url": "https://www.nytimes.com/2026/05/14/world/asia/musk-china-trump-xi-beijing.html",
+        "published": "Fri, 15 May 2026 09:37:38 +0000",
+        "url": "https://www.nytimes.com/video/world/europe/100000010847527/delivering-mail-on-ukraines-front-line.html",
         "is_priority": false
       },
       {
-        "title": "How Asia is reacting to Trump's summit in China",
+        "title": "Starmer ally admits prime minister is ‘unpopular’ but warns of ‘chaos’ if leadership contest triggered – UK politics live",
+        "source": "World news | The Guardian",
+        "published": "Fri, 15 May 2026 09:34:29 GMT",
+        "url": "https://www.theguardian.com/politics/live/2026/may/15/prime-minister-keir-starmer-leadership-contest-wes-streeting-andy-burnham-angela-rayner-latest-news-updates",
+        "is_priority": false
+      },
+      {
+        "title": "Emma Raducanu rehires coach who helped her to 2021 US Open triumph",
+        "source": "The Guardian",
+        "published": "Fri, 15 May 2026 09:30:48 GMT",
+        "url": "https://www.theguardian.com/sport/2026/may/15/emma-raducanu-rehires-coach-andrew-richardson-2021-us-open-tennis",
+        "is_priority": false
+      },
+      {
+        "title": "Death toll in attack on Kyiv apartment building now stands at 24",
         "source": "NPR Topics: World",
-        "published": "Thu, 14 May 2026 05:07:37 -0400",
-        "url": "https://www.npr.org/2026/05/14/nx-s1-5822179/how-asia-is-reacting-to-trumps-summit-in-china",
+        "published": "Fri, 15 May 2026 05:28:02 -0400",
+        "url": "https://www.npr.org/2026/05/15/nx-s1-5823388/death-toll-in-attack-on-kyiv-apartment-building-now-stands-at-24",
         "is_priority": false
       },
       {
-        "title": "Cuba has run out of diesel and oil, energy minister says",
+        "title": "Xi takes Trump on tour of Communist Party's seat of power as China visit ends",
         "source": "BBC News",
-        "published": "Thu, 14 May 2026 09:06:23 GMT",
-        "url": "https://www.bbc.com/news/articles/cd7pyrj0vx7o?at_medium=RSS&at_campaign=rss",
+        "published": "Fri, 15 May 2026 09:17:59 GMT",
+        "url": "https://www.bbc.com/news/articles/crrpj0ejxp8o?at_medium=RSS&at_campaign=rss",
         "is_priority": false
       },
       {
-        "title": "What to know as Trump visits Xi in China",
-        "source": "BBC News",
-        "published": "Thu, 14 May 2026 09:05:31 GMT",
-        "url": "https://www.bbc.com/news/articles/cyv2n7l1z14o?at_medium=RSS&at_campaign=rss",
+        "title": "Heathrow could be forced to allow other firms to build third runway to cut costs",
+        "source": "World news | The Guardian",
+        "published": "Fri, 15 May 2026 09:14:57 GMT",
+        "url": "https://www.theguardian.com/uk-news/2026/may/15/heathrow-could-be-forced-to-allow-other-firms-to-build-third-runway-to-cut-costs",
         "is_priority": false
       },
       {
-        "title": "Argentina Races To Find Origin of Hantavirus Outbreak",
+        "title": "Sanctioned by China, Rubio Enjoys a Trip to Beijing",
         "source": "NYT > World News",
-        "published": "Thu, 14 May 2026 09:04:59 +0000",
-        "url": "https://www.nytimes.com/2026/05/14/world/americas/hantavirus-cruise-ship-argentina.html",
+        "published": "Fri, 15 May 2026 09:14:55 +0000",
+        "url": "https://www.nytimes.com/2026/05/15/world/asia/china-rubio-sanctions.html",
         "is_priority": false
       },
       {
-        "title": "Can Some Very Tiny Particles Cool the Planet? One Tech Company Says Yes.",
+        "title": "Trump China visit live: US president says a lot of problems ‘settled’, as he meets with Xi on final day of summit",
+        "source": "World news | The Guardian",
+        "published": "Fri, 15 May 2026 09:12:28 GMT",
+        "url": "https://www.theguardian.com/world/live/2026/may/15/trump-china-visit-live-updates-xi-jinping-talks-meeting-summit-latest-news",
+        "is_priority": false
+      },
+      {
+        "title": "At least 24 killed in Kyiv in one of deadliest Russian attacks since start of war – Europe live",
+        "source": "World news | The Guardian",
+        "published": "Fri, 15 May 2026 09:10:49 GMT",
+        "url": "https://www.theguardian.com/world/live/2026/may/15/russian-attack-kyiv-ukraine-europe-live-updates-latest",
+        "is_priority": false
+      },
+      {
+        "title": "How Xi-Trump summit failed to yield Iran war breakthrough",
+        "source": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
+        "published": "Fri, 15 May 2026 09:01:20 +0000",
+        "url": "https://www.aljazeera.com/news/2026/5/15/how-xi-trump-summit-failed-to-yield-iran-war-breakthrough?traffic_source=rss",
+        "is_priority": false
+      },
+      {
+        "title": "How a Drug Cartel Made a Mexican State Its Tool",
         "source": "NYT > World News",
-        "published": "Thu, 14 May 2026 09:02:53 +0000",
-        "url": "https://www.nytimes.com/2026/05/14/climate/stardust-solutions-geoengineering-cooling-earth.html",
+        "published": "Fri, 15 May 2026 09:00:46 +0000",
+        "url": "https://www.nytimes.com/2026/05/15/world/americas/mexican-officials-protect-sinaloa-cartel.html",
+        "is_priority": false
+      },
+      {
+        "title": "‘The nuance of being a Black woman in America’: Is God Is turns righteous rage into gory horror",
+        "source": "The Guardian",
+        "published": "Fri, 15 May 2026 09:00:36 GMT",
+        "url": "https://www.theguardian.com/film/2026/may/15/is-god-is-aleshea-harris-cast-interview",
         "is_priority": false
       }
     ],
     "Tech": [
       {
-        "title": "These Instagram Ads Sure Seem to Be Selling Cocaine Accessories",
+        "title": "The US Is Using AI to Hunt Down Insider Trading on Polymarket",
         "source": "WIRED",
-        "published": "Thu, 14 May 2026 09:30:00 +0000",
-        "url": "https://www.wired.com/story/it-sure-seems-like-these-instagram-ads-think-youre-doing-cocaine-all-wrong/",
+        "published": "Fri, 15 May 2026 09:30:00 +0000",
+        "url": "https://www.wired.com/story/polymarket-insider-trading-cftc-michael-selig-interview/",
         "is_priority": false
       },
       {
-        "title": "Why ‘Smart’ Products Have Started to Look Like the Dumb Choice",
-        "source": "NYT > Technology",
-        "published": "Thu, 14 May 2026 09:04:10 +0000",
-        "url": "https://www.nytimes.com/2026/05/14/magazine/dumb-phones-tvs-retronym-smart-tech.html",
-        "is_priority": false
-      },
-      {
-        "title": "Ishmael Reed Is Writing a Play About Elon Musk",
-        "source": "NYT > Technology",
-        "published": "Thu, 14 May 2026 09:02:52 +0000",
-        "url": "https://www.nytimes.com/2026/05/14/technology/ishmael-reed-elon-musk-play.html",
-        "is_priority": false
-      },
-      {
-        "title": "The hidden costs of hiring freelancers across borders — and how to avoid them",
-        "source": "Sifted",
-        "published": "Thu, 14 May 2026 09:00:57 GMT",
-        "url": "https://sifted.eu/articles/hiring-freelancers-across-borders-brnd/",
-        "is_priority": false
-      },
-      {
-        "title": "‘There are no rules’: spotlight on Gossip Goblin as AI film-making enters new era",
-        "source": "Technology | The Guardian",
-        "published": "Thu, 14 May 2026 09:00:22 GMT",
-        "url": "https://www.theguardian.com/technology/2026/may/14/gossip-goblin-ai-film-making-new-era-hollywood",
-        "is_priority": false
-      },
-      {
-        "title": "Crypto Industry Pushes a Bill to Tilt Regulation in Its Favor",
-        "source": "NYT > Technology",
-        "published": "Thu, 14 May 2026 09:00:07 +0000",
-        "url": "https://www.nytimes.com/2026/05/14/technology/cryptocurrency-clarity-act-senate.html",
-        "is_priority": false
-      },
-      {
-        "title": "Meta’s New Reality: Record High Profits. Record Low Morale",
+        "title": "Mira Murati Wants Her AI to ‘Keep Humans in the Loop’",
         "source": "WIRED",
-        "published": "Thu, 14 May 2026 09:00:00 +0000",
-        "url": "https://www.wired.com/story/meta-layoffs-bad-vibes-mark-zuckerberg-ai/",
+        "published": "Fri, 15 May 2026 09:00:00 +0000",
+        "url": "https://www.wired.com/story/mira-murati-humans-in-the-loop-ai-models-thinking-machines/",
         "is_priority": false
       },
       {
-        "title": "The shock of seeing your body used in deepfake porn",
+        "title": "The world is on track to miss its health targets",
         "source": "MIT Technology Review",
-        "published": "Thu, 14 May 2026 09:00:00 +0000",
-        "url": "https://www.technologyreview.com/2026/05/14/1137161/ai-porn-nonconsensual-deepfakes-takedown-piracy-copyright/",
+        "published": "Fri, 15 May 2026 09:00:00 +0000",
+        "url": "https://www.technologyreview.com/2026/05/15/1137270/the-world-is-on-track-to-miss-its-health-targets/",
         "is_priority": false
       },
       {
-        "title": "What the Hell Was Going on with Cigarette Ads in the 70s? (2024)",
-        "source": "Hacker News: Front Page",
-        "published": "Thu, 14 May 2026 07:25:59 +0000",
-        "url": "https://tohippo.com/what-the-hell-was-going-on-with-cigarette-ads-in-the-70s/",
+        "title": "How Chinese short dramas became AI content machines",
+        "source": "MIT Technology Review",
+        "published": "Fri, 15 May 2026 09:00:00 +0000",
+        "url": "https://www.technologyreview.com/2026/05/15/1137326/chinese-short-dramas-ai/",
         "is_priority": false
       },
       {
-        "title": "Classic 7 is a Windows 10 LTSC mod to look 1:1 to Windows 7",
-        "source": "Hacker News: Front Page",
-        "published": "Thu, 14 May 2026 07:03:18 +0000",
-        "url": "https://classic7.lol/",
-        "is_priority": false
-      },
-      {
-        "title": "Who decides what AI tells you? Campbell Brown, once Meta’s news chief, has thoughts",
-        "source": "TechCrunch",
-        "published": "Thu, 14 May 2026 06:05:31 +0000",
-        "url": "https://techcrunch.com/2026/05/13/who-decides-what-ai-tells-you-campbell-brown-once-metas-news-chief-has-thoughts/",
-        "is_priority": false
-      },
-      {
-        "title": "Clio’s $500M milestone arrives just as Anthropic ups the ante",
-        "source": "TechCrunch",
-        "published": "Thu, 14 May 2026 05:24:39 +0000",
-        "url": "https://techcrunch.com/2026/05/13/clios-500m-milestone-arrives-just-as-anthropic-ups-the-ante/",
-        "is_priority": false
-      },
-      {
-        "title": "Exclusive: The secretive group recruiting whistleblowers to shake up the VC industry",
+        "title": "Euan Blair’s Multiverse boosts valuation with $70m fundraise",
         "source": "Sifted",
-        "published": "Thu, 14 May 2026 05:00:42 GMT",
-        "url": "https://sifted.eu/articles/inside-track-vc-whistleblowers/",
+        "published": "Fri, 15 May 2026 08:11:16 GMT",
+        "url": "https://sifted.eu/articles/euan-blairs-multiverse-70m-fundraise/",
         "is_priority": false
       },
       {
-        "title": "Exclusive: H Company cofounder steps down as CTO",
+        "title": "U.S. and China Will Start Discussing A.I. Safety, Bessent Says",
+        "source": "NYT > Technology",
+        "published": "Fri, 15 May 2026 06:54:12 +0000",
+        "url": "https://www.nytimes.com/2026/05/14/world/asia/china-us-ai-safety.html",
+        "is_priority": false
+      },
+      {
+        "title": "Nvidia’s Future in China Remains Unclear After Trump-Xi Summit",
+        "source": "NYT > Technology",
+        "published": "Fri, 15 May 2026 06:50:54 +0000",
+        "url": "https://www.nytimes.com/2026/05/15/world/asia/nvidia-china-chips.html",
+        "is_priority": false
+      },
+      {
+        "title": "This 11-person London startup wants to make AI 100x cheaper every year",
         "source": "Sifted",
-        "published": "Thu, 14 May 2026 05:00:17 GMT",
-        "url": "https://sifted.eu/articles/laurent-sifre-steps-down-cto-h-company/",
+        "published": "Fri, 15 May 2026 05:00:22 GMT",
+        "url": "https://sifted.eu/articles/meryem-arik-doubleword-interview/",
         "is_priority": false
       },
       {
-        "title": "We-Vibe Discount Codes and Deals: Up to 60% Off",
+        "title": "M&A: The European startups raising cash and on the hunt for acquisitions",
+        "source": "Sifted",
+        "published": "Fri, 15 May 2026 05:00:08 GMT",
+        "url": "https://sifted.eu/articles/european-startups-hunt-for-acquisitions/",
+        "is_priority": false
+      },
+      {
+        "title": "Loop Earplugs Discount Codes: 40% Off",
         "source": "WIRED",
-        "published": "Thu, 14 May 2026 05:00:00 +0000",
-        "url": "https://www.wired.com/story/we-vibe-discount-code/",
+        "published": "Fri, 15 May 2026 05:00:00 +0000",
+        "url": "https://www.wired.com/story/loop-earplugs-discount-code/",
+        "is_priority": false
+      },
+      {
+        "title": "Bose Promo Code: 40% Off for May 2026",
+        "source": "WIRED",
+        "published": "Fri, 15 May 2026 05:00:00 +0000",
+        "url": "https://www.wired.com/story/bose-coupon-code/",
+        "is_priority": false
+      },
+      {
+        "title": "Therabody Promo Codes: 15% Off May 2026",
+        "source": "WIRED",
+        "published": "Fri, 15 May 2026 05:00:00 +0000",
+        "url": "https://www.wired.com/story/therabody-promo-code/",
+        "is_priority": false
+      },
+      {
+        "title": "Govee Discount Codes and Deals: 30% Off",
+        "source": "WIRED",
+        "published": "Fri, 15 May 2026 05:00:00 +0000",
+        "url": "https://www.wired.com/story/govee-discount-code/",
+        "is_priority": false
+      },
+      {
+        "title": "Foreo Discount Codes and Deals: Up to 50% Off",
+        "source": "WIRED",
+        "published": "Fri, 15 May 2026 05:00:00 +0000",
+        "url": "https://www.wired.com/story/foreo-promo-code/",
+        "is_priority": false
+      },
+      {
+        "title": "Medicube Coupon Code: 40% Off for May 2026",
+        "source": "WIRED",
+        "published": "Fri, 15 May 2026 05:00:00 +0000",
+        "url": "https://www.wired.com/story/medicube-coupon-code/",
         "is_priority": false
       }
     ],
     "Automotive/Motorcycle": [
       {
-        "title": "Lotus Will Use V6 And V8 Engines Developed By Renault And Geely",
-        "source": "Motor1.com - News",
-        "published": "Thu, 14 May 2026 09:26:13 +0000",
-        "url": "https://www.motor1.com/news/795836/lotus-v6-v8-engines-from-renault-geely/",
-        "is_priority": false
-      },
-      {
-        "title": "\"His Airness\" Michael Jordan's 1993 ZR-1 Is Going To The Corvette Museum",
+        "title": "This Is What L Means On Your Automatic Transmission",
         "source": "Jalopnik - Obsessed with the culture of cars",
-        "published": "Thu, 14 May 2026 09:25:00 +0000",
-        "url": "https://www.jalopnik.com/2172391/michael-jordan-c4-chevrolet-corvette-zr-1-going-to-corvette-museum/",
+        "published": "Fri, 15 May 2026 09:25:00 +0000",
+        "url": "https://www.jalopnik.com/2172981/this-is-what-l-means-on-automatic-transmission-shifter/",
         "is_priority": false
       },
       {
-        "title": "Puig to step down as HRC team manager in 2027 to take on advisory role",
-        "source": "Autosport.com - All - Stories",
-        "published": "Thu, 14 May 2026 09:14:45 +0000",
-        "url": "https://www.autosport.com/motogp/news/alberto-puig-to-step-down-as-hrc-team-manager-in-2027-take-on-advisory-role/10820594/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-ALL&utm_term=News&utm_content=uk",
-        "is_priority": false
-      },
-      {
-        "title": "Honda Lost $9 Billion On EVs. Now, It’s Betting On Hybrid SUVs And Sedans",
-        "source": "InsideEVs - Articles",
-        "published": "Thu, 14 May 2026 08:45:51 +0000",
-        "url": "https://insideevs.com/news/795846/honda-loss-hybrids/",
-        "is_priority": false
-      },
-      {
-        "title": "Why Haas fears loss of ground to Alpine in F1's upper-midfield battle",
-        "source": "Autosport.com - All - Stories",
-        "published": "Thu, 14 May 2026 08:11:02 +0000",
-        "url": "https://www.autosport.com/f1/news/why-haas-fears-loss-of-ground-to-alpine-in-f1s-upper-midfield-battle/10820502/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-ALL&utm_term=News&utm_content=uk",
-        "is_priority": false
-      },
-      {
-        "title": "A used Lamborghini Urus is a surprisingly sound financial decision",
-        "source": "Autocar RSS Feed",
-        "published": "Thu, 14 May 2026 09:00:00 +0100",
-        "url": "https://www.autocar.co.uk/car-news/used-cars-used-car-buying-guides/used-lamborghini-urus-surprisingly-sound-financial",
-        "is_priority": false
-      },
-      {
-        "title": "Volkswagen’s Golf EV Gets Pushed Back To The End Of The Decade",
-        "source": "InsideEVs - Articles",
-        "published": "Thu, 14 May 2026 07:59:56 +0000",
-        "url": "https://insideevs.com/news/795838/volkswagen-golf-ev-delayed-decade-end/",
-        "is_priority": false
-      },
-      {
-        "title": "Honda Bets On Hybrids With New Sedan And SUV Coming In 2028",
+        "title": "New BMW M5 And Electric M3 Spied During High-Speed Testing",
         "source": "Motor1.com - News",
-        "published": "Thu, 14 May 2026 07:15:02 +0000",
-        "url": "https://www.motor1.com/news/795825/honda-sedan-acura-suv-hybrid-prototypes/",
+        "published": "Fri, 15 May 2026 08:34:41 +0000",
+        "url": "https://www.motor1.com/news/795943/2028-bmw-m3-m5-spy-video/",
         "is_priority": false
       },
       {
-        "title": "How one Nürburgring lap ignited a feud between Nissan and Porsche",
+        "title": "China's Dongfeng to build Peugeot and Jeep models for global sale",
         "source": "Autocar RSS Feed",
-        "published": "Thu, 14 May 2026 08:00:00 +0100",
-        "url": "https://www.autocar.co.uk/opinion/new-cars/how-one-n%C3%BCrburgring-lap-ignited-feud-between-nissan-and-porsche",
+        "published": "Fri, 15 May 2026 09:02:42 +0100",
+        "url": "https://www.autocar.co.uk/car-news/new-cars/chinas-dongfeng-build-peugeot-and-jeep-models-global-sale",
         "is_priority": false
       },
       {
-        "title": "Chinese EVs Are Landing In Canada. Over Half Of Canadians Would Buy One",
+        "title": "This One-Of-One Manual Supercar Is A Monotone Masterpiece",
+        "source": "Motor1.com - News",
+        "published": "Fri, 15 May 2026 08:00:00 +0000",
+        "url": "https://www.motor1.com/news/795918/capricorn-01-manual-supercar-all-red/",
+        "is_priority": false
+      },
+      {
+        "title": "BMW And Mini EV Drivers Get A Sweet Discount At Ionna",
         "source": "InsideEVs - Articles",
-        "published": "Thu, 14 May 2026 06:08:47 +0000",
-        "url": "https://insideevs.com/news/795820/canadians-want-chinese-evs-survey/",
+        "published": "Fri, 15 May 2026 07:50:28 +0000",
+        "url": "https://insideevs.com/news/795941/bmw-mini-ev-charging-discount-ionna/",
         "is_priority": false
       },
       {
-        "title": "Kia will be forced to axe Picanto by 2030 if EV rules are not changed",
+        "title": "Jeep And Peugeot Models Made In China Are Going Global",
+        "source": "Motor1.com - News",
+        "published": "Fri, 15 May 2026 07:30:02 +0000",
+        "url": "https://www.motor1.com/news/795935/jeep-peugeot-cars-made-in-china/",
+        "is_priority": false
+      },
+      {
+        "title": "Watch LIVE: Nurburgring 24 Hours Top Qualifying 1, 2 & 3",
+        "source": "Autosport.com - All - Stories",
+        "published": "Fri, 15 May 2026 06:50:03 +0000",
+        "url": "https://www.autosport.com/general/news/watch-live-nurburgring-24-hours-top-qualifying-1-2-3/10820681/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-ALL&utm_term=News&utm_content=uk",
+        "is_priority": false
+      },
+      {
+        "title": "The best cars we've tested since 2015",
         "source": "Autocar RSS Feed",
-        "published": "Thu, 14 May 2026 07:00:00 +0100",
-        "url": "https://www.autocar.co.uk/car-news/new-cars/kia-will-be-forced-axe-picanto-2030-if-ev-rules-are-not-changed",
+        "published": "Fri, 15 May 2026 07:38:13 +0100",
+        "url": "https://www.autocar.co.uk/car-news/slideshow/best-cars-weve-tested-2015",
         "is_priority": false
       },
       {
-        "title": "The meanings behind the badges of your favourite cars",
+        "title": "The most surprising cars ever to be made",
         "source": "Autocar RSS Feed",
-        "published": "Thu, 14 May 2026 06:40:54 +0100",
-        "url": "https://www.autocar.co.uk/car-news/slideshow/meanings-behind-badges-your-favourite-cars",
+        "published": "Fri, 15 May 2026 07:37:52 +0100",
+        "url": "https://www.autocar.co.uk/car-news/slideshow/most-surprising-cars-ever-be-made-2",
         "is_priority": false
       },
       {
-        "title": "Juiced launches 60+ MPH electric dirt bike for $2,499, and the e-moto market may never be the same",
-        "source": "Electrek",
-        "published": "Thu, 14 May 2026 05:23:24 +0000",
-        "url": "https://electrek.co/2026/05/13/juiced-launches-60-mph-electric-dirt-bike-for-2499-and-the-e-moto-market-may-never-be-the-same/",
+        "title": "Why are Jaecoos and Omodas selling so well? Dealer reveals all",
+        "source": "Autocar RSS Feed",
+        "published": "Fri, 15 May 2026 06:00:00 +0100",
+        "url": "https://www.autocar.co.uk/car-news/features/why-are-jaecoos-and-omodas-selling-so-well-dealer-reveals-all",
         "is_priority": false
       },
       {
-        "title": "Repo Man Had 'Six Hours To Find 20 Pilots' While Seizing Jet Aircraft From Bankrupt Spirit Airlines",
+        "title": "Aion to Zenvo: Every new car coming to the UK in 2026",
+        "source": "Autocar RSS Feed",
+        "published": "Fri, 15 May 2026 06:00:00 +0100",
+        "url": "https://www.autocar.co.uk/car-news/new-cars/new-cars-2026",
+        "is_priority": false
+      },
+      {
+        "title": "KITT Gets Speeding Ticket In NYC While On Display In Illinois Museum",
         "source": "Jalopnik - Obsessed with the culture of cars",
-        "published": "Thu, 14 May 2026 03:25:00 +0000",
-        "url": "https://www.jalopnik.com/2172395/spirit-airlines-jet-aircraft-repossession/",
+        "published": "Fri, 15 May 2026 03:25:00 +0000",
+        "url": "https://www.jalopnik.com/2172279/kitt-speeding-ticket-nyc-illinois-museum/",
         "is_priority": false
       },
       {
-        "title": "2026 Nissan Frontier 'Ultimate Build' Offers Mid-Size Sovereignty",
+        "title": "2027 Nissan Frontier Sport Debuts as a Budget-Friendly Off-Roader",
         "source": "Latest Content - Car and Driver",
-        "published": "Thu, 14 May 2026 00:00:00 +0000",
-        "url": "https://www.caranddriver.com/news/a69424255/2026-nissan-frontier-ultimate-build-details/",
+        "published": "Fri, 15 May 2026 01:00:00 +0000",
+        "url": "https://www.caranddriver.com/news/a71309587/2027-nissan-frontier-sport-edition-details/",
+        "is_priority": false
+      },
+      {
+        "title": "View Photos of the 2027 Nissan Frontier Sport Edition",
+        "source": "Latest Content - Car and Driver",
+        "published": "Fri, 15 May 2026 01:00:00 +0000",
+        "url": "https://www.caranddriver.com/photos/g71310189/2027-nissan-frontier-sport-edition-revealed-gallery/",
+        "is_priority": false
+      },
+      {
+        "title": "Nissan Expands The Frontier Lineup With A New Sport Package",
+        "source": "Motor1.com - News",
+        "published": "Fri, 15 May 2026 01:00:00 +0000",
+        "url": "https://www.motor1.com/news/795917/2027-nissan-frontier-sport-edition-package-details/",
         "is_priority": false
       }
     ],
     "Portugal": [
       {
-        "title": "DBRS espera “crescimento mais moderado” dos lucros da banca nacional este ano",
-        "source": "ECO",
-        "published": "Thu, 14 May 2026 09:33:49 +0000",
-        "url": "https://eco.sapo.pt/2026/05/14/dbrs-espera-crescimento-mais-moderado-dos-lucros-da-banca-nacional-este-ano/",
-        "is_priority": true
-      },
-      {
-        "title": "Está mais difícil sair do desemprego do que há um ano",
+        "title": "Legislação laboral: pior é difícil",
         "source": "Jornal de Negocios",
-        "published": "Thu, 14 May 2026 10:30:00 +0100",
-        "url": "https://www.jornaldenegocios.pt/economia/emprego/mercado-de-trabalho/detalhe/esta-mais-dificil-sair-do-desemprego-do-que-ha-um-ano",
+        "published": "Fri, 15 May 2026 10:45:00 +0100",
+        "url": "https://www.jornaldenegocios.pt/opiniao/detalhe/legislacao-laboral-pior-e-dificil",
         "is_priority": true
       },
       {
-        "title": "Simone de Oliveira: \"Aquilo já não é o Festival da Canção...",
-        "source": "Observador - Últimas",
-        "published": "Thu, 14 May 2026 10:24:00 +0100",
-        "url": "https://observador.pt/programas/comissao-de-inquerito/simone-de-oliveira-aquilo-ja-nao-e-o-festival-da-cancao-e-uma-coisa-de-plastico/",
-        "is_priority": true
-      },
-      {
-        "title": "Xi Jinping e Trump defendem abertura de Ormuz e Irão sem armas nucleares",
+        "title": "Morreu a poetisa e jornalista são-tomense Conceição Deus Lima",
         "source": "Correio da Manhã",
-        "published": "Thu, 14 May 2026 10:22:00 +0100",
-        "url": "https://www.cmjornal.pt/mais-cm/especiais/conflito-no-medio-oriente/detalhe/xi-jinping-e-trump-defendem-abertura-de-ormuz-e-irao-sem-armas-nucleares",
+        "published": "Fri, 15 May 2026 10:33:17 +0100",
+        "url": "https://www.cmjornal.pt/cultura/detalhe/morreu-a-poetisa-e-jornalista-sao-tomense-conceicao-deus-lima",
         "is_priority": true
       },
       {
-        "title": "Polícia Judiciária faz buscas na casa do cunhado do ministro Leitão Amaro por suspeitas de corrupção",
+        "title": "\"Gostam de ser comentadas\": Daniel Nascimento acerca de entrevista de Bernardina sobre video polémico",
         "source": "Correio da Manhã",
-        "published": "Thu, 14 May 2026 10:21:41 +0100",
-        "url": "https://www.cmjornal.pt/cmtv/videos/detalhe/policia-judiciaria-faz-buscas-na-casa-do-cunhado-do-ministro-leitao-amaro-por-suspeitas-de-corrupcao",
+        "published": "Fri, 15 May 2026 10:32:38 +0100",
+        "url": "https://www.cmjornal.pt/cmtv/programas/entretenimento/noite-das-estrelas/detalhe/gostam-de-ser-comentadas-daniel-nascimento-acerca-de-entrevista-de-bernardina-sobre-video-polemico",
         "is_priority": true
       },
       {
-        "title": "Chefe da diplomacia americana defende mudança dos dirigentes cubanos",
+        "title": "Veja o programa Negócios desta sexta-feira, 15 de maio, no canal NOW",
+        "source": "Jornal de Negocios",
+        "published": "Fri, 15 May 2026 10:31:34 +0100",
+        "url": "https://www.jornaldenegocios.pt/multimedia/negocios-tv/detalhe/veja-o-programa-negocios-desta-sexta-feira-15-de-maio-no-canal-now",
+        "is_priority": true
+      },
+      {
+        "title": "Estreia da Cerebras em bolsa prepara terreno para sucesso dos mega-IPO de IA",
+        "source": "Jornal de Negocios",
+        "published": "Fri, 15 May 2026 10:30:28 +0100",
+        "url": "https://www.jornaldenegocios.pt/mercados/bolsa/detalhe/estreia-da-cerebras-em-bolsa-prepara-terreno-para-sucesso-dos-mega-ipo-de-ia",
+        "is_priority": true
+      },
+      {
+        "title": "Zelensky acusa Rússia de manter importação de material bélico",
         "source": "Correio da Manhã",
-        "published": "Thu, 14 May 2026 10:19:36 +0100",
-        "url": "https://www.cmjornal.pt/mundo/detalhe/chefe-da-diplomacia-americana-defende-mudanca-dos-dirigentes-cubanos",
+        "published": "Fri, 15 May 2026 10:30:02 +0100",
+        "url": "https://www.cmjornal.pt/mais-cm/especiais/guerra-na-ucrania/detalhe/zelensky-acusa-russia-de-manter-importacao-de-material-belico",
         "is_priority": true
       },
       {
-        "title": "PJ faz buscas em casa do cunhado do ministro Leitão Amaro",
+        "title": "\"Tive proposta de renovação do Benfica. Não quis ver, nem analisar\": Mourinho faz revelação sobre futuro",
+        "source": "Correio da Manhã",
+        "published": "Fri, 15 May 2026 10:27:36 +0100",
+        "url": "https://www.cmjornal.pt/cmtv/videos/detalhe/20260515-102736-tive-proposta-de-renovacao-do-benfica-nao-quis-ver-nem-analisar-mourinho-faz-revelacao-sobre-futuro",
+        "is_priority": true
+      },
+      {
+        "title": "Petróleo avança e passa os 107 dólares por barril. Juros dos países europeus disparam",
+        "source": "Jornal de Negocios",
+        "published": "Fri, 15 May 2026 10:27:00 +0100",
+        "url": "https://www.jornaldenegocios.pt/mercados/mercados-num-minuto/detalhe/asia-encerra-em-queda-praca-sul-coreana-chegou-a-perder-mais-de-7-e-samsung-afundou-8",
+        "is_priority": true
+      },
+      {
+        "title": "\"O Irão é um pormenor que há de ser resolvido\"",
         "source": "Observador - Últimas",
-        "published": "Thu, 14 May 2026 10:17:22 +0100",
-        "url": "https://observador.pt/2026/05/14/policia-judiciaria-faz-buscas-em-casa-do-cunhado-do-ministro-leitao-amaro/",
+        "published": "Fri, 15 May 2026 10:23:05 +0100",
+        "url": "https://observador.pt/programas/o-dominio-da-guerra/o-irao-e-um-pormenor-que-ha-de-ser-resolvido/",
         "is_priority": true
       },
       {
-        "title": "As notícias das 10h",
-        "source": "Observador - Últimas",
-        "published": "Thu, 14 May 2026 10:16:38 +0100",
-        "url": "https://observador.pt/programas/noticiario/as-noticias-das-10h-2347/",
-        "is_priority": true
-      },
-      {
-        "title": "Conselho de Estado. \"É positivo ter pessoas fora da bolha...",
-        "source": "Observador - Últimas",
-        "published": "Thu, 14 May 2026 10:15:01 +0100",
-        "url": "https://observador.pt/programas/explicador/conselho-de-estado-e-positivo-ter-pessoas-fora-da-bolha-mediatica/",
-        "is_priority": true
-      },
-      {
-        "title": "How a shared challenge brought Maia and Joe Mountain to the Sahara — and back closer than ever",
+        "title": "6 Reasons Why Portugal is the Best Place to Live in Europe",
         "source": "The Portugal News",
-        "published": "Thu, 14 May 2026 09:04:00 +0000",
-        "url": "https://www.theportugalnews.com/news/2026-05-14/how-a-shared-challenge-brought-maia-and-joe-mountain-to-the-sahara-and-back-closer-than-ever/1020765",
+        "published": "Fri, 15 May 2026 09:15:00 +0000",
+        "url": "https://www.theportugalnews.com/news/2026-05-15/6-reasons-why-portugal-is-the-best-place-to-live-in-europe/1022486",
         "is_priority": false
       },
       {
-        "title": "“Avatar: Fire and Ashes” to be available on streaming platforms in Portugal",
+        "title": "Law that allows deporting illegal immigrants in Portugal discussed in Parliament",
         "source": "The Portugal News",
-        "published": "Thu, 14 May 2026 09:03:00 +0000",
-        "url": "https://www.theportugalnews.com/news/2026-05-14/avatar-fire-and-ashes-to-be-available-on-streaming-platforms-in-portugal/1021609",
+        "published": "Fri, 15 May 2026 09:03:00 +0000",
+        "url": "https://www.theportugalnews.com/news/2026-05-15/law-that-allows-deporting-illegal-immigrants-in-portugal-discussed-in-parliament/1022437",
         "is_priority": false
       },
       {
-        "title": "Beyoncé in skeletal couture and 11 of the most eye-catching Met Gala outfits",
+        "title": "More Than Golf: Golf Developments as Lifestyle Communities",
         "source": "The Portugal News",
-        "published": "Thu, 14 May 2026 08:46:00 +0000",
-        "url": "https://www.theportugalnews.com/news/2026-05-14/beyonce-in-skeletal-couture-and-11-of-the-most-eye-catching-met-gala-outfits/1020316",
+        "published": "Fri, 15 May 2026 09:01:00 +0000",
+        "url": "https://www.theportugalnews.com/news/2026-05-15/more-than-golf-golf-developments-as-lifestyle-communities/1020580",
         "is_priority": false
       },
       {
-        "title": "Tax Relief Package for housing approved in Portugal",
+        "title": "Dils reinforces European identity with a focus on innovation",
         "source": "The Portugal News",
-        "published": "Thu, 14 May 2026 08:33:00 +0000",
-        "url": "https://www.theportugalnews.com/news/2026-05-14/tax-relief-package-for-housing-approved-in-portugal/1021513",
+        "published": "Fri, 15 May 2026 08:33:00 +0000",
+        "url": "https://www.theportugalnews.com/news/2026-05-15/dils-reinforces-european-identity-with-a-focus-on-innovation/1022324",
         "is_priority": false
       },
       {
-        "title": "Portugal and Spain invest €4 million to prevent fires",
+        "title": "Carvoeiro Clube Group Opens New Real Estate Concept Store in Central Carvoeiro",
         "source": "The Portugal News",
-        "published": "Thu, 14 May 2026 08:03:00 +0000",
-        "url": "https://www.theportugalnews.com/news/2026-05-14/portugal-and-spain-invest-4-million-to-prevent-fires/1021466",
+        "published": "Fri, 15 May 2026 08:31:00 +0000",
+        "url": "https://www.theportugalnews.com/news/2026-05-15/carvoeiro-clube-group-opens-new-real-estate-concept-store-in-central-carvoeiro/1021799",
         "is_priority": false
       },
       {
-        "title": "Portugal State to proclaim unclaimed land after 15 years",
+        "title": "The Native Dogs of Portugal",
         "source": "The Portugal News",
-        "published": "Thu, 14 May 2026 07:33:00 +0000",
-        "url": "https://www.theportugalnews.com/news/2026-05-14/portugal-state-to-proclaim-unclaimed-land-after-15-years/1021482",
+        "published": "Fri, 15 May 2026 08:01:00 +0000",
+        "url": "https://www.theportugalnews.com/news/2026-05-15/the-native-dogs-of-portugal/1016738",
         "is_priority": false
       }
     ]

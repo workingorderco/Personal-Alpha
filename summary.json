@@ -1,8 +1,8 @@
 {
-  "global_theme": "Global stability is challenged by geopolitical conflicts and economic pressures, while AI and technological advancements present both disruptive risks and significant opportunities for wealth creation within the EU context.",
-  "market_mood": "Cautiously Volatile",
-  "risk_signal": "Geopolitical Instability & AI Disruption",
-  "opportunity_signal": "AI Productivity & Niche Digital Services",
+  "global_theme": "The global economy faces uncertainty from AI's evolving impact and rising bond yields, while specific sectors like weight loss drugs and renewables show strong growth, with Europe focusing on defense and Portugal on local issues.",
+  "market_mood": "Cautiously Optimistic with Volatility",
+  "risk_signal": "AI bubble risk, rising yields, geopolitical instability",
+  "opportunity_signal": "Growth in health tech, green energy, AI applications",
   "finance_sentiment": [
     {
       "i": 1,
@@ -14,15 +14,15 @@
     },
     {
       "i": 3,
-      "s": "-"
-    },
-    {
-      "i": 4,
       "s": "="
     },
     {
-      "i": 5,
+      "i": 4,
       "s": "+"
+    },
+    {
+      "i": 5,
+      "s": "-"
     },
     {
       "i": 6,
@@ -30,65 +30,65 @@
     },
     {
       "i": 7,
-      "s": "="
+      "s": "+"
     },
     {
       "i": 8,
-      "s": "="
+      "s": "+"
     },
     {
       "i": 9,
-      "s": "-"
+      "s": "="
     },
     {
       "i": 10,
-      "s": "+"
+      "s": "-"
     },
     {
       "i": 11,
-      "s": "="
+      "s": "-"
     },
     {
       "i": 12,
-      "s": "="
-    },
-    {
-      "i": 13,
-      "s": "="
-    },
-    {
-      "i": 14,
       "s": "+"
     },
     {
-      "i": 15,
+      "i": 13,
+      "s": "+"
+    },
+    {
+      "i": 14,
       "s": "-"
+    },
+    {
+      "i": 15,
+      "s": "+"
     }
   ],
   "insights": {
     "g1": [
-      "Global conflicts and inflation create economic uncertainty, impacting consumer spending power.",
-      "AI is shifting from job fears to productivity, demanding new business service models.",
-      "China's dominance in robotic value signals major shifts in manufacturing and automation.",
-      "Market volatility in Asia could have ripple effects on global supply chains and investments.",
-      "Regulatory crackdowns on markets emphasize the need for ethical and compliant business practices."
+      "AI's boom may be tested by market realities; assess true value to avoid speculative traps.",
+      "Rising bond yields challenge stock rallies, indicating a need for careful investment analysis.",
+      "High-growth sectors like weight-loss drugs and lithium present potential for strategic investment.",
+      "Diversifying income streams is crucial given market volatility and potential AI 'fizzle'.",
+      "Monitor China's solar export surge for broader clean energy investment trends."
     ],
     "g2": [
-      "AI can boost business services productivity, requiring solopreneurs to integrate these tools.",
-      "The 'AI gold rush' means high demand for specialists in prompt engineering and AI integration.",
-      "Beware: AI is replacing the very experts it needs, highlighting the importance of adaptive learning.",
-      "Hosting a website on an 8-bit microcontroller demonstrates extreme lean tech possibilities.",
-      "New coding agents like Zerostack offer efficiency for development-focused solopreneurs."
+      "Explore 'vibe coding' tools to accelerate development or content creation for a solopreneur.",
+      "Stay updated on AI advancements and ethical discussions, as per graduation speech concerns.",
+      "Investigate AI glasses optics from companies like LetinAR for future interface opportunities.",
+      "Consider foundational security concepts for building robust digital assets and protecting data.",
+      "Leverage AI for efficiency, but understand its limitations and potential for disillusionment."
     ],
     "g3": [
-      "Portugal entering the 'new space and chip economy' offers high-tech service opportunities.",
-      "Portugal's strong tourism (Algarve, birding apps) presents niches for digital marketing or content.",
-      "Local producers like cherry growers avoiding waste highlight sustainable business potential.",
-      "EU regulatory decisions, like on Brazilian meat, affect local market dynamics and imports.",
-      "A solopreneur in Portugal can capitalize on tech advancements by offering specialized AI-driven services."
+      "Explore Portugal's evolving tourism and local services market, perhaps in plant-based offerings.",
+      "Consider how EU defense spending might indirectly create opportunities for support services.",
+      "Research local community needs in Portimão or the Algarve for direct service provision.",
+      "Network within Portugal to identify potential collaborations or local market gaps for growth.",
+      "Monitor local policy changes like blood donation incentives for community engagement ideas."
     ]
   },
-  "learning_task": "Spend 30 minutes researching 'AI-powered productivity tools for solopreneurs' to identify 2-3 new tools to test for workflow optimization.",
-  "biz_opportunity": "Develop an AI-driven market analysis service tailored for small Portuguese agricultural producers, leveraging Portugal's push for sustainability and digital integration to help optimize sales channels.",
-  "built_at": "2026-05-17T09:08:56.556247+00:00"
+  "learning_task": "Spend 30 minutes researching free AI-powered content generation tools to streamline a specific marketing task for your solopreneur business, focusing on prompt engineering.",
+  "biz_opportunity": "Offer tailored AI prompt engineering services to small businesses in Portugal struggling with effective digital marketing content, leveraging the growing interest and potential 'fizzle' of generalized AI.",
+  "built_at": "2026-05-18T11:09:09.432097+00:00"
 }

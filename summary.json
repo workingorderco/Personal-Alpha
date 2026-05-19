@@ -1,24 +1,24 @@
 {
-  "global_theme": "The global economy faces uncertainty from AI's evolving impact and rising bond yields, while specific sectors like weight loss drugs and renewables show strong growth, with Europe focusing on defense and Portugal on local issues.",
-  "market_mood": "Cautiously Optimistic with Volatility",
-  "risk_signal": "AI bubble risk, rising yields, geopolitical instability",
-  "opportunity_signal": "Growth in health tech, green energy, AI applications",
+  "global_theme": "Geopolitical tensions and high energy costs are shaping consumer behavior and investment, while AI continues its transformative growth across finance and technology, presenting both opportunities and risks for EU wealth.",
+  "market_mood": "Cautiously Optimistic",
+  "risk_signal": "Geopolitical Uncertainty & High Energy Costs",
+  "opportunity_signal": "AI Integration & Sustainable Tech",
   "finance_sentiment": [
     {
       "i": 1,
-      "s": "-"
+      "s": "+"
     },
     {
       "i": 2,
-      "s": "-"
+      "s": "+"
     },
     {
       "i": 3,
-      "s": "="
+      "s": "-"
     },
     {
       "i": 4,
-      "s": "+"
+      "s": "="
     },
     {
       "i": 5,
@@ -26,7 +26,7 @@
     },
     {
       "i": 6,
-      "s": "="
+      "s": "+"
     },
     {
       "i": 7,
@@ -38,23 +38,23 @@
     },
     {
       "i": 9,
-      "s": "="
+      "s": "-"
     },
     {
       "i": 10,
-      "s": "-"
+      "s": "+"
     },
     {
       "i": 11,
-      "s": "-"
+      "s": "="
     },
     {
       "i": 12,
-      "s": "+"
+      "s": "="
     },
     {
       "i": 13,
-      "s": "+"
+      "s": "-"
     },
     {
       "i": 14,
@@ -67,28 +67,28 @@
   ],
   "insights": {
     "g1": [
-      "AI's boom may be tested by market realities; assess true value to avoid speculative traps.",
-      "Rising bond yields challenge stock rallies, indicating a need for careful investment analysis.",
-      "High-growth sectors like weight-loss drugs and lithium present potential for strategic investment.",
-      "Diversifying income streams is crucial given market volatility and potential AI 'fizzle'.",
-      "Monitor China's solar export surge for broader clean energy investment trends."
+      "High gas prices indicate consumer strain, urging solopreneurs to offer value-driven or remote services.",
+      "The AI boom, though a dilemma for retail investors, signifies major capital flows into transformative technologies.",
+      "Consumer resilience in some sectors (e.g., Home Depot) suggests targeted niches might still thrive despite economic pressures.",
+      "Trends like separate finances could open new markets for individual financial planning services.",
+      "Gold's slip amidst geopolitical uncertainty highlights the volatility in traditional safe-haven assets."
     ],
     "g2": [
-      "Explore 'vibe coding' tools to accelerate development or content creation for a solopreneur.",
-      "Stay updated on AI advancements and ethical discussions, as per graduation speech concerns.",
-      "Investigate AI glasses optics from companies like LetinAR for future interface opportunities.",
-      "Consider foundational security concepts for building robust digital assets and protecting data.",
-      "Leverage AI for efficiency, but understand its limitations and potential for disillusionment."
+      "AI's rapid evolution (Gemini, Smart Glasses) demands solopreneurs integrate AI tools for efficiency and new service offerings.",
+      "Fintech's 'as-a-service' pivot creates opportunities for embedding financial tools into diverse business models.",
+      "AI data centers will drive energy demand, potentially creating demand for energy-efficient tech or related consulting.",
+      "Automation via AI (Standard Chartered job cuts) emphasizes the need for solopreneurs to be adaptable and highly skilled.",
+      "Sustainable tech like solar and EV advancements (Honda/LG battery swap) suggest future growth areas for innovation."
     ],
     "g3": [
-      "Explore Portugal's evolving tourism and local services market, perhaps in plant-based offerings.",
-      "Consider how EU defense spending might indirectly create opportunities for support services.",
-      "Research local community needs in Portimão or the Algarve for direct service provision.",
-      "Network within Portugal to identify potential collaborations or local market gaps for growth.",
-      "Monitor local policy changes like blood donation incentives for community engagement ideas."
+      "Portugal's airport delays present opportunities for local travel assistance, logistics, or digital nomad support services.",
+      "Cultural recognition (Loulé baths) can boost tourism; solopreneurs can offer niche tours or cultural experiences.",
+      "Portugal's high medicine spending suggests a market for health-adjacent services or elder care support.",
+      "EU political shifts (Denmark) signal broader economic and regulatory changes affecting solopreneurs in Portugal.",
+      "Monitoring local economic reports (Heidelberg) helps solopreneurs understand market stability and potential challenges."
     ]
   },
-  "learning_task": "Spend 30 minutes researching free AI-powered content generation tools to streamline a specific marketing task for your solopreneur business, focusing on prompt engineering.",
-  "biz_opportunity": "Offer tailored AI prompt engineering services to small businesses in Portugal struggling with effective digital marketing content, leveraging the growing interest and potential 'fizzle' of generalized AI.",
-  "built_at": "2026-05-18T11:09:09.432097+00:00"
+  "learning_task": "Spend 30 minutes researching AI tools (e.g., Gemini, Copilot) to identify specific automation features relevant to streamlining solopreneur tasks and boosting productivity for your €35k goal.",
+  "biz_opportunity": "Offer AI-powered efficiency consulting for small Portuguese businesses struggling with high operational costs, leveraging new automation tools to optimize workflows and reduce manual labor now.",
+  "built_at": "2026-05-19T10:39:01.500392+00:00"
 }

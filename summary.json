@@ -1,8 +1,8 @@
 {
-  "global_theme": "Geopolitical tensions and high energy costs are shaping consumer behavior and investment, while AI continues its transformative growth across finance and technology, presenting both opportunities and risks for EU wealth.",
+  "global_theme": "The global economy is being reshaped by a surge in AI financing and specialized tech advancements, while geopolitical tensions and local challenges like housing shortages impact European markets.",
   "market_mood": "Cautiously Optimistic",
-  "risk_signal": "Geopolitical Uncertainty & High Energy Costs",
-  "opportunity_signal": "AI Integration & Sustainable Tech",
+  "risk_signal": "Geopolitical instability, rising food inflation, data privacy failures, Portugal's housing crunch.",
+  "opportunity_signal": "Niche AI specialization, tech-driven finance, EU trade expansion, Portugal's resilient tourism.",
   "finance_sentiment": [
     {
       "i": 1,
@@ -10,39 +10,39 @@
     },
     {
       "i": 2,
-      "s": "+"
+      "s": "-"
     },
     {
       "i": 3,
-      "s": "-"
+      "s": "+"
     },
     {
       "i": 4,
-      "s": "="
+      "s": "+"
     },
     {
       "i": 5,
-      "s": "-"
+      "s": "="
     },
     {
       "i": 6,
-      "s": "+"
+      "s": "="
     },
     {
       "i": 7,
-      "s": "+"
+      "s": "="
     },
     {
       "i": 8,
-      "s": "+"
+      "s": "="
     },
     {
       "i": 9,
-      "s": "-"
+      "s": "+"
     },
     {
       "i": 10,
-      "s": "+"
+      "s": "="
     },
     {
       "i": 11,
@@ -54,41 +54,41 @@
     },
     {
       "i": 13,
-      "s": "-"
+      "s": "="
     },
     {
       "i": 14,
-      "s": "-"
+      "s": "="
     },
     {
       "i": 15,
-      "s": "+"
+      "s": "="
     }
   ],
   "insights": {
     "g1": [
-      "High gas prices indicate consumer strain, urging solopreneurs to offer value-driven or remote services.",
-      "The AI boom, though a dilemma for retail investors, signifies major capital flows into transformative technologies.",
-      "Consumer resilience in some sectors (e.g., Home Depot) suggests targeted niches might still thrive despite economic pressures.",
-      "Trends like separate finances could open new markets for individual financial planning services.",
-      "Gold's slip amidst geopolitical uncertainty highlights the volatility in traditional safe-haven assets."
+      "AI financing surge indicates capital availability for tech-driven ventures, signaling potential investment opportunities for Alex's growth.",
+      "Rising Asian rice prices suggest global food inflation, which could impact Alex's cost of living and client spending power in Portugal.",
+      "China's strategic mineral build-up highlights resource nationalism, potentially affecting global supply chains and related investment sectors.",
+      "Understanding inheritance tax advice is crucial for long-term wealth management, even for building from scratch.",
+      "Anticipation around Fed minutes points to ongoing monetary policy uncertainty, impacting global interest rates and investment sentiment."
     ],
     "g2": [
-      "AI's rapid evolution (Gemini, Smart Glasses) demands solopreneurs integrate AI tools for efficiency and new service offerings.",
-      "Fintech's 'as-a-service' pivot creates opportunities for embedding financial tools into diverse business models.",
-      "AI data centers will drive energy demand, potentially creating demand for energy-efficient tech or related consulting.",
-      "Automation via AI (Standard Chartered job cuts) emphasizes the need for solopreneurs to be adaptable and highly skilled.",
-      "Sustainable tech like solar and EV advancements (Honda/LG battery swap) suggest future growth areas for innovation."
+      "Specialized AI models (e.g., Corti's medical terminology accuracy) underscore the value of niche AI expertise, a key skill for Alex to develop.",
+      "The 'AI Quant Desk for Onchain Finance' suggests emerging opportunities in AI applications within decentralized finance and crypto markets.",
+      "Google's AI-powered conversational search on YouTube demonstrates the mainstreaming of AI, demanding Alex understand AI integration in content.",
+      "Reports on data brokers' opt-out failures highlight a growing demand for robust data privacy and compliance solutions, a potential service area.",
+      "European tech considering Sunday off signals a shift towards work-life balance, an important cultural factor for solopreneurs in Europe."
     ],
     "g3": [
-      "Portugal's airport delays present opportunities for local travel assistance, logistics, or digital nomad support services.",
-      "Cultural recognition (Loulé baths) can boost tourism; solopreneurs can offer niche tours or cultural experiences.",
-      "Portugal's high medicine spending suggests a market for health-adjacent services or elder care support.",
-      "EU political shifts (Denmark) signal broader economic and regulatory changes affecting solopreneurs in Portugal.",
-      "Monitoring local economic reports (Heidelberg) helps solopreneurs understand market stability and potential challenges."
+      "Portugal's new 'choque fiscal' for housing introduces significant tax changes, crucial for Alex to understand for property-related services or investments.",
+      "The severe shortage of homes in the Portuguese real estate market could drive demand for innovative housing solutions or related support services.",
+      "EU implementing the US trade deal may open new markets or create new regulations for businesses operating across borders.",
+      "Portugal's tourism sector is projected to remain strong, unaffected by aviation fuel shortages, indicating stable demand for related services Alex could offer.",
+      "Germany's 'China Shock 2.0' warning implies broader EU economic shifts that Alex should monitor for potential business impacts or opportunities."
     ]
   },
-  "learning_task": "Spend 30 minutes researching AI tools (e.g., Gemini, Copilot) to identify specific automation features relevant to streamlining solopreneur tasks and boosting productivity for your €35k goal.",
-  "biz_opportunity": "Offer AI-powered efficiency consulting for small Portuguese businesses struggling with high operational costs, leveraging new automation tools to optimize workflows and reduce manual labor now.",
-  "built_at": "2026-05-19T10:39:01.500392+00:00"
+  "learning_task": "Dedicate 30 minutes to researching Portugal's new 'choque fiscal' housing policies to identify potential service gaps or opportunities for solopreneurs supporting property owners or new residents.",
+  "biz_opportunity": "Launch a specialized AI-powered consulting service for Portuguese small businesses, focusing on data privacy compliance and efficient property management, leveraging local regulations and tech innovation.",
+  "built_at": "2026-05-20T10:26:32.210077+00:00"
 }

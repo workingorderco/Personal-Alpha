@@ -1,8 +1,8 @@
 {
-  "global_theme": "Global markets present a mixed outlook with speculative tech IPOs and significant EU AI regulation alongside persistent inflation and geopolitical tensions, impacting wealth accumulation strategies.",
-  "market_mood": "Cautiously Optimistic",
-  "risk_signal": "Market top fears; escalating debt; inflation",
-  "opportunity_signal": "Space sector growth; EU tech funding; local savings gains",
+  "global_theme": "Geopolitical tensions, economic volatility driven by monetary policy adjustments, and localized infrastructure challenges characterize the global landscape, while the EU navigates stability amidst these currents.",
+  "market_mood": "Cautious Volatility",
+  "risk_signal": "Geopolitical Escalation, Inflationary Pressures",
+  "opportunity_signal": "Niche Tech Innovation, Infrastructure Modernization",
   "finance_sentiment": [
     {
       "i": 1,
@@ -10,15 +10,15 @@
     },
     {
       "i": 2,
-      "s": "="
+      "s": "-"
     },
     {
       "i": 3,
-      "s": "="
+      "s": "+"
     },
     {
       "i": 4,
-      "s": "="
+      "s": "-"
     },
     {
       "i": 5,
@@ -26,7 +26,7 @@
     },
     {
       "i": 6,
-      "s": "-"
+      "s": "="
     },
     {
       "i": 7,
@@ -38,11 +38,11 @@
     },
     {
       "i": 9,
-      "s": "+"
+      "s": "="
     },
     {
       "i": 10,
-      "s": "="
+      "s": "-"
     },
     {
       "i": 11,
@@ -50,11 +50,11 @@
     },
     {
       "i": 12,
-      "s": "="
+      "s": "+"
     },
     {
       "i": 13,
-      "s": "="
+      "s": "-"
     },
     {
       "i": 14,
@@ -62,33 +62,33 @@
     },
     {
       "i": 15,
-      "s": "-"
+      "s": "+"
     }
   ],
   "insights": {
     "g1": [
-      "Mega-IPOs signal high market speculation but also potential top-out risk, urging careful investment strategy.",
-      "Portugal's rising savings certificate interest offers a stable, low-risk option for capital preservation and modest growth.",
-      "The booming space ETF market, driven by SpaceX anticipation, highlights a specific high-growth sector for potential focus.",
-      "Persistent global inflation and sovereign debt concerns (Italy, Morocco) underscore the need for resilient financial planning.",
-      "Sophisticated debt pre-sales by buyout bankers show adaptive strategies to navigate fickle markets, suggesting economic volatility."
+      "ECB rate hikes may increase borrowing costs in Portugal; evaluate funding options carefully.",
+      "Global supply chain disruptions (e.g., Iran, China) necessitate diversifying business resources and partners.",
+      "Cybersecurity (Rubrik) remains a critical and growing sector, offering potential service or investment avenues.",
+      "Geopolitical shifts (US-India) can open or close markets; stay agile to emerging trade dynamics.",
+      "SWOT analysis of major companies offers lessons for understanding market position and navigating pressures."
     ],
     "g2": [
-      "The €5bn Scaleup Europe Fund and EQT's interest signal substantial funding opportunities for tech ventures across Europe.",
-      "Rapid revisions to the EU AI Act create a demand for expertise in AI compliance and navigating evolving regulatory landscapes.",
-      "Localized AI chatbot integration (HMD in India) points to a trend for tailoring AI solutions to specific regional markets.",
-      "The mapped European legaltech sector indicates growing digital transformation needs in traditional industries, creating service niches.",
-      "Understanding tech infrastructure challenges, like undersea cables for Gulf AI, reveals hidden complexities and potential specialized service areas."
+      "Disruptive tech like space-based drug manufacturing highlights the value of deep-tech innovation scouting.",
+      "New EU regulations, like vehicle breathalyzers, create compliance needs and potential service niches.",
+      "Mastering online deals and promo codes can significantly reduce operational costs for your solopreneur venture.",
+      "Scientific discoveries ('Golden Orb') underscore the potential for innovation; explore applications in different fields.",
+      "Understanding digital legal challenges (e.g., VPN blocking) is crucial for securing and running online operations effectively."
     ],
     "g3": [
-      "Rising Certificados de Aforro rates in Portugal make local low-risk savings more attractive for solopreneurs building initial capital.",
-      "Discussions on mandatory helmet use for e-scooters in Portugal indicate evolving local regulations, impacting urban mobility services.",
-      "Large housing developments in the Algarve signal continued growth in Portugal's real estate and tourism, offering service opportunities.",
-      "EU tariff suspensions (fertilizers) demonstrate direct policy impacts on specific industries, requiring vigilance on trade changes.",
-      "Legal issues around 'Nacionalidade e imigração' highlight a growing need for accessible legal or administrative support for foreign residents in Portugal."
+      "Portugal's push for 'industrialised construction' signals a ripe market for efficiency-focused services or tools.",
+      "Challenges in public services (airport queues, hospital parking) highlight unmet local needs solvable by smart solopreneurs.",
+      "The 'unicórnio' ambition in Portugal fosters a pro-startup ecosystem; seek out local networking and support.",
+      "Immigration trends create demand for integration services, language support, or administrative assistance in Portugal.",
+      "Leverage local student innovation hubs for fresh perspectives or potential collaborators on new projects."
     ]
   },
-  "learning_task": "Dedicate 30 minutes to mapping key provisions of the EU AI Act's latest revisions and their potential impact on solopreneurs offering digital services or AI-powered tools.",
-  "biz_opportunity": "Offer AI compliance consulting and market entry strategies for early-stage EU tech startups, leveraging the evolving AI Act and the €5bn Scaleup Europe Fund.",
-  "built_at": "2026-05-22T10:26:08.421915+00:00"
+  "learning_task": "Dedicate 30 minutes to research the latest Portuguese government incentives for startups in industrialized construction, assessing their alignment with your current skill set for potential application.",
+  "biz_opportunity": "Develop a localized digital platform for managing supply chains and compliance for Portugal's emerging industrialised construction sector, targeting small to medium-sized builders eager for efficiency now.",
+  "built_at": "2026-05-23T09:04:39.611250+00:00"
 }

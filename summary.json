@@ -1,12 +1,12 @@
 {
-  "global_theme": "Geopolitical tensions, economic volatility driven by monetary policy adjustments, and localized infrastructure challenges characterize the global landscape, while the EU navigates stability amidst these currents.",
-  "market_mood": "Cautious Volatility",
-  "risk_signal": "Geopolitical Escalation, Inflationary Pressures",
-  "opportunity_signal": "Niche Tech Innovation, Infrastructure Modernization",
+  "global_theme": "Geopolitical stability, particularly with the potential Iran deal, is fostering global market optimism, while the pervasive and complex integration of AI continues to redefine business opportunities and ethical considerations for wealth creation.",
+  "market_mood": "Risk-On",
+  "risk_signal": "Geopolitical instability & AI's ethical/security risks.",
+  "opportunity_signal": "Geopolitical de-escalation & targeted AI investments.",
   "finance_sentiment": [
     {
       "i": 1,
-      "s": "-"
+      "s": "+"
     },
     {
       "i": 2,
@@ -14,27 +14,27 @@
     },
     {
       "i": 3,
-      "s": "+"
+      "s": "-"
     },
     {
       "i": 4,
-      "s": "-"
+      "s": "="
     },
     {
       "i": 5,
-      "s": "-"
+      "s": "="
     },
     {
       "i": 6,
-      "s": "="
+      "s": "+"
     },
     {
       "i": 7,
-      "s": "="
+      "s": "-"
     },
     {
       "i": 8,
-      "s": "="
+      "s": "+"
     },
     {
       "i": 9,
@@ -42,7 +42,7 @@
     },
     {
       "i": 10,
-      "s": "-"
+      "s": "+"
     },
     {
       "i": 11,
@@ -50,45 +50,45 @@
     },
     {
       "i": 12,
-      "s": "+"
-    },
-    {
-      "i": 13,
-      "s": "-"
-    },
-    {
-      "i": 14,
       "s": "="
     },
     {
-      "i": 15,
+      "i": 13,
       "s": "+"
+    },
+    {
+      "i": 14,
+      "s": "-"
+    },
+    {
+      "i": 15,
+      "s": "-"
     }
   ],
   "insights": {
     "g1": [
-      "ECB rate hikes may increase borrowing costs in Portugal; evaluate funding options carefully.",
-      "Global supply chain disruptions (e.g., Iran, China) necessitate diversifying business resources and partners.",
-      "Cybersecurity (Rubrik) remains a critical and growing sector, offering potential service or investment avenues.",
-      "Geopolitical shifts (US-India) can open or close markets; stay agile to emerging trade dynamics.",
-      "SWOT analysis of major companies offers lessons for understanding market position and navigating pressures."
+      "Geopolitical developments, like the potential Iran deal, significantly influence global markets and investor risk appetite.",
+      "AI is driving specific stock analyst picks, indicating sectors with high growth potential for investment or business.",
+      "Bitcoin's rally amidst geopolitical news highlights its role as a perceived safe haven or speculative asset.",
+      "SWOT analyses on major companies reveal the constant need to adapt to headwinds and integrate new strategies.",
+      "Understanding market sentiment linked to global events is crucial for identifying investment or entrepreneurial timing."
     ],
     "g2": [
-      "Disruptive tech like space-based drug manufacturing highlights the value of deep-tech innovation scouting.",
-      "New EU regulations, like vehicle breathalyzers, create compliance needs and potential service niches.",
-      "Mastering online deals and promo codes can significantly reduce operational costs for your solopreneur venture.",
-      "Scientific discoveries ('Golden Orb') underscore the potential for innovation; explore applications in different fields.",
-      "Understanding digital legal challenges (e.g., VPN blocking) is crucial for securing and running online operations effectively."
+      "The rapid advancement and potential dangers of AI necessitate continuous learning and ethical considerations for solopreneurs.",
+      "Cybersecurity expertise is a growing field, directly linked to increased AI adoption and digital reliance.",
+      "'AI washing' indicates a market ripe for genuine AI solutions rather than just superficial branding.",
+      "Understanding the philosophical debates around AI ('meat computers') can inform strategic product development.",
+      "Leveraging open-source tools like Microsoft's DOS code can accelerate learning and practical tech application."
     ],
     "g3": [
-      "Portugal's push for 'industrialised construction' signals a ripe market for efficiency-focused services or tools.",
-      "Challenges in public services (airport queues, hospital parking) highlight unmet local needs solvable by smart solopreneurs.",
-      "The 'unicórnio' ambition in Portugal fosters a pro-startup ecosystem; seek out local networking and support.",
-      "Immigration trends create demand for integration services, language support, or administrative assistance in Portugal.",
-      "Leverage local student innovation hubs for fresh perspectives or potential collaborators on new projects."
+      "Portugal's push to lead the digital economy creates fertile ground for tech-focused solopreneurs to establish and grow.",
+      "Adapting to local nationality laws and understanding their investment implications is vital for long-term planning.",
+      "Solopreneurs can agilely leverage global digital tools to serve local Portuguese clients effectively.",
+      "Exploring niche local services, perhaps leveraging digital skills, could generate immediate income in Portugal.",
+      "Understanding local trends and community needs, like alternative housing, can inform service development for local markets."
     ]
   },
-  "learning_task": "Dedicate 30 minutes to research the latest Portuguese government incentives for startups in industrialized construction, assessing their alignment with your current skill set for potential application.",
-  "biz_opportunity": "Develop a localized digital platform for managing supply chains and compliance for Portugal's emerging industrialised construction sector, targeting small to medium-sized builders eager for efficiency now.",
-  "built_at": "2026-05-23T09:04:39.611250+00:00"
+  "learning_task": "Dedicate 30 minutes to researching 3 no-code AI tools for automated content creation, identifying one relevant to a solopreneur's workflow for enhancing efficiency towards your €35k goal.",
+  "biz_opportunity": "Offer AI-driven cybersecurity consulting and implementation to Portuguese SMEs, capitalizing on Portugal's digital economy focus and growing AI-related security risks.",
+  "built_at": "2026-05-24T09:23:19.058860+00:00"
 }

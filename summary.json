@@ -1,12 +1,12 @@
 {
-  "global_theme": "Geopolitical stability, particularly with the potential Iran deal, is fostering global market optimism, while the pervasive and complex integration of AI continues to redefine business opportunities and ethical considerations for wealth creation.",
-  "market_mood": "Risk-On",
-  "risk_signal": "Geopolitical instability & AI's ethical/security risks.",
-  "opportunity_signal": "Geopolitical de-escalation & targeted AI investments.",
+  "global_theme": "Geopolitical shifts from potential US-Iran peace talks are calming oil markets and boosting European stocks, while AI's rapid growth presents both economic opportunities and calls for ethical caution, all set against a backdrop of strong economic indicators in Portugal.",
+  "market_mood": "Cautiously Optimistic",
+  "risk_signal": "AI sector volatility & ethical concerns",
+  "opportunity_signal": "Portugal's strong economic growth & AI skill demand",
   "finance_sentiment": [
     {
       "i": 1,
-      "s": "+"
+      "s": "-"
     },
     {
       "i": 2,
@@ -14,39 +14,39 @@
     },
     {
       "i": 3,
-      "s": "-"
+      "s": "="
     },
     {
       "i": 4,
-      "s": "="
+      "s": "+"
     },
     {
       "i": 5,
-      "s": "="
+      "s": "+"
     },
     {
       "i": 6,
-      "s": "+"
+      "s": "-"
     },
     {
       "i": 7,
-      "s": "-"
-    },
-    {
-      "i": 8,
-      "s": "+"
-    },
-    {
-      "i": 9,
       "s": "="
     },
     {
-      "i": 10,
+      "i": 8,
+      "s": "="
+    },
+    {
+      "i": 9,
       "s": "+"
     },
     {
+      "i": 10,
+      "s": "="
+    },
+    {
       "i": 11,
-      "s": "-"
+      "s": "+"
     },
     {
       "i": 12,
@@ -54,41 +54,41 @@
     },
     {
       "i": 13,
-      "s": "+"
+      "s": "-"
     },
     {
       "i": 14,
-      "s": "-"
+      "s": "+"
     },
     {
       "i": 15,
-      "s": "-"
+      "s": "="
     }
   ],
   "insights": {
     "g1": [
-      "Geopolitical developments, like the potential Iran deal, significantly influence global markets and investor risk appetite.",
-      "AI is driving specific stock analyst picks, indicating sectors with high growth potential for investment or business.",
-      "Bitcoin's rally amidst geopolitical news highlights its role as a perceived safe haven or speculative asset.",
-      "SWOT analyses on major companies reveal the constant need to adapt to headwinds and integrate new strategies.",
-      "Understanding market sentiment linked to global events is crucial for identifying investment or entrepreneurial timing."
+      "Global peace talks significantly impact energy markets and European stock performance, driving investor sentiment.",
+      "AI-related memory stocks face a boom-bust cycle, underscoring the need for prudent, informed investment strategies.",
+      "Portugal's commercial real estate market is booming, indicating robust local economic activity and investment potential.",
+      "The global M&A market is heating up, suggesting opportunities for strategic positioning or professional services.",
+      "Strong profit signals from financial institutions like Julius Baer suggest underlying strength in certain wealth management sectors."
     ],
     "g2": [
-      "The rapid advancement and potential dangers of AI necessitate continuous learning and ethical considerations for solopreneurs.",
-      "Cybersecurity expertise is a growing field, directly linked to increased AI adoption and digital reliance.",
-      "'AI washing' indicates a market ripe for genuine AI solutions rather than just superficial branding.",
-      "Understanding the philosophical debates around AI ('meat computers') can inform strategic product development.",
-      "Leveraging open-source tools like Microsoft's DOS code can accelerate learning and practical tech application."
+      "The 'bug hunting arms race' in the AI era signals growing demand for specialized cybersecurity and AI safety skills.",
+      "Pope Leo's call to 'slow down' on AI highlights increasing ethical and regulatory scrutiny, creating niches for AI ethics consulting.",
+      "European VC investment in legaltech and startups indicates thriving innovation sectors ripe for skilled solopreneur contributions.",
+      "Tools like Tiny11 for rescuing Windows computers point to market demand for efficient resource management and tech optimization skills.",
+      "Understanding advanced computational tools, like command-driven geometry studios, offers a specialized skill set for niche applications."
     ],
     "g3": [
-      "Portugal's push to lead the digital economy creates fertile ground for tech-focused solopreneurs to establish and grow.",
-      "Adapting to local nationality laws and understanding their investment implications is vital for long-term planning.",
-      "Solopreneurs can agilely leverage global digital tools to serve local Portuguese clients effectively.",
-      "Exploring niche local services, perhaps leveraging digital skills, could generate immediate income in Portugal.",
-      "Understanding local trends and community needs, like alternative housing, can inform service development for local markets."
+      "Portugal's commercial real estate market hitting record growth offers clear opportunities for local investment or service provision.",
+      "Portugal's economic growth surpassing the EU average creates a favorable environment for launching and scaling new businesses.",
+      "The heating M&A market, both globally and locally, provides opportunities for solopreneurs offering due diligence or integration services.",
+      "Discussions on European sovereignty and corporate welfare suggest a growing market for independent consultants and localized solutions.",
+      "The rise in shoplifting in the UK hints at a broader European need for security solutions or specialized risk assessment for retailers."
     ]
   },
-  "learning_task": "Dedicate 30 minutes to researching 3 no-code AI tools for automated content creation, identifying one relevant to a solopreneur's workflow for enhancing efficiency towards your €35k goal.",
-  "biz_opportunity": "Offer AI-driven cybersecurity consulting and implementation to Portuguese SMEs, capitalizing on Portugal's digital economy focus and growing AI-related security risks.",
-  "built_at": "2026-05-24T09:23:19.058860+00:00"
+  "learning_task": "Spend 30 minutes researching AI ethics and safety frameworks to identify potential consulting niches for solopreneurs, capitalizing on current warnings and industry trends.",
+  "biz_opportunity": "Offer AI ethics and safety consulting to European SMEs developing or integrating AI, capitalizing on increasing regulatory scrutiny and the 'bug hunting arms race'.",
+  "built_at": "2026-05-25T11:13:29.492186+00:00"
 }

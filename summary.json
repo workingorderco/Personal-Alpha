@@ -1,12 +1,12 @@
 {
-  "global_theme": "AI and tech innovation continue to drive market optimism and funding, despite global geopolitical tensions, offering specific opportunities for solopreneurs leveraging digital tools within the EU context.",
-  "market_mood": "Risk-On",
-  "risk_signal": "Escalating Middle East conflict.",
-  "opportunity_signal": "AI-driven market growth & startup financing.",
+  "global_theme": "Geopolitical instability and persistent inflation concerns are challenging traditional market roles, while AI and targeted tech advancements continue to drive specific sector growth across the EU and globally.",
+  "market_mood": "Cautiously Optimistic",
+  "risk_signal": "Geopolitical Escalation & Inflationary Pressure",
+  "opportunity_signal": "AI Integration & Niche Tech Growth",
   "finance_sentiment": [
     {
       "i": 1,
-      "s": "+"
+      "s": "="
     },
     {
       "i": 2,
@@ -14,27 +14,27 @@
     },
     {
       "i": 3,
-      "s": "+"
+      "s": "-"
     },
     {
       "i": 4,
-      "s": "+"
-    },
-    {
-      "i": 5,
       "s": "="
     },
     {
+      "i": 5,
+      "s": "-"
+    },
+    {
       "i": 6,
-      "s": "+"
+      "s": "="
     },
     {
       "i": 7,
-      "s": "+"
+      "s": "-"
     },
     {
       "i": 8,
-      "s": "+"
+      "s": "="
     },
     {
       "i": 9,
@@ -46,7 +46,7 @@
     },
     {
       "i": 11,
-      "s": "="
+      "s": "+"
     },
     {
       "i": 12,
@@ -54,7 +54,7 @@
     },
     {
       "i": 13,
-      "s": "+"
+      "s": "="
     },
     {
       "i": 14,
@@ -62,33 +62,33 @@
     },
     {
       "i": 15,
-      "s": "-"
+      "s": "="
     }
   ],
   "insights": {
     "g1": [
-      "AI and memory tech stocks are driving significant market gains, highlighting areas of high growth.",
-      "Startup financing is robust, with EIB exploring new methods to aid EU startups.",
-      "Falling oil prices contribute to a more stable economic environment for small businesses.",
-      "Biotech is attracting substantial capital, indicating investment appetite for innovation.",
-      "Diversifying income beyond traditional 'blue chips' can reveal high-growth sectors."
+      "Global inflation continues challenging traditional investment stability.",
+      "Geopolitical tensions (Iran) escalate, increasing market uncertainty.",
+      "Despite small-cap rallies, expert caution suggests selective investment.",
+      "AI adoption in global corporate hubs signals efficiency gains.",
+      "Gold's potential rebound hints at shifting investor sentiment."
     ],
     "g2": [
-      "AI tools like Claude Code are becoming daily drivers, demanding proficiency in AI-assisted development.",
-      "Understanding 'unstructured data' costs and solutions is crucial for efficiency and competitive edge.",
-      "Tech startups are investing in 'hype videos,' indicating a need for strong digital marketing and storytelling.",
-      "The demand for AI-driven solutions is surging across various industries, from markets to specific tools.",
-      "Digital assessment tests in Portugal suggest a growing need for tech-literacy across the workforce."
+      "Europe's AI cloud initiatives present regional tech growth avenues.",
+      "Evolving AI-powered scams demand enhanced digital security skills.",
+      "Amazon's data center innovations highlight infrastructure opportunities.",
+      "YouTube's AI video feeds open new content strategy potential.",
+      "Climate tech companies going public indicate a maturing sector."
     ],
     "g3": [
-      "EIB's efforts to help European startups access financing could directly benefit Alex in Portugal.",
-      "Portugal's tourism sector is active, with group travel platforms expanding into new markets.",
-      "Digital assessment tests for students signify a growing digital economy and skilled workforce potential.",
-      "Ryanair's price reductions indicate competitive travel options, potentially boosting local tourism.",
-      "Interest in luxury new home opportunities in Braga indicates regional economic pockets of growth."
+      "EU regulatory scrutiny (Temu fines) impacts global e-commerce.",
+      "High foreign home purchases in Portugal confirm market demand.",
+      "Portuguese energy firms expanding internationally (EDP Japan).",
+      "Centralized literary retail (Lisbon/Porto) for niche local ventures.",
+      "Cross-border operational challenges (TAP) affect service-based solopreneurs."
     ]
   },
-  "learning_task": "Dedicate 30 minutes to exploring Claude.md or another AI coding assistant's capabilities for automating development tasks to boost efficiency towards your €35k goal.",
-  "biz_opportunity": "Develop AI-powered content and marketing strategies for Portuguese group travel platforms, leveraging the expansion of services like WeRoad and local tourism growth to attract specific market segments.",
-  "built_at": "2026-05-27T10:57:33.402685+00:00"
+  "learning_task": "Dedicate 30 minutes to researching and comparing two AI tools for automating social media content creation or client lead generation, specifically for the Portuguese market.",
+  "biz_opportunity": "Offer AI-powered digital security audits and consultation services to solopreneurs and small businesses in Portugal, addressing rising AI scam vulnerabilities and securing their online presence.",
+  "built_at": "2026-05-28T10:58:43.147885+00:00"
 }

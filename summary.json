@@ -1,8 +1,8 @@
 {
-  "global_theme": "Geopolitical instability and persistent inflation concerns are challenging traditional market roles, while AI and targeted tech advancements continue to drive specific sector growth across the EU and globally.",
-  "market_mood": "Cautiously Optimistic",
-  "risk_signal": "Geopolitical Escalation & Inflationary Pressure",
-  "opportunity_signal": "AI Integration & Niche Tech Growth",
+  "global_theme": "Geopolitical instability and rising defense spending are shaping global markets, while AI's growing influence presents both opportunities and challenges for wealth creation in the EU.",
+  "market_mood": "Cautiously Optimistic amidst Geopolitical Tension",
+  "risk_signal": "Geopolitical escalation & market volatility.",
+  "opportunity_signal": "Defense tech & AI innovation.",
   "finance_sentiment": [
     {
       "i": 1,
@@ -10,11 +10,11 @@
     },
     {
       "i": 2,
-      "s": "+"
+      "s": "="
     },
     {
       "i": 3,
-      "s": "-"
+      "s": "+"
     },
     {
       "i": 4,
@@ -30,7 +30,7 @@
     },
     {
       "i": 7,
-      "s": "-"
+      "s": "="
     },
     {
       "i": 8,
@@ -38,19 +38,19 @@
     },
     {
       "i": 9,
-      "s": "+"
+      "s": "="
     },
     {
       "i": 10,
-      "s": "+"
+      "s": "-"
     },
     {
       "i": 11,
-      "s": "+"
+      "s": "="
     },
     {
       "i": 12,
-      "s": "="
+      "s": "-"
     },
     {
       "i": 13,
@@ -62,33 +62,33 @@
     },
     {
       "i": 15,
-      "s": "="
+      "s": "+"
     }
   ],
   "insights": {
     "g1": [
-      "Global inflation continues challenging traditional investment stability.",
-      "Geopolitical tensions (Iran) escalate, increasing market uncertainty.",
-      "Despite small-cap rallies, expert caution suggests selective investment.",
-      "AI adoption in global corporate hubs signals efficiency gains.",
-      "Gold's potential rebound hints at shifting investor sentiment."
+      "Friend groups significantly influence spending habits; surround yourself with financially positive peers.",
+      "Geopolitical tensions and defense spending create shifting global investment landscapes.",
+      "Cryptocurrency markets remain volatile; caution is advised despite previous hype cycles.",
+      "Global supply chain stability (e.g., Hormuz) directly impacts business costs and consumer prices.",
+      "Monitoring major defense shifts, like China's buildup, reveals potential future economic winners and losers."
     ],
     "g2": [
-      "Europe's AI cloud initiatives present regional tech growth avenues.",
-      "Evolving AI-powered scams demand enhanced digital security skills.",
-      "Amazon's data center innovations highlight infrastructure opportunities.",
-      "YouTube's AI video feeds open new content strategy potential.",
-      "Climate tech companies going public indicate a maturing sector."
+      "AI's growing political and financial power demands understanding its evolving impact on industries.",
+      "Leverage advanced coding tools like TypeScript compilers for efficient development projects.",
+      "Stay updated on new computing hardware (e.g., Nvidia N1X) for future proofing your tech stack.",
+      "Observe legal challenges to tech giants like Google for market shifts and niche opportunities.",
+      "Explore niche tech communities (e.g., 'steroid Olympics') for insights into bleeding-edge trends."
     ],
     "g3": [
-      "EU regulatory scrutiny (Temu fines) impacts global e-commerce.",
-      "High foreign home purchases in Portugal confirm market demand.",
-      "Portuguese energy firms expanding internationally (EDP Japan).",
-      "Centralized literary retail (Lisbon/Porto) for niche local ventures.",
-      "Cross-border operational challenges (TAP) affect service-based solopreneurs."
+      "Portugal's labor laws are undergoing changes; stay informed to optimize your solopreneur operations.",
+      "Urban development and green initiatives in Lisbon present opportunities for local service providers.",
+      "Monitoring drone technology advancements (e.g., German startup valuation) reveals potential for local partnerships.",
+      "Local events (e.g., Brazil in Portugal) can create networking opportunities and cultural service demands.",
+      "Embrace the solopreneur lifestyle, managing work-life balance while building a stable income stream in Portugal."
     ]
   },
-  "learning_task": "Dedicate 30 minutes to researching and comparing two AI tools for automating social media content creation or client lead generation, specifically for the Portuguese market.",
-  "biz_opportunity": "Offer AI-powered digital security audits and consultation services to solopreneurs and small businesses in Portugal, addressing rising AI scam vulnerabilities and securing their online presence.",
-  "built_at": "2026-05-28T10:58:43.147885+00:00"
+  "learning_task": "Learn the basics of Portugal's upcoming labor law changes to understand their impact on solopreneur contracts and financial planning.",
+  "biz_opportunity": "Offer bespoke digital marketing services to small Portuguese businesses, leveraging local economic shifts and the increasing need for online presence.",
+  "built_at": "2026-05-30T09:22:32.140372+00:00"
 }

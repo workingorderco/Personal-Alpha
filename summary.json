@@ -1,24 +1,24 @@
 {
-  "global_theme": "Geopolitical tensions and economic shifts, particularly in China and Asia, are creating market volatility but also driving innovation in defense and tech, relevant for a European solopreneur navigating global wealth dynamics.",
-  "market_mood": "Mixed but cautious",
-  "risk_signal": "Geopolitical instability and China's economic downturn.",
-  "opportunity_signal": "Growth in crypto and niche tech innovations.",
+  "global_theme": "The rapid advancement and pervasive impact of AI across industries are driving investment and innovation, set against a backdrop of geopolitical instability and regional economic shifts, all relevant for wealth creation in the EU.",
+  "market_mood": "Innovation-Driven, Geopolitically Volatile",
+  "risk_signal": "Geopolitical instability, inflationary pressures, and AI-driven job displacement.",
+  "opportunity_signal": "AI adoption across sectors, specialized tech markets, and strategic regional growth.",
   "finance_sentiment": [
     {
       "i": 1,
-      "s": "-"
+      "s": "+"
     },
     {
       "i": 2,
-      "s": "-"
-    },
-    {
-      "i": 3,
       "s": "="
     },
     {
+      "i": 3,
+      "s": "+"
+    },
+    {
       "i": 4,
-      "s": "-"
+      "s": "+"
     },
     {
       "i": 5,
@@ -30,7 +30,7 @@
     },
     {
       "i": 7,
-      "s": "="
+      "s": "+"
     },
     {
       "i": 8,
@@ -38,19 +38,19 @@
     },
     {
       "i": 9,
-      "s": "+"
-    },
-    {
-      "i": 10,
-      "s": "-"
-    },
-    {
-      "i": 11,
       "s": "="
     },
     {
-      "i": 12,
+      "i": 10,
       "s": "+"
+    },
+    {
+      "i": 11,
+      "s": "-"
+    },
+    {
+      "i": 12,
+      "s": "="
     },
     {
       "i": 13,
@@ -58,37 +58,37 @@
     },
     {
       "i": 14,
-      "s": "-"
+      "s": "+"
     },
     {
       "i": 15,
-      "s": "-"
+      "s": "+"
     }
   ],
   "insights": {
     "g1": [
-      "Global economic shifts, like China's slowdown, impact supply chains and market demand, requiring adaptable business models.",
-      "Geopolitical tensions increase market uncertainty, necessitating diversified strategies and careful risk assessment for investments.",
-      "The rise of crypto, with 24/7 futures, suggests growing mainstream integration and new asset class opportunities.",
-      "Investors are advised to adopt dynamic portfolio approaches, signaling ongoing market volatility and a need for agility.",
-      "Pockets of growth exist, with some companies expanding margins amid strategic shifts, highlighting sector-specific opportunities."
+      "AI infrastructure drives vast investment, offering growth across diverse sectors.",
+      "Persistent inflation in the UK signals wider European economic headwinds.",
+      "Geopolitical conflicts create market volatility, requiring prudent financial strategy.",
+      "Sector-specific strong earnings show pockets of market opportunity for growth.",
+      "Institutional prediction markets represent new avenues for financial risk management."
     ],
     "g2": [
-      "Emerging tech like air taxis indicates disruptive innovation on the horizon, opening future service or development opportunities.",
-      "AI-powered coding agents offer continuous memory and self-improvement, streamlining development workflows for solopreneurs.",
-      "Specialized software, such as text editors designed for writing, highlights market demand for niche productivity tools.",
-      "Understanding the 'dangerous delusion of modern warfare' informs strategic thinking about global tech impact and cybersecurity.",
-      "Leveraging tools for continuous memory in coding agents could significantly boost a solopreneur's development efficiency."
+      "Pervasive AI impact necessitates continuous learning for solopreneurs to stay competitive.",
+      "Understanding AI's ethical implications and job market shifts is crucial.",
+      "New digital safety features highlight growing demand for secure online practices.",
+      "Vetting products and avoiding scams remains essential for reliable tech adoption.",
+      "Leveraging AI for product intelligence offers a significant competitive advantage."
     ],
     "g3": [
-      "Portugal's return to traditional festivities signals potential growth in local tourism and cultural event-based services.",
-      "New bioenergy courses in Portugal highlight opportunities in green tech education or consulting, aligning with EU sustainability goals.",
-      "The free driving license for military volunteers shows government incentives that could affect local labor markets or public services.",
-      "The debate around 'What is Airbnb for, exactly?' prompts strategic thinking on optimizing short-term rental services in Portugal.",
-      "Global economic shifts, like China's industrial slowdown, will indirectly influence EU markets, impacting import/export or investment."
+      "Portugal's potential loss of cohesion funds impacts future regional development.",
+      "The 2026 World Cup presents a major, short-term economic boost opportunity.",
+      "Portuguese startups like Augusta Labs demonstrate local venture capital growth.",
+      "Infrastructure investments (Port of Sines) can facilitate trade and local commerce.",
+      "Monitoring EU fund allocation changes is vital for strategic business planning."
     ]
   },
-  "learning_task": "Dedicate 30 minutes to research 'dynamic portfolio strategies for solopreneurs' to understand how to protect and grow your capital amid global volatility, directly supporting your €35k goal.",
-  "biz_opportunity": "Develop AI-powered workflow automation tools for small businesses and solopreneurs in the EU, leveraging insights from coding agents and niche software, capitalizing on the increasing need for efficiency and adaptability.",
-  "built_at": "2026-05-31T09:48:47.604876+00:00"
+  "learning_task": "Spend 30 minutes researching how AI-powered product intelligence solutions (like NielsenIQ's) could apply to your niche, identifying potential tools or platforms to explore.",
+  "biz_opportunity": "Develop AI-driven market intelligence reports for niche e-commerce businesses in Portugal, helping them optimize product strategies leveraging insights from AI commerce solutions now emerging.",
+  "built_at": "2026-06-02T11:21:28.140600+00:00"
 }

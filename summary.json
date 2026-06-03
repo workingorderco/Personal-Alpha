@@ -1,8 +1,8 @@
 {
-  "global_theme": "The rapid advancement and pervasive impact of AI across industries are driving investment and innovation, set against a backdrop of geopolitical instability and regional economic shifts, all relevant for wealth creation in the EU.",
-  "market_mood": "Innovation-Driven, Geopolitically Volatile",
-  "risk_signal": "Geopolitical instability, inflationary pressures, and AI-driven job displacement.",
-  "opportunity_signal": "AI adoption across sectors, specialized tech markets, and strategic regional growth.",
+  "global_theme": "Global markets show resilience and tech innovation amid escalating Middle East conflicts, cautious economic forecasts, and domestic challenges like a Portugal strike.",
+  "market_mood": "Cautiously Bullish",
+  "risk_signal": "Escalating Middle East conflict; Global economic slowdown; AI armageddon risk; Domestic strike disruption.",
+  "opportunity_signal": "Resilient stock market; International stock growth; AI and tech innovation; EV infrastructure expansion; Cross-border business development.",
   "finance_sentiment": [
     {
       "i": 1,
@@ -10,7 +10,7 @@
     },
     {
       "i": 2,
-      "s": "="
+      "s": "+"
     },
     {
       "i": 3,
@@ -30,11 +30,11 @@
     },
     {
       "i": 7,
-      "s": "+"
+      "s": "-"
     },
     {
       "i": 8,
-      "s": "="
+      "s": "+"
     },
     {
       "i": 9,
@@ -42,11 +42,11 @@
     },
     {
       "i": 10,
-      "s": "+"
+      "s": "-"
     },
     {
       "i": 11,
-      "s": "-"
+      "s": "+"
     },
     {
       "i": 12,
@@ -54,41 +54,41 @@
     },
     {
       "i": 13,
-      "s": "="
+      "s": "+"
     },
     {
       "i": 14,
-      "s": "+"
+      "s": "="
     },
     {
       "i": 15,
-      "s": "+"
+      "s": "="
     }
   ],
   "insights": {
     "g1": [
-      "AI infrastructure drives vast investment, offering growth across diverse sectors.",
-      "Persistent inflation in the UK signals wider European economic headwinds.",
-      "Geopolitical conflicts create market volatility, requiring prudent financial strategy.",
-      "Sector-specific strong earnings show pockets of market opportunity for growth.",
-      "Institutional prediction markets represent new avenues for financial risk management."
+      "Global stock markets show resilience, with the S&P 500 hitting new records despite some underlying economic warnings.",
+      "Veteran strategists advise against bearish sentiment in the short term, indicating potential for continued market growth.",
+      "Oil prices are rising due to escalating geopolitical tensions in the Middle East, impacting global energy costs.",
+      "OECD issues a stark warning, lowering 2027 growth forecasts, suggesting a potential future economic slowdown.",
+      "International stock ETFs had a breakout year, highlighting diversification opportunities beyond domestic markets."
     ],
     "g2": [
-      "Pervasive AI impact necessitates continuous learning for solopreneurs to stay competitive.",
-      "Understanding AI's ethical implications and job market shifts is crucial.",
-      "New digital safety features highlight growing demand for secure online practices.",
-      "Vetting products and avoiding scams remains essential for reliable tech adoption.",
-      "Leveraging AI for product intelligence offers a significant competitive advantage."
+      "AI continues rapid advancements, with discussions around autonomous AI-powered killer drones and 'AI armageddon' risks.",
+      "New Nvidia RTX Spark Laptops are poised for market disruption, signaling major shifts in computing power.",
+      "The tech mega-IPO race is heating up, but OpenAI might have missed its ideal moment, indicating market saturation.",
+      "Mathematicians are warning about AI's rapid gains, emphasizing the need for understanding and ethical oversight.",
+      "Hacking methods are evolving, with new risks like exploiting PC speakers, necessitating enhanced cybersecurity awareness."
     ],
     "g3": [
-      "Portugal's potential loss of cohesion funds impacts future regional development.",
-      "The 2026 World Cup presents a major, short-term economic boost opportunity.",
-      "Portuguese startups like Augusta Labs demonstrate local venture capital growth.",
-      "Infrastructure investments (Port of Sines) can facilitate trade and local commerce.",
-      "Monitoring EU fund allocation changes is vital for strategic business planning."
+      "A nationwide strike in Portugal is causing public transport disruptions, potentially affecting local commerce and operations.",
+      "Brussels suggests increasing IMI (property tax) in Portugal to address empty homes, impacting property owners and rental markets.",
+      "Portuguese businesses like CoRe Capital are creating new Iberian consultancies, showing cross-border growth potential.",
+      "The acquisition of Staples stores by Fnac in Portugal indicates consolidation and competitive shifts in the retail sector.",
+      "Portuguese people show high willingness to attend sporting events abroad, pointing to opportunities in event-related services or travel."
     ]
   },
-  "learning_task": "Spend 30 minutes researching how AI-powered product intelligence solutions (like NielsenIQ's) could apply to your niche, identifying potential tools or platforms to explore.",
-  "biz_opportunity": "Develop AI-driven market intelligence reports for niche e-commerce businesses in Portugal, helping them optimize product strategies leveraging insights from AI commerce solutions now emerging.",
-  "built_at": "2026-06-02T11:21:28.140600+00:00"
+  "learning_task": "Spend 30 minutes researching how the proposed IMI increase in Portugal could impact potential commercial rental costs for a small business or co-working space, to inform future overhead planning.",
+  "biz_opportunity": "Develop a specialized consultancy service helping Portuguese solopreneurs and small businesses navigate EU regulations and cross-border expansion, leveraging the growing Iberian market activity and potential for international sporting event services.",
+  "built_at": "2026-06-03T11:58:44.759738+00:00"
 }

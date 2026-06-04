@@ -1,8 +1,8 @@
 {
-  "global_theme": "Global markets show resilience and tech innovation amid escalating Middle East conflicts, cautious economic forecasts, and domestic challenges like a Portugal strike.",
-  "market_mood": "Cautiously Bullish",
-  "risk_signal": "Escalating Middle East conflict; Global economic slowdown; AI armageddon risk; Domestic strike disruption.",
-  "opportunity_signal": "Resilient stock market; International stock growth; AI and tech innovation; EV infrastructure expansion; Cross-border business development.",
+  "global_theme": "Global markets navigate geopolitical tensions and tech innovation, with significant EU focus on regulation, AI, and border management shaping the landscape for wealth creation.",
+  "market_mood": "Cautiously Optimistic",
+  "risk_signal": "Geopolitical instability and regulatory uncertainty",
+  "opportunity_signal": "Tech innovation, strategic investments, and market pullbacks",
   "finance_sentiment": [
     {
       "i": 1,
@@ -10,15 +10,15 @@
     },
     {
       "i": 2,
-      "s": "+"
+      "s": "-"
     },
     {
       "i": 3,
-      "s": "+"
+      "s": "="
     },
     {
       "i": 4,
-      "s": "+"
+      "s": "="
     },
     {
       "i": 5,
@@ -26,11 +26,11 @@
     },
     {
       "i": 6,
-      "s": "-"
+      "s": "="
     },
     {
       "i": 7,
-      "s": "-"
+      "s": "="
     },
     {
       "i": 8,
@@ -38,11 +38,11 @@
     },
     {
       "i": 9,
-      "s": "="
+      "s": "+"
     },
     {
       "i": 10,
-      "s": "-"
+      "s": "+"
     },
     {
       "i": 11,
@@ -50,7 +50,7 @@
     },
     {
       "i": 12,
-      "s": "="
+      "s": "+"
     },
     {
       "i": 13,
@@ -58,7 +58,7 @@
     },
     {
       "i": 14,
-      "s": "="
+      "s": "-"
     },
     {
       "i": 15,
@@ -67,28 +67,28 @@
   ],
   "insights": {
     "g1": [
-      "Global stock markets show resilience, with the S&P 500 hitting new records despite some underlying economic warnings.",
-      "Veteran strategists advise against bearish sentiment in the short term, indicating potential for continued market growth.",
-      "Oil prices are rising due to escalating geopolitical tensions in the Middle East, impacting global energy costs.",
-      "OECD issues a stark warning, lowering 2027 growth forecasts, suggesting a potential future economic slowdown.",
-      "International stock ETFs had a breakout year, highlighting diversification opportunities beyond domestic markets."
+      "Youth sports are attracting significant private equity investment, indicating a robust growth sector.",
+      "S&P 500 pullbacks are seen as buying opportunities, signaling underlying market confidence.",
+      "Quantum computing is gaining public market traction with substantial IPO funding.",
+      "Geopolitical tensions (South China Sea, Russia, Middle East) influence global stability and trade.",
+      "Rising Euribor rates and consumer safety concerns (jewelry) hint at inflation or economic anxieties."
     ],
     "g2": [
-      "AI continues rapid advancements, with discussions around autonomous AI-powered killer drones and 'AI armageddon' risks.",
-      "New Nvidia RTX Spark Laptops are poised for market disruption, signaling major shifts in computing power.",
-      "The tech mega-IPO race is heating up, but OpenAI might have missed its ideal moment, indicating market saturation.",
-      "Mathematicians are warning about AI's rapid gains, emphasizing the need for understanding and ethical oversight.",
-      "Hacking methods are evolving, with new risks like exploiting PC speakers, necessitating enhanced cybersecurity awareness."
+      "AI is moving from theoretical to practical, with 'AI employees' assisting small businesses.",
+      "Quantum computing's public market moment suggests a critical need for new expertise and development.",
+      "Companies like Amazon are integrating conversational AI into physical operations (warehouses).",
+      "The rise of EU-based tech alternatives (e.g., Uruky) signals opportunities for privacy-focused services.",
+      "Understanding AI's real-world applications and limitations is crucial for solopreneurs leveraging technology."
     ],
     "g3": [
-      "A nationwide strike in Portugal is causing public transport disruptions, potentially affecting local commerce and operations.",
-      "Brussels suggests increasing IMI (property tax) in Portugal to address empty homes, impacting property owners and rental markets.",
-      "Portuguese businesses like CoRe Capital are creating new Iberian consultancies, showing cross-border growth potential.",
-      "The acquisition of Staples stores by Fnac in Portugal indicates consolidation and competitive shifts in the retail sector.",
-      "Portuguese people show high willingness to attend sporting events abroad, pointing to opportunities in event-related services or travel."
+      "The EU is actively supporting Portugal, including border management, signaling stability.",
+      "Portugal is facing discussions on increased property tax, impacting local real estate strategies.",
+      "The EU's debate on taxing AI highlights upcoming regulatory frameworks for tech businesses.",
+      "Solopreneurs in Portugal can leverage EU digital market for privacy-focused or niche services.",
+      "Understanding local policy shifts (AIMA, property tax) is critical for operational planning in Portugal."
     ]
   },
-  "learning_task": "Spend 30 minutes researching how the proposed IMI increase in Portugal could impact potential commercial rental costs for a small business or co-working space, to inform future overhead planning.",
-  "biz_opportunity": "Develop a specialized consultancy service helping Portuguese solopreneurs and small businesses navigate EU regulations and cross-border expansion, leveraging the growing Iberian market activity and potential for international sporting event services.",
-  "built_at": "2026-06-03T11:58:44.759738+00:00"
+  "learning_task": "Spend 30 minutes researching EU grant opportunities or local Portuguese business incentives for solopreneurs leveraging AI tools to accelerate content creation or marketing automation.",
+  "biz_opportunity": "Offer AI-driven market trend analysis services to solopreneurs and small businesses in the EU, leveraging current interest in AI for strategic planning and capitalizing on the evolving regulatory landscape.",
+  "built_at": "2026-06-04T10:40:32.521917+00:00"
 }

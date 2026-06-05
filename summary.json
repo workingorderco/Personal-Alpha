@@ -1,8 +1,8 @@
 {
-  "global_theme": "Global markets navigate geopolitical tensions and tech innovation, with significant EU focus on regulation, AI, and border management shaping the landscape for wealth creation.",
-  "market_mood": "Cautiously Optimistic",
-  "risk_signal": "Geopolitical instability and regulatory uncertainty",
-  "opportunity_signal": "Tech innovation, strategic investments, and market pullbacks",
+  "global_theme": "The market is cautiously navigating AI-driven enthusiasm amidst signs of potential overheating, while geopolitical risks impact energy and global stability, and Europe shows pockets of economic activity and tech innovation relevant for wealth creation.",
+  "market_mood": "Cautiously Optimistic (AI-driven, but signs of market top)",
+  "risk_signal": "Market Top Warnings, Geopolitical Instability, Energy Scarcity",
+  "opportunity_signal": "AI Integration, EU Regional Funding, Strategic Buy-the-Dip",
   "finance_sentiment": [
     {
       "i": 1,
@@ -18,39 +18,39 @@
     },
     {
       "i": 4,
-      "s": "="
+      "s": "-"
     },
     {
       "i": 5,
-      "s": "+"
+      "s": "-"
     },
     {
       "i": 6,
-      "s": "="
+      "s": "-"
     },
     {
       "i": 7,
-      "s": "="
+      "s": "+"
     },
     {
       "i": 8,
-      "s": "+"
+      "s": "="
     },
     {
       "i": 9,
-      "s": "+"
+      "s": "="
     },
     {
       "i": 10,
-      "s": "+"
+      "s": "="
     },
     {
       "i": 11,
-      "s": "+"
+      "s": "-"
     },
     {
       "i": 12,
-      "s": "+"
+      "s": "="
     },
     {
       "i": 13,
@@ -58,7 +58,7 @@
     },
     {
       "i": 14,
-      "s": "-"
+      "s": "+"
     },
     {
       "i": 15,
@@ -67,28 +67,28 @@
   ],
   "insights": {
     "g1": [
-      "Youth sports are attracting significant private equity investment, indicating a robust growth sector.",
-      "S&P 500 pullbacks are seen as buying opportunities, signaling underlying market confidence.",
-      "Quantum computing is gaining public market traction with substantial IPO funding.",
-      "Geopolitical tensions (South China Sea, Russia, Middle East) influence global stability and trade.",
-      "Rising Euribor rates and consumer safety concerns (jewelry) hint at inflation or economic anxieties."
+      "AI market exuberance signals caution; evaluate investment opportunities critically for Alex’s €35k goal.",
+      "Global jobs reports and bond market reactions influence overall economic stability and personal financial planning.",
+      "Geopolitical events (Hormuz) directly impact energy costs, affecting business operations and consumer spending.",
+      "EU lending boosts in member states like Hungary indicate regional economic activity worth exploring for services.",
+      "Identifying truly undervalued assets (like 'buy the dip' stocks) requires deeper analysis beyond headlines."
     ],
     "g2": [
-      "AI is moving from theoretical to practical, with 'AI employees' assisting small businesses.",
-      "Quantum computing's public market moment suggests a critical need for new expertise and development.",
-      "Companies like Amazon are integrating conversational AI into physical operations (warehouses).",
-      "The rise of EU-based tech alternatives (e.g., Uruky) signals opportunities for privacy-focused services.",
-      "Understanding AI's real-world applications and limitations is crucial for solopreneurs leveraging technology."
+      "AI is being widely adopted across industries, from agriculture to healthcare; learn its applications for new services.",
+      "Understand AI's security implications (Meta hack) and potential cognitive effects to build resilient solutions.",
+      "Databricks' focus on unifying data and AI agents highlights critical skills needed for data-driven innovation.",
+      "Explore hardware hacking tools (ESP32 Bit Pirate) to gain practical skills in IoT and device integration.",
+      "Analyze how AI can enhance customer support and data analysis, providing valuable solopreneur service offerings."
     ],
     "g3": [
-      "The EU is actively supporting Portugal, including border management, signaling stability.",
-      "Portugal is facing discussions on increased property tax, impacting local real estate strategies.",
-      "The EU's debate on taxing AI highlights upcoming regulatory frameworks for tech businesses.",
-      "Solopreneurs in Portugal can leverage EU digital market for privacy-focused or niche services.",
-      "Understanding local policy shifts (AIMA, property tax) is critical for operational planning in Portugal."
+      "Portugal's TGV project creates opportunities for auxiliary services in infrastructure, planning, or digital mapping.",
+      "AI's role in Portugal's healthcare patient support indicates a local market for specialized tech services or consulting.",
+      "Local cultural events (Tomar's Feira do Livro) offer avenues for marketing, content creation, or event support.",
+      "The Eurostat growth review shows a stable EU backdrop, supporting confidence for starting local ventures.",
+      "Monitor local economic development, like new resorts, for demand in related digital marketing or support services."
     ]
   },
-  "learning_task": "Spend 30 minutes researching EU grant opportunities or local Portuguese business incentives for solopreneurs leveraging AI tools to accelerate content creation or marketing automation.",
-  "biz_opportunity": "Offer AI-driven market trend analysis services to solopreneurs and small businesses in the EU, leveraging current interest in AI for strategic planning and capitalizing on the evolving regulatory landscape.",
-  "built_at": "2026-06-04T10:40:32.521917+00:00"
+  "learning_task": "Spend 30 minutes researching 'AI agents' and 'data unification' platforms to understand their practical applications for small businesses, crucial for Alex's €35k goal.",
+  "biz_opportunity": "Offer AI-powered content and social media management for local Portuguese tourism businesses, leveraging AI's growing adoption to boost their online visibility and reach tourists now.",
+  "built_at": "2026-06-05T10:50:44.338480+00:00"
 }

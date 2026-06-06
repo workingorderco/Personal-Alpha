@@ -1,20 +1,20 @@
 {
-  "global_theme": "The market is cautiously navigating AI-driven enthusiasm amidst signs of potential overheating, while geopolitical risks impact energy and global stability, and Europe shows pockets of economic activity and tech innovation relevant for wealth creation.",
-  "market_mood": "Cautiously Optimistic (AI-driven, but signs of market top)",
-  "risk_signal": "Market Top Warnings, Geopolitical Instability, Energy Scarcity",
-  "opportunity_signal": "AI Integration, EU Regional Funding, Strategic Buy-the-Dip",
+  "global_theme": "AI's expanding economic integration drives growth opportunities, while persistent global economic pressures and geopolitical risks demand cautious financial navigation, particularly relevant for wealth building in the EU context.",
+  "market_mood": "Cautious Growth",
+  "risk_signal": "Inflationary pressures, geopolitical instability, market volatility",
+  "opportunity_signal": "AI integration, niche market development, local service economy",
   "finance_sentiment": [
     {
       "i": 1,
-      "s": "+"
+      "s": "="
     },
     {
       "i": 2,
-      "s": "-"
+      "s": "+"
     },
     {
       "i": 3,
-      "s": "="
+      "s": "-"
     },
     {
       "i": 4,
@@ -22,19 +22,19 @@
     },
     {
       "i": 5,
-      "s": "-"
+      "s": "="
     },
     {
       "i": 6,
-      "s": "-"
+      "s": "="
     },
     {
       "i": 7,
-      "s": "+"
+      "s": "="
     },
     {
       "i": 8,
-      "s": "="
+      "s": "-"
     },
     {
       "i": 9,
@@ -42,7 +42,7 @@
     },
     {
       "i": 10,
-      "s": "="
+      "s": "-"
     },
     {
       "i": 11,
@@ -54,7 +54,7 @@
     },
     {
       "i": 13,
-      "s": "+"
+      "s": "="
     },
     {
       "i": 14,
@@ -62,33 +62,33 @@
     },
     {
       "i": 15,
-      "s": "="
+      "s": "+"
     }
   ],
   "insights": {
     "g1": [
-      "AI market exuberance signals caution; evaluate investment opportunities critically for Alex’s €35k goal.",
-      "Global jobs reports and bond market reactions influence overall economic stability and personal financial planning.",
-      "Geopolitical events (Hormuz) directly impact energy costs, affecting business operations and consumer spending.",
-      "EU lending boosts in member states like Hungary indicate regional economic activity worth exploring for services.",
-      "Identifying truly undervalued assets (like 'buy the dip' stocks) requires deeper analysis beyond headlines."
+      "AI is a significant investment theme, proven by massive infrastructure deals like SpaceX-Google's computing power agreement.",
+      "Global economic outlook is challenged by inflationary pressures and potential interest rate hikes.",
+      "Geopolitical events, like Strait of Hormuz concerns, pose risks to global energy supply and trade.",
+      "Learning from prominent investors' mistakes (Chris Davis) provides valuable lessons for long-term wealth building strategies.",
+      "China's regulatory push for innovation in funds, while cautioning hype, signals evolving investment landscapes."
     ],
     "g2": [
-      "AI is being widely adopted across industries, from agriculture to healthcare; learn its applications for new services.",
-      "Understand AI's security implications (Meta hack) and potential cognitive effects to build resilient solutions.",
-      "Databricks' focus on unifying data and AI agents highlights critical skills needed for data-driven innovation.",
-      "Explore hardware hacking tools (ESP32 Bit Pirate) to gain practical skills in IoT and device integration.",
-      "Analyze how AI can enhance customer support and data analysis, providing valuable solopreneur service offerings."
+      "AI continues its rapid expansion, evidenced by major collaborations like SpaceX's deal with Google for computing power.",
+      "The ongoing debate around AI's societal impact (e.g., anti-AI sentiment on HN) underscores its transformative, yet contentious, nature.",
+      "Exploring emerging tech business models, such as prediction markets (Susquehanna), reveals potential for new ventures.",
+      "Foundational tech skills and open-source contributions (GrapheneOS, Zig Zen, C++) remain crucial in a fast-evolving industry.",
+      "The video game industry, with major releases like GTA VI, consistently impacts consumer tech and entertainment spending."
     ],
     "g3": [
-      "Portugal's TGV project creates opportunities for auxiliary services in infrastructure, planning, or digital mapping.",
-      "AI's role in Portugal's healthcare patient support indicates a local market for specialized tech services or consulting.",
-      "Local cultural events (Tomar's Feira do Livro) offer avenues for marketing, content creation, or event support.",
-      "The Eurostat growth review shows a stable EU backdrop, supporting confidence for starting local ventures.",
-      "Monitor local economic development, like new resorts, for demand in related digital marketing or support services."
+      "Portuguese housing market challenges are evident, with discussions on IMT tax relief for young inheritors.",
+      "Portugal's vibrant cultural and tourism scene, including music festivals and golf, offers diverse local income opportunities.",
+      "Leveraging local attractions like picturesque Carvoeiro and Lisbon's Estrela for tourism-related services or content.",
+      "Solopreneurs in Portugal can tap into the local events economy, from broadcasting concerts to dining experiences.",
+      "Understanding local policy debates, like housing, can inform service offerings for solopreneurs targeting local residents."
     ]
   },
-  "learning_task": "Spend 30 minutes researching 'AI agents' and 'data unification' platforms to understand their practical applications for small businesses, crucial for Alex's €35k goal.",
-  "biz_opportunity": "Offer AI-powered content and social media management for local Portuguese tourism businesses, leveraging AI's growing adoption to boost their online visibility and reach tourists now.",
-  "built_at": "2026-06-05T10:50:44.338480+00:00"
+  "learning_task": "Spend 30 minutes researching how solopreneurs are leveraging AI tools for content creation, marketing automation, or niche service delivery to identify potential efficiency gains for your business.",
+  "biz_opportunity": "Offer AI-powered market analysis and trend forecasting services for Portuguese solopreneurs and small businesses, capitalizing on current AI expansion and market volatility to help them make informed decisions.",
+  "built_at": "2026-06-06T09:28:33.320124+00:00"
 }

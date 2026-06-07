@@ -1,16 +1,16 @@
 {
-  "global_theme": "AI's expanding economic integration drives growth opportunities, while persistent global economic pressures and geopolitical risks demand cautious financial navigation, particularly relevant for wealth building in the EU context.",
-  "market_mood": "Cautious Growth",
-  "risk_signal": "Inflationary pressures, geopolitical instability, market volatility",
-  "opportunity_signal": "AI integration, niche market development, local service economy",
+  "global_theme": "Geopolitical tensions and economic volatility persist globally, while AI and digital innovation continue to offer wealth-building avenues amidst EU-focused political and local economic shifts.",
+  "market_mood": "Cautiously Volatile",
+  "risk_signal": "Geopolitical Instability, Inflationary Pressures",
+  "opportunity_signal": "AI Integration, Digital Services, Local Events",
   "finance_sentiment": [
     {
       "i": 1,
-      "s": "="
+      "s": "-"
     },
     {
       "i": 2,
-      "s": "+"
+      "s": "="
     },
     {
       "i": 3,
@@ -30,15 +30,15 @@
     },
     {
       "i": 7,
-      "s": "="
-    },
-    {
-      "i": 8,
       "s": "-"
     },
     {
+      "i": 8,
+      "s": "+"
+    },
+    {
       "i": 9,
-      "s": "="
+      "s": "-"
     },
     {
       "i": 10,
@@ -46,15 +46,15 @@
     },
     {
       "i": 11,
-      "s": "-"
+      "s": "+"
     },
     {
       "i": 12,
-      "s": "="
+      "s": "-"
     },
     {
       "i": 13,
-      "s": "="
+      "s": "-"
     },
     {
       "i": 14,
@@ -62,33 +62,33 @@
     },
     {
       "i": 15,
-      "s": "+"
+      "s": "-"
     }
   ],
   "insights": {
     "g1": [
-      "AI is a significant investment theme, proven by massive infrastructure deals like SpaceX-Google's computing power agreement.",
-      "Global economic outlook is challenged by inflationary pressures and potential interest rate hikes.",
-      "Geopolitical events, like Strait of Hormuz concerns, pose risks to global energy supply and trade.",
-      "Learning from prominent investors' mistakes (Chris Davis) provides valuable lessons for long-term wealth building strategies.",
-      "China's regulatory push for innovation in funds, while cautioning hype, signals evolving investment landscapes."
+      "Global instability (Ukraine, Iran) creates market uncertainty; hedge where possible.",
+      "Rising oil prices may signal impending demand destruction and economic slowdown.",
+      "Bitcoin's recovery indicates potential for crypto but volatility remains high.",
+      "AI is driving significant analyst moves and investment in tech giants.",
+      "Personal finance issues like debt and workplace ethics impact entrepreneurial focus."
     ],
     "g2": [
-      "AI continues its rapid expansion, evidenced by major collaborations like SpaceX's deal with Google for computing power.",
-      "The ongoing debate around AI's societal impact (e.g., anti-AI sentiment on HN) underscores its transformative, yet contentious, nature.",
-      "Exploring emerging tech business models, such as prediction markets (Susquehanna), reveals potential for new ventures.",
-      "Foundational tech skills and open-source contributions (GrapheneOS, Zig Zen, C++) remain crucial in a fast-evolving industry.",
-      "The video game industry, with major releases like GTA VI, consistently impacts consumer tech and entertainment spending."
+      "AI tools like Claude are now powerful design alternatives to traditional software.",
+      "OpenAI's Lockdown Mode highlights critical need for data security practices.",
+      "Exploring new code understanding primitives (Sem) can enhance development efficiency.",
+      "Red-light therapy for hair restoration shows a niche in wellness tech.",
+      "Understanding tokenomics is key for engaging with agentic software engineering."
     ],
     "g3": [
-      "Portuguese housing market challenges are evident, with discussions on IMT tax relief for young inheritors.",
-      "Portugal's vibrant cultural and tourism scene, including music festivals and golf, offers diverse local income opportunities.",
-      "Leveraging local attractions like picturesque Carvoeiro and Lisbon's Estrela for tourism-related services or content.",
-      "Solopreneurs in Portugal can tap into the local events economy, from broadcasting concerts to dining experiences.",
-      "Understanding local policy debates, like housing, can inform service offerings for solopreneurs targeting local residents."
+      "Unliquidated IRS declarations in Portugal signal potential tax and administrative issues.",
+      "Portugal hosting local sports gala presents opportunities for event-based services.",
+      "Madeira supporting cultural associations suggests a market for creative services.",
+      "The new energy map in Portugal hints at emerging green tech or consulting needs.",
+      "Lisbon's Príncipe Real as a 'resilient sanctuary' is a strong local brand narrative."
     ]
   },
-  "learning_task": "Spend 30 minutes researching how solopreneurs are leveraging AI tools for content creation, marketing automation, or niche service delivery to identify potential efficiency gains for your business.",
-  "biz_opportunity": "Offer AI-powered market analysis and trend forecasting services for Portuguese solopreneurs and small businesses, capitalizing on current AI expansion and market volatility to help them make informed decisions.",
-  "built_at": "2026-06-06T09:28:33.320124+00:00"
+  "learning_task": "Spend 30 minutes researching how solopreneurs can implement OpenAI's Lockdown Mode or similar data security best practices to protect client data, directly safeguarding your growing business.",
+  "biz_opportunity": "Offer AI-powered administrative and design support services for Portuguese cultural associations and local event organizers, leveraging tools like Claude for efficiency and capitalizing on current local funding and event interest.",
+  "built_at": "2026-06-07T10:07:03.100638+00:00"
 }

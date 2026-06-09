@@ -1,24 +1,24 @@
 {
-  "global_theme": "The global stage sees a cautious de-escalation of Middle East tensions, while the tech sector, particularly AI and chips, continues to drive innovation and economic growth, offering both opportunities and challenges for the EU and wealth creation.",
-  "market_mood": "Cautiously Optimistic / Volatile",
-  "risk_signal": "Geopolitical Instability / Resource Strain",
-  "opportunity_signal": "AI & Chip Sector Growth / Digital Innovation",
+  "global_theme": "Global markets show volatility driven by geopolitical events and AI's resurgence, while significant investment in European spacetech signals growth, amidst rising economic anxieties in the US.",
+  "market_mood": "Cautiously Optimistic (Chip Rebound, Spacetech boom) but volatile (Market Swings, US economic anxiety)",
+  "risk_signal": "High market volatility, geopolitical tensions, underlying financial risk in banking sector",
+  "opportunity_signal": "Booming spacetech investment, AI integration across industries, demand for advanced connectivity",
   "finance_sentiment": [
     {
       "i": 1,
-      "s": "="
-    },
-    {
-      "i": 2,
       "s": "-"
     },
     {
-      "i": 3,
+      "i": 2,
       "s": "+"
     },
     {
-      "i": 4,
+      "i": 3,
       "s": "="
+    },
+    {
+      "i": 4,
+      "s": "-"
     },
     {
       "i": 5,
@@ -26,7 +26,7 @@
     },
     {
       "i": 6,
-      "s": "+"
+      "s": "="
     },
     {
       "i": 7,
@@ -50,45 +50,45 @@
     },
     {
       "i": 12,
-      "s": "+"
+      "s": "="
     },
     {
       "i": 13,
-      "s": "+"
+      "s": "="
     },
     {
       "i": 14,
-      "s": "+"
+      "s": "-"
     },
     {
       "i": 15,
-      "s": "-"
+      "s": "="
     }
   ],
   "insights": {
     "g1": [
-      "Geopolitical tensions create market volatility, impacting oil prices and challenging traditional safe-haven assets.",
-      "Chip and broader tech stocks demonstrate resilience, rebounding quickly after initial market shocks.",
-      "Understanding de-escalation impacts commodity prices and informs strategic investment decisions for Alex.",
-      "Gold's unexpected tumble during conflict exposes the need for diverse risk assessment strategies.",
-      "New IPOs and venture capital indicate ongoing growth and innovation in the digital sector."
+      "US public sentiment on the 'American Dream' is low, signaling widespread economic anxiety.",
+      "Global financial markets show high volatility, with tech and war hopes driving shifts.",
+      "Significant funding rounds in European spacetech suggest strong growth and investment opportunities.",
+      "Banks hedging loan risks indicates potential underlying financial system vulnerabilities.",
+      "Warren Buffett's advice highlights the need for long-term strategy amidst market swings."
     ],
     "g2": [
-      "AI is a dominant tech force, with Apple and others revealing major plans; essential for Alex to integrate.",
-      "The surge in AI datacenters highlights environmental concerns, especially regarding water consumption.",
-      "Robotaxis signal future urban mobility shifts, impacting logistics and local service delivery models.",
-      "Investigate AI tools for automating repetitive business tasks like content generation or client outreach.",
-      "Stay updated on Apple's AI announcements to identify new software capabilities for solopreneur services."
+      "AI's rally and its growing role in hybrid workforces are central to future tech adoption.",
+      "Massive funding in European spacetech firms like Isar and Iceye signifies a booming sector.",
+      "Starlink leading in-flight Wi-Fi highlights rising demand for advanced connectivity solutions.",
+      "Understanding the five key aspects of AI is crucial for future-proofing skills and services.",
+      "Trends like retro computing interfaces could open niche design and development opportunities."
     ],
     "g3": [
-      "Portugal's housing shortage drives construction, creating demand for supporting services and digital solutions.",
-      "The Portuguese labor market is strained by immigrant departures, potentially impacting skill availability.",
-      "EU funding priorities (e.g., Ukraine) can influence regional economic stability and funding opportunities.",
-      "Portugal's growing Iberian Lynx population supports eco-tourism, a niche market for local services.",
-      "Leverage 'moving to Portugal' trends by offering specialized digital services for new residents or businesses."
+      "Portugal's high-speed train project may create localized service and support needs.",
+      "The European B2B tech market is active, as seen with CyberCube's new Austrian client.",
+      "Solopreneurs in Portugal must adapt to global economic volatility and local market changes.",
+      "Access to cheaper weight-loss drugs signals a growing health and wellness market trend.",
+      "Focusing on value creation, as BASF is doing, is vital for solopreneurs in competitive markets."
     ]
   },
-  "learning_task": "Spend 30 minutes researching how solopreneurs are leveraging new AI tools (e.g., Apple's upcoming announcements) to automate client acquisition or content creation processes, directly contributing to the €35k goal.",
-  "biz_opportunity": "Develop a specialized digital marketing service for new construction companies or real estate developers in Portugal, leveraging AI tools for targeted lead generation and content creation, capitalizing on the current housing shortage and increasing construction activity.",
-  "built_at": "2026-06-08T12:03:53.831612+00:00"
+  "learning_task": "Spend 30 minutes researching free AI tools for competitive analysis and market trend identification to inform your business strategy and accelerate your €35k goal.",
+  "biz_opportunity": "Provide AI-driven market intelligence for European spacetech startups, capitalizing on current high investment and rapid growth trends across the continent.",
+  "built_at": "2026-06-09T10:36:25.795260+00:00"
 }

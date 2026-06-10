@@ -1,8 +1,8 @@
 {
-  "global_theme": "Global markets show volatility driven by geopolitical events and AI's resurgence, while significant investment in European spacetech signals growth, amidst rising economic anxieties in the US.",
-  "market_mood": "Cautiously Optimistic (Chip Rebound, Spacetech boom) but volatile (Market Swings, US economic anxiety)",
-  "risk_signal": "High market volatility, geopolitical tensions, underlying financial risk in banking sector",
-  "opportunity_signal": "Booming spacetech investment, AI integration across industries, demand for advanced connectivity",
+  "global_theme": "Global markets exhibit caution amid AI stock volatility and rising geopolitical tensions, while Europe grapples with immigration and prepares for future World Cups, offering mixed signals for solopreneur wealth building.",
+  "market_mood": "Cautious Optimism / Volatile",
+  "risk_signal": "Geopolitical Instability, Market Volatility, Inflationary Pressures",
+  "opportunity_signal": "AI Sector Growth, Renewable Energy, Public Offerings",
   "finance_sentiment": [
     {
       "i": 1,
@@ -18,15 +18,15 @@
     },
     {
       "i": 4,
-      "s": "-"
+      "s": "="
     },
     {
       "i": 5,
-      "s": "+"
+      "s": "-"
     },
     {
       "i": 6,
-      "s": "="
+      "s": "-"
     },
     {
       "i": 7,
@@ -34,15 +34,15 @@
     },
     {
       "i": 8,
-      "s": "-"
+      "s": "="
     },
     {
       "i": 9,
-      "s": "-"
+      "s": "+"
     },
     {
       "i": 10,
-      "s": "+"
+      "s": "="
     },
     {
       "i": 11,
@@ -50,7 +50,7 @@
     },
     {
       "i": 12,
-      "s": "="
+      "s": "+"
     },
     {
       "i": 13,
@@ -67,28 +67,28 @@
   ],
   "insights": {
     "g1": [
-      "US public sentiment on the 'American Dream' is low, signaling widespread economic anxiety.",
-      "Global financial markets show high volatility, with tech and war hopes driving shifts.",
-      "Significant funding rounds in European spacetech suggest strong growth and investment opportunities.",
-      "Banks hedging loan risks indicates potential underlying financial system vulnerabilities.",
-      "Warren Buffett's advice highlights the need for long-term strategy amidst market swings."
+      "Market volatility, especially in tech and AI, demands cautious but informed investing strategies for wealth growth.",
+      "Rising government bond sales suggest fiscal pressures and potential inflation impact on purchasing power.",
+      "Consider diversification beyond volatile tech, exploring stable sectors like fast-casual dining for consistent returns.",
+      "Upcoming CPI report could significantly shift market sentiment, influencing short-term financial decisions.",
+      "Retail investor interest in IPOs like SpaceX highlights opportunities but also potential price distortions to monitor."
     ],
     "g2": [
-      "AI's rally and its growing role in hybrid workforces are central to future tech adoption.",
-      "Massive funding in European spacetech firms like Isar and Iceye signifies a booming sector.",
-      "Starlink leading in-flight Wi-Fi highlights rising demand for advanced connectivity solutions.",
-      "Understanding the five key aspects of AI is crucial for future-proofing skills and services.",
-      "Trends like retro computing interfaces could open niche design and development opportunities."
+      "AI continues rapid integration, from specialized chips to World Cup analytics, indicating a need for AI-literacy.",
+      "Learning AI applications beyond typical large models, perhaps in sports analytics or simulation, adds unique value.",
+      "Understanding how major tech companies manage software end-of-life (e.g., Office 2019) is crucial for IT skills.",
+      "Skills in data privacy and surveillance technology (e.g., license plate readers) are increasingly relevant and marketable.",
+      "Explore video game industry shifts as a potential growth area, given its connection to AI and immersive tech capabilities."
     ],
     "g3": [
-      "Portugal's high-speed train project may create localized service and support needs.",
-      "The European B2B tech market is active, as seen with CyberCube's new Austrian client.",
-      "Solopreneurs in Portugal must adapt to global economic volatility and local market changes.",
-      "Access to cheaper weight-loss drugs signals a growing health and wellness market trend.",
-      "Focusing on value creation, as BASF is doing, is vital for solopreneurs in competitive markets."
+      "Portugal's connection to World Cup 2030 suggests future opportunities in tourism, infrastructure, and related services.",
+      "Local events like 'Santos Populares' highlight cultural tourism potential for unique experience and service offerings.",
+      "The ongoing lifeguard shortage points to potential for local service businesses in safety training or staffing solutions.",
+      "Understanding EU immigration policy shifts (Pacto Europeu) can inform services for new residents and integration.",
+      "The issue of illegal online gambling indicates a niche for secure, regulated digital service solutions in Portugal."
     ]
   },
-  "learning_task": "Spend 30 minutes researching free AI tools for competitive analysis and market trend identification to inform your business strategy and accelerate your €35k goal.",
-  "biz_opportunity": "Provide AI-driven market intelligence for European spacetech startups, capitalizing on current high investment and rapid growth trends across the continent.",
-  "built_at": "2026-06-09T10:36:25.795260+00:00"
+  "learning_task": "Dedicate 30 minutes to research the implications of the upcoming CPI report on market sentiment and explore one new AI tool relevant to data analysis for local market trends, informing your €35k strategy.",
+  "biz_opportunity": "Develop an AI-powered local event management and safety platform targeting Portuguese tourism businesses and municipalities, capitalizing on World Cup 2030 anticipation and the current lifeguard shortage.",
+  "built_at": "2026-06-10T10:58:27.712636+00:00"
 }

@@ -1,28 +1,28 @@
 {
-  "global_theme": "Global markets exhibit caution amid AI stock volatility and rising geopolitical tensions, while Europe grapples with immigration and prepares for future World Cups, offering mixed signals for solopreneur wealth building.",
-  "market_mood": "Cautious Optimism / Volatile",
-  "risk_signal": "Geopolitical Instability, Market Volatility, Inflationary Pressures",
-  "opportunity_signal": "AI Sector Growth, Renewable Energy, Public Offerings",
+  "global_theme": "The global landscape is characterized by an aggressive expansion in AI infrastructure and applications, set against a backdrop of escalating geopolitical tensions and a mixed, yet opportunity-rich, financial market, influencing wealth strategies in Europe.",
+  "market_mood": "Mixed with caution",
+  "risk_signal": "Escalating US-Iran conflict and potential market downturns.",
+  "opportunity_signal": "Massive investment in AI infrastructure and tech expansion.",
   "finance_sentiment": [
     {
       "i": 1,
-      "s": "-"
-    },
-    {
-      "i": 2,
       "s": "+"
     },
     {
+      "i": 2,
+      "s": "-"
+    },
+    {
       "i": 3,
-      "s": "="
+      "s": "+"
     },
     {
       "i": 4,
-      "s": "="
+      "s": "-"
     },
     {
       "i": 5,
-      "s": "-"
+      "s": "="
     },
     {
       "i": 6,
@@ -38,15 +38,15 @@
     },
     {
       "i": 9,
-      "s": "+"
-    },
-    {
-      "i": 10,
       "s": "="
     },
     {
+      "i": 10,
+      "s": "-"
+    },
+    {
       "i": 11,
-      "s": "+"
+      "s": "-"
     },
     {
       "i": 12,
@@ -58,7 +58,7 @@
     },
     {
       "i": 14,
-      "s": "-"
+      "s": "+"
     },
     {
       "i": 15,
@@ -67,28 +67,28 @@
   ],
   "insights": {
     "g1": [
-      "Market volatility, especially in tech and AI, demands cautious but informed investing strategies for wealth growth.",
-      "Rising government bond sales suggest fiscal pressures and potential inflation impact on purchasing power.",
-      "Consider diversification beyond volatile tech, exploring stable sectors like fast-casual dining for consistent returns.",
-      "Upcoming CPI report could significantly shift market sentiment, influencing short-term financial decisions.",
-      "Retail investor interest in IPOs like SpaceX highlights opportunities but also potential price distortions to monitor."
+      "Global AI infrastructure investments like KKR's Helix offer vast backend service opportunities.",
+      "Geopolitical instability (US-Iran strikes) demands robust risk assessment for international ventures.",
+      "Understanding market sentiment (bear market odds) is vital for strategic capital allocation.",
+      "The shifting 'AI trade' prevents simple market highs, requiring nuanced investment strategies.",
+      "Major real estate developments (Dubai) hint at broader economic confidence and related service demands."
     ],
     "g2": [
-      "AI continues rapid integration, from specialized chips to World Cup analytics, indicating a need for AI-literacy.",
-      "Learning AI applications beyond typical large models, perhaps in sports analytics or simulation, adds unique value.",
-      "Understanding how major tech companies manage software end-of-life (e.g., Office 2019) is crucial for IT skills.",
-      "Skills in data privacy and surveillance technology (e.g., license plate readers) are increasingly relevant and marketable.",
-      "Explore video game industry shifts as a potential growth area, given its connection to AI and immersive tech capabilities."
+      "Google DeepMind's concerns about AI agent interaction highlight future demand for AI ethics and integration.",
+      "KKR's $10 billion AI infrastructure fund signals immense opportunities for specialized tech services.",
+      "OpenAI's potential price cuts mean leveraging advanced AI tools could become more accessible and cost-effective.",
+      "Portable monitors and e-bikes reflect a trend towards enhanced mobile productivity and sustainable transport.",
+      "Developing skills in AI-driven workflow automation or data analysis can significantly accelerate capabilities."
     ],
     "g3": [
-      "Portugal's connection to World Cup 2030 suggests future opportunities in tourism, infrastructure, and related services.",
-      "Local events like 'Santos Populares' highlight cultural tourism potential for unique experience and service offerings.",
-      "The ongoing lifeguard shortage points to potential for local service businesses in safety training or staffing solutions.",
-      "Understanding EU immigration policy shifts (Pacto Europeu) can inform services for new residents and integration.",
-      "The issue of illegal online gambling indicates a niche for secure, regulated digital service solutions in Portugal."
+      "Portugal's digital shift, particularly in online betting, creates demand for digital marketing and analytics expertise.",
+      "Foreign acquisitions of Portuguese firms (Sonepar) indicate a maturing market and potential for B2B service gaps.",
+      "Public tenders for local services (Azores air links) could offer stable contracting opportunities.",
+      "Monitor global AI giants' presence in Europe, as their strategies (OpenAI pricing) will impact local adoption.",
+      "Leverage Portugal's tourism sector by offering niche digital services to hotels or local attractions."
     ]
   },
-  "learning_task": "Dedicate 30 minutes to research the implications of the upcoming CPI report on market sentiment and explore one new AI tool relevant to data analysis for local market trends, informing your €35k strategy.",
-  "biz_opportunity": "Develop an AI-powered local event management and safety platform targeting Portuguese tourism businesses and municipalities, capitalizing on World Cup 2030 anticipation and the current lifeguard shortage.",
-  "built_at": "2026-06-10T10:58:27.712636+00:00"
+  "learning_task": "Spend 30 minutes researching Portugal's Digital Nomad visa requirements and local co-working spaces to identify logistical needs for a solopreneur aiming for €35k by 2032.",
+  "biz_opportunity": "Offer specialized AI-powered content creation and social media management services to Portuguese small businesses targeting digital growth, capitalizing on local digital shifts and global AI advancements.",
+  "built_at": "2026-06-11T11:24:42.450513+00:00"
 }

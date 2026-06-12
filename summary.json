@@ -1,32 +1,32 @@
 {
-  "global_theme": "The global landscape is characterized by an aggressive expansion in AI infrastructure and applications, set against a backdrop of escalating geopolitical tensions and a mixed, yet opportunity-rich, financial market, influencing wealth strategies in Europe.",
-  "market_mood": "Mixed with caution",
-  "risk_signal": "Escalating US-Iran conflict and potential market downturns.",
-  "opportunity_signal": "Massive investment in AI infrastructure and tech expansion.",
+  "global_theme": "A buoyant market mood driven by tech IPOs and geopolitical peace hopes contrasts with underlying economic contractions and rising interest rates, especially impacting Europe and individual financial decisions.",
+  "market_mood": "Cautiously Optimistic",
+  "risk_signal": "Economic Contraction, Rising Euribor",
+  "opportunity_signal": "Tech IPOs, Geopolitical De-escalation",
   "finance_sentiment": [
     {
       "i": 1,
-      "s": "+"
-    },
-    {
-      "i": 2,
-      "s": "-"
-    },
-    {
-      "i": 3,
-      "s": "+"
-    },
-    {
-      "i": 4,
-      "s": "-"
-    },
-    {
-      "i": 5,
       "s": "="
     },
     {
+      "i": 2,
+      "s": "="
+    },
+    {
+      "i": 3,
+      "s": "="
+    },
+    {
+      "i": 4,
+      "s": "+"
+    },
+    {
+      "i": 5,
+      "s": "+"
+    },
+    {
       "i": 6,
-      "s": "-"
+      "s": "+"
     },
     {
       "i": 7,
@@ -34,19 +34,19 @@
     },
     {
       "i": 8,
-      "s": "="
+      "s": "-"
     },
     {
       "i": 9,
-      "s": "="
+      "s": "-"
     },
     {
       "i": 10,
-      "s": "-"
+      "s": "+"
     },
     {
       "i": 11,
-      "s": "-"
+      "s": "+"
     },
     {
       "i": 12,
@@ -58,7 +58,7 @@
     },
     {
       "i": 14,
-      "s": "+"
+      "s": "="
     },
     {
       "i": 15,
@@ -67,28 +67,28 @@
   ],
   "insights": {
     "g1": [
-      "Global AI infrastructure investments like KKR's Helix offer vast backend service opportunities.",
-      "Geopolitical instability (US-Iran strikes) demands robust risk assessment for international ventures.",
-      "Understanding market sentiment (bear market odds) is vital for strategic capital allocation.",
-      "The shifting 'AI trade' prevents simple market highs, requiring nuanced investment strategies.",
-      "Major real estate developments (Dubai) hint at broader economic confidence and related service demands."
+      "SpaceX's record IPO highlights significant capital creation and market excitement in advanced tech.",
+      "Geopolitical stability directly influences European stock market recovery and investor confidence.",
+      "The UK economy contraction signals potential broader European slowdowns amidst energy pressures.",
+      "Rising Euribor rates increase borrowing costs, impacting business loans and personal finances.",
+      "Inexperienced investors need clear guidance for managing inherited capital effectively."
     ],
     "g2": [
-      "Google DeepMind's concerns about AI agent interaction highlight future demand for AI ethics and integration.",
-      "KKR's $10 billion AI infrastructure fund signals immense opportunities for specialized tech services.",
-      "OpenAI's potential price cuts mean leveraging advanced AI tools could become more accessible and cost-effective.",
-      "Portable monitors and e-bikes reflect a trend towards enhanced mobile productivity and sustainable transport.",
-      "Developing skills in AI-driven workflow automation or data analysis can significantly accelerate capabilities."
+      "AI's role in cybersecurity is growing, exemplified by Google's actions against cybercrime groups.",
+      "Discussions around 'European doomerism' in tech underscore challenges but also innovation potential.",
+      "The 'Future of Email' debate suggests opportunities for reinventing essential digital communication tools.",
+      "Advancements in 'reprogramming' for anti-aging signal emerging deep tech and biotech sectors.",
+      "The SpaceX IPO tests ownership models for high-valuation, founder-led tech companies."
     ],
     "g3": [
-      "Portugal's digital shift, particularly in online betting, creates demand for digital marketing and analytics expertise.",
-      "Foreign acquisitions of Portuguese firms (Sonepar) indicate a maturing market and potential for B2B service gaps.",
-      "Public tenders for local services (Azores air links) could offer stable contracting opportunities.",
-      "Monitor global AI giants' presence in Europe, as their strategies (OpenAI pricing) will impact local adoption.",
-      "Leverage Portugal's tourism sector by offering niche digital services to hotels or local attractions."
+      "Portugal's electric vehicle incentives indicate a growing local market for green tech services.",
+      "Rising fuel prices in Portugal directly impact operational costs for local businesses and solopreneurs.",
+      "The debate over a single social benefit could affect social support and employment policies in Portugal.",
+      "Portugal's Golden Visa program continues to attract foreign investment and residency interest.",
+      "The appointment of a new Tax Authority director suggests potential shifts in fiscal enforcement."
     ]
   },
-  "learning_task": "Spend 30 minutes researching Portugal's Digital Nomad visa requirements and local co-working spaces to identify logistical needs for a solopreneur aiming for €35k by 2032.",
-  "biz_opportunity": "Offer specialized AI-powered content creation and social media management services to Portuguese small businesses targeting digital growth, capitalizing on local digital shifts and global AI advancements.",
-  "built_at": "2026-06-11T11:24:42.450513+00:00"
+  "learning_task": "Spend 30 minutes researching the basics of diversified ETF investing to understand market exposure beyond single stock IPOs.",
+  "biz_opportunity": "Launch an online 'Portugal EV Grant Consulting' service targeting Portuguese individuals and small businesses to navigate government electric vehicle purchase incentives, leveraging the current support programs.",
+  "built_at": "2026-06-12T11:04:04.149237+00:00"
 }

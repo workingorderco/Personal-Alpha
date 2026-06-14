@@ -1,12 +1,12 @@
 {
-  "global_theme": "Global economic anxieties persist with warnings of inflation and potential stock bubbles, while technological shifts in AI and compute costs, alongside geopolitical tensions and regulatory changes, directly impact wealth accumulation and market stability, particularly within the EU.",
-  "market_mood": "Cautiously Optimistic with Underlying Concerns",
-  "risk_signal": "Persistent Inflation & Market Overheating",
-  "opportunity_signal": "AI Efficiency & Digital Asset Recovery",
+  "global_theme": "Geopolitical tensions involving Trump and Iran, alongside significant advancements and investment in AI and crypto, are shaping a dynamic but volatile global economic landscape with EU implications.",
+  "market_mood": "Cautiously optimistic, driven by tech and crypto gains, but tempered by rising geopolitical instability and political chaos.",
+  "risk_signal": "Escalating geopolitical instability and political infighting, coupled with concerns over AI reliability and digital scam vulnerability.",
+  "opportunity_signal": "Surging interest and investment in AI and cryptocurrencies, alongside emerging local development and research niches in Portugal and the EU.",
   "finance_sentiment": [
     {
       "i": 1,
-      "s": "+"
+      "s": "="
     },
     {
       "i": 2,
@@ -18,11 +18,11 @@
     },
     {
       "i": 4,
-      "s": "-"
+      "s": "="
     },
     {
       "i": 5,
-      "s": "-"
+      "s": "+"
     },
     {
       "i": 6,
@@ -30,11 +30,11 @@
     },
     {
       "i": 7,
-      "s": "="
+      "s": "+"
     },
     {
       "i": 8,
-      "s": "-"
+      "s": "="
     },
     {
       "i": 9,
@@ -58,7 +58,7 @@
     },
     {
       "i": 14,
-      "s": "+"
+      "s": "="
     },
     {
       "i": 15,
@@ -67,28 +67,28 @@
   ],
   "insights": {
     "g1": [
-      "ECB warns of persistent high prices, crucial for pricing services and managing personal expenses in a solopreneur model.",
-      "IPO frenzy signals potential stock bubble; exercise caution in personal investments, focus on stable business growth.",
-      "Demand for data centers (and copper) indicates a booming sector for potential service provision or niche tech solutions.",
-      "Lower compute prices (Midha's plan) can reduce operational overhead for cloud-based services, boosting profit margins.",
-      "Digital assets like Bitcoin show recovery, signaling potential for alternative investment or payment rails for future business."
+      "Trump's influence injects significant political volatility into global markets and international relations.",
+      "Geopolitical tensions, like the UK boarding tankers, can rapidly disrupt global supply chains and energy markets.",
+      "AI and crypto are attracting substantial analyst attention and investment, indicating growth sectors.",
+      "Wall Street is preparing for increased global instability using catastrophe models, signaling higher risk awareness.",
+      "Navigating political polarization and misinformation (AI slop) is crucial for business credibility and strategy."
     ],
     "g2": [
-      "Explore how AI agents can protect EV chargers; apply insights to secure digital assets or services for clients.",
-      "Anthropic's foreign national ban highlights geopolitical impact on AI, influencing tool selection and global service delivery.",
-      "Yang's insight points to major startup opportunity in lowering cost of living; explore tech solutions for clients.",
-      "Google's ruling on AI-generated false statements emphasizes content accuracy and responsible AI use in client work.",
-      "Understanding CPU cycles is fundamental for efficient software/service deployment, crucial for optimizing a solopreneur tech stack."
+      "Major tech companies like Ant Group are rapidly integrating AI, intensifying competition and innovation.",
+      "The reliability and safety of large AI models are under scrutiny, highlighting the need for critical evaluation.",
+      "Practical tools like SQL to ER diagram converters improve development efficiency for solopreneurs.",
+      "Awareness of phone scams and tech vulnerabilities (losing £70k) is essential for digital security.",
+      "Phoenix LiveView updates and software architecture guides offer opportunities for skill upgrades and efficient development."
     ],
     "g3": [
-      "Portugal's NATO importance (Arctic degrease) could boost local defense/tech sectors, creating new B2B opportunities.",
-      "New EU migrant rules might impact local labor markets or social service needs, creating niche service opportunities.",
-      "Portuguese support for vulnerable groups indicates potential for social enterprise or community-focused services, tapping local demand.",
-      "Literary tourism support in Portugal suggests niches in content creation, guiding, or unique local experiences for visitors.",
-      "Drilling ban indicates focus on sustainability, aligning with eco-conscious services or products for a growing market in Portugal."
+      "Portugal is actively engaging in local development (new facilities, botanical research) creating niche opportunities.",
+      "EU membership expansion (Ukraine/Moldova) signals long-term shifts in the European economic and political landscape.",
+      "Local regulations (e-bike laws) can impact small businesses, requiring solopreneurs to stay informed.",
+      "Political entities owing money in Portugal (parties owing 1.4M) highlights areas of administrative inefficiency/risk.",
+      "Identifying unique local assets, like new botanical species or river beaches, can support sustainable tourism or research ventures."
     ]
   },
-  "learning_task": "Spend 30 minutes researching open-source AI agent frameworks and cloud cost optimization strategies to reduce operational expenses for future digital services.",
-  "biz_opportunity": "Offer AI-driven cost optimization consulting for small businesses in Portugal, leveraging new compute efficiencies to reduce their operational overhead right now.",
-  "built_at": "2026-06-13T09:57:48.254633+00:00"
+  "learning_task": "Research and implement a browser-based SQL to ER diagram tool for 30 minutes to visualize client database structures, enhancing project planning efficiency.",
+  "biz_opportunity": "Develop AI-powered tools or consulting services for small Portuguese businesses navigating local regulations and leveraging emerging local tourism opportunities, capitalizing on rapid tech adoption and regional development.",
+  "built_at": "2026-06-14T10:27:15.312295+00:00"
 }

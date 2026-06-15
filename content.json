@@ -1,538 +1,538 @@
 {
-  "built_at": "2026-06-14T10:27:15.312295+00:00",
+  "built_at": "2026-06-15T13:19:50.855382+00:00",
   "sections": {
     "Finance": [
       {
-        "title": "After 53 years, the New York Knicks are NBA champions. And the wait sure seemed worth it",
+        "title": "Canada manufacturing sales rise on petroleum surge, food gains",
+        "source": "All News",
+        "published": "2026-06-15 13:16:29",
+        "url": "https://www.investing.com/news/economy-news/canada-manufacturing-sales-rise-on-petroleum-surge-food-gains-93CH-4742277",
+        "is_priority": false
+      },
+      {
+        "title": "Industrial production growth slows, missing forecasts",
+        "source": "All News",
+        "published": "2026-06-15 13:16:08",
+        "url": "https://www.investing.com/news/economic-indicators/industrial-production-growth-slows-missing-forecasts-93CH-4742272",
+        "is_priority": false
+      },
+      {
+        "title": "Rolls-Royce wins Sweden nuclear reactor supply contract",
+        "source": "All News",
+        "published": "2026-06-15 13:16:02",
+        "url": "https://www.investing.com/news/stock-market-news/rollsroyce-wins-sweden-nuclear-reactor-supply-contract-93CH-4742270",
+        "is_priority": false
+      },
+      {
+        "title": "Canada wholesale sales rise on building materials and metals demand",
+        "source": "All News",
+        "published": "2026-06-15 13:16:02",
+        "url": "https://www.investing.com/news/economy-news/canada-wholesale-sales-rise-on-building-materials-and-metals-demand-93CH-4742269",
+        "is_priority": false
+      },
+      {
+        "title": "Standard Chartered to redeem €500m sustainability notes",
+        "source": "All News",
+        "published": "2026-06-15 13:15:12",
+        "url": "https://www.investing.com/news/company-news/standard-chartered-to-redeem-500m-sustainability-notes-93CH-4742268",
+        "is_priority": false
+      },
+      {
+        "title": "UK declares under-16 social media ban to protect children, but experts warn of enforcement challenges",
         "source": "US Top News and Analysis",
-        "published": "Sun, 14 Jun 2026 10:12:51 GMT",
-        "url": "https://www.cnbc.com/2026/06/14/new-york-knicks-nba-champions.html",
+        "published": "Mon, 15 Jun 2026 13:14:58 GMT",
+        "url": "https://www.cnbc.com/2026/06/15/uk-social-media-ban-under-16s.html",
         "is_priority": false
       },
       {
-        "title": "Trump hosts White House cage fights amid war and political scrutiny",
+        "title": "Stifel downgrades Caesars, MGM as takeover upside narrows amid deal uncertainty",
         "source": "All News",
-        "published": "2026-06-14 10:06:29",
-        "url": "https://www.investing.com/news/stock-market-news/trump-hosts-white-house-cage-fights-amid-war-and-political-scrutiny-4741074",
+        "published": "2026-06-15 13:13:46",
+        "url": "https://www.investing.com/news/stock-market-news/stifel-downgrades-caesars-mgm-as-takeover-upside-narrows-amid-deal-uncertainty-4742264",
         "is_priority": false
       },
       {
-        "title": "Street Calls of the Week",
+        "title": "Form 4 Aurora Innovation Inc For: 15 June",
         "source": "All News",
-        "published": "2026-06-14 10:00:02",
-        "url": "https://www.investing.com/news/stock-market-news/street-calls-of-the-week-4739401",
+        "published": "2026-06-15 13:13:37",
+        "url": "https://www.investing.com/news/filings/form-4-aurora-innovation-inc-for-15-june-93CH-4742263",
         "is_priority": false
       },
       {
-        "title": "Trump says peace deal will be signed Sunday after Iran said it remains cautious on timing",
+        "title": "Penumbra secures CE Mark for stroke treatment device in Europe",
+        "source": "All News",
+        "published": "2026-06-15 13:13:24",
+        "url": "https://www.investing.com/news/company-news/penumbra-secures-ce-mark-for-stroke-treatment-device-in-europe-93CH-4742262",
+        "is_priority": false
+      },
+      {
+        "title": "Forward Industries proposes merger with Solana Company, offer declined",
+        "source": "All News",
+        "published": "2026-06-15 13:13:21",
+        "url": "https://www.investing.com/news/company-news/forward-industries-proposes-merger-with-solana-company-offer-declined-93CH-4742261",
+        "is_priority": false
+      },
+      {
+        "title": "PAVS terminates at-the-market offering agreement with broker",
+        "source": "All News",
+        "published": "2026-06-15 13:13:19",
+        "url": "https://www.investing.com/news/company-news/pavs-terminates-atthemarket-offering-agreement-with-broker-93CH-4742260",
+        "is_priority": false
+      },
+      {
+        "title": "Sen. Warren asks Trump if administration plans to raise Social Security retirement age",
         "source": "US Top News and Analysis",
-        "published": "Sun, 14 Jun 2026 09:48:00 GMT",
-        "url": "https://www.cnbc.com/2026/06/13/trump-iran-deal-strait-of-hormuz.html",
+        "published": "Mon, 15 Jun 2026 13:10:35 GMT",
+        "url": "https://www.cnbc.com/2026/06/15/warren-trump-social-security-retirement-age.html",
         "is_priority": false
       },
       {
-        "title": "Ant Group tests AI assistant for Alipay as competition with WeChat intensifies",
-        "source": "All News",
-        "published": "2026-06-14 09:46:24",
-        "url": "https://www.investing.com/news/company-news/ant-group-tests-ai-assistant-for-alipay-as-competition-with-wechat-intensifies-4741073",
-        "is_priority": false
-      },
-      {
-        "title": "UK forces board sanctioned Russian shadow fleet oil tanker",
+        "title": "These rocket stocks sold off on the SpaceX IPO. KeyBanc says it's time to buy the dip",
         "source": "US Top News and Analysis",
-        "published": "Sun, 14 Jun 2026 09:32:40 GMT",
-        "url": "https://www.cnbc.com/2026/06/14/uk-forces-board-sanctioned-russian-shadow-fleet-oil-tanker.html",
+        "published": "Mon, 15 Jun 2026 13:07:15 GMT",
+        "url": "https://www.cnbc.com/2026/06/15/these-rocket-stocks-fell-on-spacex-ipo-keybanc-says-to-buy-the-dip.html",
         "is_priority": false
       },
       {
-        "title": "Celldex reports positive phase 1 data for CDX-622 antibody",
-        "source": "All News",
-        "published": "2026-06-14 09:21:31",
-        "url": "https://www.investing.com/news/company-news/celldex-reports-positive-phase-1-data-for-cdx622-antibody-93CH-4741072",
+        "title": "The Club's top 10 things to watch in the stock market Monday",
+        "source": "US Top News and Analysis",
+        "published": "Mon, 15 Jun 2026 13:07:10 GMT",
+        "url": "https://www.cnbc.com/2026/06/15/jim-cramers-top-10-things-to-watch-in-the-stock-market-monday.html",
         "is_priority": false
       },
       {
-        "title": "Merger Cleared, David Ellison to Join Trump at U.F.C. Bout",
-        "source": "NYT > Business",
-        "published": "Sun, 14 Jun 2026 09:01:45 +0000",
-        "url": "https://www.nytimes.com/2026/06/14/business/media/trump-ufc-david-ellison.html",
-        "is_priority": false
-      },
-      {
-        "title": "The G7 Summit Is Dogged by Chaos and Divided by Trump",
-        "source": "NYT > Business",
-        "published": "Sun, 14 Jun 2026 09:00:58 +0000",
-        "url": "https://www.nytimes.com/2026/06/14/world/europe/g7-summit-evian-trump.html",
-        "is_priority": false
-      },
-      {
-        "title": "How to Run a News Company in the Age of Polarization and A.I. Slop",
-        "source": "NYT > Business",
-        "published": "Sun, 14 Jun 2026 09:00:46 +0000",
-        "url": "https://www.nytimes.com/2026/06/14/business/nbc-news-cesar-conde.html",
-        "is_priority": false
-      },
-      {
-        "title": "Kash Patel Keeps Suing the Press",
-        "source": "NYT > Business",
-        "published": "Sun, 14 Jun 2026 09:00:33 +0000",
-        "url": "https://www.nytimes.com/2026/06/14/business/media/kash-patel-defamation-lawsuits.html",
-        "is_priority": false
-      },
-      {
-        "title": "Medicare Enrollment 101: What You Need to Know",
-        "source": "NYT > Business",
-        "published": "Sun, 14 Jun 2026 09:00:17 +0000",
-        "url": "https://www.nytimes.com/2026/06/14/business/medicare-enrollment.html",
-        "is_priority": false
-      },
-      {
-        "title": "5 big analyst AI moves: Double-upgrade for Intel; SpaceX gets Buy call after IPO",
-        "source": "All News",
-        "published": "2026-06-14 09:00:02",
-        "url": "https://www.investing.com/news/stock-market-news/5-big-analyst-ai-moves-doubleupgrade-for-intel-spacex-gets-buy-call-after-ipo-4741047",
-        "is_priority": false
-      },
-      {
-        "title": "Wall Street Is Gaining Access to New Catastrophe Models to Help Predict Wars",
-        "source": "Bloomberg Markets",
-        "published": "Sun, 14 Jun 2026 09:00:00 GMT",
-        "url": "https://www.bloomberg.com/news/articles/2026-06-14/wall-street-gets-access-to-new-catastrophe-models-to-predict-wars",
-        "is_priority": false
-      },
-      {
-        "title": "Bitcoin tops $64,000 as ETF inflows rebound, SpaceX boosts crypto sentiment",
-        "source": "All News",
-        "published": "2026-06-14 08:55:02",
-        "url": "https://www.investing.com/news/cryptocurrency-news/bitcoin-advances-as-spacexs-13-billion-crypto-reserve-draws-attention-4741070",
+        "title": "SpaceX gains 6% in premarket after record debut. Here's what's driving the valuation debate",
+        "source": "US Top News and Analysis",
+        "published": "Mon, 15 Jun 2026 13:07:09 GMT",
+        "url": "https://www.cnbc.com/2026/06/15/spacex-stock-record-ipo-debut.html",
         "is_priority": false
       }
     ],
     "World News": [
       {
-        "title": "Iran War Live Updates: U.S. and Tehran Send Mixed Signals on Emerging Peace Agreement",
+        "title": "World Cup 2026: Fifa urged to remove official over hand gesture; teams hit back at Ceferin; Iran arrive in US – live",
+        "source": "The Guardian",
+        "published": "Mon, 15 Jun 2026 13:18:37 GMT",
+        "url": "https://www.theguardian.com/football/live/2026/jun/15/world-cup-2026-news-iran-arrive-in-us-amid-protests-spain-belgium-egypt-enter-tournament-live",
+        "is_priority": false
+      },
+      {
+        "title": "Middle East crisis live: US and Iran say peace deal reached but Israel rules out withdrawing from Lebanon",
+        "source": "The Guardian",
+        "published": "Mon, 15 Jun 2026 13:18:00 GMT",
+        "url": "https://www.theguardian.com/world/live/2026/jun/15/iran-us-peace-deal-live-updates-trump-israel-lebanon-hormuz-nuclear-program-europe-response",
+        "is_priority": false
+      },
+      {
+        "title": "Iran War Live Updates: U.S.-Iran Framework Brings Relief, but Challenges Loom",
         "source": "NYT > World News",
-        "published": "Sun, 14 Jun 2026 10:25:22 +0000",
-        "url": "https://www.nytimes.com/live/2026/06/14/world/iran-war-trump-us",
+        "published": "Mon, 15 Jun 2026 13:17:38 +0000",
+        "url": "https://www.nytimes.com/live/2026/06/15/world/iran-war-trump-us-deal",
         "is_priority": false
       },
       {
-        "title": "Here’s the latest.",
+        "title": "European stock markets hit record high and oil price falls to three-month low after US-Iran peace deal – business live",
+        "source": "The Guardian",
+        "published": "Mon, 15 Jun 2026 13:16:36 GMT",
+        "url": "https://www.theguardian.com/business/live/2026/jun/15/oil-price-low-stock-markets-rally-us-iran-peace-deal-ftse-wall-street-live-news-updates",
+        "is_priority": false
+      },
+      {
+        "title": "Return to pre-crisis oil and gas supplies months away even if strait of Hormuz reopens",
+        "source": "The Guardian",
+        "published": "Mon, 15 Jun 2026 13:13:45 GMT",
+        "url": "https://www.theguardian.com/business/2026/jun/15/return-pre-crisis-oil-gas-supplies-months-away-iran-strait-of-hormuz",
+        "is_priority": false
+      },
+      {
+        "title": "U.S.-Iran Agreement Leaves Lebanon’s Fate Murky",
         "source": "NYT > World News",
-        "published": "Sun, 14 Jun 2026 10:23:38 +0000",
-        "url": "https://www.nytimes.com/live/2026/06/14/world/iran-war-trump-us/heres-the-latest",
+        "published": "Mon, 15 Jun 2026 13:13:34 +0000",
+        "url": "https://www.nytimes.com/2026/06/15/world/middleeast/us-iran-agreement-leaves-lebanons-fate-murky.html",
         "is_priority": false
       },
       {
-        "title": "World Cup 2026: Scotland react to first victory in 36 years as Australia beat Turkey – live",
-        "source": "The Guardian",
-        "published": "Sun, 14 Jun 2026 10:23:06 GMT",
-        "url": "https://www.theguardian.com/football/live/2026/jun/14/world-cup-2026-news-scotland-react-to-first-world-cup-victory-in-36-years-as-australia-beat-turkey",
-        "is_priority": false
-      },
-      {
-        "title": "Zelenskyy thanks UK for intercepting Russian shadow fleet oil tanker after armed forces board vessel in English Channel - UK politics live",
-        "source": "World news | The Guardian",
-        "published": "Sun, 14 Jun 2026 10:11:44 GMT",
-        "url": "https://www.theguardian.com/politics/live/2026/jun/14/russian-shadow-fleet-oil-tanker-channel-army-marines-keir-starmer-dan-jarvis-makerfield-labour-uk-politics-latest-news-updates",
-        "is_priority": false
-      },
-      {
-        "title": "Middle East crisis live: Trump says Iran deal will be signed today but sources tell media Tehran ‘not yet’ taken final decision",
-        "source": "World news | The Guardian",
-        "published": "Sun, 14 Jun 2026 10:04:15 GMT",
-        "url": "https://www.theguardian.com/world/live/2026/jun/14/iran-us-middle-east-crisis-donald-trump-peace-deal-strait-hormuz-open-pakistan-latest-news-updates",
-        "is_priority": false
-      },
-      {
-        "title": "London startup to trial drug to prevent cancer therapy side-effect ‘cytokine storm’",
-        "source": "World news | The Guardian",
-        "published": "Sun, 14 Jun 2026 10:00:41 GMT",
-        "url": "https://www.theguardian.com/business/2026/jun/14/london-trial-drug-prevent-cancer-cytokine-storm-poolbeg-pharma",
-        "is_priority": false
-      },
-      {
-        "title": "‘It’s going to be extremely hot’: workers imperiled as sweltering World Cup temperatures are forecast",
-        "source": "The Guardian",
-        "published": "Sun, 14 Jun 2026 10:00:41 GMT",
-        "url": "https://www.theguardian.com/us-news/2026/jun/14/world-cup-heat-workers",
-        "is_priority": false
-      },
-      {
-        "title": "This is how we do it: ‘We act out our fantasies with costumes, music and props’",
-        "source": "The Guardian",
-        "published": "Sun, 14 Jun 2026 10:00:40 GMT",
-        "url": "https://www.theguardian.com/lifeandstyle/2026/jun/14/this-is-how-we-do-it-we-act-out-fantasies-with-costumes-music-and-props",
-        "is_priority": false
-      },
-      {
-        "title": "Amoc collapse could change Europe’s climate 10x faster than expected. We aren’t ready",
-        "source": "The Guardian",
-        "published": "Sun, 14 Jun 2026 10:00:40 GMT",
-        "url": "https://www.theguardian.com/commentisfree/2026/jun/14/amoc-collapse-europe-climate",
-        "is_priority": false
-      },
-      {
-        "title": "UK Forces Seize Russian Shadow Fleet Oil Tanker",
+        "title": "Israel Counts the Ways That Netanyahu’s Iran Strategy Failed",
         "source": "NYT > World News",
-        "published": "Sun, 14 Jun 2026 09:57:39 +0000",
-        "url": "https://www.nytimes.com/2026/06/14/world/europe/uk-russia-shadow-fleet-oil-tanker-channel.html",
+        "published": "Mon, 15 Jun 2026 13:11:28 +0000",
+        "url": "https://www.nytimes.com/2026/06/15/world/middleeast/israel-counts-the-ways-that-netanyahus-iran-strategy-failed.html",
         "is_priority": false
       },
       {
-        "title": "Ukraine and Moldova to enter first phase of EU membership negotiations",
+        "title": "McCullum concerned for Stokes’ wellbeing after captain dropped over England curfew breach",
+        "source": "The Guardian",
+        "published": "Mon, 15 Jun 2026 13:10:51 GMT",
+        "url": "https://www.theguardian.com/sport/2026/jun/15/mccullum-concerned-for-stokes-wellbeing-after-captain-dropped-over-england-curfew-breach",
+        "is_priority": false
+      },
+      {
+        "title": "'Spider-Man of Yemen' dies falling into volcanic crater",
+        "source": "BBC News",
+        "published": "Mon, 15 Jun 2026 13:07:18 GMT",
+        "url": "https://www.bbc.com/news/articles/c39yvz9w8k3o?at_medium=RSS&at_campaign=rss",
+        "is_priority": false
+      },
+      {
+        "title": "Deal to Reopen Hormuz Kicks Off Long Effort to Ease Energy Crisis",
+        "source": "NYT > World News",
+        "published": "Mon, 15 Jun 2026 13:03:50 +0000",
+        "url": "https://www.nytimes.com/2026/06/15/business/energy-environment/iran-deal-oil-natural-gas.html",
+        "is_priority": false
+      },
+      {
+        "title": "Anish Kapoor review – this gutsy, gore-splattered show is a divine bloodbath",
+        "source": "The Guardian",
+        "published": "Mon, 15 Jun 2026 13:01:20 GMT",
+        "url": "https://www.theguardian.com/artanddesign/2026/jun/15/anish-kapoor-review-hayward-gallery",
+        "is_priority": false
+      },
+      {
+        "title": "Zelenskyy says Russia ‘deliberately’ targeted Unesco site, as 11 people confirmed dead – Europe live",
         "source": "World news | The Guardian",
-        "published": "Sun, 14 Jun 2026 09:33:32 GMT",
-        "url": "https://www.theguardian.com/world/2026/jun/14/ukraine-and-moldova-start-first-phase-of-eu-membership-negotiations",
+        "published": "Mon, 15 Jun 2026 13:01:04 GMT",
+        "url": "https://www.theguardian.com/world/live/2026/jun/15/eu-g7-ukraine-kyiv-russia-war-iran-zelenskyy-macron-trump-europe-latest-news-updates",
         "is_priority": false
       },
       {
-        "title": "Romanian president picks Liberal former mayor as PM to form new government",
-        "source": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
-        "published": "Sun, 14 Jun 2026 09:31:30 +0000",
-        "url": "https://www.aljazeera.com/news/2026/6/14/romanian-president-picks-liberal-former-mayor-as-pm-to-form-new-government?traffic_source=rss",
-        "is_priority": false
-      },
-      {
-        "title": "Cabinet ministers asked to look for cuts to fund UK defence spending increase",
+        "title": "Critics say Trump’s opening of public lands to off-road vehicles is ‘reckless and nonsensical’",
         "source": "World news | The Guardian",
-        "published": "Sun, 14 Jun 2026 09:18:46 GMT",
-        "url": "https://www.theguardian.com/politics/2026/jun/14/cabinet-ministers-asked-to-look-for-cuts-to-fund-uk-defence-spending-increase",
+        "published": "Mon, 15 Jun 2026 13:00:26 GMT",
+        "url": "https://www.theguardian.com/us-news/2026/jun/15/trump-public-lands-wildlife-off-roading",
         "is_priority": false
       },
       {
-        "title": "Iranian media says Tehran is yet to make a final decision on US peace deal",
-        "source": "News | Euronews RSS",
-        "published": "Sun, 14 Jun 2026 11:18:45 +0200",
-        "url": "http://www.euronews.com/2026/06/14/iranian-media-says-tehran-is-yet-to-make-a-final-decision-on-us-peace-deal",
+        "title": "‘It’s more exciting than ketchup!’ How chilli crisp became the hottest condiment – and how to make your own",
+        "source": "The Guardian",
+        "published": "Mon, 15 Jun 2026 13:00:25 GMT",
+        "url": "https://www.theguardian.com/food/2026/jun/15/chilli-crisp-hottest-condiment-how-to-make",
         "is_priority": false
       },
       {
-        "title": "Will the US-Iran deal be signed on Sunday? What we know so far",
-        "source": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
-        "published": "Sun, 14 Jun 2026 09:18:22 +0000",
-        "url": "https://www.aljazeera.com/news/2026/6/14/will-the-us-iran-deal-be-signed-on-sunday-what-we-know-so-far?traffic_source=rss",
+        "title": "Oil prices hit three-month low and markets rally amid Iran deal breakthrough",
+        "source": "World news | The Guardian",
+        "published": "Mon, 15 Jun 2026 12:55:45 GMT",
+        "url": "https://www.theguardian.com/business/2026/jun/15/oil-prices-fall-strait-of-hormuz-reopening-hopes-iran-us-peace-deal",
         "is_priority": false
       }
     ],
     "Tech": [
       {
-        "title": "The Strait of Hormuz Has Been Closed for 100 Days. Why Aren’t Oil Prices Higher?",
-        "source": "WIRED",
-        "published": "Sun, 14 Jun 2026 10:00:00 +0000",
-        "url": "https://www.wired.com/story/strait-of-hormuz-closed-100-days-why-arent-oil-prices-higher/",
+        "title": "Google Earth’s flight simulator is now available in your browser",
+        "source": "The Verge",
+        "published": "2026-06-15T09:13:23-04:00",
+        "url": "https://www.theverge.com/tech/949749/google-earth-flight-simulator-browser-experimental",
         "is_priority": false
       },
       {
-        "title": "Laduora Duo 4-in-1 Red Light Therapy Scalp and Hair Care Device Review: Custom Goals",
-        "source": "WIRED",
-        "published": "Sun, 14 Jun 2026 09:35:00 +0000",
-        "url": "https://www.wired.com/review/laduora-duo-4-in-1-pod-based-scalp-and-hair-care-device/",
-        "is_priority": false
-      },
-      {
-        "title": "Merger Cleared, David Ellison to Join Trump at U.F.C. Bout",
-        "source": "NYT > Technology",
-        "published": "Sun, 14 Jun 2026 09:01:45 +0000",
-        "url": "https://www.nytimes.com/2026/06/14/business/media/trump-ufc-david-ellison.html",
-        "is_priority": false
-      },
-      {
-        "title": "7 Best Coffee Makers (2026): Ratio, Fellow, Moccamaster",
-        "source": "WIRED",
-        "published": "Sun, 14 Jun 2026 09:01:00 +0000",
-        "url": "https://www.wired.com/gallery/best-coffee-makers/",
-        "is_priority": false
-      },
-      {
-        "title": "Škoda’s New EV Will Likely Be Its Most Expensive Yet",
-        "source": "WIRED",
-        "published": "Sun, 14 Jun 2026 09:00:00 +0000",
-        "url": "https://www.wired.com/story/skoda-peaq-will-likely-be-its-most-expensive-ev-yet/",
-        "is_priority": false
-      },
-      {
-        "title": "X accused of giving racists ‘impunity’ after refusing to bar N- and P-word posts",
-        "source": "Technology | The Guardian",
-        "published": "Sun, 14 Jun 2026 07:00:36 GMT",
-        "url": "https://www.theguardian.com/technology/2026/jun/14/x-racists-impunity-hate-posts",
-        "is_priority": false
-      },
-      {
-        "title": "Don't trust large context windows",
-        "source": "Hacker News: Front Page",
-        "published": "Sun, 14 Jun 2026 06:07:09 +0000",
-        "url": "https://garrit.xyz/posts/2026-05-06-dont-trust-large-context-windows",
-        "is_priority": false
-      },
-      {
-        "title": "‘I should know better’: tech expert lost £70,000 in one simple phone call",
-        "source": "Technology | The Guardian",
-        "published": "Sun, 14 Jun 2026 06:00:36 GMT",
-        "url": "https://www.theguardian.com/money/2026/jun/14/i-should-know-better-tech-expert-lost-70000-in-one-simple-phone-call",
-        "is_priority": false
-      },
-      {
-        "title": "Tribblix: The retro Illumos distribution",
-        "source": "Hacker News: Front Page",
-        "published": "Sun, 14 Jun 2026 05:23:12 +0000",
-        "url": "http://tribblix.org/",
-        "is_priority": false
-      },
-      {
-        "title": "Phoenix LiveView 1.2",
-        "source": "Hacker News: Front Page",
-        "published": "Sun, 14 Jun 2026 04:53:51 +0000",
-        "url": "https://phoenixframework.org/blog/phoenix-liveview-1-2-released",
-        "is_priority": false
-      },
-      {
-        "title": "Pac-Man, but you're the ghost",
-        "source": "Hacker News: Front Page",
-        "published": "Sun, 14 Jun 2026 04:18:45 +0000",
-        "url": "https://garrit.xyz/posts/2026-06-13-pac-man-but-you-re-the-ghost",
-        "is_priority": false
-      },
-      {
-        "title": "Software Architecture Guide (2019)",
-        "source": "Hacker News: Front Page",
-        "published": "Sun, 14 Jun 2026 04:07:37 +0000",
-        "url": "https://martinfowler.com/architecture/",
-        "is_priority": false
-      },
-      {
-        "title": "Free SQL→ER diagram tool, runs in the browser, nothing uploaded",
-        "source": "Hacker News: Front Page",
-        "published": "Sun, 14 Jun 2026 03:43:30 +0000",
-        "url": "https://sqltoerdiagram.com/",
-        "is_priority": false
-      },
-      {
-        "title": "As Anthropic suspends access to new models, India debates its AI future",
+        "title": "As AI agents become employees, NewCore emerges with $66M to give them identities",
         "source": "TechCrunch",
-        "published": "Sun, 14 Jun 2026 03:00:00 +0000",
-        "url": "https://techcrunch.com/2026/06/13/as-anthropic-suspends-access-to-new-models-india-debates-its-ai-future/",
+        "published": "Mon, 15 Jun 2026 13:00:00 +0000",
+        "url": "https://techcrunch.com/2026/06/15/ai-agents-are-becoming-employees-newcore-emerges-with-66m-to-give-them-identities/",
         "is_priority": false
       },
       {
-        "title": "Making Claude a Chemist",
+        "title": "Fox to Buy Roku Streaming Service in $22B Deal",
         "source": "Hacker News: Front Page",
-        "published": "Sun, 14 Jun 2026 02:55:36 +0000",
-        "url": "https://www.anthropic.com/research/making-claude-a-chemist",
+        "published": "Mon, 15 Jun 2026 12:50:03 +0000",
+        "url": "https://www.wsj.com/business/deals/fox-roku-deal-f6e564f9",
+        "is_priority": false
+      },
+      {
+        "title": "The Download: cutting AC emissions, and nature’s drug designer",
+        "source": "MIT Technology Review",
+        "published": "Mon, 15 Jun 2026 12:10:00 +0000",
+        "url": "https://www.technologyreview.com/2026/06/15/1138948/the-download-solid-state-air-conditioning-animal-drugs/",
+        "is_priority": false
+      },
+      {
+        "title": "Salesforce to Acquire Fin (formerly Intercom) for $3.6BN",
+        "source": "Hacker News: Front Page",
+        "published": "Mon, 15 Jun 2026 12:08:59 +0000",
+        "url": "https://www.salesforce.com/news/press-releases/2026/06/15/salesforce-signs-definitive-agreement-to-acquire-fin/?bc=HL",
+        "is_priority": false
+      },
+      {
+        "title": "A satellite just learned to find things on its own — here’s what that means",
+        "source": "TechCrunch",
+        "published": "Mon, 15 Jun 2026 12:00:00 +0000",
+        "url": "https://techcrunch.com/2026/06/15/a-satellite-just-learned-to-find-things-on-its-own-heres-what-that-means/",
+        "is_priority": false
+      },
+      {
+        "title": "Fox is buying Roku",
+        "source": "The Verge",
+        "published": "2026-06-15T07:44:08-04:00",
+        "url": "https://www.theverge.com/business/949727/fox-roku-acquisition-22-billion",
+        "is_priority": false
+      },
+      {
+        "title": "All the gear a 20-year gadget blogging veteran packs when traveling",
+        "source": "The Verge",
+        "published": "2026-06-15T07:30:00-04:00",
+        "url": "https://www.theverge.com/gadgets/947310/gadget-veteran-travel-gear",
+        "is_priority": false
+      },
+      {
+        "title": "What to Know About Planned Social Media Bans in Australia, the U.K. and Beyond",
+        "source": "NYT > Technology",
+        "published": "Mon, 15 Jun 2026 11:19:17 +0000",
+        "url": "https://www.nytimes.com/2026/06/15/world/europe/social-media-bans-worldwide.html",
+        "is_priority": false
+      },
+      {
+        "title": "Social media firms hit back as Starmer announces ban for under-16s in UK",
+        "source": "Technology | The Guardian",
+        "published": "Mon, 15 Jun 2026 11:02:51 GMT",
+        "url": "https://www.theguardian.com/media/2026/jun/15/social-media-ban-uk-under-16-starmer",
+        "is_priority": false
+      },
+      {
+        "title": "Mr Monopoly vs Mr Burns: The Simpsons take over Monopoly Go",
+        "source": "Technology | The Guardian",
+        "published": "Mon, 15 Jun 2026 11:00:23 GMT",
+        "url": "https://www.theguardian.com/games/2026/jun/15/mr-monopoly-vs-mr-burns-the-simpsons-take-over-monopoly-go",
+        "is_priority": false
+      },
+      {
+        "title": "Honor’s Magic V6 sets three foldable firsts",
+        "source": "The Verge",
+        "published": "2026-06-15T07:00:00-04:00",
+        "url": "https://www.theverge.com/tech/948919/honor-magic-v6-foldable-review",
+        "is_priority": false
+      },
+      {
+        "title": "The Kratom Civil War Is Heating Up, and MAHA Has Picked a Side",
+        "source": "WIRED",
+        "published": "Mon, 15 Jun 2026 11:00:00 +0000",
+        "url": "https://www.wired.com/story/the-kratom-civil-war-is-heating-up-and-maha-has-picked-a-side/",
+        "is_priority": false
+      },
+      {
+        "title": "Inside Ineffable Intelligence: the team behind David Silver's $5.1bn superintelligence push",
+        "source": "Sifted",
+        "published": "Mon, 15 Jun 2026 10:40:40 GMT",
+        "url": "https://sifted.eu/articles/ineffable-intelligence-team/",
+        "is_priority": false
+      },
+      {
+        "title": "Britain Announces Social Media Ban for Children",
+        "source": "NYT > Technology",
+        "published": "Mon, 15 Jun 2026 10:33:23 +0000",
+        "url": "https://www.nytimes.com/2026/06/15/world/europe/uk-social-media-children.html",
         "is_priority": false
       }
     ],
     "Automotive/Motorcycle": [
       {
-        "title": "Want To Fly To Japan In Two Hours? This Jet Could One Day Make That A Reality",
-        "source": "Jalopnik - Obsessed with the culture of cars",
-        "published": "Sun, 14 Jun 2026 10:05:00 +0000",
-        "url": "https://www.jalopnik.com/2190279/hypersonic-jet-flight-two-hours-usa-japan-one-day/",
-        "is_priority": false
-      },
-      {
-        "title": "Pollen Isn't Just Bad For Your Allergies, It Can Wreak Havoc On Your Car Too",
-        "source": "Jalopnik - Obsessed with the culture of cars",
-        "published": "Sun, 14 Jun 2026 09:25:00 +0000",
-        "url": "https://www.jalopnik.com/2190272/pollen-wreak-havoc-on-car-damage/",
-        "is_priority": false
-      },
-      {
-        "title": "Two hidden factors that could decide the F1 Barcelona GP",
-        "source": "Autosport.com - All - Stories",
-        "published": "Sun, 14 Jun 2026 09:20:36 +0000",
-        "url": "https://www.autosport.com/f1/news/two-hidden-factors-that-could-decide-the-f1-barcelona-gp/10830188/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-ALL&utm_term=News&utm_content=uk",
-        "is_priority": false
-      },
-      {
-        "title": "Le Mans 24h, H18: BMW in lead as Porsche crash triggers safety car",
-        "source": "Autosport.com - All - Stories",
-        "published": "Sun, 14 Jun 2026 08:40:41 +0000",
-        "url": "https://www.autosport.com/wec/news/le-mans-24h-h18-bmw-in-lead-as-porsche-crash-triggers-safety-car/10830177/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-ALL&utm_term=News&utm_content=uk",
-        "is_priority": false
-      },
-      {
-        "title": "How AAA's Glidden Tours Proved Early American Cars Could Survive Bad Roads",
-        "source": "Jalopnik - Obsessed with the culture of cars",
-        "published": "Sun, 14 Jun 2026 08:25:00 +0000",
-        "url": "https://www.jalopnik.com/2189304/america-aaa-glidden-tour-early-cars-reliability-runs/",
-        "is_priority": false
-      },
-      {
-        "title": "Piastri \"perplexed\" by Gasly’s Monaco reinstatement: \"I could not believe my eyes\"",
-        "source": "Autosport.com - All - Stories",
-        "published": "Sun, 14 Jun 2026 08:00:04 +0000",
-        "url": "https://www.autosport.com/f1/news/oscar-piastri-perplexed-by-pierre-gaslys-monaco-reinstatement-i-could-not-believe-my-eyes/10830085/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-ALL&utm_term=News&utm_content=uk",
-        "is_priority": false
-      },
-      {
-        "title": "BMW Seizes Control of Le Mans After Cadillac Penalty",
-        "source": "Latest Content - Road & Track",
-        "published": "Sun, 14 Jun 2026 07:58:00 +0000",
-        "url": "https://www.roadandtrack.com/news/a71580622/bmw-seizes-control-of-le-mans-after-cadillac-penalty/",
-        "is_priority": false
-      },
-      {
-        "title": "This Low-Mileage 2025 Tesla Model Y Lost A Lot Of Range Fast",
+        "title": "A Rivian R1T Towed A Big Trailer 1,500 Miles. Despite The Range Loss, It Cost Less Than Gas",
         "source": "InsideEVs - Articles",
-        "published": "Sun, 14 Jun 2026 07:46:37 +0000",
-        "url": "https://insideevs.com/news/798648/model-y-serious-battery-degradation/",
+        "published": "Mon, 15 Jun 2026 13:14:24 +0000",
+        "url": "https://insideevs.com/news/798734/rivian-r1t-towing-cost/",
         "is_priority": false
       },
       {
-        "title": "Why pushback is growing against New Jersey’s crazy e-bike law",
-        "source": "Electrek",
-        "published": "Sun, 14 Jun 2026 06:19:13 +0000",
-        "url": "https://electrek.co/2026/06/13/why-pushback-is-growing-against-new-jerseys-crazy-e-bike-law/",
+        "title": "Acura Combines Olympic Partnership with Pikes Peak Record Attempt",
+        "source": "Latest Content - Car and Driver",
+        "published": "Mon, 15 Jun 2026 13:00:00 +0000",
+        "url": "https://www.caranddriver.com/news/a71574303/acura-olympic-partnership-pikes-peak-record-attempt/",
         "is_priority": false
       },
       {
-        "title": "Le Mans 24H, H16: #12 Cadillac out front as Toyota and BMW battle over second",
+        "title": "At $8,000, Would You Rush This 2001 VW Cabrio GLX's Sorority?",
+        "source": "Jalopnik - Obsessed with the culture of cars",
+        "published": "Mon, 15 Jun 2026 12:25:00 +0000",
+        "url": "https://www.jalopnik.com/2193423/2001-vw-cabrio-glx-8000-dollars-nice-price/",
+        "is_priority": false
+      },
+      {
+        "title": "BMW iX5",
+        "source": "Autocar RSS Feed",
+        "published": "Mon, 15 Jun 2026 13:00:44 +0100",
+        "url": "https://www.autocar.co.uk/car-review/bmw/ix5",
+        "is_priority": false
+      },
+      {
+        "title": "New X5 tested: Business as usual for BMW's seminal SUV?",
+        "source": "Autocar RSS Feed",
+        "published": "Mon, 15 Jun 2026 13:00:21 +0100",
+        "url": "https://www.autocar.co.uk/car-news/new-cars/new-x5-tested-business-usual-bmws-seminal-suv",
+        "is_priority": false
+      },
+      {
+        "title": "\"Don't forget who you are\" How Hamilton beat his demons to win with Ferrari",
         "source": "Autosport.com - All - Stories",
-        "published": "Sun, 14 Jun 2026 06:10:32 +0000",
-        "url": "https://www.autosport.com/wec/news/le-mans-24h-h16-12-cadillac-out-front-as-toyota-and-bmw-battle-over-second/10830145/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-ALL&utm_term=News&utm_content=uk",
+        "published": "Mon, 15 Jun 2026 12:00:04 +0000",
+        "url": "https://www.autosport.com/f1/news/how-lewis-hamilton-banished-his-demons-to-win-with-ferrari-dont-forget-who-you-are/10830572/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-ALL&utm_term=News&utm_content=uk",
         "is_priority": false
       },
       {
-        "title": "Why 2026's best electric car is the easygoing Skoda Elroq",
-        "source": "Autocar RSS Feed",
-        "published": "Sun, 14 Jun 2026 07:00:00 +0100",
-        "url": "https://www.autocar.co.uk/car-news/autocar-awards/why-2026s-best-electric-car-easygoing-skoda-elroq",
-        "is_priority": false
-      },
-      {
-        "title": "Why motorsport is more than marketing for Ford Racing",
-        "source": "Autocar RSS Feed",
-        "published": "Sun, 14 Jun 2026 06:00:00 +0100",
-        "url": "https://www.autocar.co.uk/car-news/autocar-awards/why-motorsport-more-marketing-ford-racing",
-        "is_priority": false
-      },
-      {
-        "title": "Why Oldsmobile's Turbocharged V8 Pushed GM's Fabrication Capabilities Past Its Limits",
-        "source": "Jalopnik - Obsessed with the culture of cars",
-        "published": "Sun, 14 Jun 2026 03:25:00 +0000",
-        "url": "https://www.jalopnik.com/2189303/oldsmobile-turbocharged-v8-problems/",
-        "is_priority": false
-      },
-      {
-        "title": "Hopes Dashed for Sébastien Bourdais and the No. 38 HTJ Cadillac After Dominating First Half at 24H of Le Mans",
+        "title": "BMW X5 Prototype Drive: One Shape, Many Flavors",
         "source": "Latest Content - Road & Track",
-        "published": "Sun, 14 Jun 2026 02:48:00 +0000",
-        "url": "https://www.roadandtrack.com/news/a71579970/hopes-dashed-sebastien-bourdais-38-htj-cadillac-dominating-first-half-24h-of-le-mans/",
+        "published": "Mon, 15 Jun 2026 12:00:00 +0000",
+        "url": "https://www.roadandtrack.com/reviews/a71583076/bmw-x5-prototype-drive-one-shape-many-flavors/",
         "is_priority": false
       },
       {
-        "title": "If You're Working On Japanese Cars, You Should Get A Set Of JIS Screwdrivers",
+        "title": "Why Are Some Airport Runways Concrete While Others Are Asphalt?",
         "source": "Jalopnik - Obsessed with the culture of cars",
-        "published": "Sun, 14 Jun 2026 02:25:00 +0000",
-        "url": "https://www.jalopnik.com/2190431/japanese-cars-jis-screwdrivers/",
+        "published": "Mon, 15 Jun 2026 11:25:00 +0000",
+        "url": "https://www.jalopnik.com/2191155/why-some-airport-runways-are-concrete-others-asphalt/",
+        "is_priority": false
+      },
+      {
+        "title": "The crazy stats from Hamilton's Barcelona GP triumph and his first win for Ferrari",
+        "source": "Autosport.com - All - Stories",
+        "published": "Mon, 15 Jun 2026 11:13:16 +0000",
+        "url": "https://www.autosport.com/f1/news/the-crazy-stats-from-lewis-hamiltons-barcelona-gp-triumph-and-his-first-win-for-ferrari/10830576/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-ALL&utm_term=News&utm_content=uk",
+        "is_priority": false
+      },
+      {
+        "title": "Xiaomi Just Unveiled A Product Tesla Promised A Decade Ago But Never Delivered",
+        "source": "InsideEVs - Articles",
+        "published": "Mon, 15 Jun 2026 11:07:29 +0000",
+        "url": "https://insideevs.com/news/798721/xiaomi-product-tesla-promised/",
+        "is_priority": false
+      },
+      {
+        "title": "Ford Thinks It Has the Solution to Reduce Engine Recalls",
+        "source": "Latest Content - Road & Track",
+        "published": "Mon, 15 Jun 2026 11:00:00 +0000",
+        "url": "https://www.roadandtrack.com/news/a71574070/ford-solution-reduce-engine-recalls/",
+        "is_priority": false
+      },
+      {
+        "title": "How the #8 Toyota lost the 2026 Le Mans 24 Hours",
+        "source": "Autosport.com - All - Stories",
+        "published": "Mon, 15 Jun 2026 10:30:05 +0000",
+        "url": "https://www.autosport.com/wec/news/how-the-8-toyota-lost-the-2026-le-mans-24-hours/10830515/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-ALL&utm_term=News&utm_content=uk",
+        "is_priority": false
+      },
+      {
+        "title": "How This Rare 1963 Pontiac Drag Racer Earned Its 'Swiss Cheese' Nickname",
+        "source": "Jalopnik - Obsessed with the culture of cars",
+        "published": "Mon, 15 Jun 2026 10:25:00 +0000",
+        "url": "https://www.jalopnik.com/2190486/rare-1963-pontiac-catalina-drag-racer-swiss-cheese/",
+        "is_priority": false
+      },
+      {
+        "title": "New Hyundai i20 brings chunky look and tech upgrade",
+        "source": "Autocar RSS Feed",
+        "published": "Mon, 15 Jun 2026 11:22:58 +0100",
+        "url": "https://www.autocar.co.uk/car-news/new-cars/new-hyundai-i20-brings-chunky-look-and-tech-upgrade",
+        "is_priority": false
+      },
+      {
+        "title": "Koenigsegg Smashes Quarter-Mile Speed Record For Production Cars",
+        "source": "Motor1.com - News",
+        "published": "Mon, 15 Jun 2026 10:21:02 +0000",
+        "url": "https://www.motor1.com/news/798702/fastest-production-car-quarter-mile/",
         "is_priority": false
       }
     ],
     "Portugal": [
       {
-        "title": "A FIFA ajoelhou-se perante os interesses de Donald Trump?",
+        "title": "Greve encerra maioria das escolas do pré-escolar e 1.º ciclo",
         "source": "Observador - Últimas",
-        "published": "Sun, 14 Jun 2026 11:19:32 +0100",
-        "url": "https://observador.pt/programas/e-o-vencedor-e/a-fifa-ajoelhou-se-perante-os-interesses-de-donald-trump/",
+        "published": "Mon, 15 Jun 2026 14:17:27 +0100",
+        "url": "https://observador.pt/2026/06/15/greve-encerra-maioria-das-escolas-do-pre-escolar-e-1-o-ciclo-com-pelo-menos-1-035-escolas-sem-educadores-diz-sindicato/",
         "is_priority": true
       },
       {
-        "title": "PS quer ouvir ministro sobre lei do subsídio de mobilidade",
+        "title": "As notícias das 14h",
+        "source": "Observador - Últimas",
+        "published": "Mon, 15 Jun 2026 14:14:12 +0100",
+        "url": "https://observador.pt/programas/noticiario/as-noticias-das-14h-2386/",
+        "is_priority": true
+      },
+      {
+        "title": "EUA ameaçam deportar influencers com 'posts' sobre o Mundial",
+        "source": "Observador - Últimas",
+        "published": "Mon, 15 Jun 2026 14:10:16 +0100",
+        "url": "https://observador.pt/2026/06/15/mundial-2026-eua-ameacam-deportar-influencers-com-visto-de-turista/",
+        "is_priority": true
+      },
+      {
+        "title": "Panteão Nacional encerrado 10 dias para requalificação",
+        "source": "Observador - Últimas",
+        "published": "Mon, 15 Jun 2026 14:08:41 +0100",
+        "url": "https://observador.pt/2026/06/15/panteao-nacional-encerrado-10-dias-para-requalificacao/",
+        "is_priority": true
+      },
+      {
+        "title": "GNR detém cinco suspetos de tráfico de droga em Guimarães",
+        "source": "Observador - Últimas",
+        "published": "Mon, 15 Jun 2026 14:08:13 +0100",
+        "url": "https://observador.pt/2026/06/15/operacao-da-gnr-no-concelho-de-guimaraes-faz-cinco-detidos-por-trafico-de-droga/",
+        "is_priority": true
+      },
+      {
+        "title": "Achados arqueológicos atrasam residência de estudantes",
+        "source": "Observador - Últimas",
+        "published": "Mon, 15 Jun 2026 14:06:51 +0100",
+        "url": "https://observador.pt/2026/06/15/achados-arqueologicos-atrasam-residencia-de-estudantes-do-politecnico-em-leiria/",
+        "is_priority": true
+      },
+      {
+        "title": "PR deu posse a quatro novos juízes do Tribunal Constitucional",
         "source": "ECO",
-        "published": "Sun, 14 Jun 2026 10:17:58 +0000",
-        "url": "https://eco.sapo.pt/2026/06/14/ps-quer-ouvir-ministro-sobre-lei-do-subsidio-de-mobilidade/",
+        "published": "Mon, 15 Jun 2026 13:04:55 +0000",
+        "url": "https://eco.sapo.pt/2026/06/15/pr-deu-posse-a-quatro-novos-juizes-do-tribunal-constitucional/",
         "is_priority": true
       },
       {
-        "title": "As notícias das 11h",
-        "source": "Observador - Últimas",
-        "published": "Sun, 14 Jun 2026 11:16:00 +0100",
-        "url": "https://observador.pt/programas/noticiario/as-noticias-das-11h-1294/",
-        "is_priority": true
-      },
-      {
-        "title": "André Ventura recebe oferta de 400 euros em maquilhagem e perfumes",
+        "title": "Mónica Sintra apresenta o novo tema \"Barbie\" no 'Olá, Bom Dia!'",
         "source": "Correio da Manhã",
-        "published": "Sun, 14 Jun 2026 11:05:17 +0100",
-        "url": "https://www.cmjornal.pt/cmtv/videos/detalhe/20260614-110517-andre-ventura-recebe-oferta-de-400-euros-em-maquilhagem-e-perfumes",
+        "published": "Mon, 15 Jun 2026 14:02:17 +0100",
+        "url": "https://www.cmjornal.pt/cmtv/programas/entretenimento/ola-bom-dia/detalhe/monica-sintra-apresenta-o-novo-tema-barbie-no-ola-bom-dia",
         "is_priority": true
       },
       {
-        "title": "Norberto Mourão tricampeão da Europa",
-        "source": "Observador - Últimas",
-        "published": "Sun, 14 Jun 2026 11:03:37 +0100",
-        "url": "https://observador.pt/2026/06/14/norberto-mourao-tricampeao-da-europa-em-vl2-200-metros-em-canogaem-adaptada/",
-        "is_priority": true
-      },
-      {
-        "title": "Sistema de controlo nos aeroportos “não pode ser solução remendada”",
-        "source": "Jornal de Negocios",
-        "published": "Sun, 14 Jun 2026 11:00:00 +0100",
-        "url": "https://www.jornaldenegocios.pt/empresas/detalhe/sistema-de-controlo-nos-aeroportos-nao-pode-ser-solucao-remendada",
-        "is_priority": true
-      },
-      {
-        "title": "Má partida, melhor chegada: Messias é vice-campeão europeu",
-        "source": "Observador - Últimas",
-        "published": "Sun, 14 Jun 2026 10:58:30 +0100",
-        "url": "https://observador.pt/2026/06/14/uma-ma-partida-a-melhor-chegada-messias-baptista-volta-a-sagrar-se-vice-campeao-europeu-de-k1-200/",
-        "is_priority": true
-      },
-      {
-        "title": "Ilusão e Iludidos",
+        "title": "O fim do emprego para a vida toda",
         "source": "ECO",
-        "published": "Sun, 14 Jun 2026 09:57:22 +0000",
-        "url": "https://eco.sapo.pt/opiniao/ilusao-e-iludidos/",
+        "published": "Mon, 15 Jun 2026 13:00:17 +0000",
+        "url": "https://eco.sapo.pt/opiniao/o-fim-do-emprego-para-a-vida-toda/",
         "is_priority": true
       },
       {
-        "title": "Partidos devem 1,4 milhões em coimas, mas PGR não revela quais",
-        "source": "Jornal de Negocios",
-        "published": "Sun, 14 Jun 2026 10:56:58 +0100",
-        "url": "https://www.jornaldenegocios.pt/economia/politica/detalhe/partidos-devem-1-4-milhoes-em-coimas-mas-pgr-nao-revela-quais",
-        "is_priority": true
-      },
-      {
-        "title": "Portugal researchers identify new botanical species",
+        "title": "Portugal set to welcome football-themed park",
         "source": "The Portugal News",
-        "published": "Sun, 14 Jun 2026 10:03:00 +0000",
-        "url": "https://www.theportugalnews.com/news/2026-06-14/portugal-researches-identify-new-botanical-species/1038383",
+        "published": "Mon, 15 Jun 2026 13:03:00 +0000",
+        "url": "https://www.theportugalnews.com/news/2026-06-15/portugal-set-to-welcome-football-themed-park/1040378",
         "is_priority": false
       },
       {
-        "title": "Be More Weed",
+        "title": "More than 100 schools closed in Portugal due to strike",
         "source": "The Portugal News",
-        "published": "Sun, 14 Jun 2026 10:01:00 +0000",
-        "url": "https://www.theportugalnews.com/news/2026-06-14/be-more-weed/1039762",
+        "published": "Mon, 15 Jun 2026 12:33:00 +0000",
+        "url": "https://www.theportugalnews.com/news/2026-06-15/more-than-100-schools-closed-in-portugal-due-to-strike/1040521",
         "is_priority": false
       },
       {
-        "title": "St. John Neumann C.Ss.R. (1811-1860)",
+        "title": "King of the Garden: Brunson’s Historic MVP Trifecta Powers Knicks to NBA Glory",
         "source": "The Portugal News",
-        "published": "Sun, 14 Jun 2026 09:01:00 +0000",
-        "url": "https://www.theportugalnews.com/news/2026-06-14/st-john-neumann-cssr-1811-1860/1038200",
+        "published": "Mon, 15 Jun 2026 12:03:00 +0000",
+        "url": "https://www.theportugalnews.com/news/2026-06-15/king-of-the-garden-brunsons-historic-mvp-trifecta-powers-knicks-to-nba-glory/1040360",
         "is_priority": false
       },
       {
-        "title": "Are we standing on the edge of another global energy crisis?",
+        "title": "Chega requests reassessment of law banning ideological flags in Portugal",
         "source": "The Portugal News",
-        "published": "Sun, 14 Jun 2026 09:01:00 +0000",
-        "url": "https://www.theportugalnews.com/news/2026-06-14/are-we-standing-on-the-edge-of-another-global-energy-crisis/1039790",
+        "published": "Mon, 15 Jun 2026 11:33:00 +0000",
+        "url": "https://www.theportugalnews.com/news/2026-06-15/chega-requests-reassessment-of-law-banning-ideological-flags-in-portugal/1040489",
         "is_priority": false
       },
       {
-        "title": "Opening of new facilities on Portugal river beach",
+        "title": "Where are the best students in Portugal?",
         "source": "The Portugal News",
-        "published": "Sun, 14 Jun 2026 08:03:00 +0000",
-        "url": "https://www.theportugalnews.com/news/2026-06-14/opening-of-new-facilities-in-portugal-river-beach/1038381",
+        "published": "Mon, 15 Jun 2026 11:03:00 +0000",
+        "url": "https://www.theportugalnews.com/news/2026-06-15/where-are-the-best-students-in-portugal/1040329",
         "is_priority": false
       },
       {
-        "title": "The PETRA robot and what Portugal has not yet understood about the Atlantic",
+        "title": "Portugal welcomes agreement between Iran and the US",
         "source": "The Portugal News",
-        "published": "Sun, 14 Jun 2026 07:01:00 +0000",
-        "url": "https://www.theportugalnews.com/news/2026-06-14/the-petra-robot-and-what-portugal-has-not-yet-understood-about-the-atlantic/1036623",
+        "published": "Mon, 15 Jun 2026 10:33:00 +0000",
+        "url": "https://www.theportugalnews.com/news/2026-06-15/portugal-welcomes-agreement-between-iran-and-the-us/1040359",
         "is_priority": false
       }
     ]

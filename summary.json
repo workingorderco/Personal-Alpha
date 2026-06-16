@@ -1,8 +1,8 @@
 {
-  "global_theme": "A US-Iran peace deal has significantly eased geopolitical tensions, leading to a global market rally and lower oil prices, creating a more stable, yet dynamic, environment impacting EU economies and investment strategies.",
-  "market_mood": "Risk-On",
-  "risk_signal": "Industrial slowdown, regulatory challenges, deal uncertainty",
-  "opportunity_signal": "Geopolitical stability, market rally, tech innovation",
+  "global_theme": "Geopolitical tensions persist amidst significant shifts in AI and tech valuations, while the EU solidifies trade relations, all impacting wealth creation opportunities.",
+  "market_mood": "Cautiously Optimistic",
+  "risk_signal": "Geopolitical Instability & Tech Overvaluation",
+  "opportunity_signal": "AI Integration & EU Trade Expansion",
   "finance_sentiment": [
     {
       "i": 1,
@@ -10,11 +10,11 @@
     },
     {
       "i": 2,
-      "s": "-"
+      "s": "+"
     },
     {
       "i": 3,
-      "s": "+"
+      "s": "-"
     },
     {
       "i": 4,
@@ -30,11 +30,11 @@
     },
     {
       "i": 7,
-      "s": "-"
+      "s": "="
     },
     {
       "i": 8,
-      "s": "="
+      "s": "-"
     },
     {
       "i": 9,
@@ -50,7 +50,7 @@
     },
     {
       "i": 12,
-      "s": "="
+      "s": "+"
     },
     {
       "i": 13,
@@ -58,37 +58,37 @@
     },
     {
       "i": 14,
-      "s": "="
+      "s": "-"
     },
     {
       "i": 15,
-      "s": "+"
+      "s": "-"
     }
   ],
   "insights": {
     "g1": [
-      "The US-Iran peace deal and subsequent oil price drop could lower operational costs for your business in Portugal.",
-      "Global market rallies signal renewed investor confidence, potentially benefiting diversified portfolios or seeking funding.",
-      "Industrial production slowing globally suggests economic headwinds, requiring careful financial planning.",
-      "The SpaceX IPO's success highlights strong interest in emerging tech sectors, indicating investment opportunities.",
-      "Monitor EU economic reports closely for regional impacts of global shifts like energy price changes."
+      "AI remains a dominant market driver, creating opportunities in cybersecurity but signaling caution for 'bottleneck' plays.",
+      "Falling Treasury yields could provide a tailwind for growth-oriented investments and easier access to capital.",
+      "Geopolitical events (Iran talks, Russia's oil, Ukraine conflict) introduce volatility but also shape energy and trade markets.",
+      "The EU-US trade deal offers positive macroeconomic leverage for European businesses and investment flows.",
+      "Market sentiment shows selective growth and risk aversion, requiring careful analysis of specific sector opportunities."
     ],
     "g2": [
-      "New AI agent identity platforms (NewCore) present opportunities to offer specialized management services.",
-      "The UK's proposed social media ban for under-16s signifies growing digital regulation; consider its future EU implications.",
-      "Leverage tools like Google Earth's browser-based flight simulator for unique visual content creation or research.",
-      "Satellite advancements in finding things independently could offer new data-driven service possibilities.",
-      "Explore integrating AI agents into your solopreneur workflow to automate tasks and boost efficiency."
+      "The massive SpaceX-Cursor deal highlights consolidation and high valuations in the advanced tech and AI sectors.",
+      "AI's influence is expanding from enterprise solutions (cybersecurity) to manufacturing (China), demanding AI literacy.",
+      "Threads reaching 500M users signals massive potential for new digital marketing and community-building platforms.",
+      "Insights into 'top performance' at companies like Revolut can offer valuable lessons for solopreneur productivity and growth.",
+      "Emerging technologies like 'super metals' point to long-term innovation that could disrupt various industries."
     ],
     "g3": [
-      "School strikes in Portugal could impact local families; consider flexible service offerings to assist them.",
-      "The new football-themed park in Portugal offers potential for local collaborations or tourist-focused services.",
-      "Portugal's welcome of the Iran-US deal aligns with broader EU interests, fostering stability for business.",
-      "Be aware of local infrastructure projects like the Panteão Nacional closure, impacting tourism and logistics.",
-      "Assess how EU social media regulations might influence your digital marketing strategies for local clients."
+      "The EU's approval of the US trade deal enhances Portugal's market access, beneficial for solopreneurs in international trade.",
+      "EU-Ukraine accession talks suggest future market expansion, influencing long-term strategic planning for European businesses.",
+      "Continued energy disruption (ECB warning) necessitates cost-conscious strategies and exploration of sustainable alternatives for Portuguese businesses.",
+      "Portugal's local news, while varied, underscores the importance of community context and potential for niche local services.",
+      "Solopreneurs in Portugal can leverage digital platforms to tap into the wider EU market, capitalizing on regulatory stability."
     ]
   },
-  "learning_task": "Dedicate 30 minutes to research the potential impact of falling oil prices on your specific business costs and client spending habits in Portugal.",
-  "biz_opportunity": "Offer 'Digital Wellness Consultation' services to parents and educators in Portugal, guiding them through the implications of potential EU-wide social media regulations and safe online practices for children, leveraging the growing global debate.",
-  "built_at": "2026-06-15T13:19:50.855382+00:00"
+  "learning_task": "Dedicate 30 minutes to research how AI-driven tools can streamline solopreneur operations, focusing on marketing automation or content generation, to accelerate reaching your €35k goal.",
+  "biz_opportunity": "Offer AI-powered market entry consulting for small EU businesses looking to leverage new trade deals and digital platforms, capitalizing on the current tech acceleration.",
+  "built_at": "2026-06-16T12:13:49.998473+00:00"
 }

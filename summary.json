@@ -1,44 +1,44 @@
 {
-  "global_theme": "Geopolitical tensions, particularly US-Iran rhetoric, inject volatility into global markets, while AI and advanced tech rapidly evolve, creating a complex landscape relevant to EU wealth.",
-  "market_mood": "Volatile with underlying tech optimism",
-  "risk_signal": "Geopolitical instability, hawkish Fed, China slowdown",
-  "opportunity_signal": "AI & automation growth, falling mortgage rates",
+  "global_theme": "Global financial markets are navigating geopolitical tensions in Ukraine and the Middle East, while central banks maintain cautious stances and AI continues to shape economic opportunities relevant for EU wealth creation.",
+  "market_mood": "Cautious Optimism",
+  "risk_signal": "Geopolitical instability, persistent inflation concerns, and potential AI-driven labor market disruption.",
+  "opportunity_signal": "AI integration and funding, nuclear energy advancements, and targeted consumer market opportunities.",
   "finance_sentiment": [
     {
       "i": 1,
-      "s": "-"
-    },
-    {
-      "i": 2,
-      "s": "="
-    },
-    {
-      "i": 3,
       "s": "+"
     },
     {
+      "i": 2,
+      "s": "+"
+    },
+    {
+      "i": 3,
+      "s": "-"
+    },
+    {
       "i": 4,
-      "s": "="
+      "s": "-"
     },
     {
       "i": 5,
-      "s": "="
+      "s": "-"
     },
     {
       "i": 6,
-      "s": "="
+      "s": "+"
     },
     {
       "i": 7,
-      "s": "-"
+      "s": "+"
     },
     {
       "i": 8,
-      "s": "-"
+      "s": "+"
     },
     {
       "i": 9,
-      "s": "="
+      "s": "+"
     },
     {
       "i": 10,
@@ -46,11 +46,11 @@
     },
     {
       "i": 11,
-      "s": "+"
+      "s": "-"
     },
     {
       "i": 12,
-      "s": "+"
+      "s": "-"
     },
     {
       "i": 13,
@@ -58,37 +58,37 @@
     },
     {
       "i": 14,
-      "s": "+"
+      "s": "-"
     },
     {
       "i": 15,
-      "s": "+"
+      "s": "="
     }
   ],
   "insights": {
     "g1": [
-      "Geopolitical tensions (US-Iran) create market volatility; prudent cash management is key during uncertainty.",
-      "Rising US market futures hint at selective growth opportunities even amidst global unease for a solopreneur.",
-      "Falling mortgage rates might signal broader economic cooling, potentially impacting consumer spending and local demand.",
-      "AI infrastructure growth (Klaviyo) presents investment or skill development opportunities for future-proofing your business.",
-      "China slowdown affecting companies like BMW highlights the need for diversified market exposure for stable income."
+      "Global interest rates are stable, but inflation remains a concern; monitor central bank policies closely for stability.",
+      "Stock market rebounds are possible, but selective investment in growth sectors like AI and nuclear is key for returns.",
+      "Consumer spending on essentials like cooling homes is high; be aware of cost-of-living impacts on client budgets.",
+      "Geopolitical events (Ukraine, Middle East) directly impact market stability; stay informed on conflicts and their effects.",
+      "Target growth markets like back-to-college; consider seasonal consumer spending trends for revenue diversification."
     ],
     "g2": [
-      "AI is rapidly advancing in retail (Ask Pinterest) and infrastructure; developing AI literacy or niche application skills is crucial.",
-      "Open-source AI (Mistral) offers accessible tools for solopreneurs to leverage cutting-edge technology without prohibitive costs.",
-      "The rise of robotaxis (Uber, Lucid, Mobileye) signals a new wave of automation; explore related service or tech opportunities.",
-      "Cyber weapons concerns suggest a growing need for cybersecurity skills and secure digital business practices for all.",
-      "\"US Science in Chaos\" implies a potential shift in innovation hubs; stay agile and look for emerging tech ecosystems globally."
+      "AI continues to drive stock upgrades and new investment, suggesting high-demand tech skills for solopreneurs.",
+      "Understand AI's potential to automate tasks and impact labor, including leveraging tools for your own efficiency.",
+      "Explore tech solutions for cost reduction, suchs as drug repurposing, inspiring innovation in other sectors.",
+      "Learn about AI ethics and regulation with new PACs forming; this shapes the responsible tech landscape.",
+      "Develop skills in emerging tech sectors like nuclear energy supply chains for future, high-value opportunities."
     ],
     "g3": [
-      "EU trade deals (US tariffs) could open new markets or reduce costs for importing/exporting digital services or products.",
-      "Portugal's local issues (crime, rural management) remind us to stay grounded and potentially address community needs with services.",
-      "The focus on EU accession talks (Ukraine) signals a dynamic bloc; consider implications for market access and regulations.",
-      "Portugal's \"lack of cleaning culture\" (rural spaces) points to opportunities in local services or environmental initiatives.",
-      "Local passions like football (Benfica) highlight community interests; integrate them into content or local engagement strategies."
+      "Meta's AI control features highlight the need for digital literacy and safe online tools for solopreneurs in Portugal.",
+      "Portugal's local news focuses on social issues (wage inequality, strikes); be aware of the social climate for your business.",
+      "EU trade deals are being approved (US trade deal), potentially opening up new market access for your services.",
+      "Solopreneurs in Portugal should observe local spending trends and regulatory changes, like those impacting education.",
+      "Consider local tech adoption; new AI features from major players like Meta affect daily digital business operations."
     ]
   },
-  "learning_task": "Spend 30 minutes researching free AI tools for content generation and market trend analysis to boost your solopreneur efficiency and inform strategic decisions.",
-  "biz_opportunity": "Develop an AI-assisted market research and strategy consulting service for small European businesses, leveraging open-source AI to offer affordable, data-driven insights in an increasingly volatile global market.",
-  "built_at": "2026-06-17T11:52:43.366274+00:00"
+  "learning_task": "Spend 30 minutes researching free AI tools for solopreneurs to automate administrative tasks or enhance digital marketing, directly applying AI momentum to your business.",
+  "biz_opportunity": "Offer AI-powered content automation and digital marketing strategy services to Portuguese small businesses, leveraging current AI momentum to boost their online presence efficiently.",
+  "built_at": "2026-06-18T11:10:29.644398+00:00"
 }

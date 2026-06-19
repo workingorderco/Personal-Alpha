@@ -1,538 +1,538 @@
 {
-  "built_at": "2026-06-18T11:10:29.644398+00:00",
+  "built_at": "2026-06-19T11:26:12.188242+00:00",
   "sections": {
     "Finance": [
       {
-        "title": "Bank of England holds interest rates at 3.75% amid Iran war peace prospects",
+        "title": "Ambani’s Jio Could Be India’s Biggest IPO",
+        "source": "Bloomberg Markets",
+        "published": "Fri, 19 Jun 2026 11:19:20 GMT",
+        "url": "https://www.bloomberg.com/news/videos/2026-06-19/ambani-s-jio-could-be-india-s-biggest-ipo-video",
+        "is_priority": false
+      },
+      {
+        "title": "Asian Oil Buyers Brace for Flood of Crude From Persian Gulf",
+        "source": "Bloomberg Markets",
+        "published": "Fri, 19 Jun 2026 11:18:58 GMT",
+        "url": "https://www.bloomberg.com/news/newsletters/2026-06-19/asian-oil-buyers-brace-for-flood-of-crude-from-persian-gulf",
+        "is_priority": false
+      },
+      {
+        "title": "Why the Fed’s hawkish stance signals a step-change in U.S. dollar sentiment — and a new direction",
+        "source": "MarketWatch.com - Top Stories",
+        "published": "Fri, 19 Jun 2026 11:17:00 GMT",
+        "url": "https://www.marketwatch.com/story/why-the-feds-hawkish-stance-signals-a-step-change-in-u-s-dollar-sentiment-and-a-new-direction-742f1fff?mod=mw_rss_topstories",
+        "is_priority": false
+      },
+      {
+        "title": "uniQure reports mixed results from epilepsy gene therapy trial",
+        "source": "All News",
+        "published": "2026-06-19 11:13:12",
+        "url": "https://www.investing.com/news/company-news/uniqure-reports-mixed-results-from-epilepsy-gene-therapy-trial-93CH-4751484",
+        "is_priority": false
+      },
+      {
+        "title": "CarMax stock surges 66% after InvestingPro Fair Value call",
+        "source": "All News",
+        "published": "2026-06-19 11:11:10",
+        "url": "https://www.investing.com/news/investment-ideas/carmax-stock-surges-66-after-investingpro-fair-value-call-93CH-4751483",
+        "is_priority": false
+      },
+      {
+        "title": "Bitcoin falls to $62k, heads for weekly losses amid Iran uncertainty, rate jitters",
+        "source": "All News",
+        "published": "2026-06-19 11:09:34",
+        "url": "https://www.investing.com/news/cryptocurrency-news/bitcoin-falls-to-62k-heads-for-weekly-losses-amid-iran-uncertainty-rate-jitters-4751344",
+        "is_priority": false
+      },
+      {
+        "title": "UK PM Starmer vows to fight any challenge after leading rival Burnham wins big",
+        "source": "All News",
+        "published": "2026-06-19 11:07:05",
+        "url": "https://www.investing.com/news/economy-news/andy-burnhams-election-win-paves-way-for-bid-to-oust-uk-pm-starmer-4751403",
+        "is_priority": false
+      },
+      {
+        "title": "In Colombia’s Caribbean, neighboring towns back opposing presidential candidates",
+        "source": "All News",
+        "published": "2026-06-19 11:06:42",
+        "url": "https://www.investing.com/news/world-news/in-colombias-caribbean-neighboring-towns-back-opposing-presidential-candidates-4751482",
+        "is_priority": false
+      },
+      {
+        "title": "Brent heads for 9% weekly loss as traders weigh US-Iran truce outlook",
+        "source": "All News",
+        "published": "2026-06-19 11:06:26",
+        "url": "https://www.investing.com/news/commodities-news/oil-falls-as-supply-starts-moving-through-strait-of-hormuz-4751273",
+        "is_priority": false
+      },
+      {
+        "title": "I inherited a $500,000 IRA. Can I reduce the tax burden by using it for my children’s education?",
+        "source": "MarketWatch.com - Top Stories",
+        "published": "Fri, 19 Jun 2026 11:05:00 GMT",
+        "url": "https://www.marketwatch.com/story/i-inherited-a-500-000-ira-can-i-reduce-the-tax-burden-by-using-it-for-my-childrens-education-53ddaa0c?mod=mw_rss_topstories",
+        "is_priority": false
+      },
+      {
+        "title": "Aben Gold closes C$1.3M private placement for Yukon project",
+        "source": "All News",
+        "published": "2026-06-19 11:05:00",
+        "url": "https://www.investing.com/news/company-news/aben-gold-closes-c13m-private-placement-for-yukon-project-93CH-4751480",
+        "is_priority": false
+      },
+      {
+        "title": "InvestingPro’s Fair Value spotted Insmed’s 44% drop before it happened",
+        "source": "All News",
+        "published": "2026-06-19 11:02:22",
+        "url": "https://www.investing.com/news/investment-ideas/investingpros-fair-value-spotted-insmeds-44-drop-before-it-happened-93CH-4751479",
+        "is_priority": false
+      },
+      {
+        "title": "UIL Limited reports 4.1% NAV decline in May",
+        "source": "All News",
+        "published": "2026-06-19 11:01:52",
+        "url": "https://www.investing.com/news/company-news/uil-limited-reports-41-nav-decline-in-may-93CH-4751478",
+        "is_priority": false
+      },
+      {
+        "title": "U.S. opens tariff probe targeting Germany’s drug pricing policies",
         "source": "US Top News and Analysis",
-        "published": "Thu, 18 Jun 2026 11:08:24 GMT",
-        "url": "https://www.cnbc.com/2026/06/18/inflation-interest-rates-uk-bank-of-england-iran-deal.html",
+        "published": "Fri, 19 Jun 2026 11:01:28 GMT",
+        "url": "https://www.cnbc.com/2026/06/19/us-tariff-probe-germany-drug-pricing-policies-mfn.html",
         "is_priority": false
       },
       {
-        "title": "Stock futures rise as Wall Street tries to rebound from Fed-led sell-off; Intel leads chips higher: Live updates",
-        "source": "US Top News and Analysis",
-        "published": "Thu, 18 Jun 2026 11:06:17 GMT",
-        "url": "https://www.cnbc.com/2026/06/17/stock-market-today-live-updates.html",
-        "is_priority": false
-      },
-      {
-        "title": "Why is Capgemini stock sliding today?",
+        "title": "IUX Releases Educational Analysis on How Economic Volatility May Influence Force Sell Risk in Leveraged Trading",
         "source": "All News",
-        "published": "2026-06-18 11:05:07",
-        "url": "https://www.investing.com/news/stock-market-news/why-is-capgemini-stock-sliding-today-93CH-4749495",
-        "is_priority": false
-      },
-      {
-        "title": "Ukraine central bank keeps key rate at 15% amid inflation concerns",
-        "source": "All News",
-        "published": "2026-06-18 11:04:44",
-        "url": "https://www.investing.com/news/economy-news/ukraine-central-bank-keeps-key-rate-at-15-amid-inflation-concerns-93CH-4749494",
-        "is_priority": false
-      },
-      {
-        "title": "Novocure stock tumbles after trial misses primary endpoint",
-        "source": "All News",
-        "published": "2026-06-18 11:04:37",
-        "url": "https://www.investing.com/news/stock-market-news/novocure-stock-tumbles-after-trial-misses-primary-endpoint-93CH-4749493",
-        "is_priority": false
-      },
-      {
-        "title": "Oklo stock rises on nuclear fuel supply deal with Centrus",
-        "source": "All News",
-        "published": "2026-06-18 11:03:41",
-        "url": "https://www.investing.com/news/stock-market-news/oklo-stock-rises-on-nuclear-fuel-supply-deal-with-centrus-93CH-4749490",
-        "is_priority": false
-      },
-      {
-        "title": "DA Davidson upgrades Nice stock on AI momentum, sets $110 target",
-        "source": "All News",
-        "published": "2026-06-18 11:03:06",
-        "url": "https://www.investing.com/news/analyst-ratings/da-davidson-upgrades-nice-stock-on-ai-momentum-sets-110-target-93CH-4749487",
-        "is_priority": false
-      },
-      {
-        "title": "Barclays upgrades Enphase Energy stock rating on data center opportunity",
-        "source": "All News",
-        "published": "2026-06-18 11:03:06",
-        "url": "https://www.investing.com/news/analyst-ratings/barclays-upgrades-enphase-energy-stock-rating-on-data-center-opportunity-93CH-4749486",
-        "is_priority": false
-      },
-      {
-        "title": "Oklo signs letter of intent with Centrus for nuclear fuel supply",
-        "source": "All News",
-        "published": "2026-06-18 11:03:05",
-        "url": "https://www.investing.com/news/company-news/oklo-signs-letter-of-intent-with-centrus-for-nuclear-fuel-supply-93CH-4749484",
-        "is_priority": false
-      },
-      {
-        "title": "BofA initiates Immix Biopharma stock with buy rating on AL amyloidosis drug",
-        "source": "All News",
-        "published": "2026-06-18 11:03:03",
-        "url": "https://www.investing.com/news/analyst-ratings/bofa-initiates-immix-biopharma-stock-with-buy-rating-on-al-amyloidosis-drug-93CH-4749483",
-        "is_priority": false
-      },
-      {
-        "title": "Why is Accenture stock falling today?",
-        "source": "All News",
-        "published": "2026-06-18 11:02:05",
-        "url": "https://www.investing.com/news/stock-market-news/why-is-accenture-stock-falling-today-93CH-4749480",
-        "is_priority": false
-      },
-      {
-        "title": "Why is Hexagon stock sliding today?",
-        "source": "All News",
-        "published": "2026-06-18 11:02:02",
-        "url": "https://www.investing.com/news/stock-market-news/why-is-hexagon-stock-sliding-today-93CH-4749479",
-        "is_priority": false
-      },
-      {
-        "title": "Hollister partners with Target to tap into $89 billion back-to-college shopping market",
-        "source": "US Top News and Analysis",
-        "published": "Thu, 18 Jun 2026 11:00:01 GMT",
-        "url": "https://www.cnbc.com/2026/06/18/hollister-partners-with-target-to-sell-dorm-bedding-apparel.html",
-        "is_priority": false
-      },
-      {
-        "title": "Americans are spending $800 just to cool their homes. We are at a breaking point | Mark Wolfe",
-        "source": "Business | The Guardian",
-        "published": "Thu, 18 Jun 2026 11:00:01 GMT",
-        "url": "https://www.theguardian.com/commentisfree/2026/jun/18/heat-air-conditioning-costs",
-        "is_priority": false
-      },
-      {
-        "title": "Pfizer CFO Dave Denton to step down in August",
-        "source": "US Top News and Analysis",
-        "published": "Thu, 18 Jun 2026 10:57:17 GMT",
-        "url": "https://www.cnbc.com/2026/06/18/pfizer-cfo-dave-denton-to-step-down-in-august.html",
+        "published": "2026-06-19 11:00:53",
+        "url": "https://www.investing.com/news/company-news/iux-releases-educational-analysis-on-how-economic-volatility-may-influence-force-sell-risk-in-leveraged-trading-4751476",
         "is_priority": false
       }
     ],
     "World News": [
       {
-        "title": "Moscow oil refinery struck in Ukraine’s biggest air raid on city since start of war",
+        "title": "England v New Zealand: second men’s Test, day three – live",
+        "source": "The Guardian",
+        "published": "Fri, 19 Jun 2026 11:23:53 GMT",
+        "url": "https://www.theguardian.com/sport/live/2026/jun/19/england-v-new-zealand-second-mens-test-day-three-live",
+        "is_priority": false
+      },
+      {
+        "title": "World Cup 2026: Scotland fans take over Boston; Koné injury latest; USA v Australia buildup – live",
+        "source": "The Guardian",
+        "published": "Fri, 19 Jun 2026 11:15:40 GMT",
+        "url": "https://www.theguardian.com/football/live/2026/jun/19/world-cup-2026-news-kone-injury-canada-rout-scotland-big-challenge-morocco-usa-australia-buildup-live",
+        "is_priority": false
+      },
+      {
+        "title": "Mideast Live Updates: Attacks in Lebanon and Delay in Talks Test U.S.-Iran Deal",
+        "source": "NYT > World News",
+        "published": "Fri, 19 Jun 2026 11:11:03 +0000",
+        "url": "https://www.nytimes.com/live/2026/06/19/world/iran-trump-deal",
+        "is_priority": false
+      },
+      {
+        "title": "Israel Launches Airstrikes in Lebanon After 4 Soldiers Are Killed",
+        "source": "NYT > World News",
+        "published": "Fri, 19 Jun 2026 11:11:02 +0000",
+        "url": "https://www.nytimes.com/2026/06/19/world/middleeast/lebanon-israel-attacks.html",
+        "is_priority": false
+      },
+      {
+        "title": "Trump hints at new approach to North Korea’s nuclear programme",
+        "source": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
+        "published": "Fri, 19 Jun 2026 11:07:23 +0000",
+        "url": "https://www.aljazeera.com/news/2026/6/19/trump-hints-at-new-approach-to-north-koreas-nuclear-programme?traffic_source=rss",
+        "is_priority": false
+      },
+      {
+        "title": "World Cup: Will Pulisic play against Australia and can USMNT qualify?",
+        "source": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
+        "published": "Fri, 19 Jun 2026 11:07:15 +0000",
+        "url": "https://www.aljazeera.com/sports/2026/6/19/world-cup-will-pulisic-play-against-australia-and-can-usmnt-qualify?traffic_source=rss",
+        "is_priority": false
+      },
+      {
+        "title": "Middle East crisis live: Israel strikes targets in Lebanon as US-Iran talks in Switzerland called off",
         "source": "World news | The Guardian",
-        "published": "Thu, 18 Jun 2026 11:04:50 GMT",
-        "url": "https://www.theguardian.com/world/2026/jun/18/moscow-oil-refinery-on-fire-ukraine-drone-stikes",
+        "published": "Fri, 19 Jun 2026 11:05:51 GMT",
+        "url": "https://www.theguardian.com/world/live/2026/jun/19/middle-east-crisis-live-israel-strikes-targets-in-lebanon-as-us-iran-talks-in-switzerland-called-off",
         "is_priority": false
       },
       {
-        "title": "‘It’s so camp!’ The queer Doctor Who cabaret with dancing drag daleks",
+        "title": "US Open 2026: golf updates on day two – live",
         "source": "The Guardian",
-        "published": "Thu, 18 Jun 2026 11:04:38 GMT",
-        "url": "https://www.theguardian.com/tv-and-radio/2026/jun/18/queer-doctor-who-cabaret-dancing-drag-daleks-gallifrey-cabaret",
+        "published": "Fri, 19 Jun 2026 11:05:07 GMT",
+        "url": "https://www.theguardian.com/sport/live/2026/jun/19/us-open-2026-golf-updates-on-day-two-live",
         "is_priority": false
       },
       {
-        "title": "England v New Zealand: second men’s Test, day two – live",
-        "source": "The Guardian",
-        "published": "Thu, 18 Jun 2026 11:03:12 GMT",
-        "url": "https://www.theguardian.com/sport/live/2026/jun/18/england-v-new-zealand-second-mens-test-day-two-live",
-        "is_priority": false
-      },
-      {
-        "title": "World Cup 2026: England’s Bellingham playing with ‘chip on shoulder’, Liverpool to sign Spain’s Muñoz for £34.5m – live",
-        "source": "The Guardian",
-        "published": "Thu, 18 Jun 2026 11:02:38 GMT",
-        "url": "https://www.theguardian.com/football/live/2026/jun/18/world-cup-2026-england-croatia-fans-czechia-south-africa-switzerland-bosnia-and-herzegovina-canada-qatar-mexico-south-korea-live",
-        "is_priority": false
-      },
-      {
-        "title": "The Filter Q&A: ask our running experts anything – live now",
-        "source": "The Guardian",
-        "published": "Thu, 18 Jun 2026 11:02:36 GMT",
-        "url": "https://www.theguardian.com/thefilter/live/2026/jun/18/the-filter-qa-ask-our-running-experts-anything",
-        "is_priority": false
-      },
-      {
-        "title": "Bank of England keeps interest rates at 3.75% as Iran conflict weighs on economy",
+        "title": "EU leaders sign joint statement in support of Ukraine - Europe live",
         "source": "World news | The Guardian",
-        "published": "Thu, 18 Jun 2026 11:00:53 GMT",
-        "url": "https://www.theguardian.com/business/2026/jun/18/interest-rates-bank-of-england-hold-keep-iran",
+        "published": "Fri, 19 Jun 2026 11:04:36 GMT",
+        "url": "https://www.theguardian.com/world/live/2026/jun/19/eu-leaders-ukraine-russia-ukraine-magyar-von-der-leyen-latest-news-updates",
         "is_priority": false
       },
       {
-        "title": "Middle East crisis live: US will restart military action if Iran does not uphold deal, says Hegseth",
-        "source": "World news | The Guardian",
-        "published": "Thu, 18 Jun 2026 11:00:21 GMT",
-        "url": "https://www.theguardian.com/world/live/2026/jun/18/middle-east-crisis-live-us-iran-presidents-sign-peace-deal-mou-trump-tehran-strait-of-hormuz-toll-lebanon-israel",
+        "title": "Lebanon says Israeli strikes kill 18 as Israel says four soldiers killed by Hezbollah",
+        "source": "BBC News",
+        "published": "Fri, 19 Jun 2026 11:02:02 GMT",
+        "url": "https://www.bbc.com/news/articles/c23ymz1n9rmo?at_medium=RSS&at_campaign=rss",
         "is_priority": false
       },
       {
-        "title": "Myles Smith: My Mess, My Heart, My Life review | Alexis Petridis's album of the week",
+        "title": "Anya Taylor-Joy will make a brilliant elf assassin in Hunt for Gollum. But it’s a movie we don’t need",
         "source": "The Guardian",
-        "published": "Thu, 18 Jun 2026 11:00:03 GMT",
-        "url": "https://www.theguardian.com/music/2026/jun/18/myles-smith-my-mess-my-heart-my-life-review",
+        "published": "Fri, 19 Jun 2026 11:01:20 GMT",
+        "url": "https://www.theguardian.com/film/2026/jun/19/anya-taylor-joy--hunt-for-gollum-andy-serkis-lord-of-the-rings-tolkien",
         "is_priority": false
       },
       {
-        "title": "Guardian Australia’s Matilda Boseley wins major award at 2026 Walkley mid-year media prizes",
+        "title": "Over-reliance on chatbots can diminish critical-thinking skills, study finds",
         "source": "World news | The Guardian",
-        "published": "Thu, 18 Jun 2026 11:00:02 GMT",
-        "url": "https://www.theguardian.com/media/2026/jun/18/guardian-australias-matilda-boseley-wins-major-award-at-2026-walkley-mid-year-media-prizes",
+        "published": "Fri, 19 Jun 2026 11:00:32 GMT",
+        "url": "https://www.theguardian.com/us-news/2026/jun/19/chatbots-critical-thinking-skills",
         "is_priority": false
       },
       {
-        "title": "We must be alive to the dangers of a UK social media ban – and the way to really help young people | Rosie Parkyn",
+        "title": "Add to playlist: the wild club-pop of Zara Larsson cowriter Helena Gao and the week’s best new tracks",
         "source": "The Guardian",
-        "published": "Thu, 18 Jun 2026 11:00:02 GMT",
-        "url": "https://www.theguardian.com/commentisfree/2026/jun/18/uk-social-media-ban-dangers-young-people-education-content",
+        "published": "Fri, 19 Jun 2026 11:00:32 GMT",
+        "url": "https://www.theguardian.com/music/2026/jun/19/add-to-playlist-the-wild-club-pop-of-zara-larsson-cowriter-helena-gao-and-the-weeks-best-new-tracks",
         "is_priority": false
       },
       {
-        "title": "Girls Like Girls review – Sapphic teen romance is a precious and predictable yawn-a-thon",
+        "title": "The best recent crime and thrillers – review roundup",
         "source": "The Guardian",
-        "published": "Thu, 18 Jun 2026 11:00:02 GMT",
-        "url": "https://www.theguardian.com/film/2026/jun/18/girls-like-girls-movie-review",
+        "published": "Fri, 19 Jun 2026 11:00:31 GMT",
+        "url": "https://www.theguardian.com/books/2026/jun/19/the-best-recent-and-thrillers-review-roundup",
         "is_priority": false
       },
       {
-        "title": "Royal Ascot 2026, day three: news, tips and more on Gold Cup day – live",
-        "source": "The Guardian",
-        "published": "Thu, 18 Jun 2026 10:59:32 GMT",
-        "url": "https://www.theguardian.com/sport/live/2026/jun/18/royal-ascot-2026-day-three-news-tips-and-more-on-gold-cup-day-live-horse-racing",
-        "is_priority": false
-      },
-      {
-        "title": "Trump signs deal that Iran labels ‘a record of US failure’ | First Thing",
+        "title": "Datacenters driving US clean energy growth while still threatening climate",
         "source": "World news | The Guardian",
-        "published": "Thu, 18 Jun 2026 10:57:20 GMT",
-        "url": "https://www.theguardian.com/us-news/2026/jun/18/first-thing-trump-signs-deal-that-iran-labels-a-record-of-us-failure",
-        "is_priority": false
-      },
-      {
-        "title": "Polls open in historic byelection in Makerfield that could determine Keir Starmer’s future – UK politics live",
-        "source": "World news | The Guardian",
-        "published": "Thu, 18 Jun 2026 10:56:19 GMT",
-        "url": "https://www.theguardian.com/politics/live/2026/jun/18/makerfield-byelection-polls-open-labour-leadership-andy-burnham-keir-starmer-latest-news-updates",
-        "is_priority": false
-      },
-      {
-        "title": "US to review benefits of having troops in Europe with ‘era of free-riding’ over – Europe live",
-        "source": "World news | The Guardian",
-        "published": "Thu, 18 Jun 2026 10:54:24 GMT",
-        "url": "https://www.theguardian.com/world/live/2026/jun/18/ukraine-russia-moscow-strikes-nato-defence-ministers-hegseth-rutte-latest-news-updates",
+        "published": "Fri, 19 Jun 2026 11:00:30 GMT",
+        "url": "https://www.theguardian.com/us-news/2026/jun/19/datacenters-us-clean-energy-growth-climate",
         "is_priority": false
       }
     ],
     "Tech": [
       {
-        "title": "YC-backed Flagright raises $12.5m to fuel US expansion",
+        "title": "Over-reliance on chatbots can diminish critical-thinking skills, study finds",
+        "source": "Technology | The Guardian",
+        "published": "Fri, 19 Jun 2026 11:00:32 GMT",
+        "url": "https://www.theguardian.com/us-news/2026/jun/19/chatbots-critical-thinking-skills",
+        "is_priority": false
+      },
+      {
+        "title": "‘Hard Fork’ Live, Part 3: Differing Visions of an A.I. Future",
+        "source": "NYT > Technology",
+        "published": "Fri, 19 Jun 2026 11:00:03 +0000",
+        "url": "https://www.nytimes.com/2026/06/19/podcasts/hard-fork-live-part-3-differing-visions-of-an-ai-future.html",
+        "is_priority": false
+      },
+      {
+        "title": "The Best Art TVs",
+        "source": "WIRED",
+        "published": "Fri, 19 Jun 2026 11:00:00 +0000",
+        "url": "https://www.wired.com/story/best-art-tvs/",
+        "is_priority": false
+      },
+      {
+        "title": "Gen Z Singles Are Trying to Make ‘Solomaxxing’ Aspirational",
+        "source": "WIRED",
+        "published": "Fri, 19 Jun 2026 11:00:00 +0000",
+        "url": "https://www.wired.com/story/solomaxxing/",
+        "is_priority": false
+      },
+      {
+        "title": "Eric Slesinger’s 201 Ventures plots second defence fund, sources say",
         "source": "Sifted",
-        "published": "Thu, 18 Jun 2026 11:20:44 GMT",
-        "url": "https://sifted.eu/articles/flagright-y-combinator-yc-infinity-funding-round/",
+        "published": "Fri, 19 Jun 2026 10:45:39 GMT",
+        "url": "https://sifted.eu/articles/eric-slesinger-201-ventures-defence-fund/",
         "is_priority": false
       },
       {
-        "title": "13 Best Essential Oil Diffusers 2026: Tested and Reviewed",
-        "source": "WIRED",
-        "published": "Thu, 18 Jun 2026 11:02:00 +0000",
-        "url": "https://www.wired.com/gallery/best-essential-oil-diffusers/",
-        "is_priority": false
-      },
-      {
-        "title": "How to Watch the Knicks Parade on NYC Traffic Surveillance Cameras",
-        "source": "WIRED",
-        "published": "Thu, 18 Jun 2026 11:00:00 +0000",
-        "url": "https://www.wired.com/story/how-to-watch-the-knicks-parade-on-nyc-traffic-surveillance-cameras/",
-        "is_priority": false
-      },
-      {
-        "title": "Hospitals and universities repurposing drugs at 90% lower cost",
-        "source": "Hacker News: Front Page",
-        "published": "Thu, 18 Jun 2026 10:33:22 +0000",
-        "url": "https://www.kcl.ac.uk/news/hospitals-and-universities-repurposing-drugs-at-90-lower-cost",
-        "is_priority": false
-      },
-      {
-        "title": "Halo Stops Bedtime Scrolling so You Can Go the F to Sleep",
-        "source": "WIRED",
-        "published": "Thu, 18 Jun 2026 10:30:00 +0000",
-        "url": "https://www.wired.com/story/halo-stops-bedtime-scrolling/",
-        "is_priority": false
-      },
-      {
-        "title": "Locked Out of the World Cup: A Year Marked by Barriers, Borders, and Broken Access",
-        "source": "WIRED",
-        "published": "Thu, 18 Jun 2026 10:00:00 +0000",
-        "url": "https://www.wired.com/story/locked-out-world-cup-america-visas-fans/",
-        "is_priority": false
-      },
-      {
-        "title": "Geoengineering still faces major practical challenges",
+        "title": "A startup claims it broke through a bottleneck that’s holding back LLMs",
         "source": "MIT Technology Review",
-        "published": "Thu, 18 Jun 2026 10:00:00 +0000",
-        "url": "https://www.technologyreview.com/2026/06/18/1139227/geoengineering-engineering-challenges/",
+        "published": "Fri, 19 Jun 2026 10:40:24 +0000",
+        "url": "https://www.technologyreview.com/2026/06/19/1139313/a-startup-claims-it-broke-through-a-bottleneck-thats-holding-back-llms/",
         "is_priority": false
       },
       {
-        "title": "The best LED face masks in the UK, tested: 11 light therapy devices that are worth the hype",
-        "source": "Technology | The Guardian",
-        "published": "Thu, 18 Jun 2026 09:54:10 GMT",
-        "url": "https://www.theguardian.com/thefilter/2025/sep/19/best-led-red-light-therapy-face-masks",
-        "is_priority": false
-      },
-      {
-        "title": "As India Temporarily Bans Telegram, Which Other Countries Have Restricted the Messaging App?",
-        "source": "NYT > Technology",
-        "published": "Thu, 18 Jun 2026 09:50:09 +0000",
-        "url": "https://www.nytimes.com/2026/06/18/technology/telegram-ban-india.html",
-        "is_priority": false
-      },
-      {
-        "title": "New Super PAC, the Guardrails Alliance, Aims to Rally Tech Workers to Help Limit A.I.",
-        "source": "NYT > Technology",
-        "published": "Thu, 18 Jun 2026 09:02:31 +0000",
-        "url": "https://www.nytimes.com/2026/06/18/technology/ai-super-pac-guardrails-alliance.html",
-        "is_priority": false
-      },
-      {
-        "title": "The Sperm-Maxxing Bros Are Actually Onto Something",
+        "title": "Try One of macOS 27’s Best Features Right Now",
         "source": "WIRED",
-        "published": "Thu, 18 Jun 2026 09:00:00 +0000",
-        "url": "https://www.wired.com/story/sperm-maxxing-wellness-bros-mens-health/",
+        "published": "Fri, 19 Jun 2026 10:30:00 +0000",
+        "url": "https://www.wired.com/story/try-one-of-macos-27s-best-features-right-now-shortcuts-playground-agent/",
         "is_priority": false
       },
       {
-        "title": "The search for dark matter has been blown wide open",
-        "source": "MIT Technology Review",
-        "published": "Thu, 18 Jun 2026 09:00:00 +0000",
-        "url": "https://www.technologyreview.com/2026/06/18/1138755/search-for-dark-matter-blown-wide-open/",
+        "title": "Pump.Fun’s Bounties Platform Is a Black Hole of Circular Grifting",
+        "source": "WIRED",
+        "published": "Fri, 19 Jun 2026 10:30:00 +0000",
+        "url": "https://www.wired.com/story/pumpfuns-bounties-platform-is-a-black-hole-of-circular-grifting/",
         "is_priority": false
       },
       {
-        "title": "I need your clothes, your boots, and your motorcycle",
+        "title": "Norway greenlights first full-scale ship tunnel",
         "source": "Hacker News: Front Page",
-        "published": "Thu, 18 Jun 2026 08:28:04 +0000",
-        "url": "https://rbelmont.mameworld.info/?p=1725",
+        "published": "Fri, 19 Jun 2026 10:16:10 +0000",
+        "url": "https://eandt.theiet.org/2026/06/18/norway-greenlights-world-s-first-full-scale-ship-tunnel",
         "is_priority": false
       },
       {
-        "title": "AMD silently removes memory encryption from consumer Ryzen CPUs",
-        "source": "Hacker News: Front Page",
-        "published": "Thu, 18 Jun 2026 08:08:00 +0000",
-        "url": "https://www.tomshardware.com/pc-components/cpus/amd-silently-removes-memory-encryption-from-consumer-ryzen-cpus-leaving-users-unaware-that-they-may-be-vulnerable-security-feature-vanishes-after-newer-agesa-firmware-amd-engineers-go-radio-silent-when-pressed-about-the-change",
+        "title": "The Best Fitness Trackers of 2026: Garmin, Google Fitbit, and More",
+        "source": "WIRED",
+        "published": "Fri, 19 Jun 2026 10:01:00 +0000",
+        "url": "https://www.wired.com/story/best-fitness-trackers/",
         "is_priority": false
       },
       {
-        "title": "Gig workers are endlessly exploited. AI could make more of us share their fate",
+        "title": "This World Cup, Bigger Might Not Really Be Better",
+        "source": "WIRED",
+        "published": "Fri, 19 Jun 2026 10:00:00 +0000",
+        "url": "https://www.wired.com/story/biggest-world-cup-travel-flights-hotels-costs/",
+        "is_priority": false
+      },
+      {
+        "title": "Prediction Market Philosophers Got What They Wanted. They’re Not Happy About It",
+        "source": "WIRED",
+        "published": "Fri, 19 Jun 2026 09:30:00 +0000",
+        "url": "https://www.wired.com/story/prediction-market-philosophers-got-what-they-wanted/",
+        "is_priority": false
+      },
+      {
+        "title": "An Open Strait of Hormuz Won’t Fix Gas Prices Overnight",
+        "source": "WIRED",
+        "published": "Fri, 19 Jun 2026 09:30:00 +0000",
+        "url": "https://www.wired.com/story/an-open-strait-of-hormuz-wont-fix-gas-prices-overnight/",
+        "is_priority": false
+      },
+      {
+        "title": "The Ageless and Undefeated Champs of Tulsa’s Wii Bowling League",
+        "source": "NYT > Technology",
+        "published": "Fri, 19 Jun 2026 09:01:54 +0000",
+        "url": "https://www.nytimes.com/2026/06/19/us/wii-bowling-uv-okies-tulsa.html",
+        "is_priority": false
+      },
+      {
+        "title": "‘They kill games, we fight back’: the activists campaigning to keep video games playable",
         "source": "Technology | The Guardian",
-        "published": "Thu, 18 Jun 2026 08:00:00 GMT",
-        "url": "https://www.theguardian.com/technology/2026/jun/18/ai-threatens-gig-work-rise",
+        "published": "Fri, 19 Jun 2026 09:00:27 GMT",
+        "url": "https://www.theguardian.com/games/2026/jun/19/stop-killing-games-activists-campaigning-online-gaming",
         "is_priority": false
       }
     ],
     "Automotive/Motorcycle": [
       {
-        "title": "Will Mercedes stop its drivers fighting now with Hamilton chasing?",
-        "source": "Autosport.com - All - Stories",
-        "published": "Thu, 18 Jun 2026 10:15:40 +0000",
-        "url": "https://www.autosport.com/f1/news/will-mercedes-stop-its-drivers-fighting-now-with-lewis-hamilton-chasing/10831166/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-ALL&utm_term=News&utm_content=uk",
-        "is_priority": false
-      },
-      {
-        "title": "Skipping The Ferrari Luce Could Cost Collectors The Cars They Really Want",
-        "source": "InsideEVs - Articles",
-        "published": "Thu, 18 Jun 2026 09:56:43 +0000",
-        "url": "https://insideevs.com/news/799116/ferrari-luce-ev-allocation-collectors/",
-        "is_priority": false
-      },
-      {
-        "title": "Burning Gas Pollutes So Much, Dirty EV Battery Manufacturing Evens Out In About 2 Years",
-        "source": "Jalopnik - Obsessed with the culture of cars",
-        "published": "Thu, 18 Jun 2026 09:25:00 +0000",
-        "url": "https://www.jalopnik.com/2196671/burning-gas-pollutes-evens-out-ev-battery-manufacturing-2-years/",
-        "is_priority": false
-      },
-      {
-        "title": "The Rivian R2 Matches The Tesla Model Y On Efficiency, Despite Weighing More",
-        "source": "InsideEVs - Articles",
-        "published": "Thu, 18 Jun 2026 09:20:06 +0000",
-        "url": "https://insideevs.com/news/799110/rivian-r2-tesla-model-y-efficiency-epa/",
-        "is_priority": false
-      },
-      {
-        "title": "Honda reveals new MotoGP team manager as Puig steps down",
-        "source": "Autosport.com - All - Stories",
-        "published": "Thu, 18 Jun 2026 09:00:06 +0000",
-        "url": "https://www.autosport.com/motogp/news/honda-reveals-new-motogp-team-manager-as-alberto-puig-steps-down/10831160/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-ALL&utm_term=News&utm_content=uk",
-        "is_priority": false
-      },
-      {
-        "title": "3000 miles in the boggo, petrol Mini",
+        "title": "EU could impose tariffs on plug-in hybrids from China",
         "source": "Autocar RSS Feed",
-        "published": "Thu, 18 Jun 2026 09:46:00 +0100",
-        "url": "https://www.autocar.co.uk/car-review/mini/cooper/long-term-reviews/3000-miles-boggo-petrol-mini",
+        "published": "Fri, 19 Jun 2026 11:49:13 +0100",
+        "url": "https://www.autocar.co.uk/car-news/business/eu-could-impose-tariffs-plug-hybrids-china",
         "is_priority": false
       },
       {
-        "title": "Maserati's Best Engine Isn't Going Anywhere—But It Is Going Hybrid",
-        "source": "Motor1.com - News",
-        "published": "Thu, 18 Jun 2026 08:30:00 +0000",
-        "url": "https://www.motor1.com/news/799058/maserati-nettuno-v6-hybrid/",
+        "title": "Electric Alpine A110 to make first outing at Goodwood FoS",
+        "source": "Autocar RSS Feed",
+        "published": "Fri, 19 Jun 2026 11:48:40 +0100",
+        "url": "https://www.autocar.co.uk/car-news/electric-cars/electric-alpine-a110-make-first-outing-goodwood-fos",
         "is_priority": false
       },
       {
-        "title": "Mitsubishi Dealers Say The Montero Is Finally Coming Back To America",
-        "source": "Motor1.com - News",
-        "published": "Thu, 18 Jun 2026 08:19:36 +0000",
-        "url": "https://www.motor1.com/news/799092/mitsubishi-us-dealers-montero-2030/",
-        "is_priority": false
-      },
-      {
-        "title": "Electrify America’s Next-Gen EV Charging Stations Are Bigger And Better",
+        "title": "Dacia’s Tiny EV Keeps Its Name, But Not Much Else",
         "source": "InsideEVs - Articles",
-        "published": "Thu, 18 Jun 2026 08:18:27 +0000",
-        "url": "https://insideevs.com/news/799100/electrify-america-large-format-ev-charging-station-battery-storage/",
+        "published": "Fri, 19 Jun 2026 10:36:50 +0000",
+        "url": "https://insideevs.com/news/799262/dacia-new-ev-spring-confirmed/",
         "is_priority": false
       },
       {
-        "title": "Maserati Isn't Giving Up On Sedans: 'We Are Developing A New Model'",
-        "source": "Motor1.com - News",
-        "published": "Thu, 18 Jun 2026 08:15:00 +0000",
-        "url": "https://www.motor1.com/news/799063/maserati-confirms-new-sedan/",
-        "is_priority": false
-      },
-      {
-        "title": "Guidotti joins Trackhouse as MotoGP team manager with immediate effect",
+        "title": "MotoGP’s own ‘Concorde Agreement’ is finally official",
         "source": "Autosport.com - All - Stories",
-        "published": "Thu, 18 Jun 2026 08:05:42 +0000",
-        "url": "https://www.autosport.com/motogp/news/francesco-guidotti-joins-trackhouse-as-motogp-team-manager-with-immediate-effect/10831148/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-ALL&utm_term=News&utm_content=uk",
+        "published": "Fri, 19 Jun 2026 10:32:11 +0000",
+        "url": "https://www.autosport.com/motogp/news/motogps-own-concorde-agreement-is-now-official/10831490/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-ALL&utm_term=News&utm_content=uk",
         "is_priority": false
       },
       {
-        "title": "2027 Maserati Grecale",
-        "source": "Latest Content - Car and Driver",
-        "published": "Thu, 18 Jun 2026 08:00:00 +0000",
-        "url": "https://www.caranddriver.com/maserati/grecale-2027",
+        "title": "The Brit kit that transforms classic 911 into a 12,000rpm monster",
+        "source": "Autocar RSS Feed",
+        "published": "Fri, 19 Jun 2026 11:00:00 +0100",
+        "url": "https://www.autocar.co.uk/car-news/technology/brit-kit-transforms-classic-911-12000rpm-monster",
         "is_priority": false
       },
       {
-        "title": "2027 Maserati Grecale Gets New Base Model, More Range for the EV",
-        "source": "Latest Content - Car and Driver",
-        "published": "Thu, 18 Jun 2026 08:00:00 +0000",
-        "url": "https://www.caranddriver.com/news/a71617188/2027-maserati-grecale-refresh-details/",
+        "title": "Mercedes explains why it won't challenge Russell's Monaco GP penalties",
+        "source": "Autosport.com - All - Stories",
+        "published": "Fri, 19 Jun 2026 09:33:41 +0000",
+        "url": "https://www.autosport.com/f1/news/mercedes-explains-why-it-wont-challenge-george-russells-monaco-penalties-after-all/10831481/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-ALL&utm_term=News&utm_content=uk",
         "is_priority": false
       },
       {
-        "title": "2027 Maserati GranTurismo Gets More Power and a Sharper Look",
-        "source": "Latest Content - Car and Driver",
-        "published": "Thu, 18 Jun 2026 08:00:00 +0000",
-        "url": "https://www.caranddriver.com/news/a71616982/2027-maserati-granturismo-refresh-details/",
+        "title": "If Safety Tech Isn't Most Responsible For Increasing Car Prices, What Is?",
+        "source": "Jalopnik - Obsessed with the culture of cars",
+        "published": "Fri, 19 Jun 2026 09:25:00 +0000",
+        "url": "https://www.jalopnik.com/2197410/whats-more-responsible-for-higher-car-prices-than-mandatory-safety-features/",
         "is_priority": false
       },
       {
-        "title": "Maserati's Lineup Is Getting A Big 2027 Update. Here's What's Changing",
+        "title": "Supercars Darwin: Waters takes first win of 2026 as Ford sweeps top five",
+        "source": "Autosport.com - All - Stories",
+        "published": "Fri, 19 Jun 2026 09:08:27 +0000",
+        "url": "https://www.autosport.com/supercars/news/supercars-darwin-cam-waters-takes-first-win-of-2026-as-ford-sweeps-top-five/10831467/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-ALL&utm_term=News&utm_content=uk",
+        "is_priority": false
+      },
+      {
+        "title": "Mercedes-Benz VLE review",
+        "source": "Autocar RSS Feed",
+        "published": "Fri, 19 Jun 2026 10:07:25 +0100",
+        "url": "https://www.autocar.co.uk/car-news/new-cars/mercedes-benz-vle-review",
+        "is_priority": false
+      },
+      {
+        "title": "What to expect – and what not to – from Red Bull's Austria upgrade",
+        "source": "Autosport.com - All - Stories",
+        "published": "Fri, 19 Jun 2026 08:34:22 +0000",
+        "url": "https://www.autosport.com/f1/news/what-to-expect-and-what-not-to-from-red-bulls-austria-upgrade/10831456/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-ALL&utm_term=News&utm_content=uk",
+        "is_priority": false
+      },
+      {
+        "title": "Strong Demand Pushes BMW To Launch The New i3 Earlier Than Planned",
         "source": "Motor1.com - News",
-        "published": "Thu, 18 Jun 2026 08:00:00 +0000",
-        "url": "https://www.motor1.com/news/799051/maserati-lineup-2027-update-changes/",
+        "published": "Fri, 19 Jun 2026 08:31:16 +0000",
+        "url": "https://www.motor1.com/news/799237/2026-bmw-i3-first-edition/",
+        "is_priority": false
+      },
+      {
+        "title": "After Toyota, Volkswagen Also Thinks It Has Too Many Models",
+        "source": "Motor1.com - News",
+        "published": "Fri, 19 Jun 2026 07:19:32 +0000",
+        "url": "https://www.motor1.com/news/799216/vw-group-simplify-lineup/",
+        "is_priority": false
+      },
+      {
+        "title": "View Exterior Photos of the 2028 Mercedes-Benz VLE-Class EV",
+        "source": "Latest Content - Car and Driver",
+        "published": "Fri, 19 Jun 2026 07:00:00 +0000",
+        "url": "https://www.caranddriver.com/photos/g71605534/2028-mercedes-benz-vle-class-ev-drive-exterior-gallery/",
+        "is_priority": false
+      },
+      {
+        "title": "View Interior Photos of the 2028 Mercedes-Benz VLE-Class EV",
+        "source": "Latest Content - Car and Driver",
+        "published": "Fri, 19 Jun 2026 07:00:00 +0000",
+        "url": "https://www.caranddriver.com/photos/g71605710/2028-mercedes-benz-vle-class-ev-drive-interior-gallery/",
+        "is_priority": false
+      },
+      {
+        "title": "2028 Mercedes-Benz VLE-Class First Drive: Don't Call It a Minivan",
+        "source": "Latest Content - Car and Driver",
+        "published": "Fri, 19 Jun 2026 07:00:00 +0000",
+        "url": "https://www.caranddriver.com/reviews/a71605316/2028-mercedes-benz-vle-class-ev-drive/",
         "is_priority": false
       }
     ],
     "Portugal": [
       {
-        "title": "Migrantes. França usará canhões de água. Reino Unido apoia",
-        "source": "Observador - Últimas",
-        "published": "Thu, 18 Jun 2026 12:04:57 +0100",
-        "url": "https://observador.pt/2026/06/18/franca-podera-usar-canhoes-de-agua-contra-imigrantes-que-cruzem-canal-da-mancha-medida-surge-com-apoio-do-reino-unido/",
-        "is_priority": true
-      },
-      {
-        "title": "Oitante dá 10 milhões em dividendos ao Fundo de Resolução. Admite dar mais",
+        "title": "Governo retira Código das Prestações Sociais das metas do PRR",
         "source": "Jornal de Negocios",
-        "published": "Thu, 18 Jun 2026 12:03:22 +0100",
-        "url": "https://www.jornaldenegocios.pt/empresas/banca---financas/detalhe/oitante-da-10-milhoes-em-dividendos-ao-fundo-de-resolucao-admite-dar-mais",
+        "published": "Fri, 19 Jun 2026 12:18:23 +0100",
+        "url": "https://www.jornaldenegocios.pt/economia/detalhe/governo-retira-codigo-das-prestacoes-sociais-das-metas-do-prr",
         "is_priority": true
       },
       {
-        "title": "As notícias das 12h",
-        "source": "Observador - Últimas",
-        "published": "Thu, 18 Jun 2026 12:01:49 +0100",
-        "url": "https://observador.pt/programas/noticiario/as-noticias-das-12h-2360/",
-        "is_priority": true
-      },
-      {
-        "title": "Combate à desigualdade salarial entre géneros exige mais do que leis",
+        "title": "Concorrência dá \"luz verde\" ao modelo de centralização dos direitos televisivos do futebol",
         "source": "Jornal de Negocios",
-        "published": "Thu, 18 Jun 2026 12:00:00 +0100",
-        "url": "https://www.jornaldenegocios.pt/economia/justica/lex/detalhe/combate-a-desigualdade-salarial-entre-generos-exige-mais-do-que-leis",
+        "published": "Fri, 19 Jun 2026 12:15:43 +0100",
+        "url": "https://www.jornaldenegocios.pt/empresas/detalhe/concorrencia-da-luz-verde-ao-modelo-de-centralizacao-dos-direitos-televisivos-do-futebol",
         "is_priority": true
       },
       {
-        "title": "Meta reforça controlos parentais com novas funcionalidades de IA",
+        "title": "12h. Irão decide suspender negociações com Estados Unidos",
+        "source": "Observador - Últimas",
+        "published": "Fri, 19 Jun 2026 12:14:46 +0100",
+        "url": "https://observador.pt/programas/noticiario/as-noticias-das-12h-2361/",
+        "is_priority": true
+      },
+      {
+        "title": "Ministro: Política agrícola comum da UE é \"importantíssima\"",
+        "source": "Observador - Últimas",
+        "published": "Fri, 19 Jun 2026 12:12:04 +0100",
+        "url": "https://observador.pt/2026/06/19/ministro-diz-ser-importantissimo-que-politica-agricola-continue-a-ser-comum/",
+        "is_priority": true
+      },
+      {
+        "title": "Governo vai rever taxas do contencioso tributário. “Sistema fiscal precisa de ser simplificado”",
         "source": "ECO",
-        "published": "Thu, 18 Jun 2026 10:59:55 +0000",
-        "url": "https://eco.sapo.pt/2026/06/18/meta-reforca-controlos-parentais-com-novas-funcionalidades-de-ia/",
+        "published": "Fri, 19 Jun 2026 11:09:21 +0000",
+        "url": "https://eco.sapo.pt/2026/06/19/governo-vai-rever-taxas-do-contencioso-tributario-sistema-fiscal-precisa-de-ser-simplificado/",
         "is_priority": true
       },
       {
-        "title": "El Corte Inglés prepara abertura de hotel de luxo em Madrid",
-        "source": "ECO",
-        "published": "Thu, 18 Jun 2026 10:57:42 +0000",
-        "url": "https://eco.sapo.pt/2026/06/18/el-corte-ingles-prepara-abertura-de-hotel-de-luxo-em-madrid/",
-        "is_priority": true
-      },
-      {
-        "title": "FIFA removeu 388 mil publicações abusivas em oito dias do Mundial",
+        "title": "Frederico Roque Pinho é o novo reforço do NOW",
         "source": "Correio da Manhã",
-        "published": "Thu, 18 Jun 2026 11:55:21 +0100",
-        "url": "https://www.cmjornal.pt/mais-cm/especiais/mundial-2026/detalhe/fifa-removeu-388-mil-publicacoes-abusivas-em-oito-dias-do-mundial",
+        "published": "Fri, 19 Jun 2026 12:09:11 +0100",
+        "url": "https://www.cmjornal.pt/tv-media/detalhe/frederico-roque-pinho-e-o-novo-reforco-do-now",
         "is_priority": true
       },
       {
-        "title": "Greve nas escolas não afeta exames nacionais",
-        "source": "Observador - Últimas",
-        "published": "Thu, 18 Jun 2026 11:52:26 +0100",
-        "url": "https://observador.pt/2026/06/18/greve-nas-escolas-encerra-alguns-establecimentos-mas-nao-afeta-exames-nacionais/",
+        "title": "Poluição interdita Praia de Santo Amaro de Oeiras",
+        "source": "Correio da Manhã",
+        "published": "Fri, 19 Jun 2026 12:08:20 +0100",
+        "url": "https://www.cmjornal.pt/cmtv/videos/detalhe/20260619-120821-poluicao-interdita-praia-de-santo-amaro-de-oeiras",
         "is_priority": true
       },
       {
-        "title": "Gripe A. Doentes e profissionais de saúde infetados",
-        "source": "Observador - Últimas",
-        "published": "Thu, 18 Jun 2026 11:51:43 +0100",
-        "url": "https://observador.pt/2026/06/18/gripe-a-doentes-e-profissionais-de-saude-em-hospital-no-funchal-infetados/",
+        "title": "AIMA condenada? Entenda decisão recente da Justiça obrigando agência portuguesa a atender imigrantes",
+        "source": "dn",
+        "published": "Fri, 19 Jun 2026 11:06:43 +0000",
+        "url": "https://dnbrasil.dn.pt/radar-dn-brasil/aima-condenada-entenda-deciso-recente-da-justia-obrigando-agncia-portuguesa-a-atender-imigrantes",
         "is_priority": true
+      },
+      {
+        "title": "Trump quer concentrar-se na Coreia do Norte",
+        "source": "Observador - Últimas",
+        "published": "Fri, 19 Jun 2026 12:04:52 +0100",
+        "url": "https://observador.pt/2026/06/19/trump-quer-concentrar-se-na-coreia-do-norte-apos-acordo-com-irao/",
+        "is_priority": true
+      },
+      {
+        "title": "Russian dissident artist Semyon Skrepezki murdered in Poland",
+        "source": "Deutsche Welle: DW.com - Europe",
+        "published": "2026-06-19T11:25:58.025534+00:00",
+        "url": "https://www.dw.com/en/russian-dissident-artist-semyon-skrepezki-murdered-in-poland/a-77612911?maca=en-rss-en-eu-2092-rdf",
+        "is_priority": false
+      },
+      {
+        "title": "Israel says it's cutting ties to EU's Kaja Kallas",
+        "source": "Deutsche Welle: DW.com - Europe",
+        "published": "2026-06-19T11:25:58.025559+00:00",
+        "url": "https://www.dw.com/en/israel-says-it-s-cutting-ties-to-eu-s-kaja-kallas/a-77605930?maca=en-rss-en-eu-2092-rdf",
+        "is_priority": false
       },
       {
         "title": "Poland: Arrest after Russian artist and Putin critic killed",
         "source": "Deutsche Welle: DW.com - Europe",
-        "published": "2026-06-18T11:10:13.629314+00:00",
+        "published": "2026-06-19T11:25:58.025573+00:00",
         "url": "https://www.dw.com/en/poland-arrest-after-russian-artist-and-putin-critic-killed/a-77602774?maca=en-rss-en-eu-2092-rdf",
         "is_priority": false
       },
       {
         "title": "How a Belarusian exile vanished in waters held by Russia",
         "source": "Deutsche Welle: DW.com - Europe",
-        "published": "2026-06-18T11:10:13.629342+00:00",
+        "published": "2026-06-19T11:25:58.025586+00:00",
         "url": "https://www.dw.com/en/how-a-belarusian-exile-vanished-in-waters-held-by-russia/a-77580696?maca=en-rss-en-eu-2092-rdf",
         "is_priority": false
       },
       {
         "title": "Is Russia heading for a fuel crisis?",
         "source": "Deutsche Welle: DW.com - Europe",
-        "published": "2026-06-18T11:10:13.629355+00:00",
+        "published": "2026-06-19T11:25:58.025598+00:00",
         "url": "https://www.dw.com/en/is-russia-heading-for-a-fuel-crisis/a-77579542?maca=en-rss-en-eu-2092-rdf",
         "is_priority": false
       },
       {
         "title": "Failed joint jet project highlights Europe's defense dilemma",
         "source": "Deutsche Welle: DW.com - Europe",
-        "published": "2026-06-18T11:10:13.629367+00:00",
+        "published": "2026-06-19T11:25:58.025610+00:00",
         "url": "https://www.dw.com/en/failed-joint-jet-project-highlights-europe-s-defense-dilemma/a-77572732?maca=en-rss-en-eu-2092-rdf",
-        "is_priority": false
-      },
-      {
-        "title": "How Germany and Poland rebooted relations 35 years ago",
-        "source": "Deutsche Welle: DW.com - Europe",
-        "published": "2026-06-18T11:10:13.629379+00:00",
-        "url": "https://www.dw.com/en/how-germany-and-poland-rebooted-relations-35-years-ago/a-77576779?maca=en-rss-en-eu-2092-rdf",
-        "is_priority": false
-      },
-      {
-        "title": "European Parliament approves US trade deal to lower tariffs",
-        "source": "Deutsche Welle: DW.com - Europe",
-        "published": "2026-06-18T11:10:13.629391+00:00",
-        "url": "https://www.dw.com/en/european-parliament-approves-us-trade-deal-to-lower-tariffs/a-77577033?maca=en-rss-en-eu-2092-rdf",
         "is_priority": false
       }
     ]

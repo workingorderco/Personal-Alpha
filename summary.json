@@ -1,8 +1,8 @@
 {
-  "global_theme": "Global financial markets are navigating geopolitical tensions in Ukraine and the Middle East, while central banks maintain cautious stances and AI continues to shape economic opportunities relevant for EU wealth creation.",
-  "market_mood": "Cautious Optimism",
-  "risk_signal": "Geopolitical instability, persistent inflation concerns, and potential AI-driven labor market disruption.",
-  "opportunity_signal": "AI integration and funding, nuclear energy advancements, and targeted consumer market opportunities.",
+  "global_theme": "Geopolitical tensions in the Middle East and evolving central bank policies are driving market volatility, impacting commodity prices and dollar sentiment, while the EU and Portugal grapple with economic and regulatory shifts.",
+  "market_mood": "Volatile & Unsettled",
+  "risk_signal": "Geopolitical Escalation & Rate Hike Jitters",
+  "opportunity_signal": "Targeted Digital Services & Market Realignments",
   "finance_sentiment": [
     {
       "i": 1,
@@ -10,11 +10,11 @@
     },
     {
       "i": 2,
-      "s": "+"
+      "s": "-"
     },
     {
       "i": 3,
-      "s": "-"
+      "s": "="
     },
     {
       "i": 4,
@@ -22,39 +22,39 @@
     },
     {
       "i": 5,
-      "s": "-"
+      "s": "+"
     },
     {
       "i": 6,
-      "s": "+"
+      "s": "-"
     },
     {
       "i": 7,
-      "s": "+"
+      "s": "="
     },
     {
       "i": 8,
-      "s": "+"
+      "s": "="
     },
     {
       "i": 9,
-      "s": "+"
+      "s": "-"
     },
     {
       "i": 10,
-      "s": "+"
+      "s": "="
     },
     {
       "i": 11,
-      "s": "-"
+      "s": "+"
     },
     {
       "i": 12,
-      "s": "-"
+      "s": "="
     },
     {
       "i": 13,
-      "s": "+"
+      "s": "-"
     },
     {
       "i": 14,
@@ -67,28 +67,28 @@
   ],
   "insights": {
     "g1": [
-      "Global interest rates are stable, but inflation remains a concern; monitor central bank policies closely for stability.",
-      "Stock market rebounds are possible, but selective investment in growth sectors like AI and nuclear is key for returns.",
-      "Consumer spending on essentials like cooling homes is high; be aware of cost-of-living impacts on client budgets.",
-      "Geopolitical events (Ukraine, Middle East) directly impact market stability; stay informed on conflicts and their effects.",
-      "Target growth markets like back-to-college; consider seasonal consumer spending trends for revenue diversification."
+      "Fed's hawkish stance is shifting USD sentiment, impacting international trade and investment flows.",
+      "Oil market volatility, driven by Persian Gulf supply and US-Iran truce, affects global energy costs.",
+      "Bitcoin's price sensitivity to geopolitical uncertainty and interest rate jitters demands careful monitoring.",
+      "Assess tax implications for inherited assets, crucial for long-term wealth management and education funding.",
+      "Monitor emerging market IPOs, like Jio in India, for potential high-growth investment opportunities."
     ],
     "g2": [
-      "AI continues to drive stock upgrades and new investment, suggesting high-demand tech skills for solopreneurs.",
-      "Understand AI's potential to automate tasks and impact labor, including leveraging tools for your own efficiency.",
-      "Explore tech solutions for cost reduction, suchs as drug repurposing, inspiring innovation in other sectors.",
-      "Learn about AI ethics and regulation with new PACs forming; this shapes the responsible tech landscape.",
-      "Develop skills in emerging tech sectors like nuclear energy supply chains for future, high-value opportunities."
+      "Balance AI tool use to avoid critical thinking degradation, ensuring human oversight in tasks.",
+      "Stay updated on LLM bottleneck breakthroughs to leverage advanced AI capabilities for business efficiency.",
+      "Explore new OS features or fitness trackers to boost personal productivity and well-being.",
+      "Understand 'solomaxxing' trends to better tailor digital products or services to independent professionals.",
+      "Support digital preservation efforts to ensure long-term access and sustainability of digital products."
     ],
     "g3": [
-      "Meta's AI control features highlight the need for digital literacy and safe online tools for solopreneurs in Portugal.",
-      "Portugal's local news focuses on social issues (wage inequality, strikes); be aware of the social climate for your business.",
-      "EU trade deals are being approved (US trade deal), potentially opening up new market access for your services.",
-      "Solopreneurs in Portugal should observe local spending trends and regulatory changes, like those impacting education.",
-      "Consider local tech adoption; new AI features from major players like Meta affect daily digital business operations."
+      "Portugal's tax simplification review offers a chance to optimize solopreneur financial management.",
+      "Monitor EU tariffs on Chinese EVs for potential impacts on local consumer markets and import costs.",
+      "AIMA agency challenges highlight opportunities for services assisting immigrants with Portuguese bureaucracy.",
+      "Leverage Portugal's EU membership for business stability despite broader European defense dilemmas.",
+      "Local environmental issues, like beach pollution, could inspire sustainable business or community initiatives."
     ]
   },
-  "learning_task": "Spend 30 minutes researching free AI tools for solopreneurs to automate administrative tasks or enhance digital marketing, directly applying AI momentum to your business.",
-  "biz_opportunity": "Offer AI-powered content automation and digital marketing strategy services to Portuguese small businesses, leveraging current AI momentum to boost their online presence efficiently.",
-  "built_at": "2026-06-18T11:10:29.644398+00:00"
+  "learning_task": "Research the implications of a strengthening US dollar on Portuguese business costs and international client payments.",
+  "biz_opportunity": "Offer bespoke digital tools or workshops helping solopreneurs navigate Portugal's new tax simplifications and AIMA agency processing delays, capitalizing on regulatory changes and high demand.",
+  "built_at": "2026-06-19T11:26:12.188242+00:00"
 }

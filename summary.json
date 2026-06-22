@@ -1,24 +1,24 @@
 {
-  "global_theme": "Geopolitical tensions surrounding US-Iran talks and UK political instability create global uncertainty, yet stable EU high-yield rates offer a secure foundation for wealth growth.",
-  "market_mood": "Uncertainty with Pockets of Stability",
-  "risk_signal": "Escalating Middle East tensions & UK political volatility.",
-  "opportunity_signal": "Stable high-yield savings & emerging AI marketing tools.",
+  "global_theme": "Political instability in the UK and geopolitical shifts influencing energy markets contrast with sustained global investment in tech infrastructure and corporate consolidation.",
+  "market_mood": "Cautiously Optimistic",
+  "risk_signal": "UK Political Instability",
+  "opportunity_signal": "Tech Infrastructure Boom",
   "finance_sentiment": [
     {
       "i": 1,
-      "s": "-"
+      "s": "+"
     },
     {
       "i": 2,
-      "s": "-"
+      "s": "+"
     },
     {
       "i": 3,
-      "s": "-"
+      "s": "="
     },
     {
       "i": 4,
-      "s": "="
+      "s": "-"
     },
     {
       "i": 5,
@@ -26,11 +26,11 @@
     },
     {
       "i": 6,
-      "s": "+"
+      "s": "="
     },
     {
       "i": 7,
-      "s": "+"
+      "s": "="
     },
     {
       "i": 8,
@@ -38,7 +38,7 @@
     },
     {
       "i": 9,
-      "s": "-"
+      "s": "="
     },
     {
       "i": 10,
@@ -54,41 +54,41 @@
     },
     {
       "i": 13,
-      "s": "-"
+      "s": "="
     },
     {
       "i": 14,
-      "s": "="
+      "s": "+"
     },
     {
       "i": 15,
-      "s": "="
+      "s": "+"
     }
   ],
   "insights": {
     "g1": [
-      "Leverage Portugal's access to high-yield EU savings for secure capital growth.",
-      "Monitor Middle East tensions; oil price spikes impact operational costs.",
-      "Track UK political shifts; potential ripple effects on EU economic stability.",
-      "Higher mortgage rates signal a tighter credit market, influencing investment decisions.",
-      "China's oil reserves highlight global energy shifts, affecting supply chain resilience."
+      "Global energy prices are volatile, directly impacting operational costs for solopreneurs and requiring budget flexibility.",
+      "Political instability, like the UK PM's resignation, signals market uncertainty and potential ripple effects.",
+      "Significant corporate M&A activity demonstrates sector consolidation and investment confidence in growth areas.",
+      "Trucking industry rebound suggests broader economic recovery and improved supply chain reliability for goods and services.",
+      "Fed policies continue to shape market conditions, necessitating careful financial planning and investment strategy."
     ],
     "g2": [
-      "Explore AI-generated influencers for cost-effective social media marketing campaigns.",
-      "Understand agentic AI systems for future automation of business processes.",
-      "Prioritize robust Windows/Linux security practices for data protection.",
-      "Familiarize with IPv6 adoption for designing future-proof web services.",
-      "Develop critical thinking to evaluate AI-generated code for quality and reliability."
+      "Huge investment in data centers globally confirms immense demand for digital and AI infrastructure capabilities.",
+      "Europe prioritizing its own AI stack creates local opportunities for specialized development and service providers.",
+      "Innovation in flexible data centers and subsea tunnels improves global connectivity, boosting remote work potential.",
+      "Emerging tools like Manticore Search and Deno Desktop offer powerful avenues for enhanced productivity and development.",
+      "Evaluating efficient coding practices beyond \"vibe-coding\" can significantly improve software quality and development speed."
     ],
     "g3": [
-      "Portugal's growing hotel market offers opportunities for local service provision.",
-      "Major events like Rock in Rio create demand for event-related solopreneur services.",
-      "Monitor local elections and policy changes for their impact on business environment.",
-      "Portugal's position in the EU EV market can open related B2B service niches.",
-      "Stay informed on EU-level geopolitical news affecting regional stability and trade."
+      "Portugal's investment in better internet (Starlink for CP) directly improves remote work and digital business reliability.",
+      "EU's AI infrastructure push provides a strategic framework for Portuguese solopreneurs to specialize and grow.",
+      "UK's political churn emphasizes the value of market stability for long-term business planning within the EU.",
+      "New cybersecurity regulations in Portugal (CNCS) create immediate demand for compliance and security consultancy services.",
+      "Assessing budget airline model struggles could inform travel-related service offerings and strategic partnerships within Europe."
     ]
   },
-  "learning_task": "Spend 30 minutes researching EU high-yield savings accounts and CD laddering strategies to securely grow your initial capital for the €35k goal.",
-  "biz_opportunity": "Offer AI-enhanced content creation and social media management for Portuguese small businesses, capitalizing on the rise of AI influencers and local event marketing needs.",
-  "built_at": "2026-06-21T10:33:52.140319+00:00"
+  "learning_task": "Research EU grants and funding opportunities for solopreneurs in AI or digital infrastructure to align with regional priorities and secure initial capital.",
+  "biz_opportunity": "Offer specialized cybersecurity consulting services for small to medium Portuguese businesses, helping them navigate new CNCS regulations, because the local market needs expertise to comply with evolving digital security laws now.",
+  "built_at": "2026-06-22T12:52:09.133203+00:00"
 }

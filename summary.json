@@ -1,16 +1,16 @@
 {
-  "global_theme": "Political instability in the UK and geopolitical shifts influencing energy markets contrast with sustained global investment in tech infrastructure and corporate consolidation.",
-  "market_mood": "Cautiously Optimistic",
-  "risk_signal": "UK Political Instability",
-  "opportunity_signal": "Tech Infrastructure Boom",
+  "global_theme": "Global markets face a tech-driven sell-off and AI-related job disruption, while the EU progresses on digital currency and scrutinizes big tech, all amidst an intense European heatwave.",
+  "market_mood": "Cautious / Risk-Off",
+  "risk_signal": "Tech sector downturn; AI-driven layoffs",
+  "opportunity_signal": "Digital Euro rollout; AI adoption efficiencies",
   "finance_sentiment": [
     {
       "i": 1,
-      "s": "+"
+      "s": "-"
     },
     {
       "i": 2,
-      "s": "+"
+      "s": "-"
     },
     {
       "i": 3,
@@ -18,15 +18,15 @@
     },
     {
       "i": 4,
-      "s": "-"
+      "s": "="
     },
     {
       "i": 5,
-      "s": "="
+      "s": "-"
     },
     {
       "i": 6,
-      "s": "="
+      "s": "-"
     },
     {
       "i": 7,
@@ -34,7 +34,7 @@
     },
     {
       "i": 8,
-      "s": "="
+      "s": "+"
     },
     {
       "i": 9,
@@ -42,7 +42,7 @@
     },
     {
       "i": 10,
-      "s": "+"
+      "s": "-"
     },
     {
       "i": 11,
@@ -50,7 +50,7 @@
     },
     {
       "i": 12,
-      "s": "="
+      "s": "+"
     },
     {
       "i": 13,
@@ -58,7 +58,7 @@
     },
     {
       "i": 14,
-      "s": "+"
+      "s": "="
     },
     {
       "i": 15,
@@ -67,28 +67,28 @@
   ],
   "insights": {
     "g1": [
-      "Global energy prices are volatile, directly impacting operational costs for solopreneurs and requiring budget flexibility.",
-      "Political instability, like the UK PM's resignation, signals market uncertainty and potential ripple effects.",
-      "Significant corporate M&A activity demonstrates sector consolidation and investment confidence in growth areas.",
-      "Trucking industry rebound suggests broader economic recovery and improved supply chain reliability for goods and services.",
-      "Fed policies continue to shape market conditions, necessitating careful financial planning and investment strategy."
+      "Global tech sell-off shows market volatility; Alex should understand market cycles for future wealth growth, even without current investments.",
+      "AI-driven layoffs mean Alex must acquire skills that AI enhances, not replaces, to remain competitive and valued.",
+      "Digital Euro progress simplifies EU transactions, crucial for Alex's solopreneur business operating across borders.",
+      "Innovative QR code prescription savings highlight opportunities for Alex to find and deliver niche value solutions.",
+      "Decelerating Portuguese house prices might affect local purchasing power, influencing Alex's service pricing or market approach."
     ],
     "g2": [
-      "Huge investment in data centers globally confirms immense demand for digital and AI infrastructure capabilities.",
-      "Europe prioritizing its own AI stack creates local opportunities for specialized development and service providers.",
-      "Innovation in flexible data centers and subsea tunnels improves global connectivity, boosting remote work potential.",
-      "Emerging tools like Manticore Search and Deno Desktop offer powerful avenues for enhanced productivity and development.",
-      "Evaluating efficient coding practices beyond \"vibe-coding\" can significantly improve software quality and development speed."
+      "Oracle's AI layoffs underscore the urgent need for Alex to integrate AI tools to automate tasks and improve efficiency.",
+      "\"Global hiring\" for European businesses allows Alex to tap international talent or offer remote services widely.",
+      "The warning of an \"AI crisis\" means Alex must responsibly adopt AI, understanding its ethical implications and practical limits.",
+      "Reliable tech like the HP OmniBook Ultra supports sustained productivity for Alex, prioritizing stability over bleeding edge.",
+      "Prime Day deals for smart home tech offer Alex inspiration for service offerings like tech integration or smart solutions."
     ],
     "g3": [
-      "Portugal's investment in better internet (Starlink for CP) directly improves remote work and digital business reliability.",
-      "EU's AI infrastructure push provides a strategic framework for Portuguese solopreneurs to specialize and grow.",
-      "UK's political churn emphasizes the value of market stability for long-term business planning within the EU.",
-      "New cybersecurity regulations in Portugal (CNCS) create immediate demand for compliance and security consultancy services.",
-      "Assessing budget airline model struggles could inform travel-related service offerings and strategic partnerships within Europe."
+      "Portugal's slowing house price growth may signal broader economic shifts impacting local client budgets and demand.",
+      "EU's Meta probe highlights the importance of ethical digital presence and data privacy for Alex's online operations.",
+      "The Digital Euro's approval eases EU transactions, making cross-border freelancing and payments simpler for Alex.",
+      "Understanding European political shifts like UK leadership bids helps Alex anticipate market changes or client needs.",
+      "European businesses leveraging global hiring means Alex can offer specialized services remotely to a broader EU client base."
     ]
   },
-  "learning_task": "Research EU grants and funding opportunities for solopreneurs in AI or digital infrastructure to align with regional priorities and secure initial capital.",
-  "biz_opportunity": "Offer specialized cybersecurity consulting services for small to medium Portuguese businesses, helping them navigate new CNCS regulations, because the local market needs expertise to comply with evolving digital security laws now.",
-  "built_at": "2026-06-22T12:52:09.133203+00:00"
+  "learning_task": "Spend 30 minutes researching free AI tools for solopreneurs to automate routine tasks, boosting efficiency for your €35k goal.",
+  "biz_opportunity": "Offer AI-powered efficiency consulting to small European businesses struggling with tech disruption, leveraging the immediate need for adaptation highlighted by recent tech layoffs.",
+  "built_at": "2026-06-23T10:38:04.207902+00:00"
 }

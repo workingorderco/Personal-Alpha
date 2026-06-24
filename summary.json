@@ -1,16 +1,16 @@
 {
-  "global_theme": "Global markets face a tech-driven sell-off and AI-related job disruption, while the EU progresses on digital currency and scrutinizes big tech, all amidst an intense European heatwave.",
-  "market_mood": "Cautious / Risk-Off",
-  "risk_signal": "Tech sector downturn; AI-driven layoffs",
-  "opportunity_signal": "Digital Euro rollout; AI adoption efficiencies",
+  "global_theme": "The global economy is navigating AI-driven market volatility, climate challenges like heatwaves across Europe, and political shifts, while the EU pushes for administrative simplification and energy transition.",
+  "market_mood": "Mixed, with tech rebound amidst AI volatility",
+  "risk_signal": "AI trade volatility, global heatwaves, increased regulatory scrutiny",
+  "opportunity_signal": "Tech rebound, EU simplification, energy transition, AI integration",
   "finance_sentiment": [
     {
       "i": 1,
-      "s": "-"
+      "s": "+"
     },
     {
       "i": 2,
-      "s": "-"
+      "s": "+"
     },
     {
       "i": 3,
@@ -22,11 +22,11 @@
     },
     {
       "i": 5,
-      "s": "-"
+      "s": "="
     },
     {
       "i": 6,
-      "s": "-"
+      "s": "="
     },
     {
       "i": 7,
@@ -34,11 +34,11 @@
     },
     {
       "i": 8,
-      "s": "+"
+      "s": "="
     },
     {
       "i": 9,
-      "s": "="
+      "s": "-"
     },
     {
       "i": 10,
@@ -46,11 +46,11 @@
     },
     {
       "i": 11,
-      "s": "="
+      "s": "-"
     },
     {
       "i": 12,
-      "s": "+"
+      "s": "-"
     },
     {
       "i": 13,
@@ -62,33 +62,33 @@
     },
     {
       "i": 15,
-      "s": "+"
+      "s": "="
     }
   ],
   "insights": {
     "g1": [
-      "Global tech sell-off shows market volatility; Alex should understand market cycles for future wealth growth, even without current investments.",
-      "AI-driven layoffs mean Alex must acquire skills that AI enhances, not replaces, to remain competitive and valued.",
-      "Digital Euro progress simplifies EU transactions, crucial for Alex's solopreneur business operating across borders.",
-      "Innovative QR code prescription savings highlight opportunities for Alex to find and deliver niche value solutions.",
-      "Decelerating Portuguese house prices might affect local purchasing power, influencing Alex's service pricing or market approach."
+      "AI market volatility requires careful investment or project funding strategies.",
+      "Tech stock rebound may signal a broader market uptick to leverage.",
+      "Global climate events like heatwaves can disrupt supply chains and local business.",
+      "EU fiscal simplification reduces administrative burden for new Portuguese businesses.",
+      "Increased regulatory scrutiny (US SEC) emphasizes compliance in financial endeavors."
     ],
     "g2": [
-      "Oracle's AI layoffs underscore the urgent need for Alex to integrate AI tools to automate tasks and improve efficiency.",
-      "\"Global hiring\" for European businesses allows Alex to tap international talent or offer remote services widely.",
-      "The warning of an \"AI crisis\" means Alex must responsibly adopt AI, understanding its ethical implications and practical limits.",
-      "Reliable tech like the HP OmniBook Ultra supports sustained productivity for Alex, prioritizing stability over bleeding edge.",
-      "Prime Day deals for smart home tech offer Alex inspiration for service offerings like tech integration or smart solutions."
+      "Embrace hybrid AI-human workflows for efficiency in your solopreneur operations.",
+      "AI's growing power demand highlights opportunities in energy-efficient tech or consulting.",
+      "Leverage Prime Day deals for essential solopreneur tech upgrades smartly.",
+      "Explore how advanced internet tech (solar platforms) could shape future service delivery.",
+      "Understand AI bubble warnings to make sustainable tech adoption choices."
     ],
     "g3": [
-      "Portugal's slowing house price growth may signal broader economic shifts impacting local client budgets and demand.",
-      "EU's Meta probe highlights the importance of ethical digital presence and data privacy for Alex's online operations.",
-      "The Digital Euro's approval eases EU transactions, making cross-border freelancing and payments simpler for Alex.",
-      "Understanding European political shifts like UK leadership bids helps Alex anticipate market changes or client needs.",
-      "European businesses leveraging global hiring means Alex can offer specialized services remotely to a broader EU client base."
+      "Portugal's energy transition creates demand for skilled labor Alex could offer.",
+      "EU efforts to simplify bureaucracy can directly lower Alex's operational costs.",
+      "European heatwaves drive demand for local climate resilience services or products.",
+      "Understanding local incidents (Matosinhos fire) informs risk assessment for operations.",
+      "Focus on resource efficiency aligns with both EU goals and lean solopreneurship."
     ]
   },
-  "learning_task": "Spend 30 minutes researching free AI tools for solopreneurs to automate routine tasks, boosting efficiency for your €35k goal.",
-  "biz_opportunity": "Offer AI-powered efficiency consulting to small European businesses struggling with tech disruption, leveraging the immediate need for adaptation highlighted by recent tech layoffs.",
-  "built_at": "2026-06-23T10:38:04.207902+00:00"
+  "learning_task": "Dedicate 30 minutes to research EU grants and national Portuguese incentives for energy efficiency and digital transformation relevant to solopreneurs.",
+  "biz_opportunity": "Offer AI-powered energy efficiency consulting to small businesses and homeowners in Portugal, capitalizing on current European heatwaves, Portugal's energy transition goals, and EU simplification efforts.",
+  "built_at": "2026-06-24T10:24:46.088164+00:00"
 }

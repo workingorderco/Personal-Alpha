@@ -1,12 +1,12 @@
 {
-  "global_theme": "The global economy is navigating AI-driven market volatility, climate challenges like heatwaves across Europe, and political shifts, while the EU pushes for administrative simplification and energy transition.",
-  "market_mood": "Mixed, with tech rebound amidst AI volatility",
-  "risk_signal": "AI trade volatility, global heatwaves, increased regulatory scrutiny",
-  "opportunity_signal": "Tech rebound, EU simplification, energy transition, AI integration",
+  "global_theme": "AI-driven technological growth is a dominant force for wealth creation, while Europe grapples with climate extremes and ongoing geopolitical tensions.",
+  "market_mood": "Tech-Driven Optimism",
+  "risk_signal": "Elevated Geopolitical & Climate Risks",
+  "opportunity_signal": "AI Innovation & Secure Capital Growth",
   "finance_sentiment": [
     {
       "i": 1,
-      "s": "+"
+      "s": "="
     },
     {
       "i": 2,
@@ -18,27 +18,27 @@
     },
     {
       "i": 4,
-      "s": "="
+      "s": "+"
     },
     {
       "i": 5,
-      "s": "="
+      "s": "-"
     },
     {
       "i": 6,
-      "s": "="
+      "s": "+"
     },
     {
       "i": 7,
-      "s": "="
+      "s": "+"
     },
     {
       "i": 8,
-      "s": "="
+      "s": "+"
     },
     {
       "i": 9,
-      "s": "-"
+      "s": "+"
     },
     {
       "i": 10,
@@ -46,15 +46,15 @@
     },
     {
       "i": 11,
-      "s": "-"
+      "s": "="
     },
     {
       "i": 12,
-      "s": "-"
+      "s": "+"
     },
     {
       "i": 13,
-      "s": "="
+      "s": "+"
     },
     {
       "i": 14,
@@ -67,28 +67,33 @@
   ],
   "insights": {
     "g1": [
-      "AI market volatility requires careful investment or project funding strategies.",
-      "Tech stock rebound may signal a broader market uptick to leverage.",
-      "Global climate events like heatwaves can disrupt supply chains and local business.",
-      "EU fiscal simplification reduces administrative burden for new Portuguese businesses.",
-      "Increased regulatory scrutiny (US SEC) emphasizes compliance in financial endeavors."
+      "Capitalize on 4%+ high-yield savings and CDs to securely grow initial funds before major investments.",
+      "The surging AI sector (Micron, NVIDIA, Intel) indicates strong market demand for AI-related services Alex could offer.",
+      "Monitor geopolitical tensions (Taiwan, Ukraine) as they can introduce market volatility affecting future business planning.",
+      "Lower mortgage rates could signal favorable conditions for future business property acquisition or expansion loans.",
+      "The cooling gold/silver market implies investors are seeking growth in other sectors, reinforcing tech focus for Alex.",
+      "High-yield savings and CD rates at 4%+ offer Alex secure, passive growth for early capital.",
+      "AI sector is booming (Micron, NVIDIA, Intel), signaling strong investment opportunities. Alex should watch for service needs.",
+      "Geopolitical tensions (Taiwan, Ukraine) introduce market volatility, demanding cautious financial planning.",
+      "Lower mortgage rates could signal better borrowing conditions for future business expansion or asset acquisition.",
+      "Precious metals losing shimmer suggests a shift towards growth assets, aligning with tech optimism."
     ],
     "g2": [
-      "Embrace hybrid AI-human workflows for efficiency in your solopreneur operations.",
-      "AI's growing power demand highlights opportunities in energy-efficient tech or consulting.",
-      "Leverage Prime Day deals for essential solopreneur tech upgrades smartly.",
-      "Explore how advanced internet tech (solar platforms) could shape future service delivery.",
-      "Understand AI bubble warnings to make sustainable tech adoption choices."
+      "Explore AI companion apps, like Facebook's Creator Studio revival, to streamline content creation and marketing efforts.",
+      "Research new AI tools and frameworks, given the massive market growth and innovation in the sector.",
+      "Investigate sustainable tech solutions for datacenters, as climate-related legal cases highlight this growing need.",
+      "Study how large tech raises (e.g., Alan's €480m) attract capital, potentially informing future funding strategies.",
+      "Develop skills in AI integration to automate operational tasks, freeing up Alex's time for strategic growth."
     ],
     "g3": [
-      "Portugal's energy transition creates demand for skilled labor Alex could offer.",
-      "EU efforts to simplify bureaucracy can directly lower Alex's operational costs.",
-      "European heatwaves drive demand for local climate resilience services or products.",
-      "Understanding local incidents (Matosinhos fire) informs risk assessment for operations.",
-      "Focus on resource efficiency aligns with both EU goals and lean solopreneurship."
+      "Investigate changes in Portugal's state collection networks for potential impacts on local business compliance.",
+      "Research EU Scaleup Fund opportunities, as British Business Bank shows interest in cross-border investments.",
+      "Network with local legal services (KPMG Law) to ensure Alex's solopreneur venture is legally sound in Portugal.",
+      "Consider local service opportunities related to climate resilience in Europe, given the extreme heat warnings.",
+      "Explore local Portuguese talent for potential future hires, leveraging evolving worker rights in digital spaces."
     ]
   },
-  "learning_task": "Dedicate 30 minutes to research EU grants and national Portuguese incentives for energy efficiency and digital transformation relevant to solopreneurs.",
-  "biz_opportunity": "Offer AI-powered energy efficiency consulting to small businesses and homeowners in Portugal, capitalizing on current European heatwaves, Portugal's energy transition goals, and EU simplification efforts.",
-  "built_at": "2026-06-24T10:24:46.088164+00:00"
+  "learning_task": "Spend 30 minutes researching free AI tools that can automate aspects of Alex's solopreneur workflow, focusing on productivity gains to accelerate the €35k goal.",
+  "biz_opportunity": "Offer AI-powered efficiency consulting to Portuguese solopreneurs and small businesses, leveraging the current boom in AI innovation and high demand for operational streamlining.",
+  "built_at": "2026-06-25T10:16:55.329991+00:00"
 }

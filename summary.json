@@ -1,36 +1,36 @@
 {
-  "global_theme": "AI-driven technological growth is a dominant force for wealth creation, while Europe grapples with climate extremes and ongoing geopolitical tensions.",
-  "market_mood": "Tech-Driven Optimism",
-  "risk_signal": "Elevated Geopolitical & Climate Risks",
-  "opportunity_signal": "AI Innovation & Secure Capital Growth",
+  "global_theme": "A significant global tech market downturn and an intense European heatwave are dominant narratives, while Portugal experiences accelerating property valuations and rising cost of living.",
+  "market_mood": "Risk-Off",
+  "risk_signal": "Continued tech sector sell-off and potential for rising interest rates.",
+  "opportunity_signal": "High-yield savings rates and strategic long-term sector investments.",
   "finance_sentiment": [
     {
       "i": 1,
-      "s": "="
-    },
-    {
-      "i": 2,
-      "s": "+"
-    },
-    {
-      "i": 3,
-      "s": "="
-    },
-    {
-      "i": 4,
-      "s": "+"
-    },
-    {
-      "i": 5,
       "s": "-"
     },
     {
-      "i": 6,
+      "i": 2,
+      "s": "="
+    },
+    {
+      "i": 3,
+      "s": "-"
+    },
+    {
+      "i": 4,
+      "s": "="
+    },
+    {
+      "i": 5,
       "s": "+"
     },
     {
+      "i": 6,
+      "s": "="
+    },
+    {
       "i": 7,
-      "s": "+"
+      "s": "="
     },
     {
       "i": 8,
@@ -38,7 +38,7 @@
     },
     {
       "i": 9,
-      "s": "+"
+      "s": "="
     },
     {
       "i": 10,
@@ -46,7 +46,7 @@
     },
     {
       "i": 11,
-      "s": "="
+      "s": "+"
     },
     {
       "i": 12,
@@ -54,46 +54,41 @@
     },
     {
       "i": 13,
-      "s": "+"
+      "s": "="
     },
     {
       "i": 14,
-      "s": "="
+      "s": "-"
     },
     {
       "i": 15,
-      "s": "="
+      "s": "+"
     }
   ],
   "insights": {
     "g1": [
-      "Capitalize on 4%+ high-yield savings and CDs to securely grow initial funds before major investments.",
-      "The surging AI sector (Micron, NVIDIA, Intel) indicates strong market demand for AI-related services Alex could offer.",
-      "Monitor geopolitical tensions (Taiwan, Ukraine) as they can introduce market volatility affecting future business planning.",
-      "Lower mortgage rates could signal favorable conditions for future business property acquisition or expansion loans.",
-      "The cooling gold/silver market implies investors are seeking growth in other sectors, reinforcing tech focus for Alex.",
-      "High-yield savings and CD rates at 4%+ offer Alex secure, passive growth for early capital.",
-      "AI sector is booming (Micron, NVIDIA, Intel), signaling strong investment opportunities. Alex should watch for service needs.",
-      "Geopolitical tensions (Taiwan, Ukraine) introduce market volatility, demanding cautious financial planning.",
-      "Lower mortgage rates could signal better borrowing conditions for future business expansion or asset acquisition.",
-      "Precious metals losing shimmer suggests a shift towards growth assets, aligning with tech optimism."
+      "Global tech stocks face a significant sell-off due to AI uncertainty, impacting investment portfolios.",
+      "High-yield savings accounts offering up to 4.10% APY provide a secure capital growth option.",
+      "Rising interest rates from the Fed could impact future borrowing costs for business expansion.",
+      "Monitor global supply chain indicators; airline orders suggest future economic activity.",
+      "Diversify investment strategy beyond volatile tech sectors to protect your capital."
     ],
     "g2": [
-      "Explore AI companion apps, like Facebook's Creator Studio revival, to streamline content creation and marketing efforts.",
-      "Research new AI tools and frameworks, given the massive market growth and innovation in the sector.",
-      "Investigate sustainable tech solutions for datacenters, as climate-related legal cases highlight this growing need.",
-      "Study how large tech raises (e.g., Alan's €480m) attract capital, potentially informing future funding strategies.",
-      "Develop skills in AI integration to automate operational tasks, freeing up Alex's time for strategic growth."
+      "Understand the implications of AI uncertainty on tech valuations and future market trends.",
+      "Leverage Prime Day sale trends to analyze consumer purchasing behavior and market demand.",
+      "Heatwaves highlight a growing need for resilient tech infrastructure and cooling solutions.",
+      "Explore skill development in data analysis to better interpret market shifts and opportunities.",
+      "Consider no-code or AI-powered tools to enhance solopreneur efficiency amidst market changes."
     ],
     "g3": [
-      "Investigate changes in Portugal's state collection networks for potential impacts on local business compliance.",
-      "Research EU Scaleup Fund opportunities, as British Business Bank shows interest in cross-border investments.",
-      "Network with local legal services (KPMG Law) to ensure Alex's solopreneur venture is legally sound in Portugal.",
-      "Consider local service opportunities related to climate resilience in Europe, given the extreme heat warnings.",
-      "Explore local Portuguese talent for potential future hires, leveraging evolving worker rights in digital spaces."
+      "Portuguese property values and rents continue to surge, impacting living and business costs.",
+      "Extreme European heatwaves pose operational challenges for businesses across the region.",
+      "Local infrastructure improvements, like robotic surgery in Algarve, signal advanced capabilities.",
+      "Develop a contingency plan for climate impacts on your Portugal-based business operations.",
+      "Explore local services catering to residents struggling with Portugal's rising cost of living."
     ]
   },
-  "learning_task": "Spend 30 minutes researching free AI tools that can automate aspects of Alex's solopreneur workflow, focusing on productivity gains to accelerate the €35k goal.",
-  "biz_opportunity": "Offer AI-powered efficiency consulting to Portuguese solopreneurs and small businesses, leveraging the current boom in AI innovation and high demand for operational streamlining.",
-  "built_at": "2026-06-25T10:16:55.329991+00:00"
+  "learning_task": "Spend 30 minutes researching different types of high-yield savings accounts available in Portugal or the EU, comparing their rates and terms to optimize your personal capital growth and meet your €35k goal.",
+  "biz_opportunity": "Offer climate resilience consulting services to Portuguese small businesses (e.g., hospitality, agriculture) struggling with heatwave impacts, by providing practical solutions for operational continuity and energy efficiency given the urgent demand.",
+  "built_at": "2026-06-26T10:24:42.174943+00:00"
 }

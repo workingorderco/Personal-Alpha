@@ -1,538 +1,538 @@
 {
-  "built_at": "2026-06-25T10:16:55.329991+00:00",
+  "built_at": "2026-06-26T10:24:42.174943+00:00",
   "sections": {
     "Finance": [
       {
-        "title": "Annuity options are growing in 401(k)s, but adoption remains limited",
+        "title": "Micron falls 5% in premarket, paring earlier gains amid tech rout",
         "source": "US Top News and Analysis",
-        "published": "Thu, 25 Jun 2026 10:12:21 GMT",
-        "url": "https://www.cnbc.com/2026/06/25/annuity-options-are-growing-in-401ks-but-adoption-remains-limited.html",
+        "published": "Fri, 26 Jun 2026 10:18:44 GMT",
+        "url": "https://www.cnbc.com/2026/06/26/micron-stock-earnings-tech-selloff-ai.html",
         "is_priority": false
       },
       {
-        "title": "Micron Delivers the AI Reassurance Wall Street Was Craving",
-        "source": "Bloomberg Markets",
-        "published": "Thu, 25 Jun 2026 10:10:29 GMT",
-        "url": "https://www.bloomberg.com/news/newsletters/2026-06-25/micron-delivers-the-ai-reassurance-wall-street-was-craving",
-        "is_priority": false
-      },
-      {
-        "title": "Chevron CFO says gas prices will normalize after Trump presses Big Oil",
-        "source": "US Top News and Analysis",
-        "published": "Thu, 25 Jun 2026 10:05:59 GMT",
-        "url": "https://www.cnbc.com/2026/06/25/chevron-gas-prices-trump-big-oil.html",
-        "is_priority": false
-      },
-      {
-        "title": "Micron stock jumps over 16% in premarket trading after blockbuster earnings",
-        "source": "US Top News and Analysis",
-        "published": "Thu, 25 Jun 2026 10:01:47 GMT",
-        "url": "https://www.cnbc.com/2026/06/25/micron-stock-3q-earnings-memory.html",
-        "is_priority": false
-      },
-      {
-        "title": "Gold hovers around $4,000, silver holds below $60 — has the shimmer worn off the precious metal rally?",
-        "source": "US Top News and Analysis",
-        "published": "Thu, 25 Jun 2026 10:00:29 GMT",
-        "url": "https://www.cnbc.com/2026/06/25/gold-silver-price-rally-invest-interest-rates.html",
-        "is_priority": false
-      },
-      {
-        "title": "Best high-yield savings interest rates today, Thursday, June 25, 2026: Top account pays 4.10% APY",
-        "source": "Yahoo Finance",
-        "published": "2026-06-25T10:00:00Z",
-        "url": "https://finance.yahoo.com/personal-finance/banking/article/best-high-yield-savings-interest-rates-today-thursday-june-25-2026-top-account-pays-410-apy-100000985.html",
-        "is_priority": false
-      },
-      {
-        "title": "Best CD rates today, Thursday, June 25, 2026: Lock in up to 4% APY",
-        "source": "Yahoo Finance",
-        "published": "2026-06-25T10:00:00Z",
-        "url": "https://finance.yahoo.com/personal-finance/banking/article/best-cd-rates-today-thursday-june-25-2026-100000089.html",
-        "is_priority": false
-      },
-      {
-        "title": "Best money market account rates today, Thursday, June 25, 2026: Earn up to 4.01% APY",
-        "source": "Yahoo Finance",
-        "published": "2026-06-25T10:00:00Z",
-        "url": "https://finance.yahoo.com/personal-finance/banking/article/best-money-market-account-rates-today-thursday-june-25-2026-earn-up-to-401-apy-100000097.html",
-        "is_priority": false
-      },
-      {
-        "title": "Mortgage and refinance interest rates today, June 25, 2026: Rates moving lower",
-        "source": "Yahoo Finance",
-        "published": "2026-06-25T10:00:00Z",
-        "url": "https://finance.yahoo.com/personal-finance/mortgages/article/mortgage-refinance-interest-rates-today-thursday-june-25-2026-100000157.html",
-        "is_priority": false
-      },
-      {
-        "title": "Taiwan Drill Simulates Maritime ‘Quarantine’ by Chinese Forces",
-        "source": "Bloomberg Markets",
-        "published": "Thu, 25 Jun 2026 09:49:34 GMT",
-        "url": "https://www.bloomberg.com/news/articles/2026-06-25/taiwan-tabletop-drill-simulates-maritime-quarantine-by-chinese-forces",
-        "is_priority": false
-      },
-      {
-        "title": "Switzerland’s Capital Plan for UBS Wins Wholehearted IMF Backing",
-        "source": "Bloomberg Markets",
-        "published": "Thu, 25 Jun 2026 09:49:19 GMT",
-        "url": "https://www.bloomberg.com/news/articles/2026-06-25/switzerland-s-capital-plan-for-ubs-wins-wholehearted-imf-backing",
-        "is_priority": false
-      },
-      {
-        "title": "Why is Intel stock surging today?",
-        "source": "All News",
-        "published": "2026-06-25 09:48:23",
-        "url": "https://www.investing.com/news/stock-market-news/why-is-intel-stock-surging-today-93CH-4759977",
-        "is_priority": false
-      },
-      {
-        "title": "Why is NVIDIA stock climbing today?",
-        "source": "All News",
-        "published": "2026-06-25 09:47:30",
-        "url": "https://www.investing.com/news/stock-market-news/why-is-nvidia-stock-climbing-today-93CH-4759976",
-        "is_priority": false
-      },
-      {
-        "title": "Oil Prices Hover Around Prewar Levels as Gulf Shipping Resumes",
+        "title": "Ryanair Stops Charging for Parents to Sit With Their Children",
         "source": "NYT > Business",
-        "published": "Thu, 25 Jun 2026 09:44:33 +0000",
-        "url": "https://www.nytimes.com/2026/06/25/business/oil-prices-gas-iran.html",
+        "published": "Fri, 26 Jun 2026 10:15:15 +0000",
+        "url": "https://www.nytimes.com/2026/06/26/world/europe/ryanair-fee-children-seats.html",
         "is_priority": false
       },
       {
-        "title": "SK Hynix ADR Plans Leave Arb Traders Waiting on One Key Answer",
-        "source": "Bloomberg Markets",
-        "published": "Thu, 25 Jun 2026 09:44:08 GMT",
-        "url": "https://www.bloomberg.com/news/articles/2026-06-25/sk-hynix-adr-plans-leave-arb-traders-waiting-on-one-key-answer",
+        "title": "Red Lobster's Ultimate Endless Shrimp promotion described as a 'car crash' for the company, lawsuit says",
+        "source": "US Top News and Analysis",
+        "published": "Fri, 26 Jun 2026 10:02:38 GMT",
+        "url": "https://www.cnbc.com/2026/06/26/red-lobsters-endless-shrimp-promotion-was-a-car-crash-lawsuit-says.html",
+        "is_priority": false
+      },
+      {
+        "title": "Severfield FY 2026 slides: India surges as UK margins compress",
+        "source": "All News",
+        "published": "2026-06-26 10:01:23",
+        "url": "https://www.investing.com/news/company-news/severfield-fy-2026-slides-india-surges-as-uk-margins-compress-93CH-4762279",
+        "is_priority": false
+      },
+      {
+        "title": "Dialight FY26 slides: profit surges on margin gains, transformation plan",
+        "source": "All News",
+        "published": "2026-06-26 10:01:14",
+        "url": "https://www.investing.com/news/company-news/dialight-fy26-slides-profit-surges-on-margin-gains-transformation-plan-93CH-4762276",
+        "is_priority": false
+      },
+      {
+        "title": "Swatch claiming $170 million in damages against Samsung over trademark infringement, FT reports",
+        "source": "All News",
+        "published": "2026-06-26 10:00:28",
+        "url": "https://www.investing.com/news/stock-market-news/swatch-claiming-170-million-in-damages-against-samsung-over-trademark-infringement-ft-reports-4762275",
+        "is_priority": false
+      },
+      {
+        "title": "CNBC's Most Valuable Sports Empires 2026: Here's how the world's top 20 stack up",
+        "source": "US Top News and Analysis",
+        "published": "Fri, 26 Jun 2026 10:00:01 GMT",
+        "url": "https://www.cnbc.com/2026/06/26/cnbcs-most-valuable-sports-empires-2026-heres-how-the-worlds-top-20-stack-up.html",
+        "is_priority": false
+      },
+      {
+        "title": "Best high-yield savings interest rates today, Friday, June 26, 2026: Up to 4.10% APY return",
+        "source": "Yahoo Finance",
+        "published": "2026-06-26T10:00:00Z",
+        "url": "https://finance.yahoo.com/personal-finance/banking/article/best-high-yield-savings-interest-rates-today-friday-june-26-2026-up-to-410-apy-return-100000413.html",
+        "is_priority": false
+      },
+      {
+        "title": "HELOC and home equity loan rates today, Friday, June 26, 2026: Looking ahead: Will the Fed raise rates?",
+        "source": "Yahoo Finance",
+        "published": "2026-06-26T10:00:00Z",
+        "url": "https://finance.yahoo.com/personal-finance/mortgages/article/heloc-and-home-equity-loan-rates-today-friday-june-26-2026-looking-ahead-will-the-fed-raise-rates-100000567.html",
+        "is_priority": false
+      },
+      {
+        "title": "Stocks in Asia Tumble as A.I. Uncertainty Jolts Tech Shares",
+        "source": "NYT > Business",
+        "published": "Fri, 26 Jun 2026 09:54:49 +0000",
+        "url": "https://www.nytimes.com/2026/06/26/business/oil-price-gas-iran.html",
+        "is_priority": false
+      },
+      {
+        "title": "China Eastern Airlines to buy 25 Airbus A330 neo jets for $9.4 billion",
+        "source": "All News",
+        "published": "2026-06-26 09:54:26",
+        "url": "https://www.investing.com/news/stock-market-news/china-eastern-airlines-to-buy-25-airbus-a330-neo-jets-for-94-billion-4762263",
+        "is_priority": false
+      },
+      {
+        "title": "Evonik raises full-year profit outlook as Q2 results beat expectations",
+        "source": "All News",
+        "published": "2026-06-26 09:54:12",
+        "url": "https://www.investing.com/news/earnings/evonik-raises-fullyear-profit-outlook-as-q2-results-beat-expectations-4762262",
+        "is_priority": false
+      },
+      {
+        "title": "Manolete FY26 slides: record £67m forward book offsets earnings dip",
+        "source": "All News",
+        "published": "2026-06-26 09:52:11",
+        "url": "https://www.investing.com/news/company-news/manolete-fy26-slides-record-67m-forward-book-offsets-earnings-dip-93CH-4762251",
+        "is_priority": false
+      },
+      {
+        "title": "Nasdaq futures fall as tech-sell off poised to continue Friday: Live updates",
+        "source": "US Top News and Analysis",
+        "published": "Fri, 26 Jun 2026 09:51:07 GMT",
+        "url": "https://www.cnbc.com/2026/06/25/stock-market-today-live-updates.html",
+        "is_priority": false
+      },
+      {
+        "title": "Earnings call transcript: Dialight posts profit jump in H2 2026 turnaround",
+        "source": "All News",
+        "published": "2026-06-26 09:50:02",
+        "url": "https://www.investing.com/news/transcripts/earnings-call-transcript-dialight-posts-profit-jump-in-h2-2026-turnaround-93CH-4762250",
         "is_priority": false
       }
     ],
     "World News": [
       {
-        "title": "England v New Zealand: third men’s Test, day one – live",
+        "title": "World Cup 2026: Haaland v Mbappé; Schweinsteiger’s ‘African football’ comments criticised; Ecuador’s national holiday – live",
         "source": "The Guardian",
-        "published": "Thu, 25 Jun 2026 10:14:26 GMT",
-        "url": "https://www.theguardian.com/sport/live/2026/jun/25/england-v-new-zealand-third-mens-test-day-one-live",
+        "published": "Fri, 26 Jun 2026 10:23:24 GMT",
+        "url": "https://www.theguardian.com/football/live/2026/jun/26/world-cup-2026-norway-france-senegal-iraq-cape-verde-saudi-arabia-uruguay-spain-egypt-iran-new-zealand-belgium-live",
         "is_priority": false
       },
       {
-        "title": "World Cup 2026: Scotland on brink after Brazil defeat, South Africa advance, and more – live",
-        "source": "The Guardian",
-        "published": "Thu, 25 Jun 2026 10:10:47 GMT",
-        "url": "https://www.theguardian.com/football/live/2026/jun/25/world-cup-2026-scotland-agony-as-brazil-hit-hopes-of-progress-south-africa-advance-and-more-live",
-        "is_priority": false
-      },
-      {
-        "title": "Several Strong Quakes Hit Across the World in 24 Hours",
+        "title": "Europe’s Deadly Heat Wave: A Jolt for Climate Action, or Just for A.C.?",
         "source": "NYT > World News",
-        "published": "Thu, 25 Jun 2026 10:08:48 +0000",
-        "url": "https://www.nytimes.com/2026/06/25/world/americas/venezuela-earthquake-japan-california.html",
+        "published": "Fri, 26 Jun 2026 10:21:55 +0000",
+        "url": "https://www.nytimes.com/2026/06/26/world/europe/europe-heat-climate-change-politics.html",
         "is_priority": false
       },
       {
-        "title": "Datacentres facing increase in global climate-related legal cases, report finds",
+        "title": "England v New Zealand: third men’s Test, day two – live",
+        "source": "The Guardian",
+        "published": "Fri, 26 Jun 2026 10:20:44 GMT",
+        "url": "https://www.theguardian.com/sport/live/2026/jun/26/england-v-new-zealand-third-mens-test-day-two-live",
+        "is_priority": false
+      },
+      {
+        "title": "Heat Wave Prompts Paris to Suspend Sports Events and Public Drinking",
+        "source": "NYT > World News",
+        "published": "Fri, 26 Jun 2026 10:17:59 +0000",
+        "url": "https://www.nytimes.com/2026/06/26/world/europe/france-heat-alcohol-paris-ban.html",
+        "is_priority": false
+      },
+      {
+        "title": "Ryanair Stops Charging for Parents to Sit With Their Children",
+        "source": "NYT > World News",
+        "published": "Fri, 26 Jun 2026 10:15:15 +0000",
+        "url": "https://www.nytimes.com/2026/06/26/world/europe/ryanair-fee-children-seats.html",
+        "is_priority": false
+      },
+      {
+        "title": "The abundant but expensive energy source that's under your feet",
+        "source": "BBC News",
+        "published": "Fri, 26 Jun 2026 10:12:42 GMT",
+        "url": "https://www.bbc.co.uk/news/articles/cj3gj1n8yz8o?at_medium=RSS&at_campaign=rss",
+        "is_priority": false
+      },
+      {
+        "title": "Russia reports downing 660 Ukrainian drones, denies seeking Belarus war aid",
+        "source": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
+        "published": "Fri, 26 Jun 2026 10:12:32 +0000",
+        "url": "https://www.aljazeera.com/news/2026/6/26/russia-reports-downing-660-ukrainian-drones-denies-seeking-belarus-war-aid?traffic_source=rss",
+        "is_priority": false
+      },
+      {
+        "title": "FIFA World Cup: Friday schedule, predictions, standings, knockout race",
+        "source": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
+        "published": "Fri, 26 Jun 2026 10:08:05 +0000",
+        "url": "https://www.aljazeera.com/sports/2026/6/26/fifa-world-cup-friday-schedule-predictions-standings-knockout-race?traffic_source=rss",
+        "is_priority": false
+      },
+      {
+        "title": "Venezuela Live Updates: More Rescuers Join Urgent Search for Quake Survivors",
+        "source": "NYT > World News",
+        "published": "Fri, 26 Jun 2026 10:05:05 +0000",
+        "url": "https://www.nytimes.com/live/2026/06/26/world/venezuela-earthquake",
+        "is_priority": false
+      },
+      {
+        "title": "Red heat warning for south-east England; 150 million Europeans to experience temperatures above 35C today – Europe heatwave live",
         "source": "World news | The Guardian",
-        "published": "Thu, 25 Jun 2026 10:03:54 GMT",
-        "url": "https://www.theguardian.com/environment/2026/jun/25/datacentres-facing-increase-in-global-climate-related-legal-cases-report-finds",
+        "published": "Fri, 26 Jun 2026 10:03:19 GMT",
+        "url": "https://www.theguardian.com/environment/live/2026/jun/26/europe-heatwave-extreme-heat-red-alert-weather-uk-england-france-climate-crisis-latest-news-updates",
         "is_priority": false
       },
       {
-        "title": "Europe braced for another day of extreme heat as warnings issued across UK, France and Italy – live",
-        "source": "World news | The Guardian",
-        "published": "Thu, 25 Jun 2026 10:02:57 GMT",
-        "url": "https://www.theguardian.com/world/live/2026/jun/25/europe-heatwave-uk-italy-france-record-temperature-latest-news-updates",
+        "title": "Serena Williams faces Maya Joint in Wimbledon opener as Draper and Raducanu dealt tough draw",
+        "source": "The Guardian",
+        "published": "Fri, 26 Jun 2026 10:03:15 GMT",
+        "url": "https://www.theguardian.com/sport/2026/jun/26/serena-williams-wimbledon-draw-raducanu-djokovic-sinner-tennis",
         "is_priority": false
       },
       {
-        "title": "Latest news bulletin | June 25th, 2026 – Midday",
+        "title": "Latest news bulletin | June 26th, 2026 – Midday",
         "source": "News | Euronews RSS",
-        "published": "Thu, 25 Jun 2026 12:00:16 +0200",
-        "url": "http://www.euronews.com/video/2026/06/25/latest-news-bulletin-june-25th-2026-midday",
+        "published": "Fri, 26 Jun 2026 12:00:16 +0200",
+        "url": "http://www.euronews.com/video/2026/06/26/latest-news-bulletin-june-26th-2026-midday",
         "is_priority": false
       },
       {
-        "title": "US renters call for action to combat surge of ‘take it or leave it’ apartment fees",
+        "title": "Why did Tucker Carlson and Marjorie Taylor Greene leave the Republican party? | Geoffrey Kabaservice",
+        "source": "The Guardian",
+        "published": "Fri, 26 Jun 2026 10:00:15 GMT",
+        "url": "https://www.theguardian.com/commentisfree/2026/jun/26/tucker-carlson-marjorie-taylor-greene-republican-split",
+        "is_priority": false
+      },
+      {
+        "title": "Midsummer isn’t the best time for planting, but it’s great for planning",
+        "source": "The Guardian",
+        "published": "Fri, 26 Jun 2026 10:00:15 GMT",
+        "url": "https://www.theguardian.com/lifeandstyle/2026/jun/26/midsummer-garden-planning",
+        "is_priority": false
+      },
+      {
+        "title": "Outrage as woman jailed for three years after criticising Somali government online",
         "source": "World news | The Guardian",
-        "published": "Thu, 25 Jun 2026 10:00:12 GMT",
-        "url": "https://www.theguardian.com/us-news/2026/jun/25/renters-apartment-fees-call-for-action",
-        "is_priority": false
-      },
-      {
-        "title": "The Trump administration is calling frozen embryos children | Moira Donegan",
-        "source": "The Guardian",
-        "published": "Thu, 25 Jun 2026 10:00:12 GMT",
-        "url": "https://www.theguardian.com/commentisfree/2026/jun/25/the-trump-administration-is-calling-frozen-embryos-children",
-        "is_priority": false
-      },
-      {
-        "title": "Summer has never been the same since the great heartbreak of ’84 | Adrian Chiles",
-        "source": "The Guardian",
-        "published": "Thu, 25 Jun 2026 10:00:12 GMT",
-        "url": "https://www.theguardian.com/commentisfree/2026/jun/25/summer-has-never-been-the-same-since-the-great-heartbreak-of-84",
-        "is_priority": false
-      },
-      {
-        "title": "Louisiana sheriff retires after pleading guilty to beating podcaster who often criticized him",
-        "source": "World news | The Guardian",
-        "published": "Thu, 25 Jun 2026 10:00:11 GMT",
-        "url": "https://www.theguardian.com/us-news/2026/jun/25/louisiana-sheriff-podcaster-battery",
-        "is_priority": false
-      },
-      {
-        "title": "The great tinification: how Britain fell in love with canned cocktails",
-        "source": "The Guardian",
-        "published": "Thu, 25 Jun 2026 10:00:11 GMT",
-        "url": "https://www.theguardian.com/society/2026/jun/25/the-great-tinification-how-britain-fell-in-love-with-canned-cocktails",
-        "is_priority": false
-      },
-      {
-        "title": "Chris and Martina: The Final Set review – tennis titans discuss their deep bond and intense rivalry",
-        "source": "The Guardian",
-        "published": "Thu, 25 Jun 2026 10:00:11 GMT",
-        "url": "https://www.theguardian.com/film/2026/jun/25/chris-and-martina-the-final-set-review-tennis-titans-discuss-their-deep-bond-and-intense-rivalry",
-        "is_priority": false
-      },
-      {
-        "title": "World Cup: can big sports events bring us together? Recent history says yes | Margaret Sullivan",
-        "source": "The Guardian",
-        "published": "Thu, 25 Jun 2026 10:00:10 GMT",
-        "url": "https://www.theguardian.com/commentisfree/2026/jun/25/world-cup-big-sports-events-bring-us-together",
-        "is_priority": false
-      },
-      {
-        "title": "Bodies in Nottingham NHS trust mortuary in state of ‘advanced deterioration’, inspectors say",
-        "source": "World news | The Guardian",
-        "published": "Thu, 25 Jun 2026 10:00:07 GMT",
-        "url": "https://www.theguardian.com/society/2026/jun/25/bodies-nottingham-nhs-trust-mortuary-advanced-deterioration-inspectors",
-        "is_priority": false
-      },
-      {
-        "title": "Reeves hints she accepts Burnham will not keep her as chancellor – UK politics live",
-        "source": "World news | The Guardian",
-        "published": "Thu, 25 Jun 2026 09:58:56 GMT",
-        "url": "https://www.theguardian.com/politics/live/2026/jun/25/andy-burnham-rachel-reeves-keir-starmer-uk-politics-latest-news-updates",
+        "published": "Fri, 26 Jun 2026 10:00:14 GMT",
+        "url": "https://www.theguardian.com/global-development/2026/jun/26/woman-sadia-moalim-ali-three-year-jail-sentence-somalia-online-comments-governement",
         "is_priority": false
       }
     ],
     "Tech": [
       {
-        "title": "Health unicorn Alan raises €480m Series G round led by Prosus",
-        "source": "Sifted",
-        "published": "Thu, 25 Jun 2026 11:10:01 GMT",
-        "url": "https://sifted.eu/articles/alan-prosus-raise-series-g-valuation-health-tech/",
+        "title": "I Found The Best Amazon Prime Day Headphone Deals (2026)",
+        "source": "WIRED",
+        "published": "Fri, 26 Jun 2026 10:17:23 +0000",
+        "url": "https://www.wired.com/story/best-prime-day-headphone-deals-06-26-2026/",
         "is_priority": false
       },
       {
-        "title": "N26 hits profitability following leadership shakeup",
-        "source": "Sifted",
-        "published": "Thu, 25 Jun 2026 10:48:55 GMT",
-        "url": "https://sifted.eu/articles/n26-hits-profitability/",
+        "title": "How Qatar Became FIFA’s Technology Test Lab",
+        "source": "WIRED",
+        "published": "Fri, 26 Jun 2026 10:00:00 +0000",
+        "url": "https://www.wired.com/story/how-qatar-became-fifas-technology-test-lab/",
         "is_priority": false
       },
       {
         "title": "Best Prime Day Tech Deals Offer Up to $280 Off (2026): Phones, Watches, and More",
         "source": "WIRED",
-        "published": "Thu, 25 Jun 2026 10:05:24 +0000",
-        "url": "https://www.wired.com/story/best-prime-day-tech-deals-06-25-2026/",
+        "published": "Fri, 26 Jun 2026 09:17:04 +0000",
+        "url": "https://www.wired.com/story/best-prime-day-tech-deals-06-26-2026/",
         "is_priority": false
       },
       {
-        "title": "IBM Unveils New Method to Make Smaller Computer Chip Parts",
+        "title": "My Favorite Coolers Are on Sale for Prime Day: Yeti, Igloo, Ninja, and More (2026)",
+        "source": "WIRED",
+        "published": "Fri, 26 Jun 2026 09:14:48 +0000",
+        "url": "https://www.wired.com/story/prime-day-cooler-deals-06-26-2026/",
+        "is_priority": false
+      },
+      {
+        "title": "The 26 Best Amazon Prime Day Deals Under $30 We've Found (2026)",
+        "source": "WIRED",
+        "published": "Fri, 26 Jun 2026 09:12:20 +0000",
+        "url": "https://www.wired.com/story/best-amazon-prime-day-deals-under-30-06-26-2026/",
+        "is_priority": false
+      },
+      {
+        "title": "As billionaires’ wealth soars, US workers struggle: ‘The rich keep getting richer for no good reason’",
+        "source": "Technology | The Guardian",
+        "published": "Fri, 26 Jun 2026 09:00:14 GMT",
+        "url": "https://www.theguardian.com/us-news/2026/jun/26/billionaires-wealth-soars-as-workers-struggle",
+        "is_priority": false
+      },
+      {
+        "title": "Heat waves mess with your brain. Scientists are trying to figure out why.",
+        "source": "MIT Technology Review",
+        "published": "Fri, 26 Jun 2026 09:00:00 +0000",
+        "url": "https://www.technologyreview.com/2026/06/26/1139760/heat-waves-mess-with-your-brain-scientists-are-trying-to-figure-out-why/",
+        "is_priority": false
+      },
+      {
+        "title": "Intel’s Chip Business Shows Signs of Life After Years of Struggle",
         "source": "NYT > Technology",
-        "published": "Thu, 25 Jun 2026 10:00:16 +0000",
-        "url": "https://www.nytimes.com/2026/06/25/technology/ibm-technology-tinier-chips.html",
+        "published": "Fri, 26 Jun 2026 08:54:16 +0000",
+        "url": "https://www.nytimes.com/2026/06/26/technology/intel-turnaround.html",
         "is_priority": false
       },
       {
-        "title": "British Police Built a Sprawling Crime-Prediction Machine. Some Results Couldn’t Be Trusted",
-        "source": "WIRED",
-        "published": "Thu, 25 Jun 2026 10:00:00 +0000",
-        "url": "https://www.wired.com/story/british-police-built-a-sprawling-crime-prediction-machine-some-results-couldnt-be-trusted/",
-        "is_priority": false
-      },
-      {
-        "title": "Cellebrite said it cut off Russia, but Russia used is tools anyway",
-        "source": "TechCrunch",
-        "published": "Thu, 25 Jun 2026 10:00:00 +0000",
-        "url": "https://techcrunch.com/2026/06/25/cellebrite-said-it-cut-off-russia-but-russia-used-is-tools-anyway/",
-        "is_priority": false
-      },
-      {
-        "title": "Facebook’s Creator Studio has been revived as an AI companion app",
+        "title": "Trump Mobile will take your $499 right now",
         "source": "The Verge",
-        "published": "2026-06-25T05:06:19-04:00",
-        "url": "https://www.theverge.com/tech/956668/meta-facebook-creator-studio-ai-app-relaunch",
+        "published": "2026-06-26T04:40:21-04:00",
+        "url": "https://www.theverge.com/tech/957521/trump-mobile-t1-phone-open-sale-no-deposit",
         "is_priority": false
       },
       {
-        "title": "17 Best Prime Day Apple Deals Offering Up to 30% Off: iPad, Apple Watch, MacBooks, and More (2026)",
+        "title": "99 Prime Day Deals That Aren’t For Suckers, Up to 50% Off (2026)",
         "source": "WIRED",
-        "published": "Thu, 25 Jun 2026 08:39:16 +0000",
-        "url": "https://www.wired.com/story/best-prime-day-apple-deals-06-25-2026/",
+        "published": "Fri, 26 Jun 2026 08:22:47 +0000",
+        "url": "https://www.wired.com/story/amazon-prime-day-absolute-best-deals-06-26-2026/",
         "is_priority": false
       },
       {
-        "title": "99 Prime Day Deals on Gear We Stand By, Up To 50% Off (2026)",
+        "title": "The 28 Best Prime Day Deals Under $100 in 2026",
         "source": "WIRED",
-        "published": "Thu, 25 Jun 2026 08:24:32 +0000",
-        "url": "https://www.wired.com/story/amazon-prime-day-absolute-best-deals-06-25-2026/",
+        "published": "Fri, 26 Jun 2026 07:55:43 +0000",
+        "url": "https://www.wired.com/story/best-prime-day-deals-under-100-06-26-2026/",
         "is_priority": false
       },
       {
-        "title": "Aisle Discovers 6 New CVEs in Curl, Including the Oldest Issue Ever Reported",
-        "source": "Hacker News: Front Page",
-        "published": "Thu, 25 Jun 2026 08:07:54 +0000",
-        "url": "https://aisle.com/blog/aisle-discovers-6-new-cves-in-curl-including-the-oldest-issue-ever-reported",
+        "title": "Get Up to 36% Off With the Best Prime Day Kindle Deals (2026): Paperwhite, Colorsoft, Kids",
+        "source": "WIRED",
+        "published": "Fri, 26 Jun 2026 07:46:19 +0000",
+        "url": "https://www.wired.com/story/kindle-prime-day-deals-06-26-2026/",
         "is_priority": false
       },
       {
-        "title": "Wikipedia Workers in Britain set global first by seeking union recognition",
-        "source": "Hacker News: Front Page",
-        "published": "Thu, 25 Jun 2026 07:02:37 +0000",
-        "url": "https://utaw.tech/news/wikipedia-recognition",
+        "title": "Best Prime Day Vacuum Deals Offer Up to 42% Off (2026): Shark, Dyson, Bissell",
+        "source": "WIRED",
+        "published": "Fri, 26 Jun 2026 07:43:58 +0000",
+        "url": "https://www.wired.com/story/prime-day-vacuum-deals-06-26-2026/",
         "is_priority": false
       },
       {
-        "title": "Visionaries general partner Judith Dada joins AI startup Langdock as co-CEO",
-        "source": "Sifted",
-        "published": "Thu, 25 Jun 2026 06:00:49 GMT",
-        "url": "https://sifted.eu/articles/judith-dada-visionaries-ceo-langdock/",
+        "title": "19 Best Prime Day Apple Deals Up to 30% Off: iPad, Apple Watch, Mac, and More",
+        "source": "WIRED",
+        "published": "Fri, 26 Jun 2026 07:41:22 +0000",
+        "url": "https://www.wired.com/story/best-prime-day-apple-deals-06-26-2026/",
         "is_priority": false
       },
       {
-        "title": "Half-Life 2 in a Browser",
-        "source": "Hacker News: Front Page",
-        "published": "Thu, 25 Jun 2026 06:00:04 +0000",
-        "url": "https://hl2.slqnt.dev/",
-        "is_priority": false
-      },
-      {
-        "title": "Exclusive: British Business Bank backs 10 VC funds with £90m pot",
-        "source": "Sifted",
-        "published": "Thu, 25 Jun 2026 05:00:56 GMT",
-        "url": "https://sifted.eu/articles/exclusive-bbb-10-vc-funds-90m/",
-        "is_priority": false
-      },
-      {
-        "title": "Exclusive: British Business Bank eyes stake in EU’s €5bn Scaleup Fund",
-        "source": "Sifted",
-        "published": "Thu, 25 Jun 2026 05:00:51 GMT",
-        "url": "https://sifted.eu/articles/bbb-eyes-eu-scaleup-fund/",
+        "title": "I Found the Very Best Prime Day Laptop Deals onMacBooks and More (2026)",
+        "source": "WIRED",
+        "published": "Fri, 26 Jun 2026 07:37:32 +0000",
+        "url": "https://www.wired.com/story/best-prime-day-laptop-deals-06-26-2026/",
         "is_priority": false
       }
     ],
     "Automotive/Motorcycle": [
       {
-        "title": "Inside JCB’s plans to smash hydrogen land speed record",
+        "title": "Video | Is the Skoda Enyaq vRS the ultimate one-car garage?",
         "source": "Autocar RSS Feed",
-        "published": "Thu, 25 Jun 2026 10:33:22 +0100",
-        "url": "https://www.autocar.co.uk/car-news/motorsport/inside-jcb%E2%80%99s-plans-smash-hydrogen-land-speed-record",
+        "published": "Fri, 26 Jun 2026 14:00:00 +0100",
+        "url": "https://www.autocar.co.uk/car-news/advertising-promotions-promoted-by-skoda-electric/video-skoda-enyaq-vrs-ultimate-one-car",
         "is_priority": false
       },
       {
-        "title": "Higginson back to top of the Autoport National Rankings table",
-        "source": "Autosport.com - All - Stories",
-        "published": "Thu, 25 Jun 2026 09:20:07 +0000",
-        "url": "https://www.autosport.com/national/news/higginson-back-to-top-of-the-autoport-national-rankings-table/10833046/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-ALL&utm_term=News&utm_content=uk",
-        "is_priority": false
-      },
-      {
-        "title": "The New Jaguar Will Chase A 'Niche Part Of A Niche Part'",
+        "title": "Volkswagen Will Cut 100,000 Jobs And Close Four Factories: Report",
         "source": "Motor1.com - News",
-        "published": "Thu, 25 Jun 2026 09:08:56 +0000",
-        "url": "https://www.motor1.com/news/799755/jaguar-target-niche-part-of-niche-part/",
+        "published": "Fri, 26 Jun 2026 09:45:17 +0000",
+        "url": "https://www.motor1.com/news/799888/vw-100000-job-cuts/",
         "is_priority": false
       },
       {
-        "title": "FIA declares Heat Hazard for F1 Austrian Grand Prix",
+        "title": "Do Radar Jammers Actually Work?",
+        "source": "Jalopnik - Obsessed with the culture of cars",
+        "published": "Fri, 26 Jun 2026 09:25:00 +0000",
+        "url": "https://www.jalopnik.com/2198848/radar-jammers-may-be-hocus-pocus/",
+        "is_priority": false
+      },
+      {
+        "title": "The best FIA relations in years: How F1 drivers won the penalty points fight",
         "source": "Autosport.com - All - Stories",
-        "published": "Thu, 25 Jun 2026 09:05:15 +0000",
-        "url": "https://www.autosport.com/f1/news/fia-declares-heat-hazard-for-f1-austrian-grand-prix/10833039/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-ALL&utm_term=News&utm_content=uk",
+        "published": "Fri, 26 Jun 2026 09:23:03 +0000",
+        "url": "https://www.autosport.com/f1/news/how-the-best-fia-relations-since-charlie-whiting-helped-drivers-win-the-penalty-points-fight-/10833407/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-ALL&utm_term=News&utm_content=uk",
         "is_priority": false
       },
       {
-        "title": "Electric car vs heatwave: Can my Renault 4 cope in 34 degrees?",
+        "title": "Callum Design reinvents Jaguar XJ220 for new era",
         "source": "Autocar RSS Feed",
-        "published": "Thu, 25 Jun 2026 10:00:00 +0100",
-        "url": "https://www.autocar.co.uk/car-news/features/electric-car-vs-heatwave-can-my-renault-4-cope-34-degrees",
+        "published": "Fri, 26 Jun 2026 10:06:11 +0100",
+        "url": "https://www.autocar.co.uk/car-news/new-cars/callum-design-reinvents-jaguar-xj220-new-era",
         "is_priority": false
       },
       {
-        "title": "Autosport magazine: British GP preview and the Le Mans 24 Hours",
-        "source": "Autosport.com - All - Stories",
-        "published": "Thu, 25 Jun 2026 08:32:51 +0000",
-        "url": "https://www.autosport.com/general/news/autosport-magazine-british-gp-preview-and-the-le-mans-24-hours/10833032/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-ALL&utm_term=News&utm_content=uk",
+        "title": "Renault 4 and 5 due extra power and range in 2027",
+        "source": "Autocar RSS Feed",
+        "published": "Fri, 26 Jun 2026 10:00:00 +0100",
+        "url": "https://www.autocar.co.uk/car-news/electric-cars/renault-4-and-5-due-extra-power-and-range-2027",
         "is_priority": false
       },
       {
-        "title": "Bagnaia makes Aprilia MotoGP switch after Ducati exit",
-        "source": "Autosport.com - All - Stories",
-        "published": "Thu, 25 Jun 2026 08:14:14 +0000",
-        "url": "https://www.autosport.com/motogp/news/francesco-bagnaia-makes-aprilia-motogp-switch-after-ducati-exit/10833025/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-ALL&utm_term=News&utm_content=uk",
-        "is_priority": false
-      },
-      {
-        "title": "Land Rover Sold These Color-Changing Classic Defenders To A Single Buyer",
+        "title": "Japan's New Noise Rules Forced Mazda To Quiet The Miata",
         "source": "Motor1.com - News",
-        "published": "Thu, 25 Jun 2026 07:27:53 +0000",
-        "url": "https://www.motor1.com/news/799747/classic-defender-color-shifting-paint/",
+        "published": "Fri, 26 Jun 2026 08:29:07 +0000",
+        "url": "https://www.motor1.com/news/799876/mazda-changes-miata-meet-noise-regulations/",
         "is_priority": false
       },
       {
-        "title": "Vauxhall given new freedom to adapt Opel cars for UK roads",
-        "source": "Autocar RSS Feed",
-        "published": "Thu, 25 Jun 2026 08:00:00 +0100",
-        "url": "https://www.autocar.co.uk/car-news/new-cars/vauxhall-given-new-freedom-adapt-opel-cars-uk-roads",
+        "title": "How worried should Ferrari’s F1 rivals be about its progress and engine upgrade?",
+        "source": "Autosport.com - All - Stories",
+        "published": "Fri, 26 Jun 2026 07:31:43 +0000",
+        "url": "https://www.autosport.com/f1/news/how-worried-f1-rivals-really-are-about-ferraris-progress-and-engine-upgrade/10833373/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-ALL&utm_term=News&utm_content=uk",
         "is_priority": false
       },
       {
-        "title": "Porsche Launches A New 911 Race Car",
+        "title": "2027 Hyundai Elantra Debuts With A Fresh Design Inside And Out",
         "source": "Motor1.com - News",
-        "published": "Thu, 25 Jun 2026 06:44:23 +0000",
-        "url": "https://www.motor1.com/news/799726/porsche-911-gt4-r-race-car-price-specs/",
+        "published": "Fri, 26 Jun 2026 06:36:47 +0000",
+        "url": "https://www.motor1.com/news/799859/2027-hyundai-elantra-photos-details/",
         "is_priority": false
       },
       {
-        "title": "Top 10: World’s longest road tunnels",
+        "title": "Hyundai exits family hatch game with no plan to replace i30",
         "source": "Autocar RSS Feed",
-        "published": "Thu, 25 Jun 2026 07:30:00 +0100",
-        "url": "https://www.autocar.co.uk/car-news/slideshow/top-10-world%E2%80%99s-longest-road-tunnels-1",
+        "published": "Fri, 26 Jun 2026 05:00:00 +0100",
+        "url": "https://www.autocar.co.uk/car-news/new-cars/hyundai-exits-family-hatch-game-no-plan-replace-i30",
         "is_priority": false
       },
       {
-        "title": "Rad Power Bikes’ new owner just bought QuietKat, creating a three-brand e-bike portfolio",
-        "source": "Electrek",
-        "published": "Thu, 25 Jun 2026 06:15:06 +0000",
-        "url": "https://electrek.co/2026/06/24/rad-power-bikes-new-owner-just-bought-quietkat-creating-a-three-brand-e-bike-portfolio/",
-        "is_priority": false
-      },
-      {
-        "title": "Porsche's New GT4 Race Car Is Based on the 911 for the First Time",
-        "source": "Latest Content - Car and Driver",
-        "published": "Thu, 25 Jun 2026 06:00:00 +0000",
-        "url": "https://www.caranddriver.com/news/a71711035/porsche-911-gt4-r-race-car-revealed/",
-        "is_priority": false
-      },
-      {
-        "title": "The Porsche 911 Is Going GT4 Racing",
-        "source": "Latest Content - Road & Track",
-        "published": "Thu, 25 Jun 2026 06:00:00 +0000",
-        "url": "https://www.roadandtrack.com/news/a71700683/porsche-911-gt4-race-car/",
-        "is_priority": false
-      },
-      {
-        "title": "BMW M3 Touring poised for epic Neue Klasse comeback",
+        "title": "Toyota Aygo X used buying guide: The most reliable £6000 car?",
         "source": "Autocar RSS Feed",
-        "published": "Thu, 25 Jun 2026 06:00:00 +0100",
-        "url": "https://www.autocar.co.uk/car-news/new-cars/bmw-m3-touring-poised-epic-neue-klasse-comeback",
+        "published": "Fri, 26 Jun 2026 05:00:00 +0100",
+        "url": "https://www.autocar.co.uk/car-news/features/toyota-aygo-x-used-buying-guide-most-reliable-%C2%A36000-car",
+        "is_priority": false
+      },
+      {
+        "title": "Ford Chooses The Bear To Test The F-150 Security Package",
+        "source": "Jalopnik - Obsessed with the culture of cars",
+        "published": "Fri, 26 Jun 2026 03:25:00 +0000",
+        "url": "https://www.jalopnik.com/2201069/ford-f-150-security-package-tested-by-800-pound-bear/",
+        "is_priority": false
+      },
+      {
+        "title": "JLR to keep moving away from volume \"killing fields\" in push upmarket",
+        "source": "Autocar RSS Feed",
+        "published": "Fri, 26 Jun 2026 04:00:00 +0100",
+        "url": "https://www.autocar.co.uk/car-news/business-corporate/jlr-keep-moving-away-volume-killing-fields-push-upmarket",
+        "is_priority": false
+      },
+      {
+        "title": "Still the ultimate EV? I lived with a £134k, 650bhp BMW iX",
+        "source": "Autocar RSS Feed",
+        "published": "Fri, 26 Jun 2026 04:00:00 +0100",
+        "url": "https://www.autocar.co.uk/car-review/bmw/long-term-reviews/still-ultimate-ev-i-lived-%C2%A3134k-650bhp-bmw-ix",
+        "is_priority": false
+      },
+      {
+        "title": "2026 Hit Us All Hard, Here's How To Get Good Deals On Previously-Leased Cars",
+        "source": "Jalopnik - Obsessed with the culture of cars",
+        "published": "Thu, 25 Jun 2026 23:25:00 +0000",
+        "url": "https://www.jalopnik.com/2201906/what-to-know-before-buying-previously-leased-vehicle/",
         "is_priority": false
       }
     ],
     "Portugal": [
       {
-        "title": "\"Caixas do Estado\"? Governo cria grupo de trabalho para rever rede de cobranças estatal",
+        "title": "Avaliação bancária tem a maior subida desde novembro. Metro quadrado atinge 2.208 euros",
         "source": "Jornal de Negocios",
-        "published": "Thu, 25 Jun 2026 11:12:59 +0100",
-        "url": "https://www.jornaldenegocios.pt/economia/politica/detalhe/caixas-do-estado-governo-cria-grupo-de-trabalho-para-rever-rede-de-cobrancas-estatal",
+        "published": "Fri, 26 Jun 2026 11:16:03 +0100",
+        "url": "https://www.jornaldenegocios.pt/mercados/credito/detalhe/avaliacao-bancaria-tem-a-maior-subida-desde-novembro-metro-quadrado-atinge-2-208-euros",
         "is_priority": true
       },
       {
-        "title": "Benfica inicia pré-época com muito 'Made in Seixal' e a novidade Gabriel Índio",
+        "title": "Fundo soberano: uns têm petróleo, outros têm impostos",
+        "source": "Jornal de Negocios",
+        "published": "Fri, 26 Jun 2026 11:15:00 +0100",
+        "url": "https://www.jornaldenegocios.pt/opiniao/colunistas/bruno-faria-lopes/detalhe/fundo-soberano-uns-tem-petroleo-outros-tem-impostos",
+        "is_priority": true
+      },
+      {
+        "title": "Rendas subiram 9,1% no primeiro trimestre",
+        "source": "Jornal de Negocios",
+        "published": "Fri, 26 Jun 2026 11:14:41 +0100",
+        "url": "https://www.jornaldenegocios.pt/economia/habitacao/rendas/detalhe/rendas-subiram-9-1-no-primeiro-trimestre",
+        "is_priority": true
+      },
+      {
+        "title": "Nove portugueses e lusodescendentes entre as vítimas mortais dos sismos na Venezuela",
         "source": "Correio da Manhã",
-        "published": "Thu, 25 Jun 2026 11:10:40 +0100",
-        "url": "https://www.cmjornal.pt/desporto/futebol/detalhe/benfica-inicia-pre-epoca-com-muito-made-in-seixal-e-a-novidade-gabriel-indio",
+        "published": "Fri, 26 Jun 2026 11:13:55 +0100",
+        "url": "https://www.cmjornal.pt/mundo/detalhe/nove-portugueses-e-lusodescendentes-entre-as-vitimas-mortais-dos-sismos-na-venezuela",
         "is_priority": true
       },
       {
-        "title": "Parlamento da Madeira cumpre minuto de silêncio pelas vítimas dos sismos registados na Venezuela",
-        "source": "Correio da Manhã",
-        "published": "Thu, 25 Jun 2026 11:10:12 +0100",
-        "url": "https://www.cmjornal.pt/sociedade/detalhe/parlamento-da-madeira-cumpre-minuto-de-silencio-pelas-vitimas-dos-sismos-registados-na-venezuela",
-        "is_priority": true
-      },
-      {
-        "title": "KPMG law chega ao mercado. Tem quatro sócios, 40 advogados e quer “fazer diferente”",
+        "title": "Valor do metro quadrado acelera 17,1% em maio e supera os 2.200 euros pela primeira vez",
         "source": "ECO",
-        "published": "Thu, 25 Jun 2026 10:09:57 +0000",
-        "url": "https://eco.sapo.pt/2026/06/25/kpmg-law-chega-ao-mercado-tem-quatro-socios-40-advogados-e-quer-fazer-diferente/",
+        "published": "Fri, 26 Jun 2026 10:13:51 +0000",
+        "url": "https://eco.sapo.pt/2026/06/26/valor-do-metro-quadrado-acelera-171-em-maio-e-supera-os-2-200-euros-pela-primeira-vez/",
         "is_priority": true
       },
       {
-        "title": "Família cerca e agride dois GNR e um PSP de folga em Sesimbra",
-        "source": "Correio da Manhã",
-        "published": "Thu, 25 Jun 2026 11:09:55 +0100",
-        "url": "https://www.cmjornal.pt/portugal/detalhe/familia-cerca-e-agride-dois-gnr-e-um-psp-de-folga-em-sesimbra",
+        "title": "UE mantém importações de petróleo no 1.º trimestre, mas gás natural está em queda",
+        "source": "dn",
+        "published": "Fri, 26 Jun 2026 10:13:16 +0000",
+        "url": "http://dinheirovivo.dn.pt/economia/ue-mantm-importaes-de-petrleo-no-1-trimestre-mas-gs-natural-est-em-queda",
         "is_priority": true
       },
       {
-        "title": "'Barão da imprensa cor-de-rosa' falido com dívida de 36,7 milhões de euros",
-        "source": "Correio da Manhã",
-        "published": "Thu, 25 Jun 2026 11:08:41 +0100",
-        "url": "https://www.cmjornal.pt/cmtv/videos/detalhe/20260625-110841-barao-da-imprensa-cor-de-rosa-falido-com-divida-de-36-7-milhoes-de-euros",
+        "title": "Rui Tavares deixa liderança do Livre. Jorge Pinto e Isabel Mendes Lopes candidatos em dupla",
+        "source": "ECO",
+        "published": "Fri, 26 Jun 2026 10:12:24 +0000",
+        "url": "https://eco.sapo.pt/2026/06/26/rui-tavares-deixa-lideranca-do-livre-jorge-pinto-e-isabel-mendes-lopes-candidatos-em-dupla/",
         "is_priority": true
       },
       {
-        "title": "Buscas às escuras e escombros: as imagens da Venezuela",
+        "title": "Delcy Rodriguez visita La Guaira para supervisionar resgates",
         "source": "Observador - Últimas",
-        "published": "Thu, 25 Jun 2026 11:08:05 +0100",
-        "url": "https://observador.pt/2026/06/25/buscas-as-escuras-acampamentos-e-muitos-escombros-as-imagens-que-mostram-a-venezuela-depois-de-dois-abalos-em-poucos-minutos/",
+        "published": "Fri, 26 Jun 2026 11:12:12 +0100",
+        "url": "https://observador.pt/2026/06/26/delcy-rodriguez-visita-la-guaira-para-supervisionar-operacoes-de-resgate/",
         "is_priority": true
       },
       {
-        "title": "Sismo. Governo sem informação sobre vítimas portuguesas",
+        "title": "Marte terá tido sistemas magnéticos semelhantes aos da Terra",
         "source": "Observador - Últimas",
-        "published": "Thu, 25 Jun 2026 11:06:41 +0100",
-        "url": "https://observador.pt/2026/06/25/venezuela-secretario-de-estado-diz-que-para-ja-nao-tem-informacao-de-portugueses-entre-vitimas/",
+        "published": "Fri, 26 Jun 2026 11:11:52 +0100",
+        "url": "https://observador.pt/2026/06/26/marte-tera-albergado-sistemas-magmaticos-semelhantes-aos-da-terra/",
         "is_priority": true
       },
       {
-        "title": "Parlamento vota Prestação Social Única esta tarde",
-        "source": "Observador - Últimas",
-        "published": "Thu, 25 Jun 2026 11:05:42 +0100",
-        "url": "https://observador.pt/liveblogs/parlamento-vota-prestacao-social-unica-esta-tarde/",
-        "is_priority": true
-      },
-      {
-        "title": "What does British PM's resignation mean for European security?",
-        "source": "Deutsche Welle: DW.com - Europe",
-        "published": "2026-06-25T10:16:38.636484+00:00",
-        "url": "https://www.dw.com/en/what-does-british-pm-s-resignation-mean-for-european-security/a-77698281?maca=en-rss-en-eu-2092-rdf",
+        "title": "Today & Weekend Portugal Weather Forecast – 26/06/2026",
+        "source": "The Portugal News",
+        "published": "Fri, 26 Jun 2026 10:11:00 +0000",
+        "url": "https://www.theportugalnews.com/news/2026-06-26/today-weekend-portugal-weather-forecast-26-06-2026/1046382",
         "is_priority": false
       },
       {
-        "title": "Poland, Ukraine: Dispute between two close allies deepens",
-        "source": "Deutsche Welle: DW.com - Europe",
-        "published": "2026-06-25T10:16:38.636513+00:00",
-        "url": "https://www.dw.com/en/poland-ukraine-dispute-between-two-close-allies-deepens/a-77680193?maca=en-rss-en-eu-2092-rdf",
+        "title": "Portugal attempts to secure first place against Colombia",
+        "source": "The Portugal News",
+        "published": "Fri, 26 Jun 2026 10:03:00 +0000",
+        "url": "https://www.theportugalnews.com/news/2026-06-26/portugal-attempts-to-secure-first-place-against-colombia/1046333",
         "is_priority": false
       },
       {
-        "title": "Scotland: Sturgeon's ex-husband Peter Murrell jailed for 5 years and 3 months",
-        "source": "Deutsche Welle: DW.com - Europe",
-        "published": "2026-06-25T10:16:38.636529+00:00",
-        "url": "https://www.dw.com/en/scotland-sturgeon-s-ex-husband-peter-murrell-jailed-for-5-years-and-3-months/a-77678072?maca=en-rss-en-eu-2092-rdf",
+        "title": "What should I eat in a heatwave?",
+        "source": "The Portugal News",
+        "published": "Fri, 26 Jun 2026 09:22:00 +0000",
+        "url": "https://www.theportugalnews.com/news/2026-06-26/what-should-i-eat-in-a-heatwave/1044978",
         "is_priority": false
       },
       {
-        "title": "Ukraine says major Crimea bridge destroyed in latest attack",
-        "source": "Deutsche Welle: DW.com - Europe",
-        "published": "2026-06-25T10:16:38.636542+00:00",
-        "url": "https://www.dw.com/en/ukraine-says-major-crimea-bridge-destroyed-in-latest-attack/a-77678698?maca=en-rss-en-eu-2092-rdf",
+        "title": "Hospital in the Algarve marks 100 robotic surgeries in just over a year",
+        "source": "The Portugal News",
+        "published": "Fri, 26 Jun 2026 09:03:00 +0000",
+        "url": "https://www.theportugalnews.com/news/2026-06-26/hospital-in-the-algarve-marks-100-robotic-surgeries-in-just-over-a-year/1046332",
         "is_priority": false
       },
       {
-        "title": "Turkey arrests more than 200 in crackdown before NATO summit",
-        "source": "Deutsche Welle: DW.com - Europe",
-        "published": "2026-06-25T10:16:38.636554+00:00",
-        "url": "https://www.dw.com/en/turkey-arrests-more-than-200-in-crackdown-before-nato-summit/a-77669771?maca=en-rss-en-eu-2092-rdf",
+        "title": "Four pathways, one ambition: inside the A-Levels programme at EITV",
+        "source": "The Portugal News",
+        "published": "Fri, 26 Jun 2026 09:01:00 +0000",
+        "url": "https://www.theportugalnews.com/news/2026-06-26/four-pathways-one-ambition-inside-the-a-levels-programme-at-eitv/1042700",
         "is_priority": false
       },
       {
-        "title": "Meet Andy Burnham, Britain's likely next prime minister",
-        "source": "Deutsche Welle: DW.com - Europe",
-        "published": "2026-06-25T10:16:38.636566+00:00",
-        "url": "https://www.dw.com/en/meet-andy-burnham-britain-s-likely-next-prime-minister/a-77664543?maca=en-rss-en-eu-2092-rdf",
+        "title": "Lorries will not be allowed to circulate on a city road in Portugal",
+        "source": "The Portugal News",
+        "published": "Fri, 26 Jun 2026 08:03:00 +0000",
+        "url": "https://www.theportugalnews.com/news/2026-06-26/lorries-will-not-be-allowed-to-circulate-on-a-city-road-in-portugal/1046085",
         "is_priority": false
       }
     ]

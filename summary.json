@@ -1,8 +1,8 @@
 {
-  "global_theme": "A significant global tech market downturn and an intense European heatwave are dominant narratives, while Portugal experiences accelerating property valuations and rising cost of living.",
-  "market_mood": "Risk-Off",
-  "risk_signal": "Continued tech sector sell-off and potential for rising interest rates.",
-  "opportunity_signal": "High-yield savings rates and strategic long-term sector investments.",
+  "global_theme": "Geopolitical instability, climate challenges, and rapid AI integration are reshaping global and EU markets, influencing economic stability and creating new digital wealth opportunities.",
+  "market_mood": "Cautious & Volatile",
+  "risk_signal": "Geopolitical tensions & economic uncertainty",
+  "opportunity_signal": "AI integration & digital commerce expansion",
   "finance_sentiment": [
     {
       "i": 1,
@@ -14,7 +14,7 @@
     },
     {
       "i": 3,
-      "s": "-"
+      "s": "="
     },
     {
       "i": 4,
@@ -22,7 +22,7 @@
     },
     {
       "i": 5,
-      "s": "+"
+      "s": "-"
     },
     {
       "i": 6,
@@ -30,7 +30,7 @@
     },
     {
       "i": 7,
-      "s": "="
+      "s": "+"
     },
     {
       "i": 8,
@@ -38,7 +38,7 @@
     },
     {
       "i": 9,
-      "s": "="
+      "s": "-"
     },
     {
       "i": 10,
@@ -58,7 +58,7 @@
     },
     {
       "i": 14,
-      "s": "-"
+      "s": "="
     },
     {
       "i": 15,
@@ -67,28 +67,28 @@
   ],
   "insights": {
     "g1": [
-      "Global tech stocks face a significant sell-off due to AI uncertainty, impacting investment portfolios.",
-      "High-yield savings accounts offering up to 4.10% APY provide a secure capital growth option.",
-      "Rising interest rates from the Fed could impact future borrowing costs for business expansion.",
-      "Monitor global supply chain indicators; airline orders suggest future economic activity.",
-      "Diversify investment strategy beyond volatile tech sectors to protect your capital."
+      "Geopolitical events like US-Iran strikes can rapidly shift market sentiment and resource prices.",
+      "Monitoring global fuel costs is essential, as they directly impact operational expenses for businesses.",
+      "New financial scrutiny in crypto highlights the need for robust and transparent funding models.",
+      "World Bank loans signal growth areas in basic necessities, offering stable investment opportunities.",
+      "Lenovo's capital allocation towards AI shows a strategic shift in corporate investment priorities."
     ],
     "g2": [
-      "Understand the implications of AI uncertainty on tech valuations and future market trends.",
-      "Leverage Prime Day sale trends to analyze consumer purchasing behavior and market demand.",
-      "Heatwaves highlight a growing need for resilient tech infrastructure and cooling solutions.",
-      "Explore skill development in data analysis to better interpret market shifts and opportunities.",
-      "Consider no-code or AI-powered tools to enhance solopreneur efficiency amidst market changes."
+      "New AI models like Anthropic Mythos offer powerful tools for solopreneurs to enhance productivity.",
+      "Global social media regulations necessitate adaptable digital marketing and content strategies.",
+      "Understanding cybersecurity is crucial for protecting digital assets and client data as a solopreneur.",
+      "E-commerce integrations like Trustpilot with Shopify streamline online sales and build customer trust.",
+      "Emerging tech trends, even niche ones like OpenTTD, can inspire innovative digital product development."
     ],
     "g3": [
-      "Portuguese property values and rents continue to surge, impacting living and business costs.",
-      "Extreme European heatwaves pose operational challenges for businesses across the region.",
-      "Local infrastructure improvements, like robotic surgery in Algarve, signal advanced capabilities.",
-      "Develop a contingency plan for climate impacts on your Portugal-based business operations.",
-      "Explore local services catering to residents struggling with Portugal's rising cost of living."
+      "Portugal's investment in technological infrastructure, like Starlink for CP, indicates local digital opportunities.",
+      "Local innovation awards (biodegradable pots) highlight demand for sustainable and unique products/services.",
+      "High summer temperatures in Europe could boost demand for climate-adaptive or cooling-related services.",
+      "Cultural events like the Madeira Jazz Festival provide platforms for local service promotion and networking.",
+      "Understanding local incidents (gasoline prices, accidents) can inform community-based service offerings."
     ]
   },
-  "learning_task": "Spend 30 minutes researching different types of high-yield savings accounts available in Portugal or the EU, comparing their rates and terms to optimize your personal capital growth and meet your €35k goal.",
-  "biz_opportunity": "Offer climate resilience consulting services to Portuguese small businesses (e.g., hospitality, agriculture) struggling with heatwave impacts, by providing practical solutions for operational continuity and energy efficiency given the urgent demand.",
-  "built_at": "2026-06-26T10:24:42.174943+00:00"
+  "learning_task": "Spend 30 minutes researching practical applications of Anthropic Mythos for automating marketing copy or customer service, directly supporting your €35k revenue goal.",
+  "biz_opportunity": "Launch a specialized content creation service leveraging Anthropic Mythos for Portuguese small businesses targeting international tourists, capitalizing on new AI accessibility and Portugal's growing appeal.",
+  "built_at": "2026-06-27T09:31:09.963043+00:00"
 }

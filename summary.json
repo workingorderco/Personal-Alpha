@@ -1,20 +1,20 @@
 {
-  "global_theme": "Geopolitical instability, climate challenges, and rapid AI integration are reshaping global and EU markets, influencing economic stability and creating new digital wealth opportunities.",
-  "market_mood": "Cautious & Volatile",
-  "risk_signal": "Geopolitical tensions & economic uncertainty",
-  "opportunity_signal": "AI integration & digital commerce expansion",
+  "global_theme": "Geopolitical tensions persist while AI demand drives tech market gains, influencing both global finance and local EU economic conditions.",
+  "market_mood": "Mixed Optimism",
+  "risk_signal": "Geopolitical conflict, severe weather, regulatory changes",
+  "opportunity_signal": "AI demand, tech spin-offs, local tourism growth",
   "finance_sentiment": [
     {
       "i": 1,
-      "s": "-"
+      "s": "+"
     },
     {
       "i": 2,
-      "s": "="
+      "s": "-"
     },
     {
       "i": 3,
-      "s": "="
+      "s": "+"
     },
     {
       "i": 4,
@@ -22,19 +22,19 @@
     },
     {
       "i": 5,
-      "s": "-"
-    },
-    {
-      "i": 6,
       "s": "="
     },
     {
-      "i": 7,
+      "i": 6,
       "s": "+"
     },
     {
+      "i": 7,
+      "s": "-"
+    },
+    {
       "i": 8,
-      "s": "+"
+      "s": "="
     },
     {
       "i": 9,
@@ -42,7 +42,7 @@
     },
     {
       "i": 10,
-      "s": "-"
+      "s": "+"
     },
     {
       "i": 11,
@@ -54,41 +54,41 @@
     },
     {
       "i": 13,
-      "s": "="
+      "s": "-"
     },
     {
       "i": 14,
-      "s": "="
+      "s": "-"
     },
     {
       "i": 15,
-      "s": "+"
+      "s": "="
     }
   ],
   "insights": {
     "g1": [
-      "Geopolitical events like US-Iran strikes can rapidly shift market sentiment and resource prices.",
-      "Monitoring global fuel costs is essential, as they directly impact operational expenses for businesses.",
-      "New financial scrutiny in crypto highlights the need for robust and transparent funding models.",
-      "World Bank loans signal growth areas in basic necessities, offering stable investment opportunities.",
-      "Lenovo's capital allocation towards AI shows a strategic shift in corporate investment priorities."
+      "Strong AI demand continues to drive tech share gains, presenting investment and skill-development opportunities.",
+      "Geopolitical tensions (US-Iran) create market volatility and supply chain risks, requiring careful monitoring for investments.",
+      "Corporate spin-offs (Comcast/NBCU) can unlock significant value, highlighting potential for strategic restructuring in mature industries.",
+      "UK financial regulatory changes suggest a shifting landscape for investment funds, requiring diligence from savvy investors.",
+      "Rising rents in Portugal, partly due to air transport, impact cost of living and business operational expenses for solopreneurs."
     ],
     "g2": [
-      "New AI models like Anthropic Mythos offer powerful tools for solopreneurs to enhance productivity.",
-      "Global social media regulations necessitate adaptable digital marketing and content strategies.",
-      "Understanding cybersecurity is crucial for protecting digital assets and client data as a solopreneur.",
-      "E-commerce integrations like Trustpilot with Shopify streamline online sales and build customer trust.",
-      "Emerging tech trends, even niche ones like OpenTTD, can inspire innovative digital product development."
+      "The AI boom is robust, but risks like severe weather impacting infrastructure highlight the need for resilient tech solutions.",
+      "Spain's emergence as a tech hub signals strong EU-level digital growth and potential for cross-border collaboration.",
+      "Advanced humanoids becoming \"competent office interns\" indicates growing AI capabilities for task automation and efficiency.",
+      "Google security warnings about EU data rules emphasize critical need for robust cybersecurity and data privacy knowledge.",
+      "Understanding how to leverage AI tools for market analysis and operational efficiency is crucial for solopreneur competitiveness."
     ],
     "g3": [
-      "Portugal's investment in technological infrastructure, like Starlink for CP, indicates local digital opportunities.",
-      "Local innovation awards (biodegradable pots) highlight demand for sustainable and unique products/services.",
-      "High summer temperatures in Europe could boost demand for climate-adaptive or cooling-related services.",
-      "Cultural events like the Madeira Jazz Festival provide platforms for local service promotion and networking.",
-      "Understanding local incidents (gasoline prices, accidents) can inform community-based service offerings."
+      "Portugal's highlighted nautical tourism and bike/foot journeys offer clear pathways for creating high-value local experiences.",
+      "The EU's new €3 customs charge on small parcels from outside the EU impacts e-commerce and local import strategies.",
+      "The increase in people without family doctors in Portugal points to unmet local service needs and potential digital health solutions.",
+      "Andy Burnham's \"No 10 North\" concept signals a potential EU-wide trend towards regional devolution and local economic focus.",
+      "Portuguese real estate dynamics, influenced by tourism and air transport, are key for solopreneurs considering local office or living costs."
     ]
   },
-  "learning_task": "Spend 30 minutes researching practical applications of Anthropic Mythos for automating marketing copy or customer service, directly supporting your €35k revenue goal.",
-  "biz_opportunity": "Launch a specialized content creation service leveraging Anthropic Mythos for Portuguese small businesses targeting international tourists, capitalizing on new AI accessibility and Portugal's growing appeal.",
-  "built_at": "2026-06-27T09:31:09.963043+00:00"
+  "learning_task": "Allocate 30 minutes to practicing market trend analysis using publicly available data, focusing on sectors with high AI demand and geopolitical risk.",
+  "biz_opportunity": "Develop an AI-powered local guide service for high-value tourists in Portugal, offering personalized itineraries for nautical and eco-tourism, as AI demand for curated experiences surges.",
+  "built_at": "2026-06-29T12:02:26.267792+00:00"
 }

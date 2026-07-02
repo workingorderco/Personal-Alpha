@@ -1,538 +1,538 @@
 {
-  "built_at": "2026-07-01T10:44:17.133169+00:00",
+  "built_at": "2026-07-02T10:11:51.278521+00:00",
   "sections": {
     "Finance": [
       {
-        "title": "OpenAI, Anthropic backer MGX raises one of the biggest AI funds ever as it closes at $49 billion",
-        "source": "US Top News and Analysis",
-        "published": "Wed, 01 Jul 2026 10:40:15 GMT",
-        "url": "https://www.cnbc.com/2026/07/01/mgx-ai-fund-uae-49-billion.html",
-        "is_priority": false
-      },
-      {
-        "title": "Oil prices wobble as breakdown in U.S.-Iran talks casts doubt over peace process",
-        "source": "US Top News and Analysis",
-        "published": "Wed, 01 Jul 2026 10:35:35 GMT",
-        "url": "https://www.cnbc.com/2026/07/01/oil-prices-brent-wti-crude-trump-iran.html",
-        "is_priority": false
-      },
-      {
-        "title": "Tech leads first half stock gains — but the biggest winners weren't in the U.S.",
-        "source": "US Top News and Analysis",
-        "published": "Wed, 01 Jul 2026 10:32:03 GMT",
-        "url": "https://www.cnbc.com/2026/07/01/tech-stocks-mag-7-emerging-markets-nvidia-chip-ai.html",
-        "is_priority": false
-      },
-      {
-        "title": "Trump's annual financial disclosure shows more than $580M in crypto-related income",
-        "source": "US Top News and Analysis",
-        "published": "Wed, 01 Jul 2026 10:26:27 GMT",
-        "url": "https://www.cnbc.com/2026/06/30/trump-financial-disclosure-released.html",
-        "is_priority": false
-      },
-      {
-        "title": "Elevance Health (ELV) Enhances Health OS to Automate Clinical Reviews and Reduce Provider Administrative Burdens",
-        "source": "Yahoo Finance",
-        "published": "2026-07-01T10:23:44Z",
-        "url": "https://finance.yahoo.com/healthcare/articles/elevance-health-elv-enhances-health-102344712.html",
-        "is_priority": false
-      },
-      {
-        "title": "Accenture (ACN), ServiceNow (NOW) Launch Joint Initiative to Modernize Enterprise Risk Management With Agentic AI",
-        "source": "Yahoo Finance",
-        "published": "2026-07-01T10:23:31Z",
-        "url": "https://finance.yahoo.com/technology/ai/articles/accenture-acn-servicenow-now-launch-102331915.html",
-        "is_priority": false
-      },
-      {
-        "title": "Greece’s unemployment rate falls to 8.1% in May",
+        "title": "Airbus wins contract to build Aeolus-2 weather satellite for ESA",
         "source": "All News",
-        "published": "2026-07-01 10:23:26",
-        "url": "https://www.investing.com/news/economy-news/greeces-unemployment-rate-falls-to-81-in-may-93CH-4769874",
+        "published": "2026-07-02 10:10:20",
+        "url": "https://www.investing.com/news/stock-market-news/airbus-wins-contract-to-build-aeolus2-weather-satellite-for-esa-93CH-4772655",
         "is_priority": false
       },
       {
-        "title": "Darling Ingredients (DAR) Awarded US Patent for Rousselot’s Nextida GC Collagen Peptide",
-        "source": "Yahoo Finance",
-        "published": "2026-07-01T10:23:25Z",
-        "url": "https://finance.yahoo.com/healthcare/articles/darling-ingredients-dar-awarded-us-102325928.html",
-        "is_priority": false
-      },
-      {
-        "title": "Dow (DOW), Univar Solutions Partner to Distribute Decarbia Low-Carbon Portfolio",
-        "source": "Yahoo Finance",
-        "published": "2026-07-01T10:23:19Z",
-        "url": "https://finance.yahoo.com/markets/stocks/articles/dow-dow-univar-solutions-partner-102319581.html",
-        "is_priority": false
-      },
-      {
-        "title": "Is Devon (DVN) One of the Best Value Stocks to Buy Right Now?",
-        "source": "Yahoo Finance",
-        "published": "2026-07-01T10:23:12Z",
-        "url": "https://finance.yahoo.com/markets/stocks/articles/devon-dvn-one-best-value-102312160.html",
-        "is_priority": false
-      },
-      {
-        "title": "Here is Why MetLife (MET) is One of the Best Value Stocks to Buy Right Now",
-        "source": "Yahoo Finance",
-        "published": "2026-07-01T10:23:07Z",
-        "url": "https://finance.yahoo.com/markets/stocks/articles/why-metlife-met-one-best-102307485.html",
-        "is_priority": false
-      },
-      {
-        "title": "Norsk Hydro to restart aluminium production at Slovalco plant",
+        "title": "Keysight SVP Ingrid Estrada sells $681,740 in company stock",
         "source": "All News",
-        "published": "2026-07-01 10:22:56",
-        "url": "https://www.investing.com/news/stock-market-news/norsk-hydro-to-restart-aluminium-production-at-slovalco-plant-93CH-4769873",
+        "published": "2026-07-02 10:09:49",
+        "url": "https://www.investing.com/news/insider-trading-news/keysight-svp-ingrid-estrada-sells-681740-in-company-stock-93CH-4772649",
         "is_priority": false
       },
       {
-        "title": "Here is Why Agora (API) is One of the Best Tech Stocks to Buy for the Next 5 Years",
-        "source": "Yahoo Finance",
-        "published": "2026-07-01T10:22:08Z",
-        "url": "https://finance.yahoo.com/technology/articles/why-agora-api-one-best-102208832.html",
+        "title": "Form 4 AT&T Inc DRC For: 2 July",
+        "source": "All News",
+        "published": "2026-07-02 10:09:12",
+        "url": "https://www.investing.com/news/filings/form-4-att-inc-drc-for-2-july-93CH-4772648",
         "is_priority": false
       },
       {
-        "title": "Is Bullish (BLSH) One of the Best Tech Stocks to Buy for the Next 5 Years?",
-        "source": "Yahoo Finance",
-        "published": "2026-07-01T10:22:02Z",
-        "url": "https://finance.yahoo.com/technology/articles/bullish-blsh-one-best-tech-102202344.html",
+        "title": "Yara to acquire Texas ammonia plant for $1.3 billion",
+        "source": "All News",
+        "published": "2026-07-02 10:08:46",
+        "url": "https://www.investing.com/news/company-news/yara-to-acquire-texas-ammonia-plant-for-13-billion-93CH-4772646",
         "is_priority": false
       },
       {
-        "title": "Alpha & Omega Semiconductor (AOSL) Launches Multiphase Controllers for Next-Gen Intel Processors",
-        "source": "Yahoo Finance",
-        "published": "2026-07-01T10:21:54Z",
-        "url": "https://finance.yahoo.com/technology/articles/alpha-omega-semiconductor-aosl-launches-102154985.html",
+        "title": "VEON, Mastercard partner on financial services in four markets",
+        "source": "All News",
+        "published": "2026-07-02 10:08:44",
+        "url": "https://www.investing.com/news/company-news/veon-mastercard-partner-on-financial-services-in-four-markets-93CH-4772645",
+        "is_priority": false
+      },
+      {
+        "title": "Jiayin Group appoints Xiaojing Lu to board of directors",
+        "source": "All News",
+        "published": "2026-07-02 10:08:43",
+        "url": "https://www.investing.com/news/company-news/jiayin-group-appoints-xiaojing-lu-to-board-of-directors-93CH-4772644",
+        "is_priority": false
+      },
+      {
+        "title": "Hyperscale Data acquires 67 bitcoin, treasury reaches 849",
+        "source": "All News",
+        "published": "2026-07-02 10:08:40",
+        "url": "https://www.investing.com/news/company-news/hyperscale-data-acquires-67-bitcoin-treasury-reaches-849-93CH-4772643",
+        "is_priority": false
+      },
+      {
+        "title": "Ensign Group acquires two Texas skilled nursing facilities",
+        "source": "All News",
+        "published": "2026-07-02 10:08:40",
+        "url": "https://www.investing.com/news/company-news/ensign-group-acquires-two-texas-skilled-nursing-facilities-93CH-4772642",
+        "is_priority": false
+      },
+      {
+        "title": "Currys FY 2025/26 slides: profit jumps 18% as services drive growth",
+        "source": "All News",
+        "published": "2026-07-02 10:08:05",
+        "url": "https://www.investing.com/news/company-news/currys-fy-202526-slides-profit-jumps-18-as-services-drive-growth-93CH-4772641",
+        "is_priority": false
+      },
+      {
+        "title": "In Brazil, a Bolsonaro family rift exposes the right’s struggle with women voters",
+        "source": "All News",
+        "published": "2026-07-02 10:07:52",
+        "url": "https://www.investing.com/news/world-news/in-brazil-a-bolsonaro-family-rift-exposes-the-rights-struggle-with-women-voters-4772640",
+        "is_priority": false
+      },
+      {
+        "title": "Google loses fight over record $4.7 billion EU antitrust fine",
+        "source": "US Top News and Analysis",
+        "published": "Thu, 02 Jul 2026 10:07:29 GMT",
+        "url": "https://www.cnbc.com/2026/07/02/alphabet-google-android-eu-antitrust-fine-4-1-billion-euro-appeal.html",
+        "is_priority": false
+      },
+      {
+        "title": "Treasuries Slip Before Payrolls as Traders Weigh Warsh Comments",
+        "source": "Bloomberg Markets",
+        "published": "Thu, 02 Jul 2026 09:58:44 GMT",
+        "url": "https://www.bloomberg.com/news/articles/2026-07-02/treasuries-slip-before-payrolls-as-traders-weigh-warsh-comments",
+        "is_priority": false
+      },
+      {
+        "title": "Nvidia offers start-up customers chance to swap compute power for revenue share",
+        "source": "US Top News and Analysis",
+        "published": "Thu, 02 Jul 2026 09:57:30 GMT",
+        "url": "https://www.cnbc.com/2026/07/02/nvidia-plans-to-offer-start-up-customers-access-to-revenue-sharing-deals.html",
+        "is_priority": false
+      },
+      {
+        "title": "‘There was a catch’: My doctor friend was outraged by his hospital’s fundraising tactics. Where do we draw the line?",
+        "source": "MarketWatch.com - Top Stories",
+        "published": "Thu, 02 Jul 2026 09:42:00 GMT",
+        "url": "https://www.marketwatch.com/story/there-was-a-catch-my-doctor-friend-was-outraged-by-his-hospitals-fundraising-tactics-where-do-we-draw-the-line-797b9fff?mod=mw_rss_topstories",
+        "is_priority": false
+      },
+      {
+        "title": "Brazil Rail Operator Opens New Route to Boost Soymeal Exports",
+        "source": "Bloomberg Markets",
+        "published": "Thu, 02 Jul 2026 09:30:00 GMT",
+        "url": "https://www.bloomberg.com/news/articles/2026-07-02/brazil-rail-operator-opens-new-route-to-boost-soymeal-exports",
         "is_priority": false
       }
     ],
     "World News": [
       {
-        "title": "World Cup 2026: France and Mexico shine, Bielsa departs, England v DR Congo buildup, and more – live",
-        "source": "The Guardian",
-        "published": "Wed, 01 Jul 2026 10:40:41 GMT",
-        "url": "https://www.theguardian.com/football/live/2026/jul/01/world-cup-2026-france-dazzle-mexico-swagger-through-england-v-dr-congo-buildup-and-more-live",
-        "is_priority": false
-      },
-      {
-        "title": "Australia news live: politicians and media gather for Canberra’s Midwinter Ball; Westpac director resigns as KPMG scandal widens",
-        "source": "World news | The Guardian",
-        "published": "Wed, 01 Jul 2026 10:28:43 GMT",
-        "url": "https://www.theguardian.com/australia-news/live/2026/jul/01/australia-politics-live-labor-kpmg-daniel-mulino-jim-chalmers-anthony-albanese-question-time-coalition-angus-taylor-one-nation-pauline-hanson-ntwnfb",
-        "is_priority": false
-      },
-      {
-        "title": "Ireland set to take presidency of EU in Dublin opening ceremony – Europe live",
-        "source": "World news | The Guardian",
-        "published": "Wed, 01 Jul 2026 10:26:00 GMT",
-        "url": "https://www.theguardian.com/world/live/2026/jul/01/ireland-set-to-take-presidency-of-eu-in-dublin-opening-ceremony-europe-live",
-        "is_priority": false
-      },
-      {
-        "title": "R&B star Chris Brown ordered to pay $13m to housekeeper mauled by his dog",
-        "source": "The Guardian",
-        "published": "Wed, 01 Jul 2026 10:12:52 GMT",
-        "url": "https://www.theguardian.com/music/2026/jul/01/rb-star-chris-brown-ordered-to-pay-13m-to-housekeeper-mauled-by-his-dog",
-        "is_priority": false
-      },
-      {
-        "title": "Three killed in Mexico City World Cup celebrations",
-        "source": "BBC News",
-        "published": "Wed, 01 Jul 2026 10:12:48 GMT",
-        "url": "https://www.bbc.co.uk/news/articles/cx2xjwj8p39o?at_medium=RSS&at_campaign=rss",
-        "is_priority": false
-      },
-      {
-        "title": "Anthropic says US has lifted export controls on Fable and Mythos AI models after security fears",
-        "source": "World news | The Guardian",
-        "published": "Wed, 01 Jul 2026 10:07:20 GMT",
-        "url": "https://www.theguardian.com/technology/2026/jul/01/anthropic-fable-mythos-ai-models-us-export-controls-lifted",
-        "is_priority": false
-      },
-      {
-        "title": "Starmer to take PMQs as he faces backlash over ‘poisoned chalice’ defence investment plan – UK politics live",
-        "source": "World news | The Guardian",
-        "published": "Wed, 01 Jul 2026 10:01:21 GMT",
-        "url": "https://www.theguardian.com/politics/live/2026/jul/01/keir-starmer-andy-burnham-labour-defence-investment-plan-pmqs-kemi-badenoch",
-        "is_priority": false
-      },
-      {
-        "title": "‘Tip of the iceberg’: nearly 500,000 New Yorkers lose health insurance due to Trump cuts",
-        "source": "World news | The Guardian",
-        "published": "Wed, 01 Jul 2026 10:00:33 GMT",
-        "url": "https://www.theguardian.com/us-news/2026/jul/01/new-yorkers-lose-health-insurance-trump-cuts",
-        "is_priority": false
-      },
-      {
-        "title": "Spielberg’s Disclosure Day is making some wonder: will we have real disclosure soon? | Seth Shostak",
-        "source": "The Guardian",
-        "published": "Wed, 01 Jul 2026 10:00:33 GMT",
-        "url": "https://www.theguardian.com/commentisfree/2026/jul/01/stephen-spielberg-disclosure-day-aliens-extraterrestrial",
-        "is_priority": false
-      },
-      {
-        "title": "US supreme court rejects appeal from lawyer punished over effort to remove abusive priest",
-        "source": "World news | The Guardian",
-        "published": "Wed, 01 Jul 2026 10:00:32 GMT",
-        "url": "https://www.theguardian.com/us-news/2026/jul/01/supreme-court-appeal-richard-trahant",
-        "is_priority": false
-      },
-      {
-        "title": "Elle review – this Legally Blonde prequel recreates the genius of Reese Witherspoon’s performance",
-        "source": "The Guardian",
-        "published": "Wed, 01 Jul 2026 10:00:32 GMT",
-        "url": "https://www.theguardian.com/tv-and-radio/2026/jul/01/elle-review-legally-blonde-prequel-lexi-minetree-reese-witherspoon-prime-video",
-        "is_priority": false
-      },
-      {
-        "title": "3 People Die During World Cup Celebrations in Mexico City",
+        "title": "Live Updates: Russia Hammers Ukraine’s Capital in Deadly Attacks",
         "source": "NYT > World News",
-        "published": "Wed, 01 Jul 2026 10:00:01 +0000",
-        "url": "https://www.nytimes.com/2026/07/01/world/americas/world-cup-mexico-city-crowd-deaths.html",
+        "published": "Thu, 02 Jul 2026 10:08:03 +0000",
+        "url": "https://www.nytimes.com/live/2026/07/02/world/ukraine-kyiv-russia-attack",
         "is_priority": false
       },
       {
-        "title": "Greetings from London, where Banksy's flag man is a warning cry",
-        "source": "NPR Topics: World",
-        "published": "Wed, 01 Jul 2026 06:00:00 -0400",
-        "url": "https://www.npr.org/2026/07/01/nx-s1-5867594/banksy-flag-man-statue-london",
+        "title": "World Cup 2026: England, USA and Belgium through; Spain and Portugal face last-32 tests – live",
+        "source": "The Guardian",
+        "published": "Thu, 02 Jul 2026 10:01:05 GMT",
+        "url": "https://www.theguardian.com/football/live/2026/jul/02/world-cup-2026-england-and-belgium-fight-back-spain-v-austria-buildup-and-more-live",
         "is_priority": false
       },
       {
-        "title": "In Pictures: Mexico celebrates historic World Cup victory",
+        "title": "Latest news bulletin | July 2nd, 2026 – Midday",
+        "source": "News | Euronews RSS",
+        "published": "Thu, 02 Jul 2026 12:00:16 +0200",
+        "url": "http://www.euronews.com/video/2026/07/02/latest-news-bulletin-july-2nd-2026-midday",
+        "is_priority": false
+      },
+      {
+        "title": "Wimbledon 2026: Swan v Keys, plus Swiatek and Zverev in action on day four – live",
+        "source": "The Guardian",
+        "published": "Thu, 02 Jul 2026 10:00:09 GMT",
+        "url": "https://www.theguardian.com/sport/live/2026/jul/02/wimbledon-2026-swan-keys-swiatek-zverev-fritz-rybakina-day-four-live",
+        "is_priority": false
+      },
+      {
+        "title": "Smoke rises over Kyiv after Russian overnight strikes",
+        "source": "News | Euronews RSS",
+        "published": "Thu, 02 Jul 2026 11:46:07 +0200",
+        "url": "http://www.euronews.com/video/2026/07/02/smoke-rises-over-kyiv-after-russian-overnight-strikes",
+        "is_priority": false
+      },
+      {
+        "title": "Transfer roundup: Everton clinch Hackney signing, Spurs announce Fernandes",
+        "source": "The Guardian",
+        "published": "Thu, 02 Jul 2026 09:44:50 GMT",
+        "url": "https://www.theguardian.com/football/2026/jul/02/transfer-latest-premier-league-everton-tottenham",
+        "is_priority": false
+      },
+      {
+        "title": "Kyiv attacks death toll rises to 17 as Russia warns it will ‘continue to increase pressure’ on Ukrainian capital – Europe live",
+        "source": "World news | The Guardian",
+        "published": "Thu, 02 Jul 2026 09:44:26 GMT",
+        "url": "https://www.theguardian.com/world/live/2026/jul/02/russia-strikes-ukraine-war-kyiv-volodymyr-zelenskyy-europe-latest-news-updates",
+        "is_priority": false
+      },
+      {
+        "title": "Record-breaker Layla Drury signs first professional deal with Manchester United",
+        "source": "The Guardian",
+        "published": "Thu, 02 Jul 2026 09:40:25 GMT",
+        "url": "https://www.theguardian.com/football/2026/jul/02/record-breaker-layla-drury-signs-first-professional-deal-with-manchester-united",
+        "is_priority": false
+      },
+      {
+        "title": "Starmer to issue formal apology to mothers and children harmed by historic forced adoption policies – UK politics live",
+        "source": "World news | The Guardian",
+        "published": "Thu, 02 Jul 2026 09:36:08 GMT",
+        "url": "https://www.theguardian.com/politics/live/2026/jul/02/keir-starmer-apology-forced-adoption-labour-andy-burnham-uk-politics-latest-news-updates",
+        "is_priority": false
+      },
+      {
+        "title": "FIFA president reacts as Morocco win World Cup match",
         "source": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
-        "published": "Wed, 01 Jul 2026 09:51:40 +0000",
-        "url": "https://www.aljazeera.com/gallery/2026/7/1/in-pictures-mexico-celebrates-historic-world-cup-victory?traffic_source=rss",
+        "published": "Thu, 02 Jul 2026 09:32:55 +0000",
+        "url": "https://www.aljazeera.com/video/newsfeed/2026/7/2/fifa-president-reacts-as-morocco-win-world-cup-match?traffic_source=rss",
         "is_priority": false
       },
       {
-        "title": "Why Are So Many Cubans Migrating to Guyana?",
+        "title": "Here’s the latest.",
         "source": "NYT > World News",
-        "published": "Wed, 01 Jul 2026 09:43:36 +0000",
-        "url": "https://www.nytimes.com/video/world/americas/100000010968903/cuba-guyana-immigrants.html",
+        "published": "Thu, 02 Jul 2026 09:32:41 +0000",
+        "url": "https://www.nytimes.com/live/2026/07/02/world/ukraine-kyiv-russia-attack/heres-the-latest",
+        "is_priority": false
+      },
+      {
+        "title": "Young Indonesian couple publicly caned after kissing on TikTok",
+        "source": "World news | The Guardian",
+        "published": "Thu, 02 Jul 2026 09:18:36 GMT",
+        "url": "https://www.theguardian.com/world/2026/jul/02/young-indonesian-couple-publicly-caned-after-kissing-on-tiktok",
+        "is_priority": false
+      },
+      {
+        "title": "US fans celebrate World Cup last-16 spot",
+        "source": "News | Euronews RSS",
+        "published": "Thu, 02 Jul 2026 11:16:57 +0200",
+        "url": "http://www.euronews.com/video/2026/07/02/us-fans-celebrate-world-cup-last-16-spot",
+        "is_priority": false
+      },
+      {
+        "title": "At least 13 killed in 'most massive' Russian attack on Kyiv",
+        "source": "BBC News",
+        "published": "Thu, 02 Jul 2026 09:15:16 GMT",
+        "url": "https://www.bbc.co.uk/news/articles/c4gyv05gk4do?at_medium=RSS&at_campaign=rss",
+        "is_priority": false
+      },
+      {
+        "title": "Ronaldo fever hits Toronto ahead of Portugal vs Croatia World Cup clash",
+        "source": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
+        "published": "Thu, 02 Jul 2026 09:12:27 +0000",
+        "url": "https://www.aljazeera.com/sports/2026/7/2/ronaldo-fever-hits-toronto-portugal-vs-croatia-world-cup-2026?traffic_source=rss",
         "is_priority": false
       }
     ],
     "Tech": [
       {
-        "title": "An AI agent was named after this 57-year-old Belgian credit analyst. Is he philosophical about it?",
-        "source": "Sifted",
-        "published": "Wed, 01 Jul 2026 10:40:44 GMT",
-        "url": "https://sifted.eu/articles/herman-ai-oper/",
-        "is_priority": false
-      },
-      {
-        "title": "Alan Chang is hiring a ‘performance manager’. Should other CEOs follow his lead?",
-        "source": "Sifted",
-        "published": "Wed, 01 Jul 2026 10:40:39 GMT",
-        "url": "https://sifted.eu/articles/should-you-copy-alan-chang-and-hire-a-performance-manager/",
-        "is_priority": false
-      },
-      {
-        "title": "Just About Anyone Can Sell You GLP-1s Online Now",
+        "title": "Inside the Luddite Festival Harnessing Gen Z’s Rage Against Big Tech",
         "source": "WIRED",
-        "published": "Wed, 01 Jul 2026 10:30:00 +0000",
-        "url": "https://www.wired.com/story/telehealth-middlemen-turnkey-healthcare-providers-glp1/",
+        "published": "Thu, 02 Jul 2026 10:00:00 +0000",
+        "url": "https://www.wired.com/story/inside-the-luddite-festival-harnessing-gen-zs-rage-against-big-tech/",
         "is_priority": false
       },
       {
-        "title": "Anthropic says US has lifted export controls on Fable and Mythos AI models after security fears",
-        "source": "Technology | The Guardian",
-        "published": "Wed, 01 Jul 2026 10:07:20 GMT",
-        "url": "https://www.theguardian.com/technology/2026/jul/01/anthropic-fable-mythos-ai-models-us-export-controls-lifted",
+        "title": "Z.ai launches ZCode to challenge Cursor, Claude Code and GitHub Copilot in AI coding",
+        "source": "VentureBeat",
+        "published": "Thu, 02 Jul 2026 10:00:00 GMT",
+        "url": "https://venturebeat.com/technology/z-ai-launches-zcode-to-challenge-cursor-claude-code-and-github-copilot-in-ai-coding",
         "is_priority": false
       },
       {
-        "title": "Asahi Linux 7.1 Progress Report",
-        "source": "Hacker News: Front Page",
-        "published": "Wed, 01 Jul 2026 10:07:04 +0000",
-        "url": "https://asahilinux.org/2026/06/progress-report-7-1/",
+        "title": "Meta Is Charging a Subscription for Smart Glasses Features. Welcome to the New Era of Consumer Tech",
+        "source": "WIRED",
+        "published": "Thu, 02 Jul 2026 09:30:00 +0000",
+        "url": "https://www.wired.com/story/why-meta-is-charging-a-subscription-for-on-device-smart-glasses-features/",
         "is_priority": false
       },
       {
-        "title": "Fujifilm launches two new QuickSnap cameras because Gen Z can’t get enough",
+        "title": "Amazon has enough satellites to launch its Starlink competitor",
         "source": "The Verge",
-        "published": "2026-07-01T06:05:28-04:00",
-        "url": "https://www.theverge.com/gadgets/960067/fujifilm-quicksnap-active-black-and-white-price-availability",
+        "published": "2026-07-02T05:13:39-04:00",
+        "url": "https://www.theverge.com/science/960563/amazon-leo-service-tipping-point",
         "is_priority": false
       },
       {
-        "title": "Claude Helped a Hacker Find a Way to Issue Tickets to Almost Every US Music Festival",
-        "source": "WIRED",
-        "published": "Wed, 01 Jul 2026 10:00:00 +0000",
-        "url": "https://www.wired.com/story/claude-helped-a-hacker-find-a-way-to-issue-tickets-to-almost-every-us-music-festival/",
-        "is_priority": false
-      },
-      {
-        "title": "Pine64 launch $50 smart speaker for Home Assistant tinkerers",
-        "source": "Hacker News: Front Page",
-        "published": "Wed, 01 Jul 2026 09:57:07 +0000",
-        "url": "https://www.omgubuntu.co.uk/2026/06/pine64-pinevoice-riscv-smart-speaker-launch",
-        "is_priority": false
-      },
-      {
-        "title": "SumUp launches consumer account paying users to shop small",
+        "title": "Drone maker Quantum Systems raises $1.2bn, eyes humanoids",
         "source": "Sifted",
-        "published": "Wed, 01 Jul 2026 09:41:07 GMT",
-        "url": "https://sifted.eu/articles/sumup-launches-consumer-account/",
+        "published": "Thu, 02 Jul 2026 09:02:22 GMT",
+        "url": "https://sifted.eu/articles/quantum-systems-fundraise-humanoids-merger-stark/",
         "is_priority": false
       },
       {
-        "title": "A Guided Tour of Donald Trump’s Renovated Washington, DC",
-        "source": "WIRED",
-        "published": "Wed, 01 Jul 2026 09:30:00 +0000",
-        "url": "https://www.wired.com/story/a-guided-tour-of-donald-trumps-renovated-washington-dc/",
-        "is_priority": false
-      },
-      {
-        "title": "Dexter (YC F24) Is Hiring a Founding Engineer in Berlin",
-        "source": "Hacker News: Front Page",
-        "published": "Wed, 01 Jul 2026 09:18:43 +0000",
-        "url": "https://news.ycombinator.com/item?id=48744213",
-        "is_priority": false
-      },
-      {
-        "title": "The Yoto Music Box Is a Ray of Hope Amid the ‘Techlash’",
+        "title": "Is a ‘Frictionless’ Society a Trap?",
         "source": "NYT > Technology",
-        "published": "Wed, 01 Jul 2026 09:01:48 +0000",
-        "url": "https://www.nytimes.com/2026/07/01/technology/personaltech/yoto-music-box-screens.html",
+        "published": "Thu, 02 Jul 2026 09:02:10 +0000",
+        "url": "https://www.nytimes.com/2026/07/02/magazine/frictionless-productivity-marketing-tech.html",
         "is_priority": false
       },
       {
-        "title": "Rapid spread of AI may worsen global inequality, UN warns",
+        "title": "Heat Domes Are Dangerous. July Fourth Activities Will Make Things Worse",
+        "source": "WIRED",
+        "published": "Thu, 02 Jul 2026 09:00:00 +0000",
+        "url": "https://www.wired.com/story/heat-domes-are-dangerous-july-fourth-activities-make-things-worse/",
+        "is_priority": false
+      },
+      {
+        "title": "Why California’s carbon manure math doesn’t add up",
+        "source": "MIT Technology Review",
+        "published": "Thu, 02 Jul 2026 09:00:00 +0000",
+        "url": "https://www.technologyreview.com/2026/07/02/1139981/why-californias-carbon-manure-math-doesnt-add-up/",
+        "is_priority": false
+      },
+      {
+        "title": "Google loses fight over record $4.7B EU antitrust fine",
+        "source": "Hacker News: Front Page",
+        "published": "Thu, 02 Jul 2026 08:34:13 +0000",
+        "url": "https://www.cnbc.com/2026/07/02/alphabet-google-android-eu-antitrust-fine-4-1-billion-euro-appeal.html",
+        "is_priority": false
+      },
+      {
+        "title": "Rhythm Paradise Groove review – exhilarating bitesize beats test your reflexes",
         "source": "Technology | The Guardian",
-        "published": "Wed, 01 Jul 2026 09:00:32 GMT",
-        "url": "https://www.theguardian.com/technology/2026/jul/01/un-report-ai-inequality",
+        "published": "Thu, 02 Jul 2026 08:30:08 GMT",
+        "url": "https://www.theguardian.com/games/2026/jul/02/rhythm-paradise-heaven-groove-review-nintendo-switch",
         "is_priority": false
       },
       {
-        "title": "Signet City – futuristic parasites feed off 80s social realism in dystopian RPG",
+        "title": "The Fall of the Theorem Economy",
+        "source": "Hacker News: Front Page",
+        "published": "Thu, 02 Jul 2026 08:01:15 +0000",
+        "url": "https://davidbessis.substack.com/p/the-fall-of-the-theorem-economy",
+        "is_priority": false
+      },
+      {
+        "title": "OpenAI ‘in early talks to give 5% stake to US government’",
         "source": "Technology | The Guardian",
-        "published": "Wed, 01 Jul 2026 09:00:31 GMT",
-        "url": "https://www.theguardian.com/games/2026/jul/01/signet-city-gareth-damian-martin-game-preview",
+        "published": "Thu, 02 Jul 2026 07:31:15 GMT",
+        "url": "https://www.theguardian.com/technology/2026/jul/02/openai-stake-us-government-ai-sam-altman",
         "is_priority": false
       },
       {
-        "title": "Cleared by the US, derailed by the UK: Getty’s Shutterstock merger falls apart",
-        "source": "The Verge",
-        "published": "2026-07-01T04:41:26-04:00",
-        "url": "https://www.theverge.com/tech/960047/getty-shutterstock-merger-agreement-termination",
+        "title": "Indian tech tycoon bets $30M of his own money to build AI alternative to Microsoft Office",
+        "source": "TechCrunch",
+        "published": "Thu, 02 Jul 2026 05:30:00 +0000",
+        "url": "https://techcrunch.com/2026/07/01/indian-tech-tycoon-bets-30m-to-build-an-ai-alternative-to-microsoft-office/",
+        "is_priority": false
+      },
+      {
+        "title": "CursorBench 3.1",
+        "source": "Hacker News: Front Page",
+        "published": "Thu, 02 Jul 2026 05:19:34 +0000",
+        "url": "https://cursor.com/evals",
+        "is_priority": false
+      },
+      {
+        "title": "H1’s biggest M&A deals",
+        "source": "Sifted",
+        "published": "Thu, 02 Jul 2026 05:00:55 GMT",
+        "url": "https://sifted.eu/articles/h1s-biggest-ma-deals-2/",
         "is_priority": false
       }
     ],
     "Automotive/Motorcycle": [
       {
-        "title": "Top five roles on Motorsport Jobs this week",
-        "source": "Autosport.com - All - Stories",
-        "published": "Wed, 01 Jul 2026 10:14:33 +0000",
-        "url": "https://www.autosport.com/general/news/top-five-roles-on-motorsport-jobs-this-week-10835274/10835274/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-ALL&utm_term=News&utm_content=uk",
-        "is_priority": false
-      },
-      {
-        "title": "Honda CEO Teases Imminent Nissan Deal",
+        "title": "Volkswagen Group Speaks Out On Reports It Could Sell Some Brands",
         "source": "Motor1.com - News",
-        "published": "Wed, 01 Jul 2026 10:04:55 +0000",
-        "url": "https://www.motor1.com/news/800262/honda-ceo-teases-nissan-deal/",
+        "published": "Thu, 02 Jul 2026 09:27:40 +0000",
+        "url": "https://www.motor1.com/news/800395/vw-group-responds-rumors-selling-brands/",
         "is_priority": false
       },
       {
-        "title": "Autosport Retro video: Remembering the 1987 British GP",
-        "source": "Autosport.com - All - Stories",
-        "published": "Wed, 01 Jul 2026 10:01:24 +0000",
-        "url": "https://www.autosport.com/f1/news/autosport-retro-video-remembering-the-1987-british-gp/10835271/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-ALL&utm_term=News&utm_content=uk",
-        "is_priority": false
-      },
-      {
-        "title": "2027 Lamborghini Urus SE Performante Ups the Ante on Hybrid Power",
-        "source": "Latest Content - Car and Driver",
-        "published": "Wed, 01 Jul 2026 10:00:00 +0000",
-        "url": "https://www.caranddriver.com/news/a71783168/2027-lamborghini-urus-se-performante-revealed/",
-        "is_priority": false
-      },
-      {
-        "title": "View Interior Photos of the 2027 Lamborghini Urus SE Performante",
-        "source": "Latest Content - Car and Driver",
-        "published": "Wed, 01 Jul 2026 10:00:00 +0000",
-        "url": "https://www.caranddriver.com/photos/g71782621/2027-lamborghini-urus-se-performante-revealed-interior-gallery/",
-        "is_priority": false
-      },
-      {
-        "title": "View Exterior Photos of the 2027 Lamborghini Urus SE Performante",
-        "source": "Latest Content - Car and Driver",
-        "published": "Wed, 01 Jul 2026 10:00:00 +0000",
-        "url": "https://www.caranddriver.com/photos/g71782620/2027-lamborghini-urus-se-performante-revealed-exterior-gallery/",
-        "is_priority": false
-      },
-      {
-        "title": "Lamborghini Just Built Its Most Powerful SUV Ever",
-        "source": "Motor1.com - News",
-        "published": "Wed, 01 Jul 2026 10:00:00 +0000",
-        "url": "https://www.motor1.com/news/800221/lamborghini-urus-se-performante-specs-details/",
-        "is_priority": false
-      },
-      {
-        "title": "Williams plans “almost entirely new car” by Azerbaijan GP",
-        "source": "Autosport.com - All - Stories",
-        "published": "Wed, 01 Jul 2026 09:47:27 +0000",
-        "url": "https://www.autosport.com/f1/news/williams-plans-almost-entirely-new-car-by-azerbaijan-gp/10835267/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-ALL&utm_term=News&utm_content=uk",
-        "is_priority": false
-      },
-      {
-        "title": "Geely EX2 due in UK this summer as Renault 5 rival",
-        "source": "Autocar RSS Feed",
-        "published": "Wed, 1 Jul 2026 10:32:49 +0100",
-        "url": "https://www.autocar.co.uk/car-news/electric-cars/geely-ex2-due-uk-summer-renault-5-rival",
-        "is_priority": false
-      },
-      {
-        "title": "Here's How Much A 2021 Hyundai Palisade Has Depreciated In Five Years",
+        "title": "How The Two-Door Chevy Tahoe Took The Blazer's Place",
         "source": "Jalopnik - Obsessed with the culture of cars",
-        "published": "Wed, 01 Jul 2026 09:25:00 +0000",
-        "url": "https://www.jalopnik.com/2203913/how-much-2021-hyundai-palisade-has-depreciated-five-years/",
+        "published": "Thu, 02 Jul 2026 09:25:00 +0000",
+        "url": "https://www.jalopnik.com/2204183/chevy-tahoe-1995-two-door-k5-blazer-successor-name-change/",
         "is_priority": false
       },
       {
-        "title": "Ohta tops Super Formula Fuji test fresh from IMSA Watkins Glen round",
+        "title": "Gresini signs Mir and Holgado on two-year MotoGP deals",
         "source": "Autosport.com - All - Stories",
-        "published": "Wed, 01 Jul 2026 09:04:52 +0000",
-        "url": "https://www.autosport.com/super-formula/news/ohta-tops-super-formula-fuji-test-fresh-from-imsa-watkins-glen-round/10835261/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-ALL&utm_term=News&utm_content=uk",
+        "published": "Thu, 02 Jul 2026 08:37:17 +0000",
+        "url": "https://www.autosport.com/motogp/news/gresini-signs-joan-mir-and-daniel-holgado-on-two-year-motogp-deals/10835442/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-ALL&utm_term=News&utm_content=uk",
         "is_priority": false
       },
       {
-        "title": "Yamaha signs Martin and Ogura as 2027 factory MotoGP riders",
-        "source": "Autosport.com - All - Stories",
-        "published": "Wed, 01 Jul 2026 08:23:25 +0000",
-        "url": "https://www.autosport.com/motogp/news/yamaha-confirms-jorge-martin-and-ai-ogura-as-2027-factory-motogp-riders/10835254/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-ALL&utm_term=News&utm_content=uk",
+        "title": "Nissan's Boss Admits Chasing 'Volume, Volume, Volume' Was Wrong",
+        "source": "Motor1.com - News",
+        "published": "Thu, 02 Jul 2026 07:28:04 +0000",
+        "url": "https://www.motor1.com/news/800380/nissan-admits-chasing-volume-wrong/",
         "is_priority": false
       },
       {
-        "title": "The finest mid-engined marvels",
+        "title": "E-bikes bring both bad and good, but one greatly outweighs the other",
+        "source": "Electrek",
+        "published": "Thu, 02 Jul 2026 06:23:18 +0000",
+        "url": "https://electrek.co/2026/07/01/e-bikes-bring-both-bad-and-good-but-one-greatly-outweighs-the-other/",
+        "is_priority": false
+      },
+      {
+        "title": "Guilty Pleasures: The cars we have a soft spot for",
         "source": "Autocar RSS Feed",
-        "published": "Wed, 1 Jul 2026 09:14:03 +0100",
-        "url": "https://www.autocar.co.uk/car-news/slideshow/finest-mid-engined-marvels-0",
+        "published": "Thu, 2 Jul 2026 06:33:27 +0100",
+        "url": "https://www.autocar.co.uk/car-news/slideshow/guilty-pleasures-cars-we-have-soft-spot",
         "is_priority": false
       },
       {
-        "title": "The best performance cars from the 2000s",
+        "title": "UK automotive divided over protectionism vs free trade",
         "source": "Autocar RSS Feed",
-        "published": "Wed, 1 Jul 2026 09:13:05 +0100",
-        "url": "https://www.autocar.co.uk/car-news/slideshow/best-performance-cars-2000s",
+        "published": "Thu, 2 Jul 2026 05:00:00 +0100",
+        "url": "https://www.autocar.co.uk/car-news/business-corporate/uk-automotive-divided-over-protectionism-vs-free-trade",
         "is_priority": false
       },
       {
-        "title": "The brilliant cars you need to drive at least once",
+        "title": "First look at Polestar 4 'estate' coming this year",
         "source": "Autocar RSS Feed",
-        "published": "Wed, 1 Jul 2026 09:12:33 +0100",
-        "url": "https://www.autocar.co.uk/car-news/slideshow/brilliant-cars-you-need-drive-least-once",
+        "published": "Thu, 2 Jul 2026 05:00:00 +0100",
+        "url": "https://www.autocar.co.uk/car-news/electric-cars/first-look-polestar-4-estate-coming-year",
+        "is_priority": false
+      },
+      {
+        "title": "Trump Claims 'Right To Repair' Victory That Really Just Tries To Defang CARB",
+        "source": "Jalopnik - Obsessed with the culture of cars",
+        "published": "Thu, 02 Jul 2026 03:25:00 +0000",
+        "url": "https://www.jalopnik.com/2205553/trump-claims-right-to-repair-victory-tries-defang-carb/",
+        "is_priority": false
+      },
+      {
+        "title": "Skoda Kylaq: Brand mulls bringing £6k crossover to Europe",
+        "source": "Autocar RSS Feed",
+        "published": "Thu, 2 Jul 2026 04:00:00 +0100",
+        "url": "https://www.autocar.co.uk/car-news/new-cars/skoda-kylaq-brand-mulls-bringing-%C2%A36k-crossover-europe",
+        "is_priority": false
+      },
+      {
+        "title": "Charging complexity risks bottlenecking EV fleets",
+        "source": "Autocar RSS Feed",
+        "published": "Thu, 2 Jul 2026 03:20:01 +0100",
+        "url": "https://www.autocar.co.uk/car-news/company-cars/charging-complexity-risks-bottlenecking-ev-fleets",
+        "is_priority": false
+      },
+      {
+        "title": "Why MPG Testing Changed After 2020: The Fuel Sulfur Standard Nobody Talks About",
+        "source": "Jalopnik - Obsessed with the culture of cars",
+        "published": "Wed, 01 Jul 2026 23:25:00 +0000",
+        "url": "https://www.jalopnik.com/2206351/fuel-sulfur-standard-mpg-drop-2020/",
+        "is_priority": false
+      },
+      {
+        "title": "2027 Kia Niro Hybrid Refresh Looks Like An Improvement, But Drops EV And PHEV Models",
+        "source": "Jalopnik - Obsessed with the culture of cars",
+        "published": "Wed, 01 Jul 2026 21:54:39 +0000",
+        "url": "https://www.jalopnik.com/2206429/2027-kia-niro-hybrid-refresh-reveal-drops-ev-phev/",
+        "is_priority": false
+      },
+      {
+        "title": "Subaru’s new EVs are already outselling the Solterra",
+        "source": "Electrek",
+        "published": "Wed, 01 Jul 2026 21:37:44 +0000",
+        "url": "https://electrek.co/2026/07/01/subarus-new-evs-outselling-solterra/",
+        "is_priority": false
+      },
+      {
+        "title": "Why Those Fuzzy-Dice Hanging From The Review Mirror Have Nearly Disappeared",
+        "source": "Jalopnik - Obsessed with the culture of cars",
+        "published": "Wed, 01 Jul 2026 21:25:00 +0000",
+        "url": "https://www.jalopnik.com/2204110/why-fuzzy-dice-hanging-have-nearly-disappeared/",
         "is_priority": false
       }
     ],
     "Portugal": [
       {
-        "title": "Cidade do México em festa com vitória sobre o Equador e apuramento para os oitavos de final do Mundial",
-        "source": "Correio da Manhã",
-        "published": "Wed, 01 Jul 2026 11:40:22 +0100",
-        "url": "https://www.cmjornal.pt/cmtv/videos/detalhe/cidade-do-mexico-em-festa-com-vitoria-sobre-o-equador-e-apuramento-para-os-oitavos-de-final-do-mundial",
-        "is_priority": true
-      },
-      {
-        "title": "PJ desmantela fraude informática ao banco Santander",
-        "source": "Correio da Manhã",
-        "published": "Wed, 01 Jul 2026 11:38:31 +0100",
-        "url": "https://www.cmjornal.pt/portugal/detalhe/pj-desmantela-fraude-informatica-ao-banco-santander",
-        "is_priority": true
-      },
-      {
-        "title": "Cannes 2026: Tensão entre o Algoritmo e a Curadoria (parte I)",
-        "source": "ECO",
-        "published": "Wed, 01 Jul 2026 10:37:13 +0000",
-        "url": "https://eco.sapo.pt/opiniao/cannes-2026-tensao-entre-o-algoritmo-e-a-curadoria-parte-i/",
-        "is_priority": true
-      },
-      {
-        "title": "\"Arranjem um namorado como ele\": Maya sobre Francisco Trincão ter um bigode apenas para agradar a mulher",
-        "source": "Correio da Manhã",
-        "published": "Wed, 01 Jul 2026 11:35:28 +0100",
-        "url": "https://www.cmjornal.pt/cmtv/programas/entretenimento/noite-das-estrelas/detalhe/arranjem-um-namorado-como-ele-maya-sobre-francisco-trincao-ter-um-bigode-apenas-para-agradar-a-mulher",
-        "is_priority": true
-      },
-      {
-        "title": "SAFE. Primeiros equipamentos militares chegam em 2029",
-        "source": "ECO",
-        "published": "Wed, 01 Jul 2026 10:35:12 +0000",
-        "url": "https://eco.sapo.pt/2026/07/01/safe-primeiros-equipamentos-militares-chegam-em-2029/",
-        "is_priority": true
-      },
-      {
-        "title": "Universidade Lusíada: quatro décadas a formar Portugal",
+        "title": "Irão em alerta para funeral de Ali Khamenei",
         "source": "Observador - Últimas",
-        "published": "Wed, 01 Jul 2026 11:33:59 +0100",
-        "url": "https://observador.pt/especiais/universidade-lusiada-quatro-decadas-a-formar-portugal/",
+        "published": "Thu, 02 Jul 2026 11:05:53 +0100",
+        "url": "https://observador.pt/2026/07/02/forcas-armadas-do-irao-em-alerta-maximo-para-funeral-de-ali-khamenei/",
         "is_priority": true
       },
       {
-        "title": "Capwatt capta financiamento verde de 56 milhões para produzir biometano em Itália",
+        "title": "A transformação tecnológica e social da Banca",
+        "source": "Observador - Últimas",
+        "published": "Thu, 02 Jul 2026 11:03:38 +0100",
+        "url": "https://observador.pt/programas/transformar-portugal/a-transformacao-tecnologica-e-social-da-banca/",
+        "is_priority": true
+      },
+      {
+        "title": "Veja a análise do Negócios ao Fórum do BCE em Sintra",
+        "source": "Jornal de Negocios",
+        "published": "Thu, 02 Jul 2026 11:02:33 +0100",
+        "url": "https://www.jornaldenegocios.pt/mercados/detalhe/veja-a-analise-do-negocios-ao-forum-do-bce-em-sintra",
+        "is_priority": true
+      },
+      {
+        "title": "Festival MIL regressa em outubro sob o lema \"No Fakes”",
+        "source": "Observador - Últimas",
+        "published": "Thu, 02 Jul 2026 11:00:59 +0100",
+        "url": "https://observador.pt/2026/07/02/festival-mil-regressa-em-outubro-sob-o-lema-no-fakes-e-lanca-primeiros-nomes-para-a-sua-decima-edicao/",
+        "is_priority": true
+      },
+      {
+        "title": "Reavaliação das \"big tech\" em bolsa “pode ter consequências macroeconómicas importantes”",
+        "source": "Jornal de Negocios",
+        "published": "Thu, 02 Jul 2026 11:00:00 +0100",
+        "url": "https://www.jornaldenegocios.pt/mercados/bolsa/detalhe/reavaliacao-das-big-tech-em-bolsa-pode-ter-consequencias-macroeconomicas-importantes",
+        "is_priority": true
+      },
+      {
+        "title": "Homem detido por suspeita de atear fogo em Castelo de Paiva",
+        "source": "Correio da Manhã",
+        "published": "Thu, 02 Jul 2026 10:58:50 +0100",
+        "url": "https://www.cmjornal.pt/portugal/detalhe/homem-detido-por-suspeita-de-atear-fogo-em-castelo-de-paiva",
+        "is_priority": true
+      },
+      {
+        "title": "Katia Guerreiro: \"A minha missão de vida são os outros\"",
+        "source": "Observador - Últimas",
+        "published": "Thu, 02 Jul 2026 10:57:35 +0100",
+        "url": "https://observador.pt/programas/comissao-de-inquerito/katia-guerreiro-a-minha-missao-de-vida-sao-os-outros/",
+        "is_priority": true
+      },
+      {
+        "title": "Caixa obrigada a atualizar subsídio de refeição pago nas férias",
         "source": "ECO",
-        "published": "Wed, 01 Jul 2026 10:30:07 +0000",
-        "url": "https://eco.sapo.pt/2026/07/01/capwatt-capta-financiamento-verde-de-56-milhoes-para-produzir-biometano-em-italia/",
+        "published": "Thu, 02 Jul 2026 09:56:52 +0000",
+        "url": "https://eco.sapo.pt/2026/07/02/caixa-obrigada-a-atualizar-subsidio-de-refeicao-pago-nas-ferias/",
         "is_priority": true
       },
       {
-        "title": "Capwatt obtém financiamento verde de 56 milhões para três novas unidades de biometano em Itália",
-        "source": "Jornal de Negocios",
-        "published": "Wed, 01 Jul 2026 11:30:00 +0100",
-        "url": "https://www.jornaldenegocios.pt/empresas/energia/detalhe/capwatt-obtem-financiamento-verde-de-56-milhoes-para-tres-novas-unidades-de-biometano-em-italia",
+        "title": "Seis anos de prisão para jovem acusado de incitar massacres no Brasil",
+        "source": "Correio da Manhã",
+        "published": "Thu, 02 Jul 2026 10:56:22 +0100",
+        "url": "https://www.cmjornal.pt/cmtv/videos/detalhe/seis-anos-de-prisao-para-jovem-acusado-de-incitar-massacres-no-brasil",
         "is_priority": true
       },
       {
-        "title": "Greenvolt avança com maior projeto de baterias da Polónia em parceria com a BYD",
-        "source": "Jornal de Negocios",
-        "published": "Wed, 01 Jul 2026 11:30:00 +0100",
-        "url": "https://www.jornaldenegocios.pt/empresas/energia/detalhe/greenvolt-avanca-com-maior-projeto-de-baterias-da-polonia-em-parceria-com-a-byd",
-        "is_priority": true
-      },
-      {
-        "title": "Eurozone inflation rate slows",
+        "title": "Afro Nation Portugal reveals historic full lineup",
         "source": "The Portugal News",
-        "published": "Wed, 01 Jul 2026 10:33:00 +0000",
-        "url": "https://www.theportugalnews.com/news/2026-07-01/eurozone-inflation-rate-slows/1048357",
+        "published": "Thu, 02 Jul 2026 10:03:00 +0000",
+        "url": "https://www.theportugalnews.com/news/2026-07-02/afro-nation-portugal-reveals-historic-full-lineup/1048947",
         "is_priority": false
       },
       {
-        "title": "Today’s Portugal Weather Forecast – 01/07/2026",
+        "title": "Portugal seeks to get closer to the final of the 2026 World Cup",
         "source": "The Portugal News",
-        "published": "Wed, 01 Jul 2026 10:24:00 +0000",
-        "url": "https://www.theportugalnews.com/news/2026-07-01/todays-portugal-weather-forecast-01-07-2026/1048390",
+        "published": "Thu, 02 Jul 2026 09:33:00 +0000",
+        "url": "https://www.theportugalnews.com/news/2026-07-02/portugal-seeks-to-get-closer-to-the-final-of-the-2026-world-cup/1048948",
         "is_priority": false
       },
       {
-        "title": "Portugal housing prices hit new high",
+        "title": "Portugal at maximum and very high risk of fire",
         "source": "The Portugal News",
-        "published": "Wed, 01 Jul 2026 10:03:00 +0000",
-        "url": "https://www.theportugalnews.com/news/2026-07-01/portugal-housing-prices-hit-new-high/1048356",
+        "published": "Thu, 02 Jul 2026 09:03:00 +0000",
+        "url": "https://www.theportugalnews.com/news/2026-07-02/portugal-at-maximum-and-very-high-risk-of-fire/1048946",
         "is_priority": false
       },
       {
-        "title": "Red weather warning to be issued in Portugal due to heatwave",
+        "title": "RSV vaccine to reach all babies up to one year old in Portugal",
         "source": "The Portugal News",
-        "published": "Wed, 01 Jul 2026 09:33:00 +0000",
-        "url": "https://www.theportugalnews.com/news/2026-07-01/red-weather-warning-to-be-issued-in-portugal-due-to-heatwave/1048354",
+        "published": "Thu, 02 Jul 2026 08:03:00 +0000",
+        "url": "https://www.theportugalnews.com/news/2026-07-02/rsv-vaccine-to-reach-all-babies-up-to-one-year-old-in-portugal/1048653",
         "is_priority": false
       },
       {
-        "title": "Fire in North Portugal extinguished",
+        "title": "Portuguese Prime Minister to visit Toronto for Portugal vs. Croatia match",
         "source": "The Portugal News",
-        "published": "Wed, 01 Jul 2026 09:03:00 +0000",
-        "url": "https://www.theportugalnews.com/news/2026-07-01/fire-in-north-portugal-extinguished/1048338",
+        "published": "Thu, 02 Jul 2026 07:03:00 +0000",
+        "url": "https://www.theportugalnews.com/news/2026-07-02/portuguese-prime-minister-to-visit-toronto-for-portugal-vs-croatia-match/1048652",
         "is_priority": false
       },
       {
-        "title": "Health Unit in Portugal strengthens liver cancer treatment",
+        "title": "Venomous Chilean spider recorded in Portugal for the first time",
         "source": "The Portugal News",
-        "published": "Wed, 01 Jul 2026 08:33:00 +0000",
-        "url": "https://www.theportugalnews.com/news/2026-07-01/health-unit-in-portugal-strengthens-liver-cancer-treatment/1048089",
+        "published": "Wed, 01 Jul 2026 19:03:00 +0000",
+        "url": "https://www.theportugalnews.com/news/2026-07-01/venomous-chilean-spider-recorded-in-portugal-for-the-first-time/1048562",
         "is_priority": false
       }
     ]

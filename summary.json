@@ -1,24 +1,24 @@
 {
-  "global_theme": "A complex global landscape sees tech inflows and European diversification balancing US market outflows and geopolitical uncertainties, with EU leadership changes adding to economic shifts.",
-  "market_mood": "Mixed with Caution",
-  "risk_signal": "Geopolitical instability, US market outflows, ECB leadership uncertainty, and potential overvaluation in 'hot' markets.",
-  "opportunity_signal": "Rising tech inflows, European market diversification, cooling rate hike bets, and EU-backed startup innovation.",
+  "global_theme": "Geopolitical tensions in key energy-producing regions and volatility in crypto markets create a cautious financial landscape, yet niche luxury markets and broader digital finance adoption offer targeted wealth-creation opportunities within the EU.",
+  "market_mood": "Risk-Aware with Niche Growth",
+  "risk_signal": "Geopolitical instability, crypto market volatility, major tech stock uncertainty",
+  "opportunity_signal": "Niche luxury services, EU crypto adoption, skill-based digital services",
   "finance_sentiment": [
     {
       "i": 1,
-      "s": "="
+      "s": "+"
     },
     {
       "i": 2,
-      "s": "+"
+      "s": "="
     },
     {
       "i": 3,
-      "s": "+"
+      "s": "-"
     },
     {
       "i": 4,
-      "s": "="
+      "s": "-"
     },
     {
       "i": 5,
@@ -26,31 +26,31 @@
     },
     {
       "i": 6,
-      "s": "="
-    },
-    {
-      "i": 7,
-      "s": "="
-    },
-    {
-      "i": 8,
-      "s": "="
-    },
-    {
-      "i": 9,
       "s": "-"
     },
     {
-      "i": 10,
+      "i": 7,
       "s": "+"
     },
     {
-      "i": 11,
+      "i": 8,
+      "s": "-"
+    },
+    {
+      "i": 9,
       "s": "="
     },
     {
-      "i": 12,
+      "i": 10,
       "s": "="
+    },
+    {
+      "i": 11,
+      "s": "-"
+    },
+    {
+      "i": 12,
+      "s": "+"
     },
     {
       "i": 13,
@@ -58,7 +58,7 @@
     },
     {
       "i": 14,
-      "s": "-"
+      "s": "="
     },
     {
       "i": 15,
@@ -67,28 +67,28 @@
   ],
   "insights": {
     "g1": [
-      "Global equity inflows to tech signal investor confidence post-dip.",
-      "Lagarde's potential ECB exit adds Eurozone policy uncertainty.",
-      "US stock outflows suggest a shift away from American markets.",
-      "Europe's diversification trade presents new investment avenues.",
-      "Cooling rate hike bets could ease borrowing costs for future investments."
+      "Geopolitical tensions (Iran, Russia) are likely to sustain energy market volatility and impact global supply chains.",
+      "Bitcoin and the broader crypto market remain sensitive to institutional inflows and corporate strategic shifts.",
+      "Significant losses on speculative crypto assets highlight the critical importance of due diligence and risk management.",
+      "Major tech stocks ('MANGOS') may be signalling a potential softening, urging a diversified investment approach.",
+      "The growth of luxury markets, like racetrack country clubs, indicates strong spending among high-net-worth individuals."
     ],
     "g2": [
-      "Alibaba banning Anthropic's Claude highlights AI tool security concerns.",
-      "ElevenLabs targeting a $22bn valuation shows strong AI market growth.",
-      "EU initiatives support startup placements turning into patents.",
-      "Sony erasing digital content reminds users of digital ownership risks.",
-      "Tesla capping employee AI spending indicates internal AI cost management."
+      "AI's evolving capabilities in creative fields, such as novel writing, demand continuous exploration and understanding.",
+      "Learning advanced programming concepts and threat modeling enhances Alex's ability to build secure and robust digital products.",
+      "Focusing on synthesis over analysis and 'agentic coding' can significantly improve complex problem-solving skills.",
+      "Understanding new charging technologies and DIY projects fosters practical engineering insights and innovation potential.",
+      "Leverage open-source knowledge (Wikipedia, Hacker News) for continuous learning and skill development."
     ],
     "g3": [
-      "Portugal's Algarve fishing nets are being recycled into clothing.",
-      "Online casinos are gaining popularity in Portugal.",
-      "The Maven Ecosystem offers management for Portugal's real estate.",
-      "A Lisbon restaurant is highlighted, indicating local F&B opportunities.",
-      "EU initiatives support startups, creating a favorable environment for innovation."
+      "Portuguese public sector unions seeking higher wage increases could signal broader inflationary pressures and economic demands.",
+      "The positive framing of immigrants contributing to the 'bolo' suggests potential for diverse talent pools and market expansion in Portugal.",
+      "EU debates on passenger rights and fire prevention indicate a regulatory focus relevant for service-based businesses in Portugal.",
+      "High viewership for major sporting events (Portugal match) highlights community engagement and potential marketing avenues for local businesses.",
+      "Local cultural events and fairs provide platforms for solopreneurs to showcase services and connect with the community."
     ]
   },
-  "learning_task": "Research EU startup grants and incubators in Portugal for sustainable or digital products, identifying early funding opportunities to accelerate the €35k goal.",
-  "biz_opportunity": "Provide digital marketing for Portuguese sustainable businesses or local product development, capitalizing on EU support and eco-friendly trends to boost income.",
-  "built_at": "2026-07-03T10:07:58.084997+00:00"
+  "learning_task": "Spend 30 minutes researching fundamental threat modeling principles to integrate into the development of Alex's future digital products, crucial for protecting his €35k venture.",
+  "biz_opportunity": "Offer bespoke cybersecurity consulting and threat modeling services to small businesses in Portugal, leveraging increasing awareness around digital asset security and data protection.",
+  "built_at": "2026-07-04T09:25:30.634348+00:00"
 }

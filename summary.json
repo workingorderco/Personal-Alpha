@@ -1,40 +1,40 @@
 {
-  "global_theme": "Geopolitical tensions in key energy-producing regions and volatility in crypto markets create a cautious financial landscape, yet niche luxury markets and broader digital finance adoption offer targeted wealth-creation opportunities within the EU.",
-  "market_mood": "Risk-Aware with Niche Growth",
-  "risk_signal": "Geopolitical instability, crypto market volatility, major tech stock uncertainty",
-  "opportunity_signal": "Niche luxury services, EU crypto adoption, skill-based digital services",
+  "global_theme": "Geopolitical shifts and commodity price volatility create an uncertain but active market backdrop, alongside an ongoing emphasis on digital efficiency and localized service opportunities within the EU.",
+  "market_mood": "Mixed/Cautious",
+  "risk_signal": "Rising energy costs and geopolitical instability.",
+  "opportunity_signal": "Digital efficiency tools and localized service gaps.",
   "finance_sentiment": [
     {
       "i": 1,
-      "s": "+"
+      "s": "-"
     },
     {
       "i": 2,
-      "s": "="
+      "s": "-"
     },
     {
       "i": 3,
-      "s": "-"
+      "s": "="
     },
     {
       "i": 4,
-      "s": "-"
-    },
-    {
-      "i": 5,
-      "s": "-"
-    },
-    {
-      "i": 6,
-      "s": "-"
-    },
-    {
-      "i": 7,
       "s": "+"
     },
     {
+      "i": 5,
+      "s": "="
+    },
+    {
+      "i": 6,
+      "s": "+"
+    },
+    {
+      "i": 7,
+      "s": "="
+    },
+    {
       "i": 8,
-      "s": "-"
+      "s": "="
     },
     {
       "i": 9,
@@ -42,7 +42,7 @@
     },
     {
       "i": 10,
-      "s": "="
+      "s": "+"
     },
     {
       "i": 11,
@@ -50,7 +50,7 @@
     },
     {
       "i": 12,
-      "s": "+"
+      "s": "-"
     },
     {
       "i": 13,
@@ -62,33 +62,33 @@
     },
     {
       "i": 15,
-      "s": "-"
+      "s": "+"
     }
   ],
   "insights": {
     "g1": [
-      "Geopolitical tensions (Iran, Russia) are likely to sustain energy market volatility and impact global supply chains.",
-      "Bitcoin and the broader crypto market remain sensitive to institutional inflows and corporate strategic shifts.",
-      "Significant losses on speculative crypto assets highlight the critical importance of due diligence and risk management.",
-      "Major tech stocks ('MANGOS') may be signalling a potential softening, urging a diversified investment approach.",
-      "The growth of luxury markets, like racetrack country clubs, indicates strong spending among high-net-worth individuals."
+      "Rising oil prices from OPEC+ output hikes will increase operational costs for most businesses.",
+      "Geopolitical tensions (Iran, Venezuela) can introduce market volatility and economic uncertainty.",
+      "The 'Revenge of the Philosophy Majors' signals demand for critical thinking skills over narrow specialization.",
+      "Large-scale events like Taylor Swift's wedding highlight effective brand marketing and content creation.",
+      "Bitcoin's resilience and trading activity show continued interest in the crypto market."
     ],
     "g2": [
-      "AI's evolving capabilities in creative fields, such as novel writing, demand continuous exploration and understanding.",
-      "Learning advanced programming concepts and threat modeling enhances Alex's ability to build secure and robust digital products.",
-      "Focusing on synthesis over analysis and 'agentic coding' can significantly improve complex problem-solving skills.",
-      "Understanding new charging technologies and DIY projects fosters practical engineering insights and innovation potential.",
-      "Leverage open-source knowledge (Wikipedia, Hacker News) for continuous learning and skill development."
+      "Focus on 'Fast Software' and 'Reducing Assumptions' to build efficient, scalable digital tools.",
+      "Using AI, like Claude Fable for sqlite-utils, demonstrates practical application for solopreneur development.",
+      "'Programmers need to start meditating now' emphasizes the importance of mental well-being for productivity.",
+      "Be wary of 'Web-based cryptography is always snake oil' for critical security implications in web dev.",
+      "Meta's Threads' popularity offers insights into current social media platform engagement trends."
     ],
     "g3": [
-      "Portuguese public sector unions seeking higher wage increases could signal broader inflationary pressures and economic demands.",
-      "The positive framing of immigrants contributing to the 'bolo' suggests potential for diverse talent pools and market expansion in Portugal.",
-      "EU debates on passenger rights and fire prevention indicate a regulatory focus relevant for service-based businesses in Portugal.",
-      "High viewership for major sporting events (Portugal match) highlights community engagement and potential marketing avenues for local businesses.",
-      "Local cultural events and fairs provide platforms for solopreneurs to showcase services and connect with the community."
+      "Portugal's heatwaves and wildfires underscore the growing need for climate-resilient solutions and services.",
+      "Local music festivals (Algarve) signal opportunities for event support, marketing, or creative services.",
+      "Challenges in the Portuguese health sector point to potential for private supplementary services or tech solutions.",
+      "'The Rest within Príncipe Real in Lisbon' suggests ongoing demand and opportunities in hospitality/real estate.",
+      "New archaeological discoveries in Vale do Côa can boost cultural tourism, creating local content or guide opportunities."
     ]
   },
-  "learning_task": "Spend 30 minutes researching fundamental threat modeling principles to integrate into the development of Alex's future digital products, crucial for protecting his €35k venture.",
-  "biz_opportunity": "Offer bespoke cybersecurity consulting and threat modeling services to small businesses in Portugal, leveraging increasing awareness around digital asset security and data protection.",
-  "built_at": "2026-07-04T09:25:30.634348+00:00"
+  "learning_task": "Research efficient AI tools for content creation and social media scheduling (like for Threads) for 30 minutes, directly improving digital outreach for Alex's €35k goal.",
+  "biz_opportunity": "Develop an AI-powered local event discovery and promotion platform for small businesses in Portugal, leveraging current interest in local festivals and the need for efficient digital marketing.",
+  "built_at": "2026-07-05T09:44:10.942032+00:00"
 }

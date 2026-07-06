@@ -1,16 +1,16 @@
 {
-  "global_theme": "Geopolitical shifts and commodity price volatility create an uncertain but active market backdrop, alongside an ongoing emphasis on digital efficiency and localized service opportunities within the EU.",
-  "market_mood": "Mixed/Cautious",
-  "risk_signal": "Rising energy costs and geopolitical instability.",
-  "opportunity_signal": "Digital efficiency tools and localized service gaps.",
+  "global_theme": "AI-driven market optimism and specific sector growth, like biopharma and EVs, coexist with EU-level efforts to address regional challenges and support local solopreneur opportunities in Portugal.",
+  "market_mood": "Cautiously Optimistic with AI tailwinds",
+  "risk_signal": "Geopolitical tensions; AI content manipulation",
+  "opportunity_signal": "AI integration; clean energy transition",
   "finance_sentiment": [
     {
       "i": 1,
-      "s": "-"
+      "s": "+"
     },
     {
       "i": 2,
-      "s": "-"
+      "s": "+"
     },
     {
       "i": 3,
@@ -22,7 +22,7 @@
     },
     {
       "i": 5,
-      "s": "="
+      "s": "+"
     },
     {
       "i": 6,
@@ -30,27 +30,27 @@
     },
     {
       "i": 7,
-      "s": "="
-    },
-    {
-      "i": 8,
-      "s": "="
-    },
-    {
-      "i": 9,
-      "s": "="
-    },
-    {
-      "i": 10,
       "s": "+"
     },
     {
-      "i": 11,
+      "i": 8,
       "s": "-"
     },
     {
-      "i": 12,
+      "i": 9,
       "s": "-"
+    },
+    {
+      "i": 10,
+      "s": "-"
+    },
+    {
+      "i": 11,
+      "s": "+"
+    },
+    {
+      "i": 12,
+      "s": "+"
     },
     {
       "i": 13,
@@ -58,7 +58,7 @@
     },
     {
       "i": 14,
-      "s": "="
+      "s": "+"
     },
     {
       "i": 15,
@@ -67,28 +67,28 @@
   ],
   "insights": {
     "g1": [
-      "Rising oil prices from OPEC+ output hikes will increase operational costs for most businesses.",
-      "Geopolitical tensions (Iran, Venezuela) can introduce market volatility and economic uncertainty.",
-      "The 'Revenge of the Philosophy Majors' signals demand for critical thinking skills over narrow specialization.",
-      "Large-scale events like Taylor Swift's wedding highlight effective brand marketing and content creation.",
-      "Bitcoin's resilience and trading activity show continued interest in the crypto market."
+      "AI is a significant driver of market wealth, with chip stocks and related firms seeing increased valuations.",
+      "Biopharma and clean energy sectors show strong growth potential, attracting raised price targets from analysts.",
+      "A general market uplift, especially in tech-heavy indices, signals a favorable environment for growth-oriented investments.",
+      "The threat of an oil surplus could impact energy markets, affecting consumer costs and investment strategies.",
+      "Consider how AI wealth distribution mechanisms could impact future economic models and your financial planning."
     ],
     "g2": [
-      "Focus on 'Fast Software' and 'Reducing Assumptions' to build efficient, scalable digital tools.",
-      "Using AI, like Claude Fable for sqlite-utils, demonstrates practical application for solopreneur development.",
-      "'Programmers need to start meditating now' emphasizes the importance of mental well-being for productivity.",
-      "Be wary of 'Web-based cryptography is always snake oil' for critical security implications in web dev.",
-      "Meta's Threads' popularity offers insights into current social media platform engagement trends."
+      "AI's expanding influence requires vigilance regarding content authenticity and potential regulatory oversight.",
+      "Smart glasses and electric vehicles are areas seeing substantial investment and technological advancement.",
+      "Digital archiving projects offer insights into building robust, unerasable data systems, a valuable skill.",
+      "Exploring real-time data visualization, like rail networks, can inspire new ways to present information effectively.",
+      "Focus on leveraging AI for efficiency; for example, using AI to streamline market research or content creation."
     ],
     "g3": [
-      "Portugal's heatwaves and wildfires underscore the growing need for climate-resilient solutions and services.",
-      "Local music festivals (Algarve) signal opportunities for event support, marketing, or creative services.",
-      "Challenges in the Portuguese health sector point to potential for private supplementary services or tech solutions.",
-      "'The Rest within Príncipe Real in Lisbon' suggests ongoing demand and opportunities in hospitality/real estate.",
-      "New archaeological discoveries in Vale do Côa can boost cultural tourism, creating local content or guide opportunities."
+      "EU support for fire combat in Portugal highlights regional cooperation on critical environmental issues.",
+      "Major sporting events in Portugal drive significant online betting interest, indicating a lively digital consumer market.",
+      "Local businesses can tap into niche markets like pet apparel for sports fans, demonstrating specific consumer demand.",
+      "The rising number of arsonists arrested suggests a need for community engagement and preventive solutions.",
+      "Researching local solar panel installation benefits can inform personal energy choices and potential business ventures."
     ]
   },
-  "learning_task": "Research efficient AI tools for content creation and social media scheduling (like for Threads) for 30 minutes, directly improving digital outreach for Alex's €35k goal.",
-  "biz_opportunity": "Develop an AI-powered local event discovery and promotion platform for small businesses in Portugal, leveraging current interest in local festivals and the need for efficient digital marketing.",
-  "built_at": "2026-07-05T09:44:10.942032+00:00"
+  "learning_task": "Spend 30 minutes researching AI prompt engineering techniques for market research and content generation, directly supporting your €35k income goal.",
+  "biz_opportunity": "Offer AI-powered market analysis and content creation services to small businesses in Portugal, capitalizing on the current AI momentum and local demand for digital solutions.",
+  "built_at": "2026-07-06T11:39:46.070663+00:00"
 }

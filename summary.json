@@ -1,12 +1,12 @@
 {
-  "global_theme": "AI-driven market optimism and specific sector growth, like biopharma and EVs, coexist with EU-level efforts to address regional challenges and support local solopreneur opportunities in Portugal.",
-  "market_mood": "Cautiously Optimistic with AI tailwinds",
-  "risk_signal": "Geopolitical tensions; AI content manipulation",
-  "opportunity_signal": "AI integration; clean energy transition",
+  "global_theme": "Economic divergence persists globally with strong investment in frontier tech like AI and space, despite warnings of immediate productivity gains and rising energy costs, while Europe faces growth challenges and geopolitical tensions persist, impacting consumer spending and investment patterns.",
+  "market_mood": "Cautious",
+  "risk_signal": "Economic slowdowns across Europe, rising energy costs due to geopolitical instability, and delayed AI productivity gains threaten broad market confidence and business operational costs.",
+  "opportunity_signal": "Frontier technologies (space, deeptech, AI, green solutions) attract significant investment, while Portugal's appeal as a retirement destination creates niche service opportunities for affluent expats.",
   "finance_sentiment": [
     {
       "i": 1,
-      "s": "+"
+      "s": "-"
     },
     {
       "i": 2,
@@ -14,81 +14,81 @@
     },
     {
       "i": 3,
-      "s": "="
+      "s": "-"
     },
     {
       "i": 4,
-      "s": "+"
+      "s": "-"
     },
     {
       "i": 5,
-      "s": "+"
-    },
-    {
-      "i": 6,
-      "s": "+"
-    },
-    {
-      "i": 7,
-      "s": "+"
-    },
-    {
-      "i": 8,
-      "s": "-"
-    },
-    {
-      "i": 9,
-      "s": "-"
-    },
-    {
-      "i": 10,
-      "s": "-"
-    },
-    {
-      "i": 11,
-      "s": "+"
-    },
-    {
-      "i": 12,
-      "s": "+"
-    },
-    {
-      "i": 13,
       "s": "="
     },
     {
+      "i": 6,
+      "s": "-"
+    },
+    {
+      "i": 7,
+      "s": "="
+    },
+    {
+      "i": 8,
+      "s": "="
+    },
+    {
+      "i": 9,
+      "s": "="
+    },
+    {
+      "i": 10,
+      "s": "="
+    },
+    {
+      "i": 11,
+      "s": "="
+    },
+    {
+      "i": 12,
+      "s": "="
+    },
+    {
+      "i": 13,
+      "s": "-"
+    },
+    {
       "i": 14,
-      "s": "+"
+      "s": "-"
     },
     {
       "i": 15,
-      "s": "+"
+      "s": "-"
     }
   ],
   "insights": {
     "g1": [
-      "AI is a significant driver of market wealth, with chip stocks and related firms seeing increased valuations.",
-      "Biopharma and clean energy sectors show strong growth potential, attracting raised price targets from analysts.",
-      "A general market uplift, especially in tech-heavy indices, signals a favorable environment for growth-oriented investments.",
-      "The threat of an oil surplus could impact energy markets, affecting consumer costs and investment strategies.",
-      "Consider how AI wealth distribution mechanisms could impact future economic models and your financial planning."
+      "Target affluent clients due to the K-shaped economic recovery for higher spending potential.",
+      "Acknowledge European growth slowdowns; plan for a cautious economic climate in the EU.",
+      "Factor in rising energy costs; seek efficient operational models to manage expenses.",
+      "Don't expect immediate AI productivity boosts for quick returns; focus long-term.",
+      "Explore investment trends in deep tech and space for long-term growth opportunities."
     ],
     "g2": [
-      "AI's expanding influence requires vigilance regarding content authenticity and potential regulatory oversight.",
-      "Smart glasses and electric vehicles are areas seeing substantial investment and technological advancement.",
-      "Digital archiving projects offer insights into building robust, unerasable data systems, a valuable skill.",
-      "Exploring real-time data visualization, like rail networks, can inspire new ways to present information effectively.",
-      "Focus on leveraging AI for efficiency; for example, using AI to streamline market research or content creation."
+      "Research deeptech startups for potential partnerships or service integration opportunities.",
+      "Focus on foundational AI skills, understanding long-term impact over current hype.",
+      "Develop expertise in ethical AI and unintended consequences for specialized consulting.",
+      "Investigate autonomous systems' applications in logistics or security as emerging markets.",
+      "Build data privacy knowledge to offer value in a tracking-heavy digital world for clients."
     ],
     "g3": [
-      "EU support for fire combat in Portugal highlights regional cooperation on critical environmental issues.",
-      "Major sporting events in Portugal drive significant online betting interest, indicating a lively digital consumer market.",
-      "Local businesses can tap into niche markets like pet apparel for sports fans, demonstrating specific consumer demand.",
-      "The rising number of arsonists arrested suggests a need for community engagement and preventive solutions.",
-      "Researching local solar panel installation benefits can inform personal energy choices and potential business ventures."
+      "Develop niche services for Portugal's growing affluent expat retiree community.",
+      "Monitor municipal surpluses for local contract or B2B service opportunities in Portugal.",
+      "Align commercial communications with social responsibility, a valued aspect in Portugal.",
+      "Identify community needs like ATM access for tailored local service solutions.",
+      "Leverage Portugal's positive image to attract specific international clientele."
     ]
   },
-  "learning_task": "Spend 30 minutes researching AI prompt engineering techniques for market research and content generation, directly supporting your €35k income goal.",
-  "biz_opportunity": "Offer AI-powered market analysis and content creation services to small businesses in Portugal, capitalizing on the current AI momentum and local demand for digital solutions.",
-  "built_at": "2026-07-06T11:39:46.070663+00:00"
+  "learning_task": "Spend 30 minutes researching the specific needs and spending patterns of affluent expatriates in Portugal, aligning services to their K-shaped economic profile to reach your €35k goal.",
+  "biz_opportunity": "Offer specialized digital marketing and concierge services to high-net-worth foreign retirees in Portugal, leveraging Portugal's top retirement destination status to cater to their specific needs for luxury and convenience.",
+  "built_at": "2026-07-07T10:28:00.353450+00:00"
 }

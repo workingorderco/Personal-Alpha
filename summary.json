@@ -1,12 +1,12 @@
 {
-  "global_theme": "Geopolitical tensions and shifting consumer spending patterns create market uncertainty, while AI-driven growth and local Portuguese developments offer specific opportunities and challenges for wealth building within the EU.",
-  "market_mood": "Mixed, with rising geopolitical risks.",
-  "risk_signal": "Geopolitical instability & consumer budget tightening.",
-  "opportunity_signal": "AI-driven growth & specialized tech services.",
+  "global_theme": "The rise and regulation of AI, coupled with mixed global economic signals and shifting European tech investment, are reshaping wealth creation opportunities and risks.",
+  "market_mood": "Cautiously Optimistic",
+  "risk_signal": "Regulatory Scrutiny on Tech & Economic Slowdown",
+  "opportunity_signal": "AI-driven Innovation & Strategic Autonomy",
   "finance_sentiment": [
     {
       "i": 1,
-      "s": "-"
+      "s": "+"
     },
     {
       "i": 2,
@@ -14,11 +14,11 @@
     },
     {
       "i": 3,
-      "s": "="
+      "s": "+"
     },
     {
       "i": 4,
-      "s": "+"
+      "s": "-"
     },
     {
       "i": 5,
@@ -30,65 +30,65 @@
     },
     {
       "i": 7,
-      "s": "+"
-    },
-    {
-      "i": 8,
       "s": "-"
     },
     {
-      "i": 9,
+      "i": 8,
       "s": "+"
+    },
+    {
+      "i": 9,
+      "s": "-"
     },
     {
       "i": 10,
-      "s": "+"
+      "s": "-"
     },
     {
       "i": 11,
-      "s": "="
+      "s": "-"
     },
     {
       "i": 12,
-      "s": "="
+      "s": "+"
     },
     {
       "i": 13,
-      "s": "="
+      "s": "+"
     },
     {
       "i": 14,
-      "s": "="
+      "s": "+"
     },
     {
       "i": 15,
-      "s": "="
+      "s": "-"
     }
   ],
   "insights": {
     "g1": [
-      "Global consumer budget tightening demands value-driven products/services to maintain market relevance.",
-      "AI demand boosts specific sectors, suggesting opportunities for strategic investment or service provision.",
-      "Geopolitical tensions increase market volatility, emphasizing the need for robust financial contingency planning.",
-      "Strong wealth management sector indicates ongoing demand for financial advisory services and asset growth strategies.",
-      "Market corrections for high valuations (Blue Owl Capital) stress the importance of sustainable business models."
+      "AI drives investment and market shifts, like SK Hynix's debut and ZoomInfo's tools.",
+      "EU regulation signals scrutiny on big tech, creating space for ethical, smaller alternatives.",
+      "Strong Q2 results from ChipMOS show resilience in specific tech sectors despite economic concerns.",
+      "Market caution (Absa, VW) advises diversified financial strategy for solopreneurs.",
+      "New 'financial revolutions' (Belle Burden) suggest emerging models for capital and wealth creation."
     ],
     "g2": [
-      "Continuous learning in AI tools is crucial, as AI drives growth across diverse industries.",
-      "Estonia's \"fuckup finder\" offers lessons in AI governance and effective risk management for tech development.",
-      "The rise of self-hosting and open-source (Rust in Postgres) creates opportunities in niche tech consulting.",
-      "Skills in health tech and data integration, like personal health dashboards, are increasingly valuable.",
-      "Shift from physical to digital game distribution highlights the importance of subscription and digital-first business models."
+      "'AI accountability' and new VC firms highlight AI's influence and responsible development.",
+      "'Physical AI' presents a key European opportunity to contribute globally in tech.",
+      "ZoomInfo's AI sales tools benchmark shows immediate application for sales efficiency.",
+      "Demand for AI retraining (Reeves) makes AI skills essential for solopreneur growth.",
+      "AI-generated videos for targeted brain regions hint at advanced content creation."
     ],
     "g3": [
-      "New TVDE regulations in Portugal create immediate demand for compliance and language-related support services.",
-      "Growth in Portugal's education (new university) and content (publishing acquisition) sectors suggests related service needs.",
-      "Ongoing anti-fraud operations highlight opportunities for secure, trustworthy administrative and legal support services.",
-      "Portugal's \"quality tourism\" debate points to a market for high-value, sustainable, and authentic visitor experiences.",
-      "Infrastructure challenges (power cuts) indicate a need for reliable remote work solutions or local support networks."
+      "EU regulations (Meta, Pasqal) impact cross-border operations and trust-building for solopreneurs.",
+      "Portugal's mixed economy (exports, inflation) demands adaptable local market engagement strategies.",
+      "Community-focused news (Algarve, villages) suggests niche, local opportunities for solopreneurs.",
+      "Portuguese schools promoting healthy eating indicates potential for educational or lifestyle services.",
+      "European tech investment shifts require solopreneurs to differentiate and be globally competitive."
     ]
   },
-  "learning_task": "Spend 30 minutes researching AI tools for automating social media content creation, specifically focusing on platforms suitable for a solopreneur's limited budget to efficiently promote services towards the €35k goal.",
-  "biz_opportunity": "Offer compliance and administrative support services to TVDE drivers in Portugal, helping them navigate new regulations like language proficiency and trip recording, leveraging local knowledge.",
-  "built_at": "2026-07-09T10:27:20.979675+00:00"
+  "learning_task": "Review recent AI sales tool benchmarks (like ZoomInfo's) to identify 2-3 specific AI-powered sales techniques or tools you can integrate into your lead generation or client outreach strategy within 30 minutes.",
+  "biz_opportunity": "Develop an AI-powered lead generation and outreach service for small businesses in Portugal, leveraging new AI sales tools and the need for efficiency in a slowing local economy.",
+  "built_at": "2026-07-10T10:25:53.246597+00:00"
 }

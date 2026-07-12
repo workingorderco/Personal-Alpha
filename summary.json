@@ -1,20 +1,20 @@
 {
-  "global_theme": "Geopolitical tensions are escalating, driving market uncertainty and supply chain risks, while the tech sector grapples with AI cost, ethical, and legal challenges, even as Portugal emphasizes local entrepreneurial growth.",
-  "market_mood": "Cautious Optimism / Risk-Aware",
-  "risk_signal": "Escalating geopolitical conflicts (US/Iran, Russia/Ukraine) and significant tech sector legal/ethical disputes (Apple vs. OpenAI, Meta AI privacy).",
-  "opportunity_signal": "Rising demand for AI cost optimization, ethical AI development, and advanced cybersecurity solutions, alongside Portugal's push for entrepreneurship and digital problem-solving.",
+  "global_theme": "Geopolitical tensions escalate in the Middle East, impacting global markets, while AI advancements and strategic debates continue to reshape technology and business efficiency, holding significant implications for EU wealth creation.",
+  "market_mood": "Risk-Off",
+  "risk_signal": "Geopolitical Escalation & Supply Chain Disruptions",
+  "opportunity_signal": "AI Innovation & Strategic Market Adaptation",
   "finance_sentiment": [
     {
       "i": 1,
-      "s": "="
+      "s": "+"
     },
     {
       "i": 2,
-      "s": "-"
+      "s": "="
     },
     {
       "i": 3,
-      "s": "="
+      "s": "+"
     },
     {
       "i": 4,
@@ -22,15 +22,15 @@
     },
     {
       "i": 5,
-      "s": "+"
-    },
-    {
-      "i": 6,
       "s": "="
     },
     {
+      "i": 6,
+      "s": "+"
+    },
+    {
       "i": 7,
-      "s": "-"
+      "s": "="
     },
     {
       "i": 8,
@@ -38,23 +38,23 @@
     },
     {
       "i": 9,
-      "s": "-"
+      "s": "="
     },
     {
       "i": 10,
-      "s": "-"
+      "s": "="
     },
     {
       "i": 11,
-      "s": "-"
+      "s": "="
     },
     {
       "i": 12,
-      "s": "-"
+      "s": "="
     },
     {
       "i": 13,
-      "s": "-"
+      "s": "="
     },
     {
       "i": 14,
@@ -67,28 +67,28 @@
   ],
   "insights": {
     "g1": [
-      "Geopolitical instability (US-Iran, Ukraine) heightens global market risk, impacting supply chains and energy costs.",
-      "Major corporations (VW, AstraZeneca) face significant internal and market challenges, indicating broader economic pressures.",
-      "China's rising power demand for data and EVs signals continued growth in key tech and green sectors globally.",
-      "Legal battles like Apple vs. OpenAI highlight increasing intellectual property risks in the rapidly evolving AI landscape.",
-      "UK political shifts and French election dynamics will influence European economic policies and stability for investors."
+      "Escalating US-Iran conflict and Strait of Hormuz threat will drive market volatility.",
+      "AI continues to attract high analyst targets and shape investment landscapes.",
+      "Big-box retailers adapting to urban markets reveal shifting consumer behaviors.",
+      "The debate on AI's market efficiency suggests evolving financial tools and strategies.",
+      "Growing global interest in specific sports (soccer) indicates viable niche entertainment markets."
     ],
     "g2": [
-      "AI development costs are a major concern for companies, creating a market for cost-optimization solutions and services.",
-      "Ethical AI, privacy, and safety are critical, as evidenced by Meta's feature removals and OpenAI's safety lead departure.",
-      "The Apple-OpenAI lawsuit underscores the importance of IP protection and careful handling of trade secrets in AI ventures.",
-      "Demand for robust cybersecurity playbooks and incident response expertise is high, a crucial skill for digital solopreneurs.",
-      "Mastering modern authentication methods is a fundamental skill for building secure, scalable web applications and services."
+      "Open-source AI backing (Zhipu) signals a robust, accessible future for AI tools.",
+      "New coding-agent replay tools (Mindwalk) offer enhanced software development workflows.",
+      "Distributed AI computing (Mesh LLM) highlights scalable infrastructure for AI applications.",
+      "Consider 'Why Write Code in 2026' to align skills with future programming demands.",
+      "Explore how AI's impact on market efficiency creates opportunities for data-driven services."
     ],
     "g3": [
-      "Portugal actively seeks 'gazelle' companies and less bureaucracy, signaling a favorable environment for new solopreneurs.",
-      "There's local demand for digital problem-solving, indicating opportunities for niche tech services and consulting.",
-      "Migration trends and European remigration could create opportunities for services supporting new residents or remote workers.",
-      "Understanding local market needs, especially digital ones, is crucial for building a sustainable income base in Portugal.",
-      "Monitoring international regulatory changes, like Brazil's online betting rules, helps identify compliance service opportunities."
+      "Portugal's focus on environmental literacy (Azores) signals green economy opportunities.",
+      "The 'stunning second act' narrative encourages solopreneurs to pivot and reinvent careers.",
+      "EU's concern over tech sovereignty suggests a push for local tech solutions and talent.",
+      "Local university leadership changes could open doors for educational or research collaborations.",
+      "Portugal's energy focus and ancient civilizations research may inspire unique heritage tourism ventures."
     ]
   },
-  "learning_task": "Spend 30 minutes researching AI cost optimization strategies and tools, focusing on how solopreneurs can leverage them to offer services or improve their own operations.",
-  "biz_opportunity": "Offer AI cost-optimization consulting to small and medium-sized businesses in Portugal, helping them manage soaring AI infrastructure expenses and integrate ethical AI practices, leveraging the local call for digital problem-solvers.",
-  "built_at": "2026-07-11T08:50:17.270260+00:00"
+  "learning_task": "Spend 30 minutes researching practical applications of open-source AI tools for solopreneurs to identify efficiency gains for your €35k goal.",
+  "biz_opportunity": "Offer AI-driven workflow automation consulting services to small businesses and solopreneurs in Portugal, leveraging open-source tools to boost efficiency amidst market volatility.",
+  "built_at": "2026-07-12T09:05:58.776086+00:00"
 }

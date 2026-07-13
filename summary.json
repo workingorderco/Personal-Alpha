@@ -1,8 +1,8 @@
 {
-  "global_theme": "Geopolitical tensions escalate in the Middle East, impacting global markets, while AI advancements and strategic debates continue to reshape technology and business efficiency, holding significant implications for EU wealth creation.",
-  "market_mood": "Risk-Off",
-  "risk_signal": "Geopolitical Escalation & Supply Chain Disruptions",
-  "opportunity_signal": "AI Innovation & Strategic Market Adaptation",
+  "global_theme": "A mixed economic landscape with high market expectations but sector-specific headwinds, coupled with rising geopolitical tensions and EU-driven tech regulations, impacts solopreneurs in an evolving global and local context.",
+  "market_mood": "Cautiously Optimistic",
+  "risk_signal": "Geopolitical instability and market volatility",
+  "opportunity_signal": "AI adoption and niche market growth",
   "finance_sentiment": [
     {
       "i": 1,
@@ -10,23 +10,23 @@
     },
     {
       "i": 2,
-      "s": "="
-    },
-    {
-      "i": 3,
-      "s": "+"
-    },
-    {
-      "i": 4,
       "s": "-"
     },
     {
+      "i": 3,
+      "s": "-"
+    },
+    {
+      "i": 4,
+      "s": "+"
+    },
+    {
       "i": 5,
-      "s": "="
+      "s": "+"
     },
     {
       "i": 6,
-      "s": "+"
+      "s": "="
     },
     {
       "i": 7,
@@ -34,23 +34,23 @@
     },
     {
       "i": 8,
-      "s": "-"
+      "s": "+"
     },
     {
       "i": 9,
-      "s": "="
+      "s": "+"
     },
     {
       "i": 10,
-      "s": "="
+      "s": "-"
     },
     {
       "i": 11,
-      "s": "="
+      "s": "+"
     },
     {
       "i": 12,
-      "s": "="
+      "s": "-"
     },
     {
       "i": 13,
@@ -58,37 +58,37 @@
     },
     {
       "i": 14,
-      "s": "-"
+      "s": "="
     },
     {
       "i": 15,
-      "s": "-"
+      "s": "="
     }
   ],
   "insights": {
     "g1": [
-      "Escalating US-Iran conflict and Strait of Hormuz threat will drive market volatility.",
-      "AI continues to attract high analyst targets and shape investment landscapes.",
-      "Big-box retailers adapting to urban markets reveal shifting consumer behaviors.",
-      "The debate on AI's market efficiency suggests evolving financial tools and strategies.",
-      "Growing global interest in specific sports (soccer) indicates viable niche entertainment markets."
+      "Market expectations are high, but specific sectors like chips and crypto face headwinds, requiring a nuanced business approach.",
+      "Rising oil price forecasts suggest potential inflation, impacting operational costs and purchasing power for solopreneurs.",
+      "Personal finance decisions, like pension claiming, underscore the critical need for robust long-term financial planning.",
+      "Growth in aerospace and energy sectors indicates areas where significant capital is being deployed by investors.",
+      "Ongoing M&A activity highlights a dynamic market where companies continuously adjust their strategic portfolios."
     ],
     "g2": [
-      "Open-source AI backing (Zhipu) signals a robust, accessible future for AI tools.",
-      "New coding-agent replay tools (Mindwalk) offer enhanced software development workflows.",
-      "Distributed AI computing (Mesh LLM) highlights scalable infrastructure for AI applications.",
-      "Consider 'Why Write Code in 2026' to align skills with future programming demands.",
-      "Explore how AI's impact on market efficiency creates opportunities for data-driven services."
+      "Europe's new tech unicorns signal vibrant VC investment, highlighting potential for scalable, innovative ventures.",
+      "AI integration in apps like Waze demands continuous learning in AI tools and application for operational efficiency.",
+      "Upcoming EU social media limits for children will reshape digital content strategies, creating new market gaps.",
+      "Increased urban surveillance underscores privacy concerns, pushing for ethical tech development and secure practices.",
+      "Optimizing code performance is a valuable skill for solopreneurs to build efficient and scalable digital products."
     ],
     "g3": [
-      "Portugal's focus on environmental literacy (Azores) signals green economy opportunities.",
-      "The 'stunning second act' narrative encourages solopreneurs to pivot and reinvent careers.",
-      "EU's concern over tech sovereignty suggests a push for local tech solutions and talent.",
-      "Local university leadership changes could open doors for educational or research collaborations.",
-      "Portugal's energy focus and ancient civilizations research may inspire unique heritage tourism ventures."
+      "Increased tourism scams in Portugal necessitate secure booking platforms and clear communication for any travel-related venture.",
+      "EU's move to limit children's social media creates a demand for alternative, safe digital entertainment or educational services.",
+      "Portugal's challenge with small companies signals a market need for scalable business models and growth strategies.",
+      "Opportunities exist in promoting Portugal's less-explored North and Silver Coast, attracting niche tourism or remote workers.",
+      "Fluctuating Euribor rates impact borrowing costs, requiring careful financial planning for new investments or loans."
     ]
   },
-  "learning_task": "Spend 30 minutes researching practical applications of open-source AI tools for solopreneurs to identify efficiency gains for your €35k goal.",
-  "biz_opportunity": "Offer AI-driven workflow automation consulting services to small businesses and solopreneurs in Portugal, leveraging open-source tools to boost efficiency amidst market volatility.",
-  "built_at": "2026-07-12T09:05:58.776086+00:00"
+  "learning_task": "Spend 30 minutes researching no-code/low-code AI tools to automate a repetitive business task, aiming to boost efficiency towards your €35k goal.",
+  "biz_opportunity": "Create a subscription service offering curated, safe digital content and parental guidance for families with children in Portugal, leveraging new EU social media regulations.",
+  "built_at": "2026-07-13T10:30:52.466438+00:00"
 }

@@ -1,8 +1,8 @@
 {
-  "global_theme": "A mixed economic landscape with high market expectations but sector-specific headwinds, coupled with rising geopolitical tensions and EU-driven tech regulations, impacts solopreneurs in an evolving global and local context.",
-  "market_mood": "Cautiously Optimistic",
-  "risk_signal": "Geopolitical instability and market volatility",
-  "opportunity_signal": "AI adoption and niche market growth",
+  "global_theme": "Escalating geopolitical tensions in the Middle East are driving up oil prices and increasing economic uncertainty globally, while Europe faces rising operational costs, impacting wealth and market stability.",
+  "market_mood": "Mixed with geopolitical anxiety",
+  "risk_signal": "Geopolitical escalation, rising costs",
+  "opportunity_signal": "Niche tech funding, productivity gains, market shifts",
   "finance_sentiment": [
     {
       "i": 1,
@@ -10,39 +10,39 @@
     },
     {
       "i": 2,
-      "s": "-"
+      "s": "="
     },
     {
       "i": 3,
-      "s": "-"
+      "s": "+"
     },
     {
       "i": 4,
-      "s": "+"
+      "s": "-"
     },
     {
       "i": 5,
-      "s": "+"
+      "s": "="
     },
     {
       "i": 6,
-      "s": "="
+      "s": "+"
     },
     {
       "i": 7,
-      "s": "="
+      "s": "-"
     },
     {
       "i": 8,
-      "s": "+"
+      "s": "-"
     },
     {
       "i": 9,
-      "s": "+"
+      "s": "-"
     },
     {
       "i": 10,
-      "s": "-"
+      "s": "+"
     },
     {
       "i": 11,
@@ -50,45 +50,45 @@
     },
     {
       "i": 12,
-      "s": "-"
+      "s": "+"
     },
     {
       "i": 13,
-      "s": "="
+      "s": "+"
     },
     {
       "i": 14,
-      "s": "="
+      "s": "-"
     },
     {
       "i": 15,
-      "s": "="
+      "s": "+"
     }
   ],
   "insights": {
     "g1": [
-      "Market expectations are high, but specific sectors like chips and crypto face headwinds, requiring a nuanced business approach.",
-      "Rising oil price forecasts suggest potential inflation, impacting operational costs and purchasing power for solopreneurs.",
-      "Personal finance decisions, like pension claiming, underscore the critical need for robust long-term financial planning.",
-      "Growth in aerospace and energy sectors indicates areas where significant capital is being deployed by investors.",
-      "Ongoing M&A activity highlights a dynamic market where companies continuously adjust their strategic portfolios."
+      "Geopolitical tensions in the Middle East are escalating, pushing oil prices up, signaling potential higher business costs.",
+      "Strong US worker productivity, even without AI, indicates robust economic activity that could spread globally.",
+      "Rising operational costs and worsening business conditions in Germany warn of broader European economic challenges.",
+      "The rush to bypass the Strait of Hormuz suggests new logistical needs and infrastructure investment opportunities.",
+      "Despite challenges, specific companies with strong fundamentals are receiving positive analyst upgrades, showing targeted resilience."
     ],
     "g2": [
-      "Europe's new tech unicorns signal vibrant VC investment, highlighting potential for scalable, innovative ventures.",
-      "AI integration in apps like Waze demands continuous learning in AI tools and application for operational efficiency.",
-      "Upcoming EU social media limits for children will reshape digital content strategies, creating new market gaps.",
-      "Increased urban surveillance underscores privacy concerns, pushing for ethical tech development and secure practices.",
-      "Optimizing code performance is a valuable skill for solopreneurs to build efficient and scalable digital products."
+      "Significant funding rounds for European tech startups, particularly in defence and niche markets, signal a vibrant ecosystem.",
+      "AI's use in policy decisions highlights increasing integration and the critical need for transparency and ethical oversight.",
+      "Advances in quantum computing and alternative hardware solutions indicate rapid evolution in foundational tech capabilities.",
+      "A data center moratorium in New York foreshadows growing regulatory scrutiny on energy and tech infrastructure.",
+      "The creation of detailed human brain atlases showcases ongoing innovation in scientific computing and visualization."
     ],
     "g3": [
-      "Increased tourism scams in Portugal necessitate secure booking platforms and clear communication for any travel-related venture.",
-      "EU's move to limit children's social media creates a demand for alternative, safe digital entertainment or educational services.",
-      "Portugal's challenge with small companies signals a market need for scalable business models and growth strategies.",
-      "Opportunities exist in promoting Portugal's less-explored North and Silver Coast, attracting niche tourism or remote workers.",
-      "Fluctuating Euribor rates impact borrowing costs, requiring careful financial planning for new investments or loans."
+      "Portugal's robust tourism sector, with record port passenger numbers, presents continuous service-based income opportunities.",
+      "The country's growing interest in space exploration could create new niches for tech-oriented solopreneurs.",
+      "Europe's renewed military focus, as signaled by France, may open doors for related tech or consulting services within the EU.",
+      "Over a million migrants seeking legal status in Spain represent a significant demand for integration and support services.",
+      "Increased seizures of counterfeit goods in the Algarve indicate ongoing challenges and opportunities in consumer protection."
     ]
   },
-  "learning_task": "Spend 30 minutes researching no-code/low-code AI tools to automate a repetitive business task, aiming to boost efficiency towards your €35k goal.",
-  "biz_opportunity": "Create a subscription service offering curated, safe digital content and parental guidance for families with children in Portugal, leveraging new EU social media regulations.",
-  "built_at": "2026-07-13T10:30:52.466438+00:00"
+  "learning_task": "Spend 30 minutes researching the top three EU/Portuguese government grants or programs available for solopreneurs focusing on digital services in tourism or emerging tech to inform your €35k goal.",
+  "biz_opportunity": "Provide strategic digital integration and efficiency consulting to small businesses in Portugal's thriving tourism sector, leveraging strong local growth against broader European cost pressures.",
+  "built_at": "2026-07-14T09:07:08.471242+00:00"
 }

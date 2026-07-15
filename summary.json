@@ -1,8 +1,8 @@
 {
-  "global_theme": "Escalating geopolitical tensions in the Middle East are driving up oil prices and increasing economic uncertainty globally, while Europe faces rising operational costs, impacting wealth and market stability.",
-  "market_mood": "Mixed with geopolitical anxiety",
-  "risk_signal": "Geopolitical escalation, rising costs",
-  "opportunity_signal": "Niche tech funding, productivity gains, market shifts",
+  "global_theme": "Geopolitical tensions in the Middle East and Eastern Europe are escalating, contrasting with a booming semiconductor and AI tech sector that offers significant EU wealth creation opportunities, despite some auto industry and social stability concerns.",
+  "market_mood": "Cautiously Optimistic (Tech-driven)",
+  "risk_signal": "Escalating Geopolitical Conflict",
+  "opportunity_signal": "Tech & AI Sector Growth",
   "finance_sentiment": [
     {
       "i": 1,
@@ -10,15 +10,15 @@
     },
     {
       "i": 2,
-      "s": "="
+      "s": "-"
     },
     {
       "i": 3,
-      "s": "+"
+      "s": "-"
     },
     {
       "i": 4,
-      "s": "-"
+      "s": "+"
     },
     {
       "i": 5,
@@ -26,19 +26,19 @@
     },
     {
       "i": 6,
-      "s": "+"
+      "s": "-"
     },
     {
       "i": 7,
-      "s": "-"
+      "s": "+"
     },
     {
       "i": 8,
-      "s": "-"
+      "s": "+"
     },
     {
       "i": 9,
-      "s": "-"
+      "s": "+"
     },
     {
       "i": 10,
@@ -46,7 +46,7 @@
     },
     {
       "i": 11,
-      "s": "+"
+      "s": "-"
     },
     {
       "i": 12,
@@ -54,7 +54,7 @@
     },
     {
       "i": 13,
-      "s": "+"
+      "s": "-"
     },
     {
       "i": 14,
@@ -67,28 +67,28 @@
   ],
   "insights": {
     "g1": [
-      "Geopolitical tensions in the Middle East are escalating, pushing oil prices up, signaling potential higher business costs.",
-      "Strong US worker productivity, even without AI, indicates robust economic activity that could spread globally.",
-      "Rising operational costs and worsening business conditions in Germany warn of broader European economic challenges.",
-      "The rush to bypass the Strait of Hormuz suggests new logistical needs and infrastructure investment opportunities.",
-      "Despite challenges, specific companies with strong fundamentals are receiving positive analyst upgrades, showing targeted resilience."
+      "Global conflicts (US-Iran war) increase market volatility; diversify your income streams and financial strategies.",
+      "Semiconductor and AI sectors are booming; explore investment or skill development related to this growth area.",
+      "US EV market struggles highlight need for thorough market analysis before committing to new ventures.",
+      "Companies adapting to deflation (Axfood) show the importance of flexible pricing and cost management.",
+      "Real estate cooling (Aubrey Plaza) suggests caution for property-related ventures; focus on high-demand niches."
     ],
     "g2": [
-      "Significant funding rounds for European tech startups, particularly in defence and niche markets, signal a vibrant ecosystem.",
-      "AI's use in policy decisions highlights increasing integration and the critical need for transparency and ethical oversight.",
-      "Advances in quantum computing and alternative hardware solutions indicate rapid evolution in foundational tech capabilities.",
-      "A data center moratorium in New York foreshadows growing regulatory scrutiny on energy and tech infrastructure.",
-      "The creation of detailed human brain atlases showcases ongoing innovation in scientific computing and visualization."
+      "AI is central to future innovation (Australian AI office); master AI tools to enhance productivity and offerings.",
+      "Learn from ex-Palantir duo using AI for faster code; integrate AI-generated code to accelerate your development.",
+      "Cybersecurity skills are critical (RPKI servers, EU cyber independence); consider offering secure digital solutions.",
+      "Connect with emerging tech ecosystems (Scottish incubator, European biotech) for partnerships and growth insights.",
+      "Monitor EV infrastructure changes (charging fines, hydrogen tech) for potential service gaps or future-proof solutions."
     ],
     "g3": [
-      "Portugal's robust tourism sector, with record port passenger numbers, presents continuous service-based income opportunities.",
-      "The country's growing interest in space exploration could create new niches for tech-oriented solopreneurs.",
-      "Europe's renewed military focus, as signaled by France, may open doors for related tech or consulting services within the EU.",
-      "Over a million migrants seeking legal status in Spain represent a significant demand for integration and support services.",
-      "Increased seizures of counterfeit goods in the Algarve indicate ongoing challenges and opportunities in consumer protection."
+      "Portugal's infrastructure projects (€5.5bn Tejo, Braga beach) create direct opportunities for local service providers.",
+      "The Barroso lithium project signals potential for specialized support services in mining or green tech supply chains.",
+      "Portugal's \"space\" economy and EU cyber focus imply demand for digital services; explore remote work possibilities.",
+      "Local leisure and event markets (PAW Patrol Live) suggest opportunities in tourism, entertainment, or related services.",
+      "Position yourself as an agile expert to help local businesses navigate new regulations or tap into EU funding."
     ]
   },
-  "learning_task": "Spend 30 minutes researching the top three EU/Portuguese government grants or programs available for solopreneurs focusing on digital services in tourism or emerging tech to inform your €35k goal.",
-  "biz_opportunity": "Provide strategic digital integration and efficiency consulting to small businesses in Portugal's thriving tourism sector, leveraging strong local growth against broader European cost pressures.",
-  "built_at": "2026-07-14T09:07:08.471242+00:00"
+  "learning_task": "Spend 30 minutes researching local grant programs or procurement processes for Portugal's announced infrastructure projects (Tejo crossings, Braga river beach) to identify potential solopreneur service opportunities towards the €35k goal.",
+  "biz_opportunity": "Offer agile digital consulting and project management services to Portuguese SMEs and local government entities capitalizing on the significant national infrastructure investments and growing EU tech initiatives.",
+  "built_at": "2026-07-15T09:11:25.975778+00:00"
 }

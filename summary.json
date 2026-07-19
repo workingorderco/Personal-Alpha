@@ -1,12 +1,12 @@
 {
-  "global_theme": "AI innovation and the burgeoning space economy show growth potential, but rising geopolitical tensions in the Middle East and global trade friction create significant economic uncertainty for EU wealth.",
-  "market_mood": "Volatile",
-  "risk_signal": "Geopolitical Instability",
-  "opportunity_signal": "AI-driven Innovation",
+  "global_theme": "Escalating geopolitical tensions in the Middle East and Eastern Europe are increasing global market volatility, while AI advancements continue to drive innovation and demand for new skills, offering both risks and opportunities for wealth creation in the EU.",
+  "market_mood": "Cautiously Volatile",
+  "risk_signal": "Geopolitical Escalation, European Equity Headwinds",
+  "opportunity_signal": "AI Integration, Skill Adaptation",
   "finance_sentiment": [
     {
       "i": 1,
-      "s": "+"
+      "s": "="
     },
     {
       "i": 2,
@@ -14,19 +14,19 @@
     },
     {
       "i": 3,
-      "s": "-"
+      "s": "="
     },
     {
       "i": 4,
-      "s": "+"
-    },
-    {
-      "i": 5,
       "s": "-"
     },
     {
-      "i": 6,
+      "i": 5,
       "s": "="
+    },
+    {
+      "i": 6,
+      "s": "-"
     },
     {
       "i": 7,
@@ -38,11 +38,11 @@
     },
     {
       "i": 9,
-      "s": "-"
+      "s": "="
     },
     {
       "i": 10,
-      "s": "="
+      "s": "-"
     },
     {
       "i": 11,
@@ -54,41 +54,41 @@
     },
     {
       "i": 13,
-      "s": "+"
+      "s": "="
     },
     {
       "i": 14,
-      "s": "="
+      "s": "-"
     },
     {
       "i": 15,
-      "s": "="
+      "s": "-"
     }
   ],
   "insights": {
     "g1": [
-      "AI sector valuations remain robust, indicating continued investor confidence in its growth trajectory.",
-      "The space economy is projected for massive growth, signaling long-term investment and innovation potential.",
-      "Geopolitical conflicts in the Gulf intensify, posing risks to global energy markets and supply chains.",
-      "Trade tensions with figures like Trump indicate potential for increased protectionism and tariffs globally.",
-      "Strategic resources like green minerals and EV manufacturing face political scrutiny and potential regulatory shifts."
+      "Escalating US-Iran conflict and pipeline halts signal increased energy market volatility and supply chain risks.",
+      "Negative outlook on European equities from BofA suggests caution for regional investments and economic growth.",
+      "AI companies like Moonshot AI pursuing IPOs highlight significant investment opportunities in cutting-edge tech.",
+      "Outages on Meta platforms underscore the importance of diversified digital presence beyond single channels.",
+      "Leverage strategic negotiation tactics, like those used for pay rises, to secure better client contracts and rates."
     ],
     "g2": [
-      "Agentic AI is becoming a key differentiator in consumer devices, pushing innovation in smart functionalities.",
-      "Despite high valuations, some VCs anticipate a cooling of the AI investment frenzy, prompting strategic shifts.",
-      "Niche tech tools like Lua runtimes and stencil generators highlight a demand for specialized developer solutions.",
-      "AI is revolutionizing complex fields like drug design, demonstrating its potential for groundbreaking scientific advancements.",
-      "High-end AI agents are emerging for executives, but performance scrutiny shows a gap between promise and delivery."
+      "Embrace your 'Zone of Genius' by using AI tools to automate mundane tasks, freeing time for high-value work.",
+      "Stay updated on open-weight AI models like Qwen3.8 to integrate advanced capabilities affordably into your business.",
+      "Be wary of social media phishing scams targeting X accounts; secure your digital assets proactively.",
+      "Explore P2P file transfer tools for secure, efficient client data exchange without relying on third-party cloud services.",
+      "Invest 30 minutes weekly in learning new AI prompts or features to continuously enhance your tech proficiency."
     ],
     "g3": [
-      "Portugal's leadership in renewables contrasts with home preparedness for heat, suggesting a market for climate solutions.",
-      "Portuguese tourism is expanding, especially attracting North American visitors, creating opportunities for service providers.",
-      "Rising fuel costs in Portugal will impact operational expenses for any local business relying on transport.",
-      "The comparison with Angolan investment in Angola signals broader economic shifts and potential capital movement.",
-      "The fight to save local institutions like schools (Soho) highlights community value and potential for local support services."
+      "Lisbon's growing financial hub status offers opportunities for solopreneurs to connect with a thriving business ecosystem.",
+      "ASAE's focus on consumer labelling awareness suggests opportunities in services helping local businesses with compliance and transparency.",
+      "Utilize Portugal's progressive approach to healthcare (e.g., teleconsultations) as a model for remote client service innovation.",
+      "Monitor local Portuguese development projects, like the Hilton hotel suspension, for potential market shifts or service needs.",
+      "Consider how major events like the World Cup final create local marketing opportunities for community-focused services."
     ]
   },
-  "learning_task": "Spend 30 minutes researching \"agentic AI\" applications relevant to solopreneurs and list 3 ways it could automate parts of your business workflow.",
-  "biz_opportunity": "Develop localized AI-powered travel planning tools or sustainable home retrofit consulting for North American tourists and local residents in Portugal, leveraging Portugal's tourism growth and climate readiness challenges.",
-  "built_at": "2026-07-18T08:50:37.791786+00:00"
+  "learning_task": "Research and identify three AI-powered productivity tools specific to your niche and create a 30-minute plan to pilot one for your business workflows.",
+  "biz_opportunity": "Offer AI-enhanced content creation and social media management services to Portuguese small businesses, leveraging new open-weight AI models to provide cost-effective, high-quality local digital presence solutions.",
+  "built_at": "2026-07-19T09:07:20.040852+00:00"
 }

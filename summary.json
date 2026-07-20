@@ -1,16 +1,16 @@
 {
-  "global_theme": "Escalating geopolitical tensions in the Middle East and Eastern Europe are increasing global market volatility, while AI advancements continue to drive innovation and demand for new skills, offering both risks and opportunities for wealth creation in the EU.",
-  "market_mood": "Cautiously Volatile",
-  "risk_signal": "Geopolitical Escalation, European Equity Headwinds",
-  "opportunity_signal": "AI Integration, Skill Adaptation",
+  "global_theme": "Global markets are navigating geopolitical tensions and a shifting tech landscape driven by AI, with European stability and local Portuguese challenges impacting the journey to wealth.",
+  "market_mood": "Cautiously Optimistic",
+  "risk_signal": "Geopolitical Instability, Market Volatility, AI Bias",
+  "opportunity_signal": "AI Investment & Innovation, European Market Stability, Green Tech Growth",
   "finance_sentiment": [
     {
       "i": 1,
-      "s": "="
+      "s": "-"
     },
     {
       "i": 2,
-      "s": "+"
+      "s": "="
     },
     {
       "i": 3,
@@ -18,19 +18,19 @@
     },
     {
       "i": 4,
-      "s": "-"
-    },
-    {
-      "i": 5,
       "s": "="
     },
     {
+      "i": 5,
+      "s": "+"
+    },
+    {
       "i": 6,
-      "s": "-"
+      "s": "+"
     },
     {
       "i": 7,
-      "s": "-"
+      "s": "+"
     },
     {
       "i": 8,
@@ -38,57 +38,57 @@
     },
     {
       "i": 9,
-      "s": "="
+      "s": "+"
     },
     {
       "i": 10,
-      "s": "-"
+      "s": "="
     },
     {
       "i": 11,
-      "s": "-"
+      "s": "+"
     },
     {
       "i": 12,
-      "s": "="
+      "s": "-"
     },
     {
       "i": 13,
-      "s": "="
+      "s": "+"
     },
     {
       "i": 14,
-      "s": "-"
+      "s": "+"
     },
     {
       "i": 15,
-      "s": "-"
+      "s": "+"
     }
   ],
   "insights": {
     "g1": [
-      "Escalating US-Iran conflict and pipeline halts signal increased energy market volatility and supply chain risks.",
-      "Negative outlook on European equities from BofA suggests caution for regional investments and economic growth.",
-      "AI companies like Moonshot AI pursuing IPOs highlight significant investment opportunities in cutting-edge tech.",
-      "Outages on Meta platforms underscore the importance of diversified digital presence beyond single channels.",
-      "Leverage strategic negotiation tactics, like those used for pay rises, to secure better client contracts and rates."
+      "UK political instability and US criticism introduce global market uncertainty and potential volatility.",
+      "The stock market is shifting beyond mega-caps, requiring diverse investment strategies and active re-evaluation.",
+      "Big Tech's AI spending needs to show ROI, indicating a maturing AI investment landscape with higher scrutiny.",
+      "European shares are paring losses, suggesting a degree of regional market resilience despite geopolitical tensions.",
+      "China's falling youth jobless rate points to potential economic stabilization in a key global market."
     ],
     "g2": [
-      "Embrace your 'Zone of Genius' by using AI tools to automate mundane tasks, freeing time for high-value work.",
-      "Stay updated on open-weight AI models like Qwen3.8 to integrate advanced capabilities affordably into your business.",
-      "Be wary of social media phishing scams targeting X accounts; secure your digital assets proactively.",
-      "Explore P2P file transfer tools for secure, efficient client data exchange without relying on third-party cloud services.",
-      "Invest 30 minutes weekly in learning new AI prompts or features to continuously enhance your tech proficiency."
+      "Massive investments in AI for materials discovery signal high-growth tech sectors worth exploring.",
+      "AI's propensity for bias in hiring presents ethical challenges but also solutions opportunities for consultants.",
+      "Exploiting vulnerabilities with AI (GPT5.6) highlights advanced security and the evolving threat landscape.",
+      "Anti-fraud startups are a growing investment area, driven by expanding digital commerce and cybersecurity needs.",
+      "Proprietary formats creating tech lock-in underscore the importance of open-source alternatives and flexibility."
     ],
     "g3": [
-      "Lisbon's growing financial hub status offers opportunities for solopreneurs to connect with a thriving business ecosystem.",
-      "ASAE's focus on consumer labelling awareness suggests opportunities in services helping local businesses with compliance and transparency.",
-      "Utilize Portugal's progressive approach to healthcare (e.g., teleconsultations) as a model for remote client service innovation.",
-      "Monitor local Portuguese development projects, like the Hilton hotel suspension, for potential market shifts or service needs.",
-      "Consider how major events like the World Cup final create local marketing opportunities for community-focused services."
+      "Rising Portuguese mortgage rates impact local cost of living and solopreneur budget planning significantly.",
+      "Europe's EV market growth offers opportunities for related services or infrastructure support in Portugal.",
+      "Portugal's potential for world-leading tech could provide local innovation and job opportunities, so stay tuned.",
+      "EU regulations, like the AliExpress fine, emphasize compliance for cross-border businesses, affecting market access.",
+      "Addressing local issues like student housing or fire risks might reveal community-based business needs in Portugal."
     ]
   },
-  "learning_task": "Research and identify three AI-powered productivity tools specific to your niche and create a 30-minute plan to pilot one for your business workflows.",
-  "biz_opportunity": "Offer AI-enhanced content creation and social media management services to Portuguese small businesses, leveraging new open-weight AI models to provide cost-effective, high-quality local digital presence solutions.",
-  "built_at": "2026-07-19T09:07:20.040852+00:00"
+  "learning_task": "Research and identify 3-5 emerging AI-driven tools or platforms within your niche that could automate or significantly improve your workflow by 2026.",
+  "biz_opportunity": "AI-powered local market intelligence service for small businesses in Portugal, leveraging local data and global AI trends to offer competitive insights and strategic guidance, now as tech investments surge.",
+  "built_at": "2026-07-20T10:15:13.273907+00:00"
 }

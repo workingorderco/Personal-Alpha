@@ -1,16 +1,16 @@
 {
-  "global_theme": "Global markets are navigating geopolitical tensions and a shifting tech landscape driven by AI, with European stability and local Portuguese challenges impacting the journey to wealth.",
-  "market_mood": "Cautiously Optimistic",
-  "risk_signal": "Geopolitical Instability, Market Volatility, AI Bias",
-  "opportunity_signal": "AI Investment & Innovation, European Market Stability, Green Tech Growth",
+  "global_theme": "Geopolitical tensions continue, impacting global markets, while AI drives rapid technological change, influencing economic policies and business opportunities across the EU, especially in the UK.",
+  "market_mood": "Cautiously Volatile",
+  "risk_signal": "Geopolitical conflict, AI regulation/ethics, economic policy uncertainty.",
+  "opportunity_signal": "AI innovation, small business credit, green tech adoption.",
   "finance_sentiment": [
     {
       "i": 1,
-      "s": "-"
+      "s": "+"
     },
     {
       "i": 2,
-      "s": "="
+      "s": "-"
     },
     {
       "i": 3,
@@ -18,77 +18,77 @@
     },
     {
       "i": 4,
-      "s": "="
+      "s": "+"
     },
     {
       "i": 5,
-      "s": "+"
-    },
-    {
-      "i": 6,
-      "s": "+"
-    },
-    {
-      "i": 7,
-      "s": "+"
-    },
-    {
-      "i": 8,
-      "s": "+"
-    },
-    {
-      "i": 9,
-      "s": "+"
-    },
-    {
-      "i": 10,
       "s": "="
     },
     {
-      "i": 11,
-      "s": "+"
-    },
-    {
-      "i": 12,
+      "i": 6,
       "s": "-"
     },
     {
-      "i": 13,
+      "i": 7,
+      "s": "="
+    },
+    {
+      "i": 8,
+      "s": "="
+    },
+    {
+      "i": 9,
+      "s": "="
+    },
+    {
+      "i": 10,
       "s": "+"
+    },
+    {
+      "i": 11,
+      "s": "="
+    },
+    {
+      "i": 12,
+      "s": "+"
+    },
+    {
+      "i": 13,
+      "s": "-"
     },
     {
       "i": 14,
-      "s": "+"
+      "s": "="
     },
     {
       "i": 15,
-      "s": "+"
+      "s": "="
     }
   ],
   "insights": {
     "g1": [
-      "UK political instability and US criticism introduce global market uncertainty and potential volatility.",
-      "The stock market is shifting beyond mega-caps, requiring diverse investment strategies and active re-evaluation.",
-      "Big Tech's AI spending needs to show ROI, indicating a maturing AI investment landscape with higher scrutiny.",
-      "European shares are paring losses, suggesting a degree of regional market resilience despite geopolitical tensions.",
-      "China's falling youth jobless rate points to potential economic stabilization in a key global market."
+      "Stock market rebounds suggest cautious optimism, but geopolitical tensions influence currency and trade dynamics.",
+      "A new blueprint for intelligent small business credit could lead to improved financing options for solopreneurs.",
+      "The UK's focus on fixing tax and skills for growth might impact future EU trade relations and opportunities.",
+      "The softening dollar presents potential advantages for Euro-denominated earnings or international business ventures.",
+      "Understanding global inflation data and its impact on investor sentiment is crucial for financial planning."
     ],
     "g2": [
-      "Massive investments in AI for materials discovery signal high-growth tech sectors worth exploring.",
-      "AI's propensity for bias in hiring presents ethical challenges but also solutions opportunities for consultants.",
-      "Exploiting vulnerabilities with AI (GPT5.6) highlights advanced security and the evolving threat landscape.",
-      "Anti-fraud startups are a growing investment area, driven by expanding digital commerce and cybersecurity needs.",
-      "Proprietary formats creating tech lock-in underscore the importance of open-source alternatives and flexibility."
+      "The appointment of a UK AI minister signals strong governmental support and potential for innovation in the sector.",
+      "AI's accuracy issues in areas like election advice highlight the need for human oversight and critical tool evaluation.",
+      "Meta's smartglasses raise privacy concerns, emphasizing the importance of ethical considerations in AI product development.",
+      "Open-source projects provide excellent opportunities for skill development and collaborating on niche tech solutions.",
+      "AI-driven job disruption in media underscores the urgency for solopreneurs to adapt skills and leverage AI tools proactively."
     ],
     "g3": [
-      "Rising Portuguese mortgage rates impact local cost of living and solopreneur budget planning significantly.",
-      "Europe's EV market growth offers opportunities for related services or infrastructure support in Portugal.",
-      "Portugal's potential for world-leading tech could provide local innovation and job opportunities, so stay tuned.",
-      "EU regulations, like the AliExpress fine, emphasize compliance for cross-border businesses, affecting market access.",
-      "Addressing local issues like student housing or fire risks might reveal community-based business needs in Portugal."
+      "Portugal's falling unemployment suggests a potentially healthier local economy and increased demand for services.",
+      "Growth in Portugal's packaging deposit system indicates a strong market for sustainable and eco-friendly solutions.",
+      "Discussions on migration and hate speech highlight the need for inclusive community engagement for local businesses.",
+      "Portugal and Morocco seeking EU support for an electricity connection points to regional infrastructure development.",
+      "Local reports on small business credit could soon translate into better funding access for Alex's ventures in Portugal."
     ]
   },
-  "learning_task": "Research and identify 3-5 emerging AI-driven tools or platforms within your niche that could automate or significantly improve your workflow by 2026.",
-  "biz_opportunity": "AI-powered local market intelligence service for small businesses in Portugal, leveraging local data and global AI trends to offer competitive insights and strategic guidance, now as tech investments surge.",
-  "built_at": "2026-07-20T10:15:13.273907+00:00"
+  "learning_task": "Spend 30 minutes researching free/low-cost AI tools that can automate a specific, repetitive solopreneur task, aiming to increase efficiency and capacity towards your €35k goal.",
+  "biz_opportunity": "Offer AI-powered content generation and efficiency tools to solopreneurs and small businesses in Portugal, capitalizing on growing AI adoption and local demand for productivity solutions.",
+  "built_at": "2026-07-21T09:30:37.488383+00:00"
 }

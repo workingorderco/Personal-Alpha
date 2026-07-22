@@ -1,8 +1,8 @@
 {
-  "global_theme": "Geopolitical tensions continue, impacting global markets, while AI drives rapid technological change, influencing economic policies and business opportunities across the EU, especially in the UK.",
-  "market_mood": "Cautiously Volatile",
-  "risk_signal": "Geopolitical conflict, AI regulation/ethics, economic policy uncertainty.",
-  "opportunity_signal": "AI innovation, small business credit, green tech adoption.",
+  "global_theme": "Escalating geopolitical conflict in the Middle East, particularly involving Iran and the US, dominates global news, impacting oil prices and prompting financial caution across the EU and for wealth management.",
+  "market_mood": "Cautious/Risk-Aware",
+  "risk_signal": "Persistent Middle East conflict raising oil prices, Red Sea shipping risks, and the emergence of AI model cyberattack capabilities.",
+  "opportunity_signal": "Strong earnings from specific industrial and tech companies, growth in AI-driven platforms, and Portugal's expanding tech infrastructure.",
   "finance_sentiment": [
     {
       "i": 1,
@@ -14,19 +14,19 @@
     },
     {
       "i": 3,
-      "s": "="
+      "s": "-"
     },
     {
       "i": 4,
-      "s": "+"
+      "s": "-"
     },
     {
       "i": 5,
-      "s": "="
+      "s": "-"
     },
     {
       "i": 6,
-      "s": "-"
+      "s": "+"
     },
     {
       "i": 7,
@@ -34,7 +34,7 @@
     },
     {
       "i": 8,
-      "s": "="
+      "s": "-"
     },
     {
       "i": 9,
@@ -50,7 +50,7 @@
     },
     {
       "i": 12,
-      "s": "+"
+      "s": "-"
     },
     {
       "i": 13,
@@ -58,37 +58,37 @@
     },
     {
       "i": 14,
-      "s": "="
+      "s": "-"
     },
     {
       "i": 15,
-      "s": "="
+      "s": "-"
     }
   ],
   "insights": {
     "g1": [
-      "Stock market rebounds suggest cautious optimism, but geopolitical tensions influence currency and trade dynamics.",
-      "A new blueprint for intelligent small business credit could lead to improved financing options for solopreneurs.",
-      "The UK's focus on fixing tax and skills for growth might impact future EU trade relations and opportunities.",
-      "The softening dollar presents potential advantages for Euro-denominated earnings or international business ventures.",
-      "Understanding global inflation data and its impact on investor sentiment is crucial for financial planning."
+      "Geopolitical instability from the Iran conflict drives oil price volatility and necessitates risk management in investment strategies.",
+      "Pockets of strong corporate performance (e.g., Hiab, Dynavox) indicate resilience and growth opportunities in specific industrial sectors.",
+      "Rising energy costs due to global conflicts will impact operational expenses for businesses, requiring budgeting adjustments.",
+      "The increasing adoption of renewable energy, despite short-term challenges for some, signals a long-term shift in industrial landscapes.",
+      "Personal financial planning, including inheritance, remains crucial for securing wealth amidst broader economic uncertainties."
     ],
     "g2": [
-      "The appointment of a UK AI minister signals strong governmental support and potential for innovation in the sector.",
-      "AI's accuracy issues in areas like election advice highlight the need for human oversight and critical tool evaluation.",
-      "Meta's smartglasses raise privacy concerns, emphasizing the importance of ethical considerations in AI product development.",
-      "Open-source projects provide excellent opportunities for skill development and collaborating on niche tech solutions.",
-      "AI-driven job disruption in media underscores the urgency for solopreneurs to adapt skills and leverage AI tools proactively."
+      "AI's rapid evolution, including 'cyberattack' capabilities, demands heightened cybersecurity awareness and ethical development practices.",
+      "New AI training platforms evolving into 'live coaching' create direct service opportunities for specialized AI integration and consulting.",
+      "Leverage tools like AI-powered speed readers or aim trainers to enhance personal productivity and master new digital skills efficiently.",
+      "The UK's focus on defense tech offers potential funding and market for innovative AI applications in security and intelligence.",
+      "Staying updated on AI advancements (e.g., Anthropic, Meta AI) is crucial for identifying early adopter advantages and market shifts."
     ],
     "g3": [
-      "Portugal's falling unemployment suggests a potentially healthier local economy and increased demand for services.",
-      "Growth in Portugal's packaging deposit system indicates a strong market for sustainable and eco-friendly solutions.",
-      "Discussions on migration and hate speech highlight the need for inclusive community engagement for local businesses.",
-      "Portugal and Morocco seeking EU support for an electricity connection points to regional infrastructure development.",
-      "Local reports on small business credit could soon translate into better funding access for Alex's ventures in Portugal."
+      "Portugal's growth in data center projects and new industrial zones signals expanding digital infrastructure, attracting tech-focused businesses.",
+      "Understanding EU sanctions and policy changes (e.g., Russia sanctions) is vital for cross-border trade and compliance within the bloc.",
+      "The declining demand for mortgage loans in Portugal could indicate opportunities in alternative real estate investments or related financial services.",
+      "Addressing local social needs, like co-payment for Alzheimer's medication, highlights areas for community-focused businesses or advocacy.",
+      "Portugal's recognition of electric car innovation positions it as a hub for green technology adoption and related service industries."
     ]
   },
-  "learning_task": "Spend 30 minutes researching free/low-cost AI tools that can automate a specific, repetitive solopreneur task, aiming to increase efficiency and capacity towards your €35k goal.",
-  "biz_opportunity": "Offer AI-powered content generation and efficiency tools to solopreneurs and small businesses in Portugal, capitalizing on growing AI adoption and local demand for productivity solutions.",
-  "built_at": "2026-07-21T09:30:37.488383+00:00"
+  "learning_task": "Dedicate 30 minutes to exploring current AI tools for automating content creation and marketing, envisioning how they could streamline solopreneur operations.",
+  "biz_opportunity": "Offer specialized AI-driven efficiency consulting for Portuguese solopreneurs, focusing on content automation and digital marketing, leveraging Portugal's growing tech infrastructure.",
+  "built_at": "2026-07-22T09:29:12.931336+00:00"
 }

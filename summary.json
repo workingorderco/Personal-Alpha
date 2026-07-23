@@ -1,16 +1,16 @@
 {
-  "global_theme": "Escalating geopolitical conflict in the Middle East, particularly involving Iran and the US, dominates global news, impacting oil prices and prompting financial caution across the EU and for wealth management.",
-  "market_mood": "Cautious/Risk-Aware",
-  "risk_signal": "Persistent Middle East conflict raising oil prices, Red Sea shipping risks, and the emergence of AI model cyberattack capabilities.",
-  "opportunity_signal": "Strong earnings from specific industrial and tech companies, growth in AI-driven platforms, and Portugal's expanding tech infrastructure.",
+  "global_theme": "Global tech giants face economic headwinds and strategic re-evaluations, while Europe grapples with climate impacts and regional shifts, all impacting wealth prospects and investment decisions.",
+  "market_mood": "Cautiously Optimistic with Sectoral Divergence",
+  "risk_signal": "Economic Headwinds & Geopolitical Tensions",
+  "opportunity_signal": "AI Innovation, Nuclear Sector Growth & Trade Liberalization",
   "finance_sentiment": [
     {
       "i": 1,
-      "s": "+"
+      "s": "-"
     },
     {
       "i": 2,
-      "s": "-"
+      "s": "+"
     },
     {
       "i": 3,
@@ -22,15 +22,15 @@
     },
     {
       "i": 5,
-      "s": "-"
-    },
-    {
-      "i": 6,
       "s": "+"
     },
     {
+      "i": 6,
+      "s": "-"
+    },
+    {
       "i": 7,
-      "s": "="
+      "s": "+"
     },
     {
       "i": 8,
@@ -38,7 +38,7 @@
     },
     {
       "i": 9,
-      "s": "="
+      "s": "+"
     },
     {
       "i": 10,
@@ -46,11 +46,11 @@
     },
     {
       "i": 11,
-      "s": "="
+      "s": "+"
     },
     {
       "i": 12,
-      "s": "-"
+      "s": "+"
     },
     {
       "i": 13,
@@ -62,33 +62,33 @@
     },
     {
       "i": 15,
-      "s": "-"
+      "s": "="
     }
   ],
   "insights": {
     "g1": [
-      "Geopolitical instability from the Iran conflict drives oil price volatility and necessitates risk management in investment strategies.",
-      "Pockets of strong corporate performance (e.g., Hiab, Dynavox) indicate resilience and growth opportunities in specific industrial sectors.",
-      "Rising energy costs due to global conflicts will impact operational expenses for businesses, requiring budgeting adjustments.",
-      "The increasing adoption of renewable energy, despite short-term challenges for some, signals a long-term shift in industrial landscapes.",
-      "Personal financial planning, including inheritance, remains crucial for securing wealth amidst broader economic uncertainties."
+      "Big tech (Alphabet) faces scrutiny on capex/margins; diversify investments beyond FAANG.",
+      "Emerging sectors like nuclear energy show strong growth potential for strategic investment.",
+      "Global trade shifts (China-US tariffs) can unlock new market access or supply chain efficiencies.",
+      "Consumer sentiment on health (salad issue) and climate (EU heat) impacts specific industries.",
+      "Watch for companies beating earnings (Huhtamaki) as indicators of resilient business models."
     ],
     "g2": [
-      "AI's rapid evolution, including 'cyberattack' capabilities, demands heightened cybersecurity awareness and ethical development practices.",
-      "New AI training platforms evolving into 'live coaching' create direct service opportunities for specialized AI integration and consulting.",
-      "Leverage tools like AI-powered speed readers or aim trainers to enhance personal productivity and master new digital skills efficiently.",
-      "The UK's focus on defense tech offers potential funding and market for innovative AI applications in security and intelligence.",
-      "Staying updated on AI advancements (e.g., Anthropic, Meta AI) is crucial for identifying early adopter advantages and market shifts."
+      "AI continues to evolve with new applications, from wearables to financial services; stay updated.",
+      "Understanding AI prompts (ChatGPT, Gemini) is crucial for efficient information extraction and content creation.",
+      "Neocloud startups represent innovation in infrastructure; explore these for scalable solutions.",
+      "Learn about bug bounty programs and FLOSS protection for cybersecurity and open-source contributions.",
+      "Develop skills in integrating cutting-edge tech (e.g., Bun's Zig Runtime) into business processes."
     ],
     "g3": [
-      "Portugal's growth in data center projects and new industrial zones signals expanding digital infrastructure, attracting tech-focused businesses.",
-      "Understanding EU sanctions and policy changes (e.g., Russia sanctions) is vital for cross-border trade and compliance within the bloc.",
-      "The declining demand for mortgage loans in Portugal could indicate opportunities in alternative real estate investments or related financial services.",
-      "Addressing local social needs, like co-payment for Alzheimer's medication, highlights areas for community-focused businesses or advocacy.",
-      "Portugal's recognition of electric car innovation positions it as a hub for green technology adoption and related service industries."
+      "Western Europe's heat issues could redirect summer tourism to alternative, cooler Portuguese regions or off-season.",
+      "Portugal's growing appeal (e.g., Irish interest) supports local services targeting expats and tourists.",
+      "Leverage government funding for school infrastructure; consider related service opportunities (e.g., tech, supplies).",
+      "Explore niches like Portuguese fragrance brands, tapping into local luxury goods markets and e-commerce.",
+      "Capitalize on local events (Zoomarine anniversary) and media (Portugal News podcast) for promotional synergies."
     ]
   },
-  "learning_task": "Dedicate 30 minutes to exploring current AI tools for automating content creation and marketing, envisioning how they could streamline solopreneur operations.",
-  "biz_opportunity": "Offer specialized AI-driven efficiency consulting for Portuguese solopreneurs, focusing on content automation and digital marketing, leveraging Portugal's growing tech infrastructure.",
-  "built_at": "2026-07-22T09:29:12.931336+00:00"
+  "learning_task": "Research how AI-powered market sentiment analysis tools can help identify investment opportunities or risks in a 30-minute session to guide your €35k goal.",
+  "biz_opportunity": "An AI-driven travel consultancy service for climate-conscious travelers, targeting those concerned about Western Europe's summer heat, is timely due to widespread climate anxiety and the rise of personalized AI tools.",
+  "built_at": "2026-07-23T09:27:00.617598+00:00"
 }

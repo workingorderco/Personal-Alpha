@@ -1,12 +1,12 @@
 {
-  "global_theme": "Global tech giants face economic headwinds and strategic re-evaluations, while Europe grapples with climate impacts and regional shifts, all impacting wealth prospects and investment decisions.",
-  "market_mood": "Cautiously Optimistic with Sectoral Divergence",
-  "risk_signal": "Economic Headwinds & Geopolitical Tensions",
-  "opportunity_signal": "AI Innovation, Nuclear Sector Growth & Trade Liberalization",
+  "global_theme": "A mix of geopolitical instability and economic resilience is evident, with significant tech advancements and local challenges shaping the EU and global wealth landscape.",
+  "market_mood": "Cautious Optimism",
+  "risk_signal": "Geopolitical escalation (Iran), Inflationary pressures, Wildfires in Portugal",
+  "opportunity_signal": "AI adoption, Digital infrastructure demand, Niche expat services in Portugal",
   "finance_sentiment": [
     {
       "i": 1,
-      "s": "-"
+      "s": "="
     },
     {
       "i": 2,
@@ -18,7 +18,7 @@
     },
     {
       "i": 4,
-      "s": "-"
+      "s": "+"
     },
     {
       "i": 5,
@@ -26,15 +26,15 @@
     },
     {
       "i": 6,
-      "s": "-"
+      "s": "="
     },
     {
       "i": 7,
-      "s": "+"
+      "s": "-"
     },
     {
       "i": 8,
-      "s": "-"
+      "s": "="
     },
     {
       "i": 9,
@@ -42,23 +42,23 @@
     },
     {
       "i": 10,
-      "s": "+"
+      "s": "-"
     },
     {
       "i": 11,
-      "s": "+"
+      "s": "-"
     },
     {
       "i": 12,
-      "s": "+"
+      "s": "="
     },
     {
       "i": 13,
-      "s": "-"
+      "s": "="
     },
     {
       "i": 14,
-      "s": "-"
+      "s": "="
     },
     {
       "i": 15,
@@ -67,28 +67,28 @@
   ],
   "insights": {
     "g1": [
-      "Big tech (Alphabet) faces scrutiny on capex/margins; diversify investments beyond FAANG.",
-      "Emerging sectors like nuclear energy show strong growth potential for strategic investment.",
-      "Global trade shifts (China-US tariffs) can unlock new market access or supply chain efficiencies.",
-      "Consumer sentiment on health (salad issue) and climate (EU heat) impacts specific industries.",
-      "Watch for companies beating earnings (Huhtamaki) as indicators of resilient business models."
+      "Geopolitical tensions and trade tariffs pose significant risks, potentially impacting global supply chains and economic stability for solopreneurs.",
+      "Corporate spending remains robust, evidenced by large government contracts, indicating ongoing demand in key enterprise tech sectors.",
+      "Easing inflationary pressures in some regions may stabilize operational costs and consumer spending, albeit slowly.",
+      "Treasury yields hovering at high levels suggest persistent financing costs, requiring careful capital management for growth.",
+      "Strong demand for digital infrastructure underscores the shift towards data-driven economies, creating opportunities for related services."
     ],
     "g2": [
-      "AI continues to evolve with new applications, from wearables to financial services; stay updated.",
-      "Understanding AI prompts (ChatGPT, Gemini) is crucial for efficient information extraction and content creation.",
-      "Neocloud startups represent innovation in infrastructure; explore these for scalable solutions.",
-      "Learn about bug bounty programs and FLOSS protection for cybersecurity and open-source contributions.",
-      "Develop skills in integrating cutting-edge tech (e.g., Bun's Zig Runtime) into business processes."
+      "The legal landscape for AI-generated content (e.g., music) is rapidly evolving, demanding vigilance regarding intellectual property and compliance.",
+      "New AI learning resources, like the Claude Cookbook, offer practical avenues to integrate advanced AI into daily business operations.",
+      "Challenges in accessing social media data highlight a gap for tools or services that can aggregate and analyze public information ethically.",
+      "AI guardrails potentially impeding cybersecurity research signal a need for balanced AI development that considers both safety and innovation.",
+      "High salaries offered by European tech startups indicate a strong market for skilled professionals, opening doors for high-value contract work."
     ],
     "g3": [
-      "Western Europe's heat issues could redirect summer tourism to alternative, cooler Portuguese regions or off-season.",
-      "Portugal's growing appeal (e.g., Irish interest) supports local services targeting expats and tourists.",
-      "Leverage government funding for school infrastructure; consider related service opportunities (e.g., tech, supplies).",
-      "Explore niches like Portuguese fragrance brands, tapping into local luxury goods markets and e-commerce.",
-      "Capitalize on local events (Zoomarine anniversary) and media (Portugal News podcast) for promotional synergies."
+      "Portugal's recurring wildfire risks highlight a local demand for disaster preparedness, climate tech, and environmental consulting services.",
+      "Rising fuel prices in Portugal directly impact operational costs for businesses, necessitating strategies for efficiency and localized supply chains.",
+      "The strong interest in energy-efficient properties among international buyers in Portugal presents a niche for sustainable living consultancy.",
+      "Demand for tax advice for US citizens moving to Portugal points to a lucrative market for specialized expat financial and relocation services.",
+      "Local policy changes, like Coimbra's traffic rules, suggest ongoing urban development, impacting logistics and local market accessibility for businesses."
     ]
   },
-  "learning_task": "Research how AI-powered market sentiment analysis tools can help identify investment opportunities or risks in a 30-minute session to guide your €35k goal.",
-  "biz_opportunity": "An AI-driven travel consultancy service for climate-conscious travelers, targeting those concerned about Western Europe's summer heat, is timely due to widespread climate anxiety and the rise of personalized AI tools.",
-  "built_at": "2026-07-23T09:27:00.617598+00:00"
+  "learning_task": "Spend 30 minutes exploring 'Claude Cookbook' examples to identify how AI can automate a specific repetitive task or generate initial content drafts for Alex's business.",
+  "biz_opportunity": "Develop a niche consulting service providing clear, AI-assisted content strategy and IP compliance guidance for creative professionals targeting the expat community in Portugal, leveraging evolving AI legal frameworks and local market needs.",
+  "built_at": "2026-07-24T09:23:40.704122+00:00"
 }

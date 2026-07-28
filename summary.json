@@ -1,20 +1,20 @@
 {
-  "global_theme": "Global markets navigate cautious optimism from de-escalation, but economic uncertainty, climate challenges, and rapid AI development remain key factors shaping wealth and EU stability.",
-  "market_mood": "Cautiously Optimistic with Underlying Volatility",
-  "risk_signal": "Geopolitical instability, climate change impacts (wildfires), Fed policy uncertainty, and potential AI misuse.",
-  "opportunity_signal": "Tech innovation (AI, chips), de-escalation of conflicts, European EV market growth, and specialized financial services.",
+  "global_theme": "Global tech markets, particularly AI, are experiencing significant volatility, while Europe faces environmental challenges, impacting investment sentiment but revealing pockets of resilience and local opportunities for wealth creation.",
+  "market_mood": "Risk-Off",
+  "risk_signal": "AI investment correction",
+  "opportunity_signal": "Niche market resilience",
   "finance_sentiment": [
     {
       "i": 1,
-      "s": "="
+      "s": "-"
     },
     {
       "i": 2,
-      "s": "+"
+      "s": "-"
     },
     {
       "i": 3,
-      "s": "="
+      "s": "+"
     },
     {
       "i": 4,
@@ -22,19 +22,19 @@
     },
     {
       "i": 5,
-      "s": "-"
+      "s": "="
     },
     {
       "i": 6,
-      "s": "+"
+      "s": "="
     },
     {
       "i": 7,
-      "s": "="
+      "s": "+"
     },
     {
       "i": 8,
-      "s": "="
+      "s": "-"
     },
     {
       "i": 9,
@@ -42,53 +42,53 @@
     },
     {
       "i": 10,
-      "s": "-"
-    },
-    {
-      "i": 11,
       "s": "="
     },
     {
+      "i": 11,
+      "s": "-"
+    },
+    {
       "i": 12,
-      "s": "+"
+      "s": "-"
     },
     {
       "i": 13,
-      "s": "-"
+      "s": "="
     },
     {
       "i": 14,
-      "s": "+"
+      "s": "="
     },
     {
       "i": 15,
-      "s": "-"
+      "s": "+"
     }
   ],
   "insights": {
     "g1": [
-      "Geopolitical de-escalation boosts markets, but oil price volatility persists alongside Fed uncertainty.",
-      "Inherited assets, even paid-off homes, can incur significant unexpected costs; research legal protections.",
-      "European wildfires highlight climate change's direct economic impact on agriculture and tourism.",
-      "Tech giants' AI memory and foundry partnerships signal growth areas for strategic investment analysis.",
-      "Economic indicators like UK retail sales offer insights into consumer resilience amidst global shifts."
+      "Global tech market volatility, especially in AI, demands a diversified and cautious investment strategy for solopreneurs.",
+      "Identify resilient sectors and companies, like those with strong H1 growth, for stable portfolio components.",
+      "Falling Portuguese debt yields could signal a more stable local economic environment, potentially impacting lending rates.",
+      "Luxury market results (LVMH) show mixed signals, indicating cautious consumer spending patterns despite some growth.",
+      "Consider rare earth minerals for long-term growth, as they underpin future tech and green energy initiatives."
     ],
     "g2": [
-      "AI's dual-use potential (weapons vs. defense) underscores the ethical imperative in development.",
-      "The surge in Chinese chipmakers and new AI model releases signal rapid tech innovation and market shifts.",
-      "Nvidia's alliance for open AI security addresses growing concerns after high-profile hacks like Hugging Face.",
-      "Understanding AI's memory and foundry partnerships is crucial for anticipating future computing trends.",
-      "Explore applying open AI models like Kimi-K3 to automate tasks and enhance service offerings."
+      "The AI market correction offers a prime opportunity to research and strategically adopt cost-effective AI tools.",
+      "Optimizing your physical workspace can boost productivity and convey credibility to potential clients and partners.",
+      "Stay informed on ethical AI challenges (e.g., deepfakes) to anticipate future service needs and regulatory shifts.",
+      "Monitor advancements in EV and smart home technology for potential integration into tech-focused service offerings.",
+      "Look into emerging tech spinouts (e.g., ETH Zurich's ZuriQ) for potential partnership or learning opportunities."
     ],
     "g3": [
-      "Portuguese banks show stable profits, indicating a resilient local financial sector for small businesses.",
-      "EU climate challenges like wildfires in France/Spain may impact Portugal's agriculture and tourism sector.",
-      "Local regulations on employee monitoring, like GPS tracking, are vital for solopreneurs hiring staff.",
-      "European policies favoring EVs could create niche opportunities for supporting related services in Portugal.",
-      "Discussions on fair council tax in the UK might signal future similar debates impacting property owners in the EU."
+      "Widespread wildfires in Portugal highlight a growing need for climate resilience solutions and disaster support services.",
+      "Lower Portuguese debt yields could translate to more favorable business loan conditions or investment opportunities.",
+      "The EU market's resilience against some global tech sell-offs suggests a strong regional client base for services.",
+      "Explore opportunities in supporting local communities with infrastructure or tech solutions related to environmental challenges.",
+      "Pay attention to local Portuguese news for specific regional economic signals and community needs that can inform your business strategy."
     ]
   },
-  "learning_task": "Dedicate 30 minutes to research current AI security best practices and open-source AI tools for small business content creation and data analysis.",
-  "biz_opportunity": "Offer 'Climate Resilience Consultancy' to small businesses in Portugal, helping them assess and mitigate risks from local climate impacts like wildfires, leveraging EU funding opportunities.",
-  "built_at": "2026-07-27T10:46:07.019277+00:00"
+  "learning_task": "Spend 30 minutes researching free or low-cost AI tools that can automate a recurring business task, enhancing efficiency and freeing up valuable time for growth.",
+  "biz_opportunity": "Offer specialized AI-powered workflow optimization services to Portuguese small businesses seeking efficiency gains amidst market volatility and local challenges.",
+  "built_at": "2026-07-28T09:38:17.287927+00:00"
 }

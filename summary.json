@@ -1,12 +1,12 @@
 {
-  "global_theme": "Global tech markets, particularly AI, are experiencing significant volatility, while Europe faces environmental challenges, impacting investment sentiment but revealing pockets of resilience and local opportunities for wealth creation.",
-  "market_mood": "Risk-Off",
-  "risk_signal": "AI investment correction",
-  "opportunity_signal": "Niche market resilience",
+  "global_theme": "AI market correction, ongoing geopolitical tensions, and persistent climate challenges are shaping a dynamic global economic landscape, with EU markets showing mixed signals amidst regional growth and headwinds.",
+  "market_mood": "Cautiously Optimistic / Mixed",
+  "risk_signal": "Geopolitical Instability / AI Volatility",
+  "opportunity_signal": "Targeted Growth / Digital Transformation",
   "finance_sentiment": [
     {
       "i": 1,
-      "s": "-"
+      "s": "="
     },
     {
       "i": 2,
@@ -22,11 +22,11 @@
     },
     {
       "i": 5,
-      "s": "="
+      "s": "+"
     },
     {
       "i": 6,
-      "s": "="
+      "s": "+"
     },
     {
       "i": 7,
@@ -34,7 +34,7 @@
     },
     {
       "i": 8,
-      "s": "-"
+      "s": "+"
     },
     {
       "i": 9,
@@ -46,15 +46,15 @@
     },
     {
       "i": 11,
-      "s": "-"
+      "s": "="
     },
     {
       "i": 12,
-      "s": "-"
+      "s": "="
     },
     {
       "i": 13,
-      "s": "="
+      "s": "-"
     },
     {
       "i": 14,
@@ -62,33 +62,33 @@
     },
     {
       "i": 15,
-      "s": "+"
+      "s": "-"
     }
   ],
   "insights": {
     "g1": [
-      "Global tech market volatility, especially in AI, demands a diversified and cautious investment strategy for solopreneurs.",
-      "Identify resilient sectors and companies, like those with strong H1 growth, for stable portfolio components.",
-      "Falling Portuguese debt yields could signal a more stable local economic environment, potentially impacting lending rates.",
-      "Luxury market results (LVMH) show mixed signals, indicating cautious consumer spending patterns despite some growth.",
-      "Consider rare earth minerals for long-term growth, as they underpin future tech and green energy initiatives."
+      "AI market correction suggests a healthier, more sustainable growth phase after initial hype.",
+      "Sector-specific growth, like automotive sensors and Permian energy, indicates targeted investment opportunities.",
+      "Geopolitical instability and drone strikes pose risks to global supply chains and economic stability.",
+      "Learning sector growth continues to offset headwinds in traditional media, showing resilience.",
+      "Estate planning, even for solopreneurs, becomes crucial as wealth accumulates to prevent family disputes."
     ],
     "g2": [
-      "The AI market correction offers a prime opportunity to research and strategically adopt cost-effective AI tools.",
-      "Optimizing your physical workspace can boost productivity and convey credibility to potential clients and partners.",
-      "Stay informed on ethical AI challenges (e.g., deepfakes) to anticipate future service needs and regulatory shifts.",
-      "Monitor advancements in EV and smart home technology for potential integration into tech-focused service offerings.",
-      "Look into emerging tech spinouts (e.g., ETH Zurich's ZuriQ) for potential partnership or learning opportunities."
+      "AI market cooling allows strategic focus on \"unsexy AI\" applications with real-world utility for solopreneurs.",
+      "Deeptech startups attracting significant VC funding indicate innovation in complex, foundational tech areas.",
+      "Understanding SQLite optimization enhances data management skills, crucial for building robust, scalable applications.",
+      "AI's potential in automotive design highlights its impact across various industries, requiring adaptable skills.",
+      "Developing skills in leveraging practical AI solutions, not just hype, will be key for solopreneur efficiency."
     ],
     "g3": [
-      "Widespread wildfires in Portugal highlight a growing need for climate resilience solutions and disaster support services.",
-      "Lower Portuguese debt yields could translate to more favorable business loan conditions or investment opportunities.",
-      "The EU market's resilience against some global tech sell-offs suggests a strong regional client base for services.",
-      "Explore opportunities in supporting local communities with infrastructure or tech solutions related to environmental challenges.",
-      "Pay attention to local Portuguese news for specific regional economic signals and community needs that can inform your business strategy."
+      "EU civil protection mechanisms highlight the need for robust disaster preparedness and inter-member state coordination.",
+      "Portuguese headlines focus on international conflicts, suggesting less direct local economic news for solopreneurs.",
+      "Investment in military AI signals growing defense tech spending in Europe, potentially impacting related sectors.",
+      "European markets are mixed, with banking performing well, indicating sector-specific resilience and opportunities.",
+      "The 'summer of heat, fires and storms' emphasizes climate impact on European infrastructure and daily life."
     ]
   },
-  "learning_task": "Spend 30 minutes researching free or low-cost AI tools that can automate a recurring business task, enhancing efficiency and freeing up valuable time for growth.",
-  "biz_opportunity": "Offer specialized AI-powered workflow optimization services to Portuguese small businesses seeking efficiency gains amidst market volatility and local challenges.",
-  "built_at": "2026-07-28T09:38:17.287927+00:00"
+  "learning_task": "Dedicate 30 minutes to research \"unsexy AI\" applications relevant to solopreneur services or content creation to find practical, implementable tools.",
+  "biz_opportunity": "Offer niche AI-powered content optimization and workflow automation services to small Portuguese businesses, leveraging the stable AI growth beyond initial hype.",
+  "built_at": "2026-07-29T09:40:52.360472+00:00"
 }

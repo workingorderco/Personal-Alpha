@@ -1,24 +1,24 @@
 {
-  "global_theme": "Geopolitical tensions in the Middle East and EU border challenges are escalating, while tech (especially AI and cloud) shows strong growth, providing both economic uncertainty and investment opportunities within the EU context for wealth creation.",
-  "market_mood": "Mixed, with tech strength against geopolitical and inflation risks.",
-  "risk_signal": "Geopolitical conflict, EU migrant crisis, Eurozone inflation, Social Security funding, AI bubble concerns.",
-  "opportunity_signal": "Strong cloud/AI growth, overseas investment, renewable energy tech, EV market expansion.",
+  "global_theme": "Geopolitical instability and climate change impacts are major forces shaping global economics, while AI presents both significant opportunities and ethical concerns for wealth creation.",
+  "market_mood": "Cautious & Volatile",
+  "risk_signal": "Geopolitical Escalation & Economic Volatility",
+  "opportunity_signal": "AI-driven Investments & Climate-Resilient Infrastructure",
   "finance_sentiment": [
     {
       "i": 1,
-      "s": "="
+      "s": "-"
     },
     {
       "i": 2,
-      "s": "+"
+      "s": "-"
     },
     {
       "i": 3,
-      "s": "="
+      "s": "-"
     },
     {
       "i": 4,
-      "s": "-"
+      "s": "="
     },
     {
       "i": 5,
@@ -34,11 +34,11 @@
     },
     {
       "i": 8,
-      "s": "+"
+      "s": "="
     },
     {
       "i": 9,
-      "s": "+"
+      "s": "-"
     },
     {
       "i": 10,
@@ -46,19 +46,19 @@
     },
     {
       "i": 11,
-      "s": "+"
+      "s": "="
     },
     {
       "i": 12,
-      "s": "+"
+      "s": "-"
     },
     {
       "i": 13,
-      "s": "+"
+      "s": "-"
     },
     {
       "i": 14,
-      "s": "+"
+      "s": "-"
     },
     {
       "i": 15,
@@ -67,28 +67,29 @@
   ],
   "insights": {
     "g1": [
-      "Tech stocks, particularly cloud providers, continue to drive market optimism despite broader economic uncertainties.",
-      "Geopolitical tensions (US-Iran, Middle East) are directly impacting global energy prices and market stability.",
-      "The weakening dollar and Social Security funding crisis signal potential shifts in global financial stability.",
-      "Investors are looking overseas to diversify portfolios, seeking alternatives to the 'Magnificent Seven' tech stocks.",
-      "Rising Eurozone inflation (2.9%) and tighter housing credit in Portugal will impact local purchasing power and investment."
+      "Global instability (Iran, Ukraine, Pacific) signals market volatility; diversify investments and maintain liquidity.",
+      "Property market issues suggest caution; explore alternative wealth-building avenues beyond traditional real estate.",
+      "Crude oil price swings and bank struggles highlight a fragile global economy; secure your financial base.",
+      "AI investment 'picks' indicate strong growth areas; research specific AI sub-sectors for potential entry.",
+      "Europe's race to protect infrastructure from extreme heat points to large-scale investment opportunities.",
+      "Bitcoin's 'bear flag' warns of potential downside; monitor crypto markets closely for entry or exit points."
     ],
     "g2": [
-      "AI is rapidly advancing, with Google leveraging it to fix Chrome bugs and new models like DeepSeek V4 emerging.",
-      "Larry Ellison's AI gamble highlights both the immense potential and the significant 'bubble' risks in the AI sector.",
-      "Consumer-level plug-in solar panels represent a growing trend for energy independence and efficiency at home.",
-      "Proficiency in cloud platforms (AWS) and AI applications remains a critical skill for solopreneurs and businesses.",
-      "Understanding AI's impact on software development and security (Anthropic) can inform skill acquisition strategies."
+      "AI's 'scheming' concerns emphasize the need for ethical AI integration and critical tool evaluation.",
+      "Learn about 'enshitification' trends in services like NAS to anticipate industry shifts and offer better value.",
+      "Leverage tech deals (Squarespace, Dell) to minimize operational costs for your solopreneur setup.",
+      "Explore theoretical computer science advancements for potential long-term tech solutions or inspirations.",
+      "Develop skills in AI-powered data analysis to extract actionable insights from market trends more efficiently."
     ],
     "g3": [
-      "The Ceuta migrant crisis emphasizes EU border challenges, potentially influencing policies directly affecting Portugal.",
-      "Rising Eurozone inflation and tightening Portuguese housing credit demand astute financial planning for local solopreneurs.",
-      "Portugal's energy resilience could be indirectly tested by climate issues across Europe, like Danube's nuclear plant shutdown.",
-      "AI's potential for efficiency and security risks (Anthropic report) is relevant for all businesses, including small ones in Portugal.",
-      "Growing EU focus on civil protection and environmental challenges suggests demand for related local services and expertise."
+      "Portugal's extreme heat warnings suggest a local market for climate adaptation products or services.",
+      "EU migration challenges (Ceuta) indicate a need for services addressing social integration or border solutions.",
+      "Wildfires in Europe highlight climate vulnerability; focus on remote-friendly or resilient local business models.",
+      "Solopreneurs in Portugal can offer digital services to help local businesses adapt to new climate realities.",
+      "Explore potential EU funding or local grants related to climate resilience or infrastructure upgrades in Portugal."
     ]
   },
-  "learning_task": "Dedicate 30 minutes to research 3 AI tools that can automate a routine administrative task or content creation process to boost efficiency.",
-  "biz_opportunity": "Offer specialized AI-driven efficiency consulting to small businesses in Portugal, automating tasks and content generation to help them combat rising operational costs and inflation.",
-  "built_at": "2026-07-31T09:48:29.681896+00:00"
+  "learning_task": "Spend 30 minutes researching and bookmarking 3 AI-powered marketing or productivity tools that could directly streamline your solopreneur business operations, evaluating their core features and pricing.",
+  "biz_opportunity": "Develop an AI-assisted service helping Portuguese small businesses adapt to climate change and extreme heat, leveraging EU resilience funding opportunities and local demand.",
+  "built_at": "2026-08-01T09:09:08.704904+00:00"
 }

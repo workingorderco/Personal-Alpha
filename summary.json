@@ -1,12 +1,12 @@
 {
-  "global_theme": "Geopolitical instability and climate change impacts are major forces shaping global economics, while AI presents both significant opportunities and ethical concerns for wealth creation.",
-  "market_mood": "Cautious & Volatile",
-  "risk_signal": "Geopolitical Escalation & Economic Volatility",
-  "opportunity_signal": "AI-driven Investments & Climate-Resilient Infrastructure",
+  "global_theme": "Geopolitical tensions and AI's pervasive growth frame a volatile global economic landscape, impacting wealth redistribution and highlighting regional challenges within the EU.",
+  "market_mood": "Cautiously Optimistic",
+  "risk_signal": "Geopolitical instability and potential AI market pullback",
+  "opportunity_signal": "AI adoption across industries and wealth migration trends",
   "finance_sentiment": [
     {
       "i": 1,
-      "s": "-"
+      "s": "="
     },
     {
       "i": 2,
@@ -22,7 +22,7 @@
     },
     {
       "i": 5,
-      "s": "-"
+      "s": "+"
     },
     {
       "i": 6,
@@ -30,35 +30,35 @@
     },
     {
       "i": 7,
-      "s": "-"
+      "s": "="
     },
     {
       "i": 8,
-      "s": "="
-    },
-    {
-      "i": 9,
-      "s": "-"
-    },
-    {
-      "i": 10,
       "s": "+"
     },
     {
-      "i": 11,
+      "i": 9,
       "s": "="
     },
     {
-      "i": 12,
+      "i": 10,
       "s": "-"
+    },
+    {
+      "i": 11,
+      "s": "-"
+    },
+    {
+      "i": 12,
+      "s": "+"
     },
     {
       "i": 13,
-      "s": "-"
+      "s": "+"
     },
     {
       "i": 14,
-      "s": "-"
+      "s": "+"
     },
     {
       "i": 15,
@@ -67,29 +67,28 @@
   ],
   "insights": {
     "g1": [
-      "Global instability (Iran, Ukraine, Pacific) signals market volatility; diversify investments and maintain liquidity.",
-      "Property market issues suggest caution; explore alternative wealth-building avenues beyond traditional real estate.",
-      "Crude oil price swings and bank struggles highlight a fragile global economy; secure your financial base.",
-      "AI investment 'picks' indicate strong growth areas; research specific AI sub-sectors for potential entry.",
-      "Europe's race to protect infrastructure from extreme heat points to large-scale investment opportunities.",
-      "Bitcoin's 'bear flag' warns of potential downside; monitor crypto markets closely for entry or exit points."
+      "Global wealth shifts (e.g., Miami) signal new high-value client hubs worth investigating.",
+      "Geopolitical de-escalation (Iran) can positively influence market stability, but vigilance is key.",
+      "China's proactive economic adjustments may offer pockets of growth amidst global uncertainty.",
+      "Be aware of analyst warnings about future AI market pullbacks; diversify income streams.",
+      "Labor disputes (WestJet) highlight supply chain vulnerabilities and economic friction points."
     ],
     "g2": [
-      "AI's 'scheming' concerns emphasize the need for ethical AI integration and critical tool evaluation.",
-      "Learn about 'enshitification' trends in services like NAS to anticipate industry shifts and offer better value.",
-      "Leverage tech deals (Squarespace, Dell) to minimize operational costs for your solopreneur setup.",
-      "Explore theoretical computer science advancements for potential long-term tech solutions or inspirations.",
-      "Develop skills in AI-powered data analysis to extract actionable insights from market trends more efficiently."
+      "AI's deep integration (Europe) means understanding its ethical and practical implications is critical.",
+      "Explore niche hardware (MI355X) for potential performance-per-dollar advantages in tech projects.",
+      "Deepen your AI and data literacy; these are universal skills for future business acceleration.",
+      "Stay updated on emerging web development debates (Tailwind CSS) to refine your tech stack decisions.",
+      "Practical engineering skills, even hobbies like cycloidal gearboxes, demonstrate problem-solving ability."
     ],
     "g3": [
-      "Portugal's extreme heat warnings suggest a local market for climate adaptation products or services.",
-      "EU migration challenges (Ceuta) indicate a need for services addressing social integration or border solutions.",
-      "Wildfires in Europe highlight climate vulnerability; focus on remote-friendly or resilient local business models.",
-      "Solopreneurs in Portugal can offer digital services to help local businesses adapt to new climate realities.",
-      "Explore potential EU funding or local grants related to climate resilience or infrastructure upgrades in Portugal."
+      "Portugal's local issues (corruption, wildfires) highlight a need for transparent and efficient solutions.",
+      "Leverage Lisbon's new cultural initiatives (artistic pavement) for local content creation or services.",
+      "Understand EU-level discussions (AI regulation, migration) as they shape Portugal's business environment.",
+      "Identify opportunities to support local businesses impacted by regional challenges like fires.",
+      "Portugal's position in Europe offers a base for serving EU clients, particularly in tech/digital services."
     ]
   },
-  "learning_task": "Spend 30 minutes researching and bookmarking 3 AI-powered marketing or productivity tools that could directly streamline your solopreneur business operations, evaluating their core features and pricing.",
-  "biz_opportunity": "Develop an AI-assisted service helping Portuguese small businesses adapt to climate change and extreme heat, leveraging EU resilience funding opportunities and local demand.",
-  "built_at": "2026-08-01T09:09:08.704904+00:00"
+  "learning_task": "Spend 30 minutes researching and comparing three AI-powered productivity tools, identifying which can most efficiently streamline your solopreneur operations to accelerate reaching your €35k goal.",
+  "biz_opportunity": "Offer AI-driven data intelligence and automation consulting services to small European businesses, leveraging the current AI boom to improve efficiency and decision-making before a projected market correction.",
+  "built_at": "2026-08-02T09:11:49.877827+00:00"
 }

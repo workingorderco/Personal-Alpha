@@ -1,28 +1,28 @@
 {
-  "global_theme": "The global economy presents a mixed picture of robust corporate profits in some sectors amid rising raw material costs and geopolitical instability, while tech innovation continues to rapidly advance across the EU.",
-  "market_mood": "Cautiously Volatile",
-  "risk_signal": "Inflationary pressures, geopolitical instability, worker financial strain, and supply chain disruptions.",
-  "opportunity_signal": "EV/HEV market growth, AI/robotics innovation, energy sector profits, and specialized tech investments.",
+  "global_theme": "The tech sector continues its significant rally, driven by AI innovation and major market movements, while geopolitical tensions and rising operational costs introduce economic headwinds and regional instability for Europe and beyond.",
+  "market_mood": "Mixed with Tech Enthusiasm",
+  "risk_signal": "Geopolitical instability and rising operational costs",
+  "opportunity_signal": "AI-driven tech innovation and specific fintech growth",
   "finance_sentiment": [
     {
       "i": 1,
-      "s": "="
+      "s": "+"
     },
     {
       "i": 2,
-      "s": "+"
+      "s": "-"
     },
     {
       "i": 3,
-      "s": "-"
+      "s": "="
     },
     {
       "i": 4,
-      "s": "+"
+      "s": "-"
     },
     {
       "i": 5,
-      "s": "-"
+      "s": "="
     },
     {
       "i": 6,
@@ -30,19 +30,19 @@
     },
     {
       "i": 7,
-      "s": "="
-    },
-    {
-      "i": 8,
-      "s": "+"
-    },
-    {
-      "i": 9,
       "s": "-"
     },
     {
-      "i": 10,
+      "i": 8,
       "s": "="
+    },
+    {
+      "i": 9,
+      "s": "="
+    },
+    {
+      "i": 10,
+      "s": "+"
     },
     {
       "i": 11,
@@ -54,7 +54,7 @@
     },
     {
       "i": 13,
-      "s": "="
+      "s": "+"
     },
     {
       "i": 14,
@@ -62,33 +62,33 @@
     },
     {
       "i": 15,
-      "s": "-"
+      "s": "+"
     }
   ],
   "insights": {
     "g1": [
-      "Global energy price volatility creates profit surges for some, but cost pressures for others; Alex should monitor sector-specific impacts.",
-      "Company performance can diverge sharply even in a strong market, highlighting the need for careful investment research and diversification.",
-      "'Quiet cracking' among workers underscores the importance of building robust personal financial resilience and multiple income streams.",
-      "Dollar stabilization signals cautious optimism, yet persistent geopolitical risks demand ongoing vigilance in financial planning.",
-      "Growth in specific niches like HEVs indicates shifting consumer demands, offering potential entry points for new ventures or services."
+      "Tech sector's strong rally offers investment and partnership potential, but individual stock volatility demands careful strategy.",
+      "Rising operational costs, like fuel, require robust financial planning and cost-control measures for your business.",
+      "Central bank dovish stances might signal continued accommodative environments, but stay alert to underlying price risks.",
+      "Diversified revenue streams are crucial for stable profit growth, as seen in Credem's positive H1 results.",
+      "Geopolitical developments, such as the Hormuz deal, can rapidly shift global commodity markets and impact business expenses."
     ],
     "g2": [
-      "AI development is a hotbed of activity, requiring solopreneurs to understand secure AI applications and ethical deployment principles.",
-      "European robotics startups are attracting significant funding, indicating a rapidly expanding sector for skill development and service provision.",
-      "Harnessing engineering for self-improvement can provide a strong competitive advantage in rapidly evolving tech-driven fields.",
-      "Emerging battery technologies point to future demand for specialized engineering and energy-focused skills for new market entrants.",
-      "Developing user-friendly, secure AI solutions is a key opportunity, emphasizing privacy and robust data management capabilities."
+      "AI is changing physical environments and business processes, highlighting the need to understand its practical applications.",
+      "New AI notetakers signal a trend towards automating routine tasks, freeing valuable time for strategic work.",
+      "Developing skills in AI integration and workflow optimization can significantly boost your solopreneur efficiency and service offerings.",
+      "Fintech unicorns like Revolut and Moss demonstrate massive growth potential, indicating areas for innovation or adoption.",
+      "Understanding cybersecurity threats, especially with AI models, is crucial for protecting your digital business assets."
     ],
     "g3": [
-      "Portugal's rental market shows significant regional disparity, informing strategic location choices for local solopreneur ventures.",
-      "Engagement in global events like the World Cup 2030 bid could stimulate local Portuguese economies, creating new service demands.",
-      "The EU's new biometric border system may impact tourism and travel-related services, requiring adaptive business models.",
-      "Increased scrutiny on 'waste colonialism' suggests opportunities for green businesses or sustainability consulting in Portugal/EU.",
-      "Leveraging local Portuguese talent and community networks can be crucial for building successful, community-driven solopreneur businesses."
+      "EU support for Ukraine (asset interest) underscores regional stability and ethical investment considerations for Portugal.",
+      "Portugal's debt gaining 'life of its own' amid ECB changes requires careful monitoring of local economic policy.",
+      "Geopolitical events, like Kiev attacks, highlight the importance of staying informed for market sentiment and safety.",
+      "Solopreneurs can leverage strong EU tech growth trends by offering specialized services to businesses expanding within the region.",
+      "Understanding local regulatory environments and EU initiatives is key for identifying domestic market niches and compliance."
     ]
   },
-  "learning_task": "Spend 30 minutes researching Portuguese rental market trends to identify potential high-growth regions or niche service opportunities for solopreneurs, directly supporting your €35k income goal.",
-  "biz_opportunity": "Provide specialized market analysis and strategic planning services for local Portuguese businesses focusing on sustainable technologies or digital transformation, capitalizing on EU green initiatives and increasing tech adoption.",
-  "built_at": "2026-08-04T09:40:05.350934+00:00"
+  "learning_task": "Spend 30 minutes researching free AI tools for automating meeting notes and physical task management to free up time for core revenue-generating activities towards your €35k goal.",
+  "biz_opportunity": "An AI-driven workflow optimization consultancy targeting small to medium-sized businesses in Portugal, leveraging new AI notetakers and process automation tools to improve efficiency and reduce operational costs now, when tech adoption is accelerating.",
+  "built_at": "2026-08-05T09:38:36.890252+00:00"
 }

@@ -1,32 +1,32 @@
 {
-  "global_theme": "A complex global economic landscape is emerging, marked by geopolitical tensions and shifting trade dynamics, yet offset by some corporate resilience and cooling inflation, while the EU pursues tech independence and addresses labor concerns.",
-  "market_mood": "Mixed / Cautious Optimism",
-  "risk_signal": "Geopolitical instability, supply chain disruptions, regional climate impacts",
-  "opportunity_signal": "Tech innovation (AI, scaling), creator economy evolution, niche market services",
+  "global_theme": "Geopolitical tensions and persistent inflation concerns are driving market volatility, while AI continues to rapidly reshape industries from media to defense, prompting increased regulatory focus in the EU and globally.",
+  "market_mood": "Cautious Optimism / Volatile",
+  "risk_signal": "Geopolitical conflict escalation, persistent inflation, AI-powered cyber threats, economic fragility.",
+  "opportunity_signal": "Strategic defense/rare earth investments, AI development/application, specialized tech solutions, media adaptation.",
   "finance_sentiment": [
     {
       "i": 1,
-      "s": "-"
-    },
-    {
-      "i": 2,
-      "s": "-"
-    },
-    {
-      "i": 3,
-      "s": "="
-    },
-    {
-      "i": 4,
       "s": "+"
     },
     {
+      "i": 2,
+      "s": "="
+    },
+    {
+      "i": 3,
+      "s": "+"
+    },
+    {
+      "i": 4,
+      "s": "="
+    },
+    {
       "i": 5,
-      "s": "-"
+      "s": "+"
     },
     {
       "i": 6,
-      "s": "-"
+      "s": "="
     },
     {
       "i": 7,
@@ -34,11 +34,11 @@
     },
     {
       "i": 8,
-      "s": "-"
+      "s": "+"
     },
     {
       "i": 9,
-      "s": "-"
+      "s": "+"
     },
     {
       "i": 10,
@@ -54,41 +54,41 @@
     },
     {
       "i": 13,
-      "s": "+"
+      "s": "-"
     },
     {
       "i": 14,
-      "s": "="
+      "s": "-"
     },
     {
       "i": 15,
-      "s": "="
+      "s": "-"
     }
   ],
   "insights": {
     "g1": [
-      "Global geopolitical events (Yemen, Ukraine) continue to impact energy prices and supply chains.",
-      "US corporate earnings show resilience, but shifting German-China trade signals EU economic rebalancing.",
-      "China's cooling inflation offers a positive economic signal, easing global commodity price pressure.",
-      "Worker strikes and natural disasters can create localized economic disruptions and supply vulnerabilities.",
-      "Bitcoin's stability near highs suggests potential for sustained interest in digital assets."
+      "Geopolitical events significantly impact global markets, commodity prices, and your business costs.",
+      "US CPI and inflation data remain critical drivers for market stability and investment decisions.",
+      "Strategic investments in defense and rare earths indicate growth areas tied to national security.",
+      "Market 'cracks' despite S&P 500 rises signal underlying fragility, demanding careful risk assessment.",
+      "Berkshire Hathaway's targeted investment emphasizes deep sector knowledge as a competitive edge."
     ],
     "g2": [
-      "The rise of humanoids highlights a growing demand for compute power and specialized robotics skills.",
-      "Shopify's database migration shows the importance of scalable and efficient tech infrastructure for growth.",
-      "Explore X's 'Original Content Rewards' for insights into evolving creator economy monetization strategies.",
-      "Stay updated on OS-level data collection policies, like Illinois's, for privacy-centric tech development.",
-      "Investigate 'server as a phone' concepts for potential in edge computing and mobile-first services."
+      "AI rapidly reshapes media and defense, demanding solopreneurs adapt capabilities to remain relevant.",
+      "New AI tools (Claude Code auto mode, Docker Sandboxes) offer significant efficiency for digital projects.",
+      "The rise of AI-driven cyberattacks highlights urgent need for robust cybersecurity skills and services.",
+      "Increased AI regulation globally (Australia) means solopreneurs must consider ethical AI deployment.",
+      "Significant funding in UK tech startups shows potential for niche, innovative tech solutions."
     ],
     "g3": [
-      "Portugal's wildfire risks highlight a local market need for climate resilience and mitigation services.",
-      "EU labor issues, like DPD's, signal opportunities for solopreneurs offering fair gig economy compliance solutions.",
-      "Local news of crime and justice underscores the importance of trustworthy and secure business operations in Portugal.",
-      "EU's pursuit of a satellite constellation indicates growing investment in regional tech independence and infrastructure.",
-      "Solopreneurs in Portugal can leverage EU-wide trends for cross-border service offerings or specialized local niches."
+      "Portugal's tax authority has broad interpretative power, necessitating careful compliance for solopreneurs.",
+      "High Algarve real estate prices (€10k/sqm) reflect cost challenges but also potential for luxury services.",
+      "Local industry and science collaboration offer B2B opportunities for specialized services in Portugal.",
+      "European heatwaves and fire risks may create demand for climate resilience or related advisory services.",
+      "International reach for Portuguese companies (FBI mention) signals potential for global business expansion."
     ]
   },
-  "learning_task": "Spend 30 minutes researching free AI tools for competitive analysis in specific European service niches impacted by shifting trade or climate risks, to inform your €35k target.",
-  "biz_opportunity": "Launch a digital resilience consulting service for Portuguese tourism businesses, offering tech-enabled solutions for climate risk monitoring and operational optimization, capitalizing on current regional wildfire concerns and EU tech advancements.",
-  "built_at": "2026-08-09T07:55:42.747814+00:00"
+  "learning_task": "Spend 30 minutes researching how US CPI and EU inflation data directly influence consumer spending and business costs in Portugal, and how to track relevant economic indicators for your business.",
+  "biz_opportunity": "Offer an AI-powered cybersecurity consultancy for Portuguese SMEs, providing proactive threat detection and compliance solutions, as AI-driven attacks rise globally and local businesses lack expertise.",
+  "built_at": "2026-08-10T08:42:05.779364+00:00"
 }

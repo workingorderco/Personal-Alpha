@@ -1,538 +1,538 @@
 {
-  "built_at": "2026-08-12T08:21:06.574442+00:00",
+  "built_at": "2026-08-13T08:23:43.044701+00:00",
   "sections": {
     "Finance": [
       {
-        "title": "World's largest sovereign wealth fund posts record $184 billion profit as it reveals SpaceX stake for the first time",
+        "title": "Gulf Oil Giants Are Spending Billions to Build Ways Around Strait of Hormuz",
+        "source": "NYT > Business",
+        "published": "Thu, 13 Aug 2026 08:17:04 +0000",
+        "url": "https://www.nytimes.com/2026/08/12/business/iran-war-hormuz-oil.html",
+        "is_priority": false
+      },
+      {
+        "title": "Earnings call transcript: Talenom Q2 2026 shares fall as growth stays modest",
+        "source": "All News",
+        "published": "2026-08-13 08:11:18",
+        "url": "https://www.investing.com/news/transcripts/earnings-call-transcript-talenom-q2-2026-shares-fall-as-growth-stays-modest-93CH-4856819",
+        "is_priority": false
+      },
+      {
+        "title": "Lumo H1 2026 slides: Varma acquisition drives occupancy to 95%",
+        "source": "All News",
+        "published": "2026-08-13 08:11:05",
+        "url": "https://www.investing.com/news/company-news/lumo-h1-2026-slides-varma-acquisition-drives-occupancy-to-95-93CH-4856818",
+        "is_priority": false
+      },
+      {
+        "title": "Lumo H1 2026 slides: profit surges as occupancy climbs to 95%",
+        "source": "All News",
+        "published": "2026-08-13 08:10:52",
+        "url": "https://www.investing.com/news/company-news/lumo-h1-2026-slides-profit-surges-as-occupancy-climbs-to-95-93CH-4856817",
+        "is_priority": false
+      },
+      {
+        "title": "Earnings call transcript: Lenovo posts record Q1 2026 revenue, but EPS misses",
+        "source": "All News",
+        "published": "2026-08-13 08:08:24",
+        "url": "https://www.investing.com/news/transcripts/earnings-call-transcript-lenovo-posts-record-q1-2026-revenue-but-eps-misses-93CH-4856814",
+        "is_priority": false
+      },
+      {
+        "title": "Earnings call transcript: Global Fashion Group posts first profitable H1 in 2026",
+        "source": "All News",
+        "published": "2026-08-13 08:08:05",
+        "url": "https://www.investing.com/news/transcripts/earnings-call-transcript-global-fashion-group-posts-first-profitable-h1-in-2026-93CH-4856813",
+        "is_priority": false
+      },
+      {
+        "title": "Earnings call transcript: Mister Spex lifts profit in H1 2026 as sales fall",
+        "source": "All News",
+        "published": "2026-08-13 08:07:59",
+        "url": "https://www.investing.com/news/transcripts/earnings-call-transcript-mister-spex-lifts-profit-in-h1-2026-as-sales-fall-93CH-4856812",
+        "is_priority": false
+      },
+      {
+        "title": "Iran says Strait of Hormuz is under its control, Fars news reports",
+        "source": "All News",
+        "published": "2026-08-13 08:07:31",
+        "url": "https://www.investing.com/news/commodities-news/iran-says-strait-of-hormuz-is-under-its-control-fars-news-reports-4856811",
+        "is_priority": false
+      },
+      {
+        "title": "Analysis-Rate hike bets leave yen’s post-intervention gains at BOJ’s mercy",
+        "source": "All News",
+        "published": "2026-08-13 08:07:07",
+        "url": "https://www.investing.com/news/economy-news/analysisrate-hike-bets-leave-yens-postintervention-gains-at-bojs-mercy-4856810",
+        "is_priority": false
+      },
+      {
+        "title": "China’s Lenovo posts 43% jump in Q1 revenue, riding AI infrastructure boom",
+        "source": "All News",
+        "published": "2026-08-13 08:06:48",
+        "url": "https://www.investing.com/news/stock-market-news/chinas-lenovo-posts-43-jump-in-q1-revenue-4856574",
+        "is_priority": false
+      },
+      {
+        "title": "DAX stalls under all-time high with doji signal: Live levels",
+        "source": "All News",
+        "published": "2026-08-13 08:06:35",
+        "url": "https://www.investing.com/news/stock-market-news/dax-coils-below-ath-with-double-top-risk-live-levels-93CH-4847984",
+        "is_priority": false
+      },
+      {
+        "title": "Trucking Is Booming Again, And Drivers Aren't Happy About It",
+        "source": "Bloomberg Markets",
+        "published": "Thu, 13 Aug 2026 08:00:16 GMT",
+        "url": "https://www.bloomberg.com/news/articles/2026-08-13/trucking-is-booming-again-and-drivers-aren-t-happy-about-it",
+        "is_priority": false
+      },
+      {
+        "title": "Odd Lots: Trucking Is Booming But Drivers Aren’t Happy (Podcast)",
+        "source": "Bloomberg Markets",
+        "published": "Thu, 13 Aug 2026 08:00:00 GMT",
+        "url": "https://www.bloomberg.com/news/audio/2026-08-13/odd-lots-trucking-is-booming-but-drivers-aren-t-happy-podcast",
+        "is_priority": false
+      },
+      {
+        "title": "Maersk shares jump 7% after shipping giant smashes profit estimates and hikes outlook",
         "source": "US Top News and Analysis",
-        "published": "Wed, 12 Aug 2026 08:13:24 GMT",
-        "url": "https://www.cnbc.com/2026/08/12/norway-sovereign-wealth-fund-spacex-nvidia-apple-nbim.html",
+        "published": "Thu, 13 Aug 2026 07:56:00 GMT",
+        "url": "https://www.cnbc.com/2026/08/13/maersk-earnings-shipping-hormuz-red-sea.html",
         "is_priority": false
       },
       {
-        "title": "IEA Sees Wider Oil Supply Deficit Despite Hit to Demand From War",
-        "source": "Bloomberg Markets",
-        "published": "Wed, 12 Aug 2026 08:00:02 GMT",
-        "url": "https://www.bloomberg.com/news/articles/2026-08-12/iea-sees-wider-oil-supply-deficit-despite-hit-to-demand-from-war",
-        "is_priority": false
-      },
-      {
-        "title": "thyssenkrupp nucera Q3 2025/26 slides: CA strength, gH2 pivot",
-        "source": "All News",
-        "published": "2026-08-12 07:59:26",
-        "url": "https://www.investing.com/news/company-news/thyssenkrupp-nucera-q3-202526-slides-ca-strength-gh2-pivot-93CH-4853849",
-        "is_priority": false
-      },
-      {
-        "title": "Why is Envipco stock tumbling today?",
-        "source": "All News",
-        "published": "2026-08-12 07:59:05",
-        "url": "https://www.investing.com/news/stock-market-news/why-is-envipco-stock-tumbling-today-93CH-4853848",
-        "is_priority": false
-      },
-      {
-        "title": "Deutsche Bank upgrades Entegris stock rating on WFE cycle outlook",
-        "source": "All News",
-        "published": "2026-08-12 07:58:52",
-        "url": "https://www.investing.com/news/analyst-ratings/deutsche-bank-upgrades-entegris-stock-rating-on-wfe-cycle-outlook-93CH-4853847",
-        "is_priority": false
-      },
-      {
-        "title": "Deutsche Bank cuts Atai stock rating on Lilly acquisition terms",
-        "source": "All News",
-        "published": "2026-08-12 07:58:48",
-        "url": "https://www.investing.com/news/analyst-ratings/deutsche-bank-cuts-atai-stock-rating-on-lilly-acquisition-terms-93CH-4853846",
-        "is_priority": false
-      },
-      {
-        "title": "ABN Amro shares jump 6.2% to record high as Q2 profit beats forecast",
-        "source": "All News",
-        "published": "2026-08-12 07:56:46",
-        "url": "https://www.investing.com/news/earnings/abn-amro-q2-profit-beats-highest-forecast-as-fee-income-jumps-4853669",
-        "is_priority": false
-      },
-      {
-        "title": "Why is Migros stock sliding today?",
-        "source": "All News",
-        "published": "2026-08-12 07:55:28",
-        "url": "https://www.investing.com/news/stock-market-news/why-is-migros-stock-sliding-today-93CH-4853845",
-        "is_priority": false
-      },
-      {
-        "title": "ABN Amro lifts annual guidance as central bank rates drive growth",
-        "source": "All News",
-        "published": "2026-08-12 07:54:49",
-        "url": "https://www.investing.com/news/economy-news/dutch-bank-abn-amro-ups-annual-guidance-after-secondquarter-beat-4853672",
-        "is_priority": false
-      },
-      {
-        "title": "Berenberg downgrades Novo Nordisk stock rating on obesity pill competition",
-        "source": "All News",
-        "published": "2026-08-12 07:52:58",
-        "url": "https://www.investing.com/news/analyst-ratings/berenberg-downgrades-novo-nordisk-stock-rating-on-obesity-pill-competition-93CH-4853843",
-        "is_priority": false
-      },
-      {
-        "title": "European stocks edge lower as oil’s six-day surge and U.S. inflation loom",
-        "source": "All News",
-        "published": "2026-08-12 07:52:32",
-        "url": "https://www.investing.com/news/stock-market-news/european-stocks-edge-lower-as-oils-sixday-surge-and-us-inflation-loom-4853687",
-        "is_priority": false
-      },
-      {
-        "title": "Why is Douglas stock falling today?",
-        "source": "All News",
-        "published": "2026-08-12 07:52:16",
-        "url": "https://www.investing.com/news/stock-market-news/why-is-douglas-stock-falling-today-93CH-4853842",
-        "is_priority": false
-      },
-      {
-        "title": "Machinery Maker DMG Mori Seeks $300 Million in Japan Share Sale",
-        "source": "Bloomberg Markets",
-        "published": "Wed, 12 Aug 2026 07:45:11 GMT",
-        "url": "https://www.bloomberg.com/news/articles/2026-08-12/machinery-maker-dmg-mori-seeks-300-million-in-japan-share-sale",
-        "is_priority": false
-      },
-      {
-        "title": "US Yields Will Go Much Higher Next Year: 3-Minutes MLIV",
-        "source": "Bloomberg Markets",
-        "published": "Wed, 12 Aug 2026 07:44:48 GMT",
-        "url": "https://www.bloomberg.com/news/videos/2026-08-12/us-yields-will-go-much-higher-next-year-3-minutes-mliv-video",
-        "is_priority": false
-      },
-      {
-        "title": "Sen. Darline Graham advances to Republican special primary runoff in South Carolina",
+        "title": "In pictures: Europe sees best solar eclipse since 1999",
         "source": "US Top News and Analysis",
-        "published": "Wed, 12 Aug 2026 07:40:42 GMT",
-        "url": "https://www.cnbc.com/2026/08/11/primary-election-wisconsin-minnesota-south-carolina-democrats-hong-flanagan-craig.html",
+        "published": "Thu, 13 Aug 2026 07:51:26 GMT",
+        "url": "https://www.cnbc.com/2026/08/13/europe-solar-eclipse-iceland-spain.html",
         "is_priority": false
       }
     ],
     "World News": [
       {
-        "title": "Pyongyang tests another missile within one week and ahead of US-South Korean military drills",
-        "source": "News | Euronews RSS",
-        "published": "Wed, 12 Aug 2026 10:14:42 +0200",
-        "url": "http://www.euronews.com/2026/08/12/pyongyang-tests-another-missile-within-one-week-and-ahead-of-us-south-korean-military-dril",
+        "title": "Russian Blockade of Major Ukrainian Ports Threatens Global Grain Supplies",
+        "source": "NYT > World News",
+        "published": "Thu, 13 Aug 2026 08:18:06 +0000",
+        "url": "https://www.nytimes.com/2026/08/13/world/europe/russia-ukraine-ports-odesa-cargo-ship-attacks.html",
         "is_priority": false
       },
       {
-        "title": "Australia politics live: Joyce claims One Nation ‘one of the gayest parties’ in country; Japan’s ambassador to Australia downplays Albanese’s melon comments",
-        "source": "World news | The Guardian",
-        "published": "Wed, 12 Aug 2026 08:03:25 GMT",
-        "url": "https://www.theguardian.com/australia-news/live/2026/aug/12/australia-politics-live-question-time-anthony-albanese-angus-taylor-coalition-andrew-bragg-housing-construction-immigration-one-nation-pauline-hanson-gambling-melon-gift-japan-ndis-ntwnfb",
+        "title": "Japan PM says Putin's visit to disputed islands 'absolutely unacceptable'",
+        "source": "BBC News",
+        "published": "Thu, 13 Aug 2026 08:13:55 GMT",
+        "url": "https://www.bbc.co.uk/news/articles/cqx7ple0nxxo?at_medium=RSS&at_campaign=rss",
         "is_priority": false
       },
       {
-        "title": "Oil prices climb as Iran talks hit new impasse; Tui hit by high fuel costs – business live",
+        "title": "More troops to be sent to West Bank village besieged by Israeli settlers",
+        "source": "BBC News",
+        "published": "Thu, 13 Aug 2026 08:12:53 GMT",
+        "url": "https://www.bbc.co.uk/news/articles/cj4kppdk2qwo?at_medium=RSS&at_campaign=rss",
+        "is_priority": false
+      },
+      {
+        "title": "Australia v Bangladesh: first men’s Test, day one – live reaction",
         "source": "The Guardian",
-        "published": "Wed, 12 Aug 2026 08:01:06 GMT",
-        "url": "https://www.theguardian.com/business/live/2026/aug/12/oil-prices-brent-crude-iran-trump-fuel-inflation-tui-travel-business-live",
+        "published": "Thu, 13 Aug 2026 08:11:28 GMT",
+        "url": "https://www.theguardian.com/sport/live/2026/aug/13/australia-v-bangladesh-first-mens-test-day-one-live",
         "is_priority": false
       },
       {
-        "title": "Millions of US tax dollars sent to rightwing European thinktanks. Did any Trump supporters vote for that? | Arwa Mahdawi",
-        "source": "The Guardian",
-        "published": "Wed, 12 Aug 2026 08:00:23 GMT",
-        "url": "https://www.theguardian.com/commentisfree/2026/aug/12/us-tax-dollars-rightwing-europe-thinktanks-donald-trump-maga",
-        "is_priority": false
-      },
-      {
-        "title": "How Nigel Farage Ended Up Running Against Count Binface in Clacton",
-        "source": "NYT > World News",
-        "published": "Wed, 12 Aug 2026 07:59:50 +0000",
-        "url": "https://www.nytimes.com/2026/08/12/world/europe/count-binface-nigel-farage-clacton.html",
-        "is_priority": false
-      },
-      {
-        "title": "Taiwan’s Foxconn reports 35 percent rise in profit on AI demand",
+        "title": "Swiatek sinks Svitolina to set up Rybakina title clash in Toronto",
         "source": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
-        "published": "Wed, 12 Aug 2026 07:58:04 +0000",
-        "url": "https://www.aljazeera.com/economy/2026/8/12/taiwans-foxconn-reports-35-percent-rise-in-profit-on-ai-demand?traffic_source=rss",
+        "published": "Thu, 13 Aug 2026 08:06:51 +0000",
+        "url": "https://www.aljazeera.com/sports/2026/8/13/swiatek-sinks-svitolina-to-set-up-rybakina-title-clash-in-toronto?traffic_source=rss",
         "is_priority": false
       },
       {
-        "title": "Andrew Bragg stands by proposed migration limits – even as Liberal colleagues decline to back him in",
+        "title": "Europe heatwave live: Temperatures of 40C expected in Spain, with amber heat health warning in place across large parts of UK",
         "source": "World news | The Guardian",
-        "published": "Wed, 12 Aug 2026 07:55:26 GMT",
-        "url": "https://www.theguardian.com/australia-news/2026/aug/12/andrew-bragg-stands-by-proposed-migration-limits-even-as-liberal-colleagues-decline-to-back-him-in",
+        "published": "Thu, 13 Aug 2026 08:06:03 GMT",
+        "url": "https://www.theguardian.com/environment/live/2026/aug/13/europe-heatwave-france-spain-italy-uk-degrees-temperature-record-summer-drought-latest-news-updates",
         "is_priority": false
       },
       {
-        "title": "Three killed in overnight attacks on Russian, Ukrainian port cities",
-        "source": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
-        "published": "Wed, 12 Aug 2026 07:49:22 +0000",
-        "url": "https://www.aljazeera.com/news/2026/8/12/three-killed-in-overnight-attacks-on-russian-ukrainian-port?traffic_source=rss",
-        "is_priority": false
-      },
-      {
-        "title": "In Bali, a Quest to Restore the Sacred Glow of Fireflies",
-        "source": "NYT > World News",
-        "published": "Wed, 12 Aug 2026 07:35:12 +0000",
-        "url": "https://www.nytimes.com/2026/08/12/world/asia/bali-restore-fireflies.html",
-        "is_priority": false
-      },
-      {
-        "title": "Trump says his decoy plane faced ‘greater risk’ in secret flight change",
-        "source": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
-        "published": "Wed, 12 Aug 2026 07:31:15 +0000",
-        "url": "https://www.aljazeera.com/news/2026/8/12/trump-says-his-decoy-plane-faced-greater-risk-in-secret-flight-change?traffic_source=rss",
-        "is_priority": false
-      },
-      {
-        "title": "Bondi shooting hero Ahmed al-Ahmed has assault charges dropped",
-        "source": "World news | The Guardian",
-        "published": "Wed, 12 Aug 2026 07:31:11 GMT",
-        "url": "https://www.theguardian.com/australia-news/2026/aug/12/bondi-shooting-hero-ahmed-al-ahmed-assault-charges-dropped-ntwnfb",
-        "is_priority": false
-      },
-      {
-        "title": "Israeli government accused of complicity as settlers demolish Jericho homes",
-        "source": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
-        "published": "Wed, 12 Aug 2026 07:28:48 +0000",
-        "url": "https://www.aljazeera.com/news/2026/8/12/israeli-government-accused-of-complicity-as-settlers-demolish-jericho-homes?traffic_source=rss",
-        "is_priority": false
-      },
-      {
-        "title": "Autism and war: Gaza families grapple with destruction and loss",
-        "source": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
-        "published": "Wed, 12 Aug 2026 07:27:42 +0000",
-        "url": "https://www.aljazeera.com/features/2026/8/12/autism-and-war-gaza-families-grapple-with-destruction-and-loss?traffic_source=rss",
-        "is_priority": false
-      },
-      {
-        "title": "Ex-Marine Robert Gilman, Freed by Russia After 4 Years in Prison, Arrives in the U.S.",
-        "source": "NYT > World News",
-        "published": "Wed, 12 Aug 2026 07:18:15 +0000",
-        "url": "https://www.nytimes.com/2026/08/11/world/europe/russia-robert-gilman-release.html",
-        "is_priority": false
-      },
-      {
-        "title": "Moment Cali hospital collapses after powerful Colombia earthquake",
+        "title": "Soaring stingray numbers off California beaches drive record injuries",
         "source": "News | Euronews RSS",
-        "published": "Wed, 12 Aug 2026 09:18:13 +0200",
-        "url": "http://www.euronews.com/video/2026/08/12/moment-cali-hospital-collapses-after-powerful-colombia-earthquake",
+        "published": "Thu, 13 Aug 2026 10:04:53 +0200",
+        "url": "http://www.euronews.com/video/2026/08/13/soaring-stingray-numbers-off-california-beaches-drive-record-injuries",
+        "is_priority": false
+      },
+      {
+        "title": "What to Know About Today’s U.K. Special Election: Farage vs. Binface",
+        "source": "NYT > World News",
+        "published": "Thu, 13 Aug 2026 08:04:24 +0000",
+        "url": "https://www.nytimes.com/2026/08/13/world/europe/farage-binface-uk-byelection-clacton.html",
+        "is_priority": false
+      },
+      {
+        "title": "The End of Tom Six review – Human Centipede director delivers one last freaky flick",
+        "source": "The Guardian",
+        "published": "Thu, 13 Aug 2026 08:00:52 GMT",
+        "url": "https://www.theguardian.com/film/2026/aug/13/the-end-of-tom-six-review-human-centipede-director",
+        "is_priority": false
+      },
+      {
+        "title": "Reformers associate may have ‘boasted’ or ‘lied’ about a $15,000 commitment from Angus Taylor, Icac hears",
+        "source": "World news | The Guardian",
+        "published": "Thu, 13 Aug 2026 08:00:43 GMT",
+        "url": "https://www.theguardian.com/australia-news/2026/aug/13/icac-corruption-inquiry-operation-rosny-reformers-nsw-liberals-catholic-schools-ntwnfb",
+        "is_priority": false
+      },
+      {
+        "title": "US defence secretary says drug cartels will be ‘targeted like ISIS’",
+        "source": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
+        "published": "Thu, 13 Aug 2026 07:58:31 +0000",
+        "url": "https://www.aljazeera.com/video/newsfeed/2026/8/13/us-defence-secretary-says-drug-cartels-will-be-targeted-like?traffic_source=rss",
+        "is_priority": false
+      },
+      {
+        "title": "‘Everything is on the line’: students shun calls to stay in school and join anti-Hanson protests across Australia",
+        "source": "World news | The Guardian",
+        "published": "Thu, 13 Aug 2026 07:52:01 GMT",
+        "url": "https://www.theguardian.com/australia-news/2026/aug/13/australia-student-rally-anti-hanson-protests-sydney-brisbane-melbourne-ntwnfb",
+        "is_priority": false
+      },
+      {
+        "title": "Timelapse of partial solar eclipse seen from Royal Observatory Greenwich",
+        "source": "News | Euronews RSS",
+        "published": "Thu, 13 Aug 2026 09:47:42 +0200",
+        "url": "http://www.euronews.com/video/2026/08/13/timelapse-of-partial-solar-eclipse-seen-from-royal-observatory-greenwich",
+        "is_priority": false
+      },
+      {
+        "title": "Albanese hints at deal on gambling and says ‘absolutely false’ that sports betting is country’s major gambling addiction – as it happened",
+        "source": "World news | The Guardian",
+        "published": "Thu, 13 Aug 2026 07:41:23 GMT",
+        "url": "https://www.theguardian.com/australia-news/live/2026/aug/13/australia-politics-live-news-bargaining-meta-tiktok-housing-migration-question-time-anthony-albanese-angus-taylor-pauline-hanson-labor-coalition-one-nation-ntwnfb",
+        "is_priority": false
+      },
+      {
+        "title": "Malawi shock Algeria and Cameroon beat Morocco to reach WAFCON final",
+        "source": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
+        "published": "Thu, 13 Aug 2026 07:41:12 +0000",
+        "url": "https://www.aljazeera.com/sports/2026/8/13/malawi-shock-algeria-and-cameroon-beat-morocco-to-reach-wafcon-final?traffic_source=rss",
         "is_priority": false
       }
     ],
     "Tech": [
       {
-        "title": "Launch HN: Discovered Materials (YC P26) – AI agents to discover new materials",
-        "source": "Hacker News: Front Page",
-        "published": "Wed, 12 Aug 2026 07:51:20 +0000",
-        "url": "https://discoveredmaterials.com/research/",
+        "title": "Taiwan says it was hit by ‘abnormal’ AI-assisted cyber-attack",
+        "source": "Technology | The Guardian",
+        "published": "Thu, 13 Aug 2026 05:02:28 GMT",
+        "url": "https://www.theguardian.com/technology/2026/aug/13/taiwan-ai-assisted-cyber-attacks-overseas",
         "is_priority": false
       },
       {
-        "title": "Infrastructure and compute: Enterprises are buying AI compute for speed while flying blind on what it costs",
-        "source": "VentureBeat",
-        "published": "Wed, 12 Aug 2026 07:30:00 GMT",
-        "url": "https://venturebeat.com/resources/infrastructure-and-compute-enterprises-are-buying-ai-compute-for-speed-while-flying-blind-on-what-it-costs",
-        "is_priority": false
-      },
-      {
-        "title": "Agentic security: Enterprises enforce agent permissions two-thirds of the time — and isolate high-risk agents less than one in five",
-        "source": "VentureBeat",
-        "published": "Wed, 12 Aug 2026 07:30:00 GMT",
-        "url": "https://venturebeat.com/resources/agentic-security-enterprises-enforce-agent-permissions-two-thirds-of-the-time-and-isolate-high-risk-agents-less-than-one-in-five",
-        "is_priority": false
-      },
-      {
-        "title": "Agentic reliability and evaluations : Enterprises that got burned by a bad eval are the most likely to remove humans from the loop, not the least",
-        "source": "VentureBeat",
-        "published": "Wed, 12 Aug 2026 07:30:00 GMT",
-        "url": "https://venturebeat.com/resources/agentic-reliability-and-evaluations-enterprises-that-got-burned-by-a-bad-eval-are-the-most-likely-to-remove-humans-from-the-loop-not-the-least",
-        "is_priority": false
-      },
-      {
-        "title": "Agent context layers: Enterprises governing their AI data are catching twice as many bad answers as the ones who aren't",
-        "source": "VentureBeat",
-        "published": "Wed, 12 Aug 2026 07:30:00 GMT",
-        "url": "https://venturebeat.com/resources/agent-context-layers-enterprises-governing-their-ai-data-are-catching-twice-as-many-bad-answers-as-the-ones-who-arent",
-        "is_priority": false
-      },
-      {
-        "title": "Agentic orchestration: Enterprise AI organizations know how to govern agents but still can't meter what they cost",
-        "source": "VentureBeat",
-        "published": "Wed, 12 Aug 2026 07:30:00 GMT",
-        "url": "https://venturebeat.com/resources/agentic-orchestration-enterprise-ai-organizations-know-how-to-govern-agents-but-still-cant-meter-what-they-cost",
-        "is_priority": false
-      },
-      {
-        "title": "Large-scale study finds no link between crime and unauthorized immigration",
-        "source": "Hacker News: Front Page",
-        "published": "Wed, 12 Aug 2026 07:11:04 +0000",
-        "url": "https://phys.org/news/2026-08-large-scale-link-crime-unauthorized.html",
-        "is_priority": false
-      },
-      {
-        "title": "LinkedIn CringeBot 3000",
-        "source": "Hacker News: Front Page",
-        "published": "Wed, 12 Aug 2026 06:30:49 +0000",
-        "url": "https://www.cringebot3000.com/",
-        "is_priority": false
-      },
-      {
-        "title": "Ex-LocalGlobe trio plots new VC firm",
+        "title": "The under the radar venture lab building deeptechs to save the planet",
         "source": "Sifted",
-        "published": "Wed, 12 Aug 2026 05:00:46 GMT",
-        "url": "https://sifted.eu/articles/ex-localglobe-new-vc-firm/",
+        "published": "Thu, 13 Aug 2026 05:00:45 GMT",
+        "url": "https://sifted.eu/articles/the-under-the-radar-venture-lab-building-deeptechs-to-save-the-planet/",
         "is_priority": false
       },
       {
-        "title": "16 energy startups to watch in Europe, according to investors",
+        "title": "Inside Multiverse Computing, the Spanish startup vying to be Europe's next AI champion",
         "source": "Sifted",
-        "published": "Wed, 12 Aug 2026 05:00:23 GMT",
-        "url": "https://sifted.eu/articles/energy-startups-to-watch-in-europe-according-to-investors/",
+        "published": "Thu, 13 Aug 2026 05:00:22 GMT",
+        "url": "https://sifted.eu/articles/multiverse-computing-europe-ai-champion/",
         "is_priority": false
       },
       {
-        "title": "OnePlus Promo Codes: 30% Off August 2026",
+        "title": "Priceline Promo Codes & Coupons: 10% Off August 2026",
         "source": "WIRED",
-        "published": "Wed, 12 Aug 2026 05:00:00 +0000",
-        "url": "https://www.wired.com/story/oneplus-promo-code/",
+        "published": "Thu, 13 Aug 2026 05:00:00 +0000",
+        "url": "https://www.wired.com/story/priceline-promo-code/",
         "is_priority": false
       },
       {
-        "title": "Chegg Coupon Codes August 2026: Save on Study, Textbooks, & More",
+        "title": "Naturepedic Promo Codes: Get 20% Off Plus Free Pillows",
         "source": "WIRED",
-        "published": "Wed, 12 Aug 2026 05:00:00 +0000",
-        "url": "https://www.wired.com/story/chegg-coupon-code/",
+        "published": "Thu, 13 Aug 2026 05:00:00 +0000",
+        "url": "https://www.wired.com/story/naturepedic-promo-code/",
         "is_priority": false
       },
       {
-        "title": "Paramount+ Coupon Codes and Deals for August 2026",
+        "title": "Bose Promo Code: 40% Off for August 2026",
         "source": "WIRED",
-        "published": "Wed, 12 Aug 2026 05:00:00 +0000",
-        "url": "https://www.wired.com/story/paramount-plus-coupon-code/",
+        "published": "Thu, 13 Aug 2026 05:00:00 +0000",
+        "url": "https://www.wired.com/story/bose-coupon-code/",
         "is_priority": false
       },
       {
-        "title": "Walmart Promo Codes: Up to 65% Off for August 2026",
+        "title": "Jabra Promo Codes: 30% Off Headphones, Headsets & More",
         "source": "WIRED",
-        "published": "Wed, 12 Aug 2026 05:00:00 +0000",
-        "url": "https://www.wired.com/story/top-walmart-promo-codes/",
+        "published": "Thu, 13 Aug 2026 05:00:00 +0000",
+        "url": "https://www.wired.com/story/jabra-promo-codes-coupons/",
         "is_priority": false
       },
       {
-        "title": "20% Off Brooks Promo Code | August 2026",
+        "title": "Herman Miller Promo Codes: 40% Off August 2026",
         "source": "WIRED",
-        "published": "Wed, 12 Aug 2026 05:00:00 +0000",
-        "url": "https://www.wired.com/story/brooks-promo-code/",
+        "published": "Thu, 13 Aug 2026 05:00:00 +0000",
+        "url": "https://www.wired.com/story/herman-miller-promo-code/",
+        "is_priority": false
+      },
+      {
+        "title": "Braun Promo Codes: 15% Off August",
+        "source": "WIRED",
+        "published": "Thu, 13 Aug 2026 05:00:00 +0000",
+        "url": "https://www.wired.com/story/braun-promo-code/",
+        "is_priority": false
+      },
+      {
+        "title": "Alo Discount Code: 20% Off August 2026",
+        "source": "WIRED",
+        "published": "Thu, 13 Aug 2026 05:00:00 +0000",
+        "url": "https://www.wired.com/story/alo-yoga-discount-code/",
+        "is_priority": false
+      },
+      {
+        "title": "Factor Promo Code: 50% Off Off Meal Prep",
+        "source": "WIRED",
+        "published": "Thu, 13 Aug 2026 05:00:00 +0000",
+        "url": "https://www.wired.com/story/factor-promo-code/",
+        "is_priority": false
+      },
+      {
+        "title": "Castlery Promo Codes: 15% Off for August 2026",
+        "source": "WIRED",
+        "published": "Thu, 13 Aug 2026 05:00:00 +0000",
+        "url": "https://www.wired.com/story/castlery-promo-code/",
+        "is_priority": false
+      },
+      {
+        "title": "HostGator Coupon Codes: 76% Off Hosting in August 2026",
+        "source": "WIRED",
+        "published": "Thu, 13 Aug 2026 05:00:00 +0000",
+        "url": "https://www.wired.com/story/hostgator-coupon/",
+        "is_priority": false
+      },
+      {
+        "title": "Visible Promo Codes and Coupons for August 2026",
+        "source": "WIRED",
+        "published": "Thu, 13 Aug 2026 05:00:00 +0000",
+        "url": "https://www.wired.com/story/visible-promo-code/",
+        "is_priority": false
+      },
+      {
+        "title": "Shark Promo Codes for August 2026",
+        "source": "WIRED",
+        "published": "Thu, 13 Aug 2026 05:00:00 +0000",
+        "url": "https://www.wired.com/story/shark-promo-code/",
         "is_priority": false
       }
     ],
     "Automotive/Motorcycle": [
       {
-        "title": "Bentley Maps Out Monterey Car Week With New Stazione Remota Hideout",
-        "source": "Motor1.com - News",
-        "published": "Wed, 12 Aug 2026 08:00:00 +0000",
-        "url": "https://www.motor1.com/news/804590/bentley-monterey-car-week-events/",
-        "is_priority": false
-      },
-      {
-        "title": "EVgo And GM's Gas Station-Like Flagship Charging Network Is Growing Fast",
+        "title": "GM And LG Restart EV Battery Production In Ohio After Seven-Month Shutdown",
         "source": "InsideEVs - Articles",
-        "published": "Wed, 12 Aug 2026 07:45:32 +0000",
-        "url": "https://insideevs.com/news/804596/evgo-gm-flagship-ev-charging-stations-update/",
+        "published": "Thu, 13 Aug 2026 08:02:36 +0000",
+        "url": "https://insideevs.com/news/804775/gm-lg-ultium-cells-production-restart-ohio/",
         "is_priority": false
       },
       {
-        "title": "National Motor Museum hunts new home after 60 years at Beaulieu",
-        "source": "Autocar RSS Feed",
-        "published": "Wed, 12 Aug 2026 08:43:04 +0100",
-        "url": "https://www.autocar.co.uk/car-news/new-cars/national-motor-museum-hunts-new-home-after-60-years-beaulieu",
+        "title": "Leaked Patent Images Expose Lamborghini Revuelto SV’s Aggressive Aero",
+        "source": "Motor1.com - News",
+        "published": "Thu, 13 Aug 2026 08:00:00 +0000",
+        "url": "https://www.motor1.com/news/804770/lamborghini-revuelto-sv-patent-leak/",
         "is_priority": false
       },
       {
-        "title": "Supercars, Triple Eight own up to “significant” error that has made Brown slower",
+        "title": "Why Cadillac has decided to act now and replace Lowdon with Budkowski",
         "source": "Autosport.com - All - Stories",
-        "published": "Wed, 12 Aug 2026 07:24:00 +0000",
-        "url": "https://www.autosport.com/supercars/news/supercars-triple-eight-own-up-to-significant-error-that-has-made-brown-slower/10845861/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-ALL&utm_term=News&utm_content=uk",
+        "published": "Thu, 13 Aug 2026 07:20:10 +0000",
+        "url": "https://www.autosport.com/f1/news/why-cadillac-has-decided-to-act-now-and-replace-lowdon-with-budkowski/10846037/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-ALL&utm_term=News&utm_content=uk",
         "is_priority": false
       },
       {
-        "title": "LeBron James’ Personalized Mercedes-Maybach S 680 Headlines Pebble Beach Lineup",
+        "title": "Chevrolet 99% Sales Collapse Ends China Retail Push",
         "source": "Motor1.com - News",
-        "published": "Wed, 12 Aug 2026 06:30:00 +0000",
-        "url": "https://www.motor1.com/news/804573/mercedes-benz-turns-pebble-beach/",
+        "published": "Thu, 13 Aug 2026 07:15:00 +0000",
+        "url": "https://www.motor1.com/news/804761/chevrolet-exits-china-gm-turns/",
         "is_priority": false
       },
       {
-        "title": "Jaguar Type 01 Interior Revealed: No Rear Window, No Rear-View Mirror, And ‘Hidden’ Tech",
-        "source": "InsideEVs - Articles",
-        "published": "Wed, 12 Aug 2026 06:25:47 +0000",
-        "url": "https://insideevs.com/news/804578/jaguar-type-01-ev-interior-reveal/",
-        "is_priority": false
-      },
-      {
-        "title": "Aston Martin's cars are the best yet - why aren't its finances?",
+        "title": "British firm WEVC to build car and van at new factory in Qatar",
         "source": "Autocar RSS Feed",
-        "published": "Wed, 12 Aug 2026 07:00:00 +0100",
-        "url": "https://www.autocar.co.uk/opinion/business-corporate/aston-martins-cars-are-best-yet-why-arent-its-finances",
+        "published": "Thu, 13 Aug 2026 08:00:00 +0100",
+        "url": "https://www.autocar.co.uk/car-news/electric-cars/british-firm-wevc-build-car-and-van-new-factory-qatar",
         "is_priority": false
       },
       {
-        "title": "Hydrogen JCB Hydromax Rockets To 406.320 MPH World Record",
+        "title": "Why factory robots can't completely replace humans",
+        "source": "Autocar RSS Feed",
+        "published": "Thu, 13 Aug 2026 08:00:00 +0100",
+        "url": "https://www.autocar.co.uk/car-news/technology/why-factory-robots-cant-completely-replace-humans",
+        "is_priority": false
+      },
+      {
+        "title": "Louis Vuitton And Singer Built Two Insanely Exclusive Porsche 911s",
         "source": "Motor1.com - News",
-        "published": "Wed, 12 Aug 2026 05:50:00 +0000",
-        "url": "https://www.motor1.com/news/804569/jcb-hydromax-hydrogen-speed-record/",
+        "published": "Thu, 13 Aug 2026 06:15:00 +0000",
+        "url": "https://www.motor1.com/news/804750/louis-vuitton-singer-unveil-two/",
         "is_priority": false
       },
       {
-        "title": "Gerry McGovern exclusive: Ex-JLR designer plans return to cars",
+        "title": "Audi Built The Nuvolari Prototype In Just 405 Days",
+        "source": "Motor1.com - News",
+        "published": "Thu, 13 Aug 2026 05:46:01 +0000",
+        "url": "https://www.motor1.com/news/804748/audi-nuvolari-405-day-hybrid/",
+        "is_priority": false
+      },
+      {
+        "title": "Mercedes-AMG priming \"insane\" new AMG GT Black Series",
         "source": "Autocar RSS Feed",
-        "published": "Wed, 12 Aug 2026 06:00:00 +0100",
-        "url": "https://www.autocar.co.uk/car-news/podcasts/gerry-mcgovern-exclusive-ex-jlr-designer-plans-return-cars",
+        "published": "Thu, 13 Aug 2026 06:00:00 +0100",
+        "url": "https://www.autocar.co.uk/car-news/new-cars/mercedes-amg-priming-insane-new-amg-gt-black-series",
         "is_priority": false
       },
       {
-        "title": "Android Auto And Android Automotive Sound Alike, But The Differences Run Deep",
-        "source": "Jalopnik - Obsessed with the culture of cars",
-        "published": "Wed, 12 Aug 2026 02:25:00 +0000",
-        "url": "https://www.jalopnik.com/2234377/differences-between-android-auto-automotive/",
+        "title": "The best estate cars 2026 – driven, rated and ranked",
+        "source": "Autocar RSS Feed",
+        "published": "Thu, 13 Aug 2026 06:00:00 +0100",
+        "url": "https://www.autocar.co.uk/car-news/best-cars/best-estate-cars",
         "is_priority": false
       },
       {
-        "title": "Kia EV3 prices and range revealed, starting at $30,000",
+        "title": "Trump is right: EV range anxiety is a disease – THIS is how we cure it!",
         "source": "Electrek",
-        "published": "Wed, 12 Aug 2026 01:04:07 +0000",
-        "url": "https://electrek.co/2026/08/11/kia-ev3-prices-range-revealed-starting-30000/",
+        "published": "Wed, 12 Aug 2026 23:31:17 +0000",
+        "url": "https://electrek.co/2026/08/12/trump-is-right-ev-range-anxiety-is-a-disease-this-is-how-we-cure-it/",
         "is_priority": false
       },
       {
-        "title": "Take a Peek Inside the Production Jaguar Type 01",
-        "source": "Latest Content - Car and Driver",
-        "published": "Tue, 11 Aug 2026 23:01:00 +0000",
-        "url": "https://www.caranddriver.com/news/a73405047/jaguar-01-interior-revealed/",
+        "title": "Changing Engine Oil: How Often Is Too Often?",
+        "source": "Jalopnik - Obsessed with the culture of cars",
+        "published": "Wed, 12 Aug 2026 23:25:00 +0000",
+        "url": "https://www.jalopnik.com/2235325/how-often-should-you-change-engine-oil/",
         "is_priority": false
       },
       {
-        "title": "Aion UT: Chinese EV to rival Volkswagen ID 3 from under £30k",
-        "source": "Autocar RSS Feed",
-        "published": "Wed, 12 Aug 2026 00:01:00 +0100",
-        "url": "https://www.autocar.co.uk/car-news/electric-cars/aion-ut-chinese-ev-rival-volkswagen-id-3-under-%C2%A330k",
+        "title": "Global EV sales rose in July – except in North America",
+        "source": "Electrek",
+        "published": "Wed, 12 Aug 2026 23:01:00 +0000",
+        "url": "https://electrek.co/2026/08/12/global-ev-sales-are-rising-except-in-north-america/",
         "is_priority": false
       },
       {
-        "title": "Jaguar's next-gen interior stays true to 'copy nothing' promise",
-        "source": "Autocar RSS Feed",
-        "published": "Wed, 12 Aug 2026 00:01:00 +0100",
-        "url": "https://www.autocar.co.uk/opinion/electric-cars/jaguars-next-gen-interior-stays-true-copy-nothing-promise",
+        "title": "Study: DC Fast Charging Satisfaction Is Up, And Ionna Takes The Top Spot",
+        "source": "InsideEVs - Articles",
+        "published": "Wed, 12 Aug 2026 22:10:56 +0000",
+        "url": "https://insideevs.com/news/804743/ev-charging-satifsfaction-2026-jdpower/",
         "is_priority": false
       },
       {
-        "title": "Jaguar Type 01 interior revealed - luxury GT majors on \"hidden\" tech",
-        "source": "Autocar RSS Feed",
-        "published": "Wed, 12 Aug 2026 00:01:00 +0100",
-        "url": "https://www.autocar.co.uk/car-news/electric-cars/jaguar-type-01-interior-revealed-luxury-gt-majors-hidden-tech",
+        "title": "Here's A Mechanic's Take On The Subaru Trailseeker",
+        "source": "InsideEVs - Articles",
+        "published": "Wed, 12 Aug 2026 20:30:00 +0000",
+        "url": "https://insideevs.com/news/804734/subaru-trailseeker-mechanic-walkthrough/",
         "is_priority": false
       }
     ],
     "Portugal": [
       {
-        "title": "Espanha espera 460 mil turistas estrangeiros para ver o eclipse",
-        "source": "dn",
-        "published": "Wed, 12 Aug 2026 08:17:17 +0000",
-        "url": "http://dinheirovivo.dn.pt/espanha-espera-460-mil-turistas-estrangeiros-para-ver-o-eclipse",
-        "is_priority": true
-      },
-      {
-        "title": "Afinal onde fica o berço de Portugal?",
+        "title": "Nuno Melo e as fragatas: um negócio que meteu água?",
         "source": "Observador - Últimas",
-        "published": "Wed, 12 Aug 2026 09:10:00 +0100",
-        "url": "https://observador.pt/programas/momentos-de-glria/afinal-onde-fica-o-berco-de-portugal/",
+        "published": "Thu, 13 Aug 2026 09:19:33 +0100",
+        "url": "https://observador.pt/programas/e-o-vencedor-e/nuno-melo-e-as-fragatas-um-negocio-que-meteu-agua/",
         "is_priority": true
       },
       {
-        "title": "Após meses de atritos, Flávio e Michelle Bolsonaro aparecem juntos em vídeo de campanha",
-        "source": "dn",
-        "published": "Wed, 12 Aug 2026 08:05:49 +0000",
-        "url": "https://www.dn.pt/internacional/aps-meses-de-atritos-flvio-e-michelle-bolsonaro-aparecem-juntos-em-vdeo-de-campanha",
+        "title": "António Figueiredo: \"É evidente que o Benfica precisa de mais um central\"",
+        "source": "Correio da Manhã",
+        "published": "Thu, 13 Aug 2026 09:19:00 +0100",
+        "url": "https://www.cmjornal.pt/cmtv/programas/futebol/liga-douro/detalhe/antonio-figueiredo-e-evidente-que-o-benfica-precisa-de-mais-um-central",
         "is_priority": true
       },
       {
-        "title": "Empresas de turismo com dificuldade em encontrar candidatos já contratam todo o ano",
-        "source": "dn",
-        "published": "Wed, 12 Aug 2026 08:03:40 +0000",
-        "url": "http://dinheirovivo.dn.pt/empresas/empresas-de-turismo-com-dificuldade-em-encontrar-candidatos-j-contratam-todo-o-ano",
-        "is_priority": true
-      },
-      {
-        "title": "Sobe para 254 o número de mortes no sismo",
+        "title": "As notícias das 9h",
         "source": "Observador - Últimas",
-        "published": "Wed, 12 Aug 2026 09:02:37 +0100",
-        "url": "https://observador.pt/2026/08/12/sismo-numero-de-mortes-sobe-para-254-mortos-operacoes-de-resgaste-continuam/",
+        "published": "Thu, 13 Aug 2026 09:17:58 +0100",
+        "url": "https://observador.pt/programas/noticiario/as-noticias-das-9h-2439/",
         "is_priority": true
       },
       {
-        "title": "Bom para o turismo? \"Há reservas para dois, três dias\"",
-        "source": "Observador - Últimas",
-        "published": "Wed, 12 Aug 2026 09:01:28 +0100",
-        "url": "https://observador.pt/programas/resposta-pronta/eclipse-bom-para-o-turismo-ha-reservas-para-dois-tres-dias/",
+        "title": "Vítor Pinto: \"Não concebo que Rui estivesse à espera do final de mercado para contratar um central\"",
+        "source": "Correio da Manhã",
+        "published": "Thu, 13 Aug 2026 09:16:54 +0100",
+        "url": "https://www.cmjornal.pt/cmtv/programas/futebol/liga-douro/detalhe/vitor-pinto-nao-concebo-que-rui-estivesse-a-espera-do-final-de-mercado-para-contratar-um-central",
         "is_priority": true
       },
       {
-        "title": "Homem, jovem e com literacia financeira. É assim o investidor cripto português",
+        "title": "A melhor tecnologia não corrige maus processos",
         "source": "Jornal de Negocios",
-        "published": "Wed, 12 Aug 2026 09:00:00 +0100",
-        "url": "https://www.jornaldenegocios.pt/mercados/criptoativos/detalhe/homem-jovem-e-com-literacia-financeira-e-assim-o-investidor-cripto-portugues",
+        "published": "Thu, 13 Aug 2026 09:15:00 +0100",
+        "url": "https://www.jornaldenegocios.pt/opiniao/detalhe/a-melhor-tecnologia-nao-corrige-maus-processos",
         "is_priority": true
       },
       {
-        "title": "Mercado de trabalho do turismo está a mudar? Setor já recruta ao longo todo o ano",
+        "title": "Investidores da Anthropic apostam em avaliação de 2 biliões de dólares em IPO recorde",
+        "source": "Jornal de Negocios",
+        "published": "Thu, 13 Aug 2026 09:14:00 +0100",
+        "url": "https://www.jornaldenegocios.pt/mercados/bolsa/detalhe/investidores-da-anthropic-apostam-em-avaliacao-de-2-bilioes-de-dolares-em-ipo-recorde",
+        "is_priority": true
+      },
+      {
+        "title": "20 detidos em operação para desmantelar rede de tráfico que introduzia droga em estabelecimentos prisionais",
+        "source": "Correio da Manhã",
+        "published": "Thu, 13 Aug 2026 09:12:21 +0100",
+        "url": "https://www.cmjornal.pt/portugal/detalhe/20-detidos-em-operacao-para-desmantelar-rede-de-trafico-que-introduzia-droga-em-estabelecimentos-prisionais",
+        "is_priority": true
+      },
+      {
+        "title": "Croácia. Um dos portugueses encontrado sem vida",
+        "source": "Observador - Últimas",
+        "published": "Thu, 13 Aug 2026 09:12:14 +0100",
+        "url": "https://observador.pt/2026/08/13/encontrado-sem-vida-um-dos-portugueses-desaparecido-em-naufragio-na-croacia/",
+        "is_priority": true
+      },
+      {
+        "title": "Comunicar no eclipse: O ‘playbook’ de como não ficar no escuro",
         "source": "ECO",
-        "published": "Wed, 12 Aug 2026 07:56:28 +0000",
-        "url": "https://eco.sapo.pt/2026/08/12/o-mercado-de-trabalho-do-turismo-esta-a-mudar-setor-ja-recruta-ao-longo-todo-o-ano/",
+        "published": "Thu, 13 Aug 2026 08:10:45 +0000",
+        "url": "https://eco.sapo.pt/2026/08/13/comunicar-no-eclipse-o-playbook-de-como-nao-ficar-no-escuro/",
         "is_priority": true
       },
       {
-        "title": "Ataques ucranianos causam dois mortos e 12 feridos em Krasnodar",
-        "source": "dn",
-        "published": "Wed, 12 Aug 2026 07:47:53 +0000",
-        "url": "https://www.dn.pt/internacional/ataques-ucranianos-causam-dois-mortos-e-12-feridos-em-krasnodar",
-        "is_priority": true
-      },
-      {
-        "title": "Can Turkey's new PKK law bring peace?",
+        "title": "Russia: Why is the Yabloko party barred from the elections?",
         "source": "Deutsche Welle: DW.com - Europe",
-        "published": "2026-08-12T08:20:51.883628+00:00",
-        "url": "https://www.dw.com/en/can-turkey-s-new-pkk-law-bring-peace/a-78326063?maca=en-rss-en-eu-2092-rdf",
+        "published": "2026-08-13T08:23:24.885009+00:00",
+        "url": "https://www.dw.com/en/russia-why-is-the-yabloko-party-barred-from-the-elections/a-78341971?maca=en-rss-en-eu-2092-rdf",
         "is_priority": false
       },
       {
-        "title": "Hungary's parliament elects Orban critic as new president",
+        "title": "25 years Ohrid Agreement: Is N. Macedonia's peace holding?",
         "source": "Deutsche Welle: DW.com - Europe",
-        "published": "2026-08-12T08:20:51.883652+00:00",
-        "url": "https://www.dw.com/en/hungary-s-parliament-elects-orban-critic-as-new-president/a-78325589?maca=en-rss-en-eu-2092-rdf",
+        "published": "2026-08-13T08:23:24.885037+00:00",
+        "url": "https://www.dw.com/en/25-years-ohrid-agreement-is-n-macedonia-s-peace-holding/a-78340239?maca=en-rss-en-eu-2092-rdf",
         "is_priority": false
       },
       {
-        "title": "Bulgaria drone crash a wake-up call for country's defenses",
+        "title": "Mozart tribute ends on sour note after mass figurine theft",
         "source": "Deutsche Welle: DW.com - Europe",
-        "published": "2026-08-12T08:20:51.883660+00:00",
-        "url": "https://www.dw.com/en/bulgaria-drone-crash-a-wake-up-call-for-country-s-defenses/a-78320070?maca=en-rss-en-eu-2092-rdf",
+        "published": "2026-08-13T08:23:24.885051+00:00",
+        "url": "https://www.dw.com/en/mozart-tribute-ends-on-sour-note-after-mass-figurine-theft/a-78341647?maca=en-rss-en-eu-2092-rdf",
         "is_priority": false
       },
       {
-        "title": "Turkey MPs back historic law on reintegrating PKK militants",
+        "title": "Italy: Etna eruption in Sicily halts Catania flights",
         "source": "Deutsche Welle: DW.com - Europe",
-        "published": "2026-08-12T08:20:51.883669+00:00",
-        "url": "https://www.dw.com/en/turkey-mps-back-historic-law-on-reintegrating-pkk-militants/a-78313397?maca=en-rss-en-eu-2092-rdf",
+        "published": "2026-08-13T08:23:24.885064+00:00",
+        "url": "https://www.dw.com/en/italy-etna-eruption-in-sicily-halts-catania-flights/a-78338205?maca=en-rss-en-eu-2092-rdf",
         "is_priority": false
       },
       {
-        "title": "When extreme heat threatens Europe's nuclear power",
+        "title": "Short on US Patriot missiles, Ukraine looks for alternatives",
         "source": "Deutsche Welle: DW.com - Europe",
-        "published": "2026-08-12T08:20:51.883677+00:00",
-        "url": "https://www.dw.com/en/when-extreme-heat-threatens-europe-s-nuclear-power/a-78297778?maca=en-rss-en-eu-2092-rdf",
+        "published": "2026-08-13T08:23:24.885077+00:00",
+        "url": "https://www.dw.com/en/short-on-us-patriot-missiles-ukraine-looks-for-alternatives/a-78328784?maca=en-rss-en-eu-2092-rdf",
         "is_priority": false
       },
       {
-        "title": "Western Europe records hottest June and July on record",
+        "title": "EU waste packaging rules: Why small businesses are worried",
         "source": "Deutsche Welle: DW.com - Europe",
-        "published": "2026-08-12T08:20:51.883686+00:00",
-        "url": "https://www.dw.com/en/western-europe-records-hottest-june-and-july-on-record/a-78298751?maca=en-rss-en-eu-2092-rdf",
+        "published": "2026-08-13T08:23:24.885088+00:00",
+        "url": "https://www.dw.com/en/eu-waste-packaging-rules-why-small-businesses-are-worried/a-78326555?maca=en-rss-en-eu-2092-rdf",
         "is_priority": false
       }
     ]

@@ -1,8 +1,8 @@
 {
-  "global_theme": "Geopolitical tensions in key shipping lanes and a mixed global economic landscape, where AI and logistics demonstrate strong growth, present both challenges and new wealth creation avenues for the EU.",
-  "market_mood": "Cautiously Optimistic with AI and logistics driving growth.",
-  "risk_signal": "Geopolitical instability (Hormuz, Ukraine), supply chain disruptions, energy price volatility, and cyber threats.",
-  "opportunity_signal": "AI infrastructure boom, robust logistics/shipping demand, deeptech for planet, and efficiency-driven corporate growth.",
+  "global_theme": "Geopolitical tensions, climate change impacts, and advancements in AI are creating a volatile global economic landscape, affecting investment opportunities and wealth generation strategies, particularly within Europe.",
+  "market_mood": "Mixed/Cautious",
+  "risk_signal": "Climate disruption & geopolitical escalation",
+  "opportunity_signal": "Green tech & AI innovation",
   "finance_sentiment": [
     {
       "i": 1,
@@ -22,7 +22,7 @@
     },
     {
       "i": 5,
-      "s": "="
+      "s": "-"
     },
     {
       "i": 6,
@@ -34,7 +34,7 @@
     },
     {
       "i": 8,
-      "s": "="
+      "s": "-"
     },
     {
       "i": 9,
@@ -50,45 +50,45 @@
     },
     {
       "i": 12,
-      "s": "+"
+      "s": "-"
     },
     {
       "i": 13,
-      "s": "+"
+      "s": "="
     },
     {
       "i": 14,
-      "s": "+"
+      "s": "="
     },
     {
       "i": 15,
-      "s": "="
+      "s": "-"
     }
   ],
   "insights": {
     "g1": [
-      "Geopolitical tensions in key shipping lanes (Hormuz, Ukraine) signal potential supply chain disruptions and energy price volatility.",
-      "The global economy shows mixed corporate performance, with AI and shipping sectors outperforming, indicating where capital flows.",
-      "Companies investing heavily in long-term strategic infrastructure highlight foresight against geopolitical risks and for resilience.",
-      "Despite overall economic growth, profit margins can be tight or mixed, emphasizing efficiency and strategic cost management.",
-      "Global interest rate dynamics and stock market plateaus suggest caution and strategic timing for financial decisions."
+      "A historic El Niño is forecasted to cost trillions, impacting global supply chains and commodities.",
+      "US long-term borrowing costs are at 25-year highs, signaling potential inflation and tighter credit.",
+      "Geopolitical tensions (US-Iran) introduce significant market uncertainty and economic instability.",
+      "Strategic deals like SMR projects indicate growing investment in diverse energy solutions.",
+      "Transshipped goods causing $26 billion in lost tariffs highlight trade policy challenges."
     ],
     "g2": [
-      "AI infrastructure is a major growth area (Lenovo), signaling high demand for related skills, services, and niche solutions.",
-      "AI-assisted cyber-attacks underscore the critical need for robust cybersecurity knowledge and AI-driven defense mechanisms.",
-      "Deeptech ventures focused on planetary solutions (Sifted) represent emerging markets for innovation and impact investing.",
-      "European startups (Multiverse Computing, Spain) are vying for AI leadership, indicating localized tech opportunities and talent demand.",
-      "Developing proficiency in AI tools and understanding AI's ethical and security implications is increasingly vital for solopreneurs."
+      "New AI models like GLM-5.3 are developing emergent cyber capabilities, demanding vigilance.",
+      "P2P swarm computing (Lumabri) offers decentralized ways to run complex AI models effectively.",
+      "Universal RCE deserialization gadgets pose critical security vulnerabilities for software developers.",
+      "Increased tariffs on drones and aircraft parts could reshape manufacturing and tech supply chains.",
+      "Actively seeking out founder and VC meetups can accelerate networking for tech solopreneurs."
     ],
     "g3": [
-      "Portugal's local news focuses on internal political/crime issues, implying a stable environment for business, if not direct opportunities.",
-      "EU waste packaging rules may impact small businesses, requiring solopreneurs to stay updated on compliance and offering related services.",
-      "Strong European real estate occupancy (Lumo) and solar interest suggest potential for local property services or renewable energy consulting.",
-      "The need for better tech integration in local processes (Jornal de Negocios) highlights opportunities for tech-savvy Portuguese solopreneurs.",
-      "Global heatwaves emphasize a growing market for climate-resilient services or remote work solutions that are location-independent."
+      "Portugal's energy investment focus is shifting from production to critical infrastructure development.",
+      "Widespread wildfires across Europe underscore the urgent need for climate adaptation services.",
+      "Acquisition of UK property valuation providers signals potential for market consolidation in Europe.",
+      "Lending to property investors falling sharply in Australia suggests shifts relevant to EU housing markets.",
+      "Monitoring national policy changes, like NDIS overhaul debates, can reveal service gaps for solopreneurs."
     ]
   },
-  "learning_task": "Spend 30 minutes researching free AI tools for solopreneurs to analyze market trends or optimize business processes within the Portuguese market.",
-  "biz_opportunity": "Offer AI-enhanced strategic consulting for Portuguese solopreneurs and small businesses, capitalizing on the global AI boom and local demand for process optimization.",
-  "built_at": "2026-08-13T08:23:43.044701+00:00"
+  "learning_task": "Spend 30 minutes researching the specific agricultural commodities most vulnerable to El Niño effects in the Mediterranean region to anticipate potential market shifts.",
+  "biz_opportunity": "Offer specialized climate resilience and adaptation consulting to small-to-medium Portuguese agricultural businesses, leveraging the urgency of extreme weather events like El Niño.",
+  "built_at": "2026-08-14T08:18:39.857771+00:00"
 }

@@ -1,8 +1,8 @@
 {
-  "global_theme": "A global economic slowdown, primarily driven by China's deepening woes, coexists with regional stock surges and geopolitical tensions, impacting EU and global wealth.",
-  "market_mood": "Cautiously Bearish with Pockets of Growth",
-  "risk_signal": "China's economic contraction and geopolitical instability",
-  "opportunity_signal": "Tech innovation, selective stock growth, Portuguese exports",
+  "global_theme": "Escalating Middle East tensions, particularly the Iran war, are driving up oil prices and bond yields, causing global market instability while tech and finance adapt to new models and regulatory pressures.",
+  "market_mood": "Risk-Off / Cautious",
+  "risk_signal": "Geopolitical conflict, rising oil prices, surging bond yields",
+  "opportunity_signal": "Tech innovation (biometrics, AI), fintech ARR models, strategic business expansion",
   "finance_sentiment": [
     {
       "i": 1,
@@ -14,7 +14,7 @@
     },
     {
       "i": 3,
-      "s": "="
+      "s": "+"
     },
     {
       "i": 4,
@@ -30,15 +30,15 @@
     },
     {
       "i": 7,
-      "s": "="
+      "s": "-"
     },
     {
       "i": 8,
-      "s": "="
+      "s": "+"
     },
     {
       "i": 9,
-      "s": "-"
+      "s": "="
     },
     {
       "i": 10,
@@ -46,7 +46,7 @@
     },
     {
       "i": 11,
-      "s": "-"
+      "s": "="
     },
     {
       "i": 12,
@@ -54,41 +54,41 @@
     },
     {
       "i": 13,
-      "s": "+"
+      "s": "-"
     },
     {
       "i": 14,
-      "s": "+"
+      "s": "-"
     },
     {
       "i": 15,
-      "s": "-"
+      "s": "+"
     }
   ],
   "insights": {
     "g1": [
-      "China's deepening economic slowdown, reflected in July's data, signals potential global market volatility and commodity price impacts.",
-      "Shifting Fed rate expectations are influencing global currency and equity markets, requiring vigilance in investment and cash flow management.",
-      "Geopolitical tensions like those in the Strait of Hormuz could disrupt global supply chains, affecting business costs and consumer prices.",
-      "Despite broader challenges, specific companies like HIAG are showing strong profit growth, indicating selective investment opportunities exist.",
-      "Monitoring commodity trends, especially steel given China's output tumble, is crucial for anticipating supply chain and input cost changes."
+      "Geopolitical tensions in the Middle East are causing significant market volatility, impacting global oil prices.",
+      "Rising bond yields and oil prices are leading to drops in European and US stock futures, signalling caution.",
+      "While UK grocery inflation is slowing, global cost of living pressures remain due to geopolitical events.",
+      "Insider stock movements offer mixed signals, emphasizing the need for comprehensive market analysis.",
+      "Despite market downturns, strategic real estate and business expansions continue, indicating targeted growth."
     ],
     "g2": [
-      "Microsoft's AI chip shortage highlights a critical bottleneck in AI adoption, suggesting opportunities in optimization or alternative hardware solutions.",
-      "New open-source tools and platforms, such as Reticulum and Prolly, offer avenues for building efficient, decentralized software applications.",
-      "The issue of AI 'hallucinations' in reports underscores the ongoing need for human oversight and verification in AI-generated content workflows.",
-      "Exploring projects like AGI-64 for older hardware can reveal niche markets for software development and retro-computing innovations.",
-      "Understanding linear algebra fundamentals (Axler's book) is essential for anyone seriously pursuing advanced AI and machine learning skills."
+      "Fintech's embrace of Annual Recurring Revenue (ARR) models highlights the value of predictable income streams.",
+      "New biometric security tech like palm vein integration into smart locks shows evolving security needs.",
+      "Meta's $200bn trial underscores the critical importance of child data protection and ethical AI design.",
+      "The debate over non-compete rules could reshape talent mobility and foster innovation in the tech sector.",
+      "Studying current digital coupon and promo strategies provides insights into effective online sales tactics."
     ],
     "g3": [
-      "Portugal's economy shows resilience with strong export growth in Q2, indicating favorable conditions for export-oriented solopreneur ventures.",
-      "Europe faces significant climate challenges with widespread wildfires, potentially impacting regional tourism, logistics, and resource allocation.",
-      "Mota-Engil's mining business spin-off suggests dynamism in Portuguese industrial sectors, possibly creating new service or consulting demands.",
-      "The launch of new Eurostar competitors hints at growing cross-European travel, opening doors for related digital nomad or travel service businesses.",
-      "Post-holiday political agendas in Portugal will influence economic policy, potentially offering new grants or support programs for small businesses."
+      "Rising Brent oil prices directly increase energy costs for consumers and businesses across Portugal.",
+      "Portugal's stock market is showing resilience, partially buoyed by its energy sector, against European trends.",
+      "Public discussions on government spending ('nosso dinheiro') indicate ongoing fiscal transparency demands.",
+      "The Norway wealth fund's AI stock bubble warning is relevant for European investment strategies and caution.",
+      "The cost of living squeeze, intensified by global conflicts, continues to impact purchasing power in Portugal."
     ]
   },
-  "learning_task": "Spend 30 minutes researching the 'export sectors contributing to Portugal's Q2 economic growth' to identify specific product/service niches for Alex's €35k goal.",
-  "biz_opportunity": "Offer tailored market intelligence and digital strategy services to Portuguese SMEs targeting export markets, capitalizing on Portugal's resilient export growth right now.",
-  "built_at": "2026-08-17T07:59:47.471107+00:00"
+  "learning_task": "Spend 30 minutes researching the pros and cons of implementing an ARR (Annual Recurring Revenue) model for a solopreneur service to build predictable income.",
+  "biz_opportunity": "Offer a specialized digital security and data privacy consulting service for Portuguese SMEs, capitalizing on increasing regulatory pressures and the need for robust online protection.",
+  "built_at": "2026-08-18T07:41:05.225110+00:00"
 }

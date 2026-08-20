@@ -1,20 +1,20 @@
 {
-  "global_theme": "Persistent inflation and geopolitical tensions are impacting global markets, while rapid advancements and significant investment in AI and robotics present compelling growth opportunities, particularly relevant for EU businesses navigating economic shifts.",
-  "market_mood": "Cautiously optimistic, growth-focused",
-  "risk_signal": "Geopolitical instability and persistent inflation",
-  "opportunity_signal": "AI, robotics, and strategic market entry",
+  "global_theme": "Geopolitical instability and economic volatility dominate global headlines, while significant investment in AI infrastructure and robust e-commerce performance present crucial growth areas across a complex European landscape.",
+  "market_mood": "Cautiously Bearish",
+  "risk_signal": "Geopolitical Tensions & Emerging Market Bubbles",
+  "opportunity_signal": "AI Infrastructure & E-commerce Growth",
   "finance_sentiment": [
     {
       "i": 1,
-      "s": "+"
+      "s": "-"
     },
     {
       "i": 2,
-      "s": "+"
+      "s": "="
     },
     {
       "i": 3,
-      "s": "+"
+      "s": "-"
     },
     {
       "i": 4,
@@ -22,11 +22,11 @@
     },
     {
       "i": 5,
-      "s": "+"
+      "s": "="
     },
     {
       "i": 6,
-      "s": "-"
+      "s": "="
     },
     {
       "i": 7,
@@ -34,11 +34,11 @@
     },
     {
       "i": 8,
-      "s": "-"
+      "s": "="
     },
     {
       "i": 9,
-      "s": "+"
+      "s": "-"
     },
     {
       "i": 10,
@@ -46,11 +46,11 @@
     },
     {
       "i": 11,
-      "s": "+"
+      "s": "-"
     },
     {
       "i": 12,
-      "s": "+"
+      "s": "="
     },
     {
       "i": 13,
@@ -62,33 +62,33 @@
     },
     {
       "i": 15,
-      "s": "-"
+      "s": "="
     }
   ],
   "insights": {
     "g1": [
-      "Global inflation (Slovakia, UK) demands careful budgeting and pricing strategies for your services.",
-      "Geopolitical events like the Iran war drive up energy costs and create market uncertainty.",
-      "Robotics and AI sectors are attracting significant investment and showing explosive growth (Unitree IPO, Chery IPO).",
-      "Despite inflation, some market sectors like mining are rallying, indicating specific pockets of resilience.",
-      "Political instability (Ukraine, US tariffs) can create unforeseen economic shifts requiring adaptability."
+      "Global instability in regions like Ukraine demands agile financial planning and risk mitigation strategies.",
+      "Market volatility, seen in stock drops and AI bubble warnings, necessitates diversified investment approaches.",
+      "Robust e-commerce performance (Kid ASA's surge) highlights resilient consumer digital spending trends.",
+      "Sovereign fund observations on regional tensions signal persistent geopolitical risks impacting investments.",
+      "Company-specific challenges like margin compression underscore the need for thorough fundamental analysis."
     ],
     "g2": [
-      "The rapid rise of robot makers (Unitree, Chery) signals a massive market for automation solutions.",
-      "AI's influence on the stock market (Norway fund alarm) means understanding AI trends is crucial.",
-      "The Meta lawsuit highlights the growing scrutiny on tech addiction, impacting social media strategies.",
-      "Learning about European tech ecosystems (Sifted articles) can reveal partnership or growth avenues.",
-      "Familiarity with digital promotions (WIRED coupons) can inform marketing for your own services."
+      "AI infrastructure investment (Velatir's €5m) confirms a high-growth sector ripe for specialized skills.",
+      "Europe's need for its own frontier AI models creates opportunities for local AI development and consulting.",
+      "Staying current with AI trends, including ethical and climate applications, is vital for future relevance.",
+      "The prevalence of promo codes emphasizes the ongoing importance of digital marketing and conversion expertise.",
+      "Understanding user experience (Windows Rorschach) informs better product design and client solutions."
     ],
     "g3": [
-      "Portugal's social security challenges (pensions) indicate future economic pressures on citizens and businesses.",
-      "Investments in infrastructure like high-speed rail (Renfe) could open up regional business travel or logistics opportunities.",
-      "Wildfires and drought across Europe (Portugal, France, Belgium) highlight climate impacts and potential for green solutions.",
-      "Understanding local regulatory bodies (FCA Scaleup Unit) can help navigate business expansion in the EU.",
-      "The local stock market (Bolsa de Lisboa) movements reflect Portugal's economic pulse, influencing local purchasing power."
+      "Portugal's energy sector resilience (EDP gains) may offer stable niches for local service providers.",
+      "The EU's push for local AI models creates avenues for solopreneurs to offer bespoke AI solutions.",
+      "Community events like Festival Extramuralhas present local marketing and engagement opportunities.",
+      "Awareness of local challenges, like safety (GNR moto deaths), can inform niche public service offerings.",
+      "Solopreneurs can target European needs, like drought solutions in France, with digitally delivered services."
     ]
   },
-  "learning_task": "Spend 30 minutes researching how AI-powered content generation tools (e.g., for social media posts, blog ideas) can be applied to niche service offerings, focusing on efficiency and reach.",
-  "biz_opportunity": "AI-powered automation consulting for small businesses in Portugal, leveraging new robotics advancements to streamline operations and reduce costs.",
-  "built_at": "2026-08-19T07:41:17.849226+00:00"
+  "learning_task": "Spend 30 minutes researching free AI tools for competitive analysis, focusing on identifying emerging service gaps in Portugal's digital market for solopreneurs.",
+  "biz_opportunity": "Offer AI-powered market trend analysis and competitive intelligence services to Portuguese small businesses, leveraging the growing European demand for AI expertise and local market insights.",
+  "built_at": "2026-08-20T07:43:36.477370+00:00"
 }

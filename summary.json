@@ -1,8 +1,8 @@
 {
-  "global_theme": "Escalating global trade tensions are contrasting with significant advancements in AI and strategic investments in green energy, creating a volatile yet opportunity-rich landscape for wealth creation, with particular implications for EU economic stability.",
-  "market_mood": "Cautious Volatility",
-  "risk_signal": "Global Trade War Escalation",
-  "opportunity_signal": "AI & Green Tech Investment",
+  "global_theme": "Global markets show mixed signals with crypto volatility and geopolitical trade tensions, while AI investments surge and Europe's luxury sector eyes recovery, impacting Alex's potential wealth generation and market approach.",
+  "market_mood": "Cautiously Optimistic",
+  "risk_signal": "Crypto Volatility & Trade Wars",
+  "opportunity_signal": "AI & EU Market Recovery",
   "finance_sentiment": [
     {
       "i": 1,
@@ -10,27 +10,27 @@
     },
     {
       "i": 2,
-      "s": "-"
-    },
-    {
-      "i": 3,
-      "s": "="
-    },
-    {
-      "i": 4,
-      "s": "-"
-    },
-    {
-      "i": 5,
       "s": "+"
     },
     {
-      "i": 6,
+      "i": 3,
+      "s": "-"
+    },
+    {
+      "i": 4,
       "s": "="
     },
     {
-      "i": 7,
+      "i": 5,
       "s": "-"
+    },
+    {
+      "i": 6,
+      "s": "+"
+    },
+    {
+      "i": 7,
+      "s": "="
     },
     {
       "i": 8,
@@ -46,11 +46,11 @@
     },
     {
       "i": 11,
-      "s": "-"
+      "s": "="
     },
     {
       "i": 12,
-      "s": "-"
+      "s": "="
     },
     {
       "i": 13,
@@ -58,37 +58,37 @@
     },
     {
       "i": 14,
-      "s": "="
+      "s": "-"
     },
     {
       "i": 15,
-      "s": "+"
+      "s": "-"
     }
   ],
   "insights": {
     "g1": [
-      "Global trade wars, like US-Canada tariffs, signal economic instability and supply chain risks.",
-      "Vatican's €100M renewable energy investment highlights a growing sustainable finance sector.",
-      "Bitcoin's high RSI suggests potential market correction, advising caution in crypto investments.",
-      "Experts consistently warn of geopolitical risks and inflation impacting market stability.",
-      "China's robot showcases indicate strategic investment in advanced manufacturing, a future competitive landscape."
+      "Bitcoin's surge, despite overbought RSI, highlights speculative crypto opportunities but warns of high risk.",
+      "Europe's luxury market recovery in China suggests potential for high-end product/service demand for EU-based businesses.",
+      "U.S.-Canada trade talks collapse signal increasing protectionism and economic instability impacting global supply chains.",
+      "Alibaba's $10B AI investment underscores the strategic shift towards AI, influencing future market leaders and investment trends.",
+      "Crypto boss disappearances and asset drops (XRP, Cardano) emphasize extreme volatility and trust issues in the digital asset space."
     ],
     "g2": [
-      "Anthropic's potential $100B IPO underscores the massive growth and investment in AI technology.",
-      "New AI applications, like training models on living skin, push the boundaries of bio-tech integration.",
-      "The call for efficient software development means better, faster tools for solopreneur productivity.",
-      "Japanese space tech funding points to expanding opportunities in satellite data and related services.",
-      "TikTok's $400M privacy settlement emphasizes the critical need for ethical AI and data handling."
+      "AI spending booms with Alibaba's $10B plan and Harvard's AI avatar bootcamp, indicating a skill and service demand.",
+      "Enterprises limiting AI agent autonomy reveals a need for human oversight and specific AI integration expertise.",
+      "Wi-Fi 8 focuses on reliability over speed, suggesting a trend towards practical, stable tech solutions rather than pure performance.",
+      "Learning to write better (Hacker News) remains crucial for clear communication, content creation, and leveraging AI tools effectively.",
+      "New AI 'teammates' outperforming established models signal rapid innovation and opportunities for early adopters of advanced tools."
     ],
     "g3": [
-      "Portugal's AIMA issues indicate administrative challenges for expats and new businesses locally.",
-      "Canada matching US tariffs affects global trade flows, potentially impacting EU market access and costs.",
-      "Battery fires in UK recycling highlight a growing need for sustainable tech waste solutions in Europe.",
-      "Local Portuguese news often reveals community needs and social issues, informing local service opportunities.",
-      "Initiatives like subterranean farming (UK) offer models for innovative, localized food solutions relevant to EU."
+      "EU border checks causing stress for UK travellers highlights potential friction in cross-border services and logistics.",
+      "London's low emission zone success can inform sustainable business models and local policy engagement in Portugal/EU.",
+      "Portugal's local news (fires, storms) stresses climate resilience, creating demand for related services and community support.",
+      "Solopreneurs in Portugal can leverage the recovering European luxury market by offering bespoke, high-quality services to EU clients.",
+      "Trade tensions (US-Canada) may shift supply chains, potentially benefiting EU-based providers or local Portuguese suppliers."
     ]
   },
-  "learning_task": "Spend 30 minutes researching AI tools for automating market research or content generation for niche services, focusing on identifying software that can help you target specific EU markets for your €35k goal.",
-  "biz_opportunity": "Offer AI-powered market entry strategies and localized content creation for small European businesses navigating new tariffs and cultural nuances, capitalizing on current trade disruptions and advanced AI capabilities.",
-  "built_at": "2026-08-22T07:34:59.422470+00:00"
+  "learning_task": "Spend 30 minutes researching AI tools for automating content creation or market analysis to streamline operations and enhance your €35k goal efforts.",
+  "biz_opportunity": "Offer AI-powered content strategy and creation services to European luxury brands targeting discerning Chinese consumers, leveraging current market recovery and AI investment trends.",
+  "built_at": "2026-08-23T07:36:19.114520+00:00"
 }

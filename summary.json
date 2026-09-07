@@ -1,12 +1,12 @@
 {
-  "global_theme": "A complex global economic landscape is emerging, marked by AI's disruptive influence on job markets and geopolitical tech competition, while Europe navigates internal financial shifts and specific sector growth.",
+  "global_theme": "Europe faces political turbulence with far-right gains in Germany, while strategic EU funding and a dynamic global tech sector, particularly AI, continue to shape economic opportunities and wealth creation.",
   "market_mood": "Cautiously Optimistic",
-  "risk_signal": "AI job displacement & market overvaluation",
-  "opportunity_signal": "AI-driven productivity & climate-tech demand",
+  "risk_signal": "European Political Instability",
+  "opportunity_signal": "AI & EU Digital Compliance",
   "finance_sentiment": [
     {
       "i": 1,
-      "s": "="
+      "s": "+"
     },
     {
       "i": 2,
@@ -14,15 +14,15 @@
     },
     {
       "i": 3,
-      "s": "-"
+      "s": "+"
     },
     {
       "i": 4,
-      "s": "-"
+      "s": "="
     },
     {
       "i": 5,
-      "s": "+"
+      "s": "="
     },
     {
       "i": 6,
@@ -30,7 +30,7 @@
     },
     {
       "i": 7,
-      "s": "+"
+      "s": "-"
     },
     {
       "i": 8,
@@ -42,7 +42,7 @@
     },
     {
       "i": 10,
-      "s": "="
+      "s": "+"
     },
     {
       "i": 11,
@@ -50,11 +50,11 @@
     },
     {
       "i": 12,
-      "s": "="
+      "s": "-"
     },
     {
       "i": 13,
-      "s": "+"
+      "s": "-"
     },
     {
       "i": 14,
@@ -62,33 +62,33 @@
     },
     {
       "i": 15,
-      "s": "="
+      "s": "-"
     }
   ],
   "insights": {
     "g1": [
-      "Global job markets face AI disruption; Alex needs to target niche skills and value creation.",
-      "Market overvaluation warnings emphasize risk management and fundamental analysis for investments.",
-      "Growing demand for air conditioning due to climate change highlights durable consumer needs and service markets.",
-      "Innovation in elder care (home-based CCRC expansion) points to growth in services for aging populations.",
-      "Geopolitical tech competition (China AI chips) creates supply chain uncertainty and influences global stability."
+      "EU regional funding initiatives indicate strategic areas for economic focus and investment.",
+      "German political shifts introduce market uncertainty; monitor for broader EU economic impacts.",
+      "The AI sector remains a strong driver of investment and potential stock market gains.",
+      "Box office recovery suggests resilient consumer spending in discretionary entertainment categories.",
+      "Proactive financial planning, like estate wills, is critical to protect your accumulated wealth."
     ],
     "g2": [
-      "AI's impact on global job markets underscores the urgency for Alex to embrace and leverage AI capabilities.",
-      "Understanding AI's societal implications (e.g., for parents) provides context for developing responsible AI solutions.",
-      "New AI-powered productivity tools (like 'Keen Bean' for meeting notes) offer immediate efficiency gains.",
-      "The intense pursuit of advanced AI chips highlights the strategic value of deep AI expertise.",
-      "'Internet offline' concerns suggest prioritizing robust, resilient business models less reliant on constant connectivity."
+      "The 'DeepMind mafia' building startups highlights a burgeoning European AI entrepreneurship ecosystem.",
+      "AI's influence on tech giants like Apple and AMD underscores its central role in future innovation.",
+      "EU repairability mandates create potential service opportunities for sustainable tech solutions.",
+      "Concerns about data privacy (e.g., CodePen) emphasize the need for secure digital tools and practices.",
+      "Niche tech applications like 'Virtual Taekwondo' show potential for innovation in specialized markets."
     ],
     "g3": [
-      "Porto's €1.2B mobility plan indicates significant local infrastructure investment, creating ancillary service opportunities.",
-      "Europe's yield decoupling suggests evolving financial dynamics within the EU, potentially affecting local investment.",
-      "The rising need for air conditioning in extreme heat is a clear, local market demand for related services in Portugal.",
-      "Niche European travel interests (e.g., US Highway obsession) can inspire unique Portuguese experience packages.",
-      "Portuguese 'Segurança Social' discussions highlight ongoing national economic debates influencing the local business environment."
+      "Portugal's investment in justice IT indicates local demand for tech infrastructure and services.",
+      "EU scrutiny on online ad flaws creates a market for compliant digital marketing expertise in Portugal.",
+      "Political instability in key EU states can impact broader economic sentiment and trade dynamics.",
+      "Understanding EU grant opportunities, exemplified by Greenland's funding, can unlock growth pathways.",
+      "Solopreneurs must stay abreast of evolving EU regulations affecting digital business operations."
     ]
   },
-  "learning_task": "Spend 30 minutes researching AI tools for automated content creation (text/image/video) to streamline Alex's solopreneur marketing efforts and accelerate income generation.",
-  "biz_opportunity": "Develop an AI-powered local tourism content creation service for small businesses in Porto, leveraging the city's mobility investments and European niche travel interests.",
-  "built_at": "2026-09-06T11:34:55.624094+00:00"
+  "learning_task": "Research Portugal's specific data privacy regulations for online advertising, then spend 30 minutes experimenting with AI tools to generate compliant marketing copy.",
+  "biz_opportunity": "Offer specialized AI-powered EU-compliant digital marketing services to small businesses in Portugal, addressing emerging EU regulations on online advertising and leveraging local demand for effective marketing.",
+  "built_at": "2026-09-07T13:22:55.011813+00:00"
 }

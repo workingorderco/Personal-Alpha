@@ -1,538 +1,538 @@
 {
-  "built_at": "2026-09-07T13:22:55.011813+00:00",
+  "built_at": "2026-09-08T12:03:04.934328+00:00",
   "sections": {
     "Finance": [
       {
-        "title": "Greenland welcomes major funding boost from EU amid Trump’s annexation threats",
+        "title": "Australia to let social media users 'opt out' of algorithm-based feeds in fresh blow to big tech",
         "source": "US Top News and Analysis",
-        "published": "Mon, 07 Sep 2026 13:09:36 GMT",
-        "url": "https://www.cnbc.com/2026/09/07/greenland-eu-trump-critical-minerals-arctic.html",
+        "published": "Tue, 08 Sep 2026 12:00:00 GMT",
+        "url": "https://www.cnbc.com/2026/09/08/australia-social-media-algorithm-opt-out.html",
         "is_priority": false
       },
       {
-        "title": "Far-right AfD landslide in German state piles pressure on federal government",
+        "title": "GE Aerospace to buy castings maker CPP for nearly $12 billion",
         "source": "US Top News and Analysis",
-        "published": "Mon, 07 Sep 2026 13:07:50 GMT",
-        "url": "https://www.cnbc.com/2026/09/07/afd-germany-economy-merz.html",
+        "published": "Tue, 08 Sep 2026 11:50:28 GMT",
+        "url": "https://www.cnbc.com/2026/09/08/ge-aerospace-to-buy-castings-maker-cpp-for-nearly-12-billion.html",
         "is_priority": false
       },
       {
-        "title": "Spider-Man, Odyssey Help Power Box Office Comeback",
-        "source": "Bloomberg Markets",
-        "published": "Mon, 07 Sep 2026 13:05:47 GMT",
-        "url": "https://www.bloomberg.com/news/videos/2026-09-07/spider-man-odyssey-help-power-box-office-comeback-video",
+        "title": "GE Aerospace to acquire Consolidated Precision in $11.75b deal",
+        "source": "All News",
+        "published": "2026-09-08 11:47:50",
+        "url": "https://www.investing.com/news/stock-market-news/ge-aerospace-to-acquire-consolidated-precision-in-1175b-deal-4891465",
         "is_priority": false
       },
       {
-        "title": "At 62, She Put $35,750 Into Her 401(k) and $8,750 Into an HSA. Only One Lowered Her Social Security Wages.",
-        "source": "Yahoo Finance",
-        "published": "2026-09-07T13:04:46Z",
-        "url": "https://finance.yahoo.com/markets/options/articles/62-she-put-35-750-130446073.html",
+        "title": "RBC says this fast casual stock down 50% from its highs is set to rise",
+        "source": "US Top News and Analysis",
+        "published": "Tue, 08 Sep 2026 11:47:13 GMT",
+        "url": "https://www.cnbc.com/2026/09/08/rbc-says-this-fast-casual-stock-down-50percent-from-its-highs-is-set-to-rise.html",
         "is_priority": false
       },
       {
-        "title": "Clearing Up Confusion Surrounding ETs and Index Funds",
-        "source": "Yahoo Finance",
-        "published": "2026-09-07T13:00:33Z",
-        "url": "https://finance.yahoo.com/markets/options/articles/clearing-confusion-surrounding-ets-index-130033363.html",
+        "title": "Smith & Nephew launches tender offer for 2030 bonds",
+        "source": "All News",
+        "published": "2026-09-08 11:47:00",
+        "url": "https://www.investing.com/news/company-news/smith--nephew-launches-tender-offer-for-2030-bonds-93CH-4891461",
         "is_priority": false
       },
       {
-        "title": "Why Apple May Be the Safest AI Stock Nobody Calls an AI Stock",
-        "source": "Yahoo Finance",
-        "published": "2026-09-07T13:00:28Z",
-        "url": "https://finance.yahoo.com/technology/ai/articles/why-apple-may-safest-ai-130028156.html",
+        "title": "Why is Intel stock rallying today?",
+        "source": "All News",
+        "published": "2026-09-08 11:46:55",
+        "url": "https://www.investing.com/news/stock-market-news/why-is-intel-stock-rallying-today-93CH-4891460",
         "is_priority": false
       },
       {
-        "title": "‘Please don’t let this happen to you’: My best friend died without a will — her neglectful family gets everything",
+        "title": "Brent crude nears $100 after strikes on Saudi energy sites amid renewed Mideast hostilities",
+        "source": "US Top News and Analysis",
+        "published": "Tue, 08 Sep 2026 11:45:54 GMT",
+        "url": "https://www.cnbc.com/2026/09/08/oil-prices-today-brent-wti-hormuz-iran-war.html",
+        "is_priority": false
+      },
+      {
+        "title": "Oil Climbs Toward $100 a Barrel Following Houthi Attacks",
+        "source": "NYT > Business",
+        "published": "Tue, 08 Sep 2026 11:45:25 +0000",
+        "url": "https://www.nytimes.com/2026/09/08/business/oil-prices-iran-war.html",
+        "is_priority": false
+      },
+      {
+        "title": "AstraZeneca's COPD drug scores two late-stage trial wins as full data boosts blockbuster hopes",
+        "source": "US Top News and Analysis",
+        "published": "Tue, 08 Sep 2026 11:45:17 GMT",
+        "url": "https://www.cnbc.com/2026/09/08/astrazeneca-copd-drug-tozorakimab-shows-positive-late-stage-trial-results.html",
+        "is_priority": false
+      },
+      {
+        "title": "Inhibrx stock jumps on positive cancer drug trial results",
+        "source": "All News",
+        "published": "2026-09-08 11:45:03",
+        "url": "https://www.investing.com/news/stock-market-news/inhibrx-stock-jumps-on-positive-cancer-drug-trial-results-93CH-4891459",
+        "is_priority": false
+      },
+      {
+        "title": "‘It’s not fair’: My twin brother and I were left houses by our parents. Can I make him pay his share for taxes and upkeep?",
         "source": "MarketWatch.com - Top Stories",
-        "published": "Mon, 07 Sep 2026 13:00:00 GMT",
-        "url": "https://www.marketwatch.com/story/please-dont-let-this-happen-to-you-my-best-friend-died-without-a-will-her-neglectful-family-gets-everything-a4e6753e?mod=mw_rss_topstories",
+        "published": "Tue, 08 Sep 2026 11:45:00 GMT",
+        "url": "https://www.marketwatch.com/story/its-not-fair-my-twin-brother-and-i-were-left-houses-by-our-parents-can-i-make-him-pay-his-share-for-taxes-and-upkeep-43feb780?mod=mw_rss_topstories",
         "is_priority": false
       },
       {
-        "title": "Apple’s Sept. 9 Event Could Change Everything",
+        "title": "Stifel reiterates Buy on NewAmsterdam Pharma stock after trial failure",
+        "source": "All News",
+        "published": "2026-09-08 11:44:55",
+        "url": "https://www.investing.com/news/analyst-ratings/stifel-reiterates-buy-on-newamsterdam-pharma-stock-after-trial-failure-93CH-4891458",
+        "is_priority": false
+      },
+      {
+        "title": "Stifel raises Hinge Health stock price target on strong growth outlook",
+        "source": "All News",
+        "published": "2026-09-08 11:44:53",
+        "url": "https://www.investing.com/news/analyst-ratings/stifel-raises-hinge-health-stock-price-target-on-strong-growth-outlook-93CH-4891457",
+        "is_priority": false
+      },
+      {
+        "title": "MiniMed (MMED) Q1 2027 Earnings Call Transcript",
         "source": "Yahoo Finance",
-        "published": "2026-09-07T12:55:01Z",
-        "url": "https://finance.yahoo.com/markets/stocks/articles/apple-sept-9-event-could-125501364.html",
+        "published": "2026-09-08T11:44:29Z",
+        "url": "https://finance.yahoo.com/markets/stocks/articles/minimed-mmed-q1-2027-earnings-114429095.html",
         "is_priority": false
       },
       {
-        "title": "Not Nvidia, Not Micron. This Magnificent Warren Buffett Stock Could Be the Quiet Winner of the AI Arms Race -- Here's the Case.",
+        "title": "Medtronic (MDT) Q1 2027 Earnings Call Transcript",
         "source": "Yahoo Finance",
-        "published": "2026-09-07T12:53:00Z",
-        "url": "https://finance.yahoo.com/technology/ai/articles/not-nvidia-not-micron-magnificent-125300713.html",
-        "is_priority": false
-      },
-      {
-        "title": "Jio Platforms Said to Start Marketing Record India IPO Next Week",
-        "source": "Bloomberg Markets",
-        "published": "Mon, 07 Sep 2026 12:50:51 GMT",
-        "url": "https://www.bloomberg.com/news/articles/2026-09-07/jio-platforms-said-to-start-marketing-record-india-ipo-next-week",
-        "is_priority": false
-      },
-      {
-        "title": "OpenAI, Anthropic IPOs Could Spark a Selloff in These Struggling Stocks — IBM, Tesla, AppLovin Among Names at Risk",
-        "source": "Yahoo Finance",
-        "published": "2026-09-07T12:49:38Z",
-        "url": "https://finance.yahoo.com/markets/stocks/articles/openai-anthropic-ipos-could-spark-124938827.html",
-        "is_priority": false
-      },
-      {
-        "title": "Jefferies Fund Seeks Radiant World Asset Freeze in Singapore",
-        "source": "Bloomberg Markets",
-        "published": "Mon, 07 Sep 2026 12:48:51 GMT",
-        "url": "https://www.bloomberg.com/news/articles/2026-09-07/jefferies-fund-seeks-radiant-world-asset-freeze-in-singapore",
-        "is_priority": false
-      },
-      {
-        "title": "AMD’s Whole AI Story Has One Threat It Cannot Ignore: Broadcom",
-        "source": "Yahoo Finance",
-        "published": "2026-09-07T12:47:28Z",
-        "url": "https://finance.yahoo.com/technology/ai/articles/amd-whole-ai-story-one-124728876.html",
-        "is_priority": false
-      },
-      {
-        "title": "1 Unstoppable Vanguard Growth ETF Up 14% in 2026 to Buy and Hold for the Next 20 Years",
-        "source": "Yahoo Finance",
-        "published": "2026-09-07T12:45:00Z",
-        "url": "https://finance.yahoo.com/markets/stocks/articles/1-unstoppable-vanguard-growth-etf-124500680.html",
-        "is_priority": false
-      },
-      {
-        "title": "PayPal cuts about 220 jobs in India",
-        "source": "Yahoo Finance",
-        "published": "2026-09-07T12:44:00Z",
-        "url": "https://finance.yahoo.com/markets/stocks/articles/paypal-cuts-220-jobs-india-124400314.html",
+        "published": "2026-09-08T11:44:29Z",
+        "url": "https://finance.yahoo.com/healthcare/articles/medtronic-mdt-q1-2027-earnings-114429769.html",
         "is_priority": false
       }
     ],
     "World News": [
       {
-        "title": "Merz says ‘shock’ AfD victory in key German state ‘is an election result we cannot simply move past’ – Europe live",
-        "source": "World news | The Guardian",
-        "published": "Mon, 07 Sep 2026 13:17:32 GMT",
-        "url": "https://www.theguardian.com/world/live/2026/sep/07/germany-afd-saxony-anhalt-merz-greenland-ratko-mladic-europe-latest-news-updates",
+        "title": "Why bother deseeding tomatoes? | Kitchen aide",
+        "source": "The Guardian",
+        "published": "Tue, 08 Sep 2026 12:00:03 GMT",
+        "url": "https://www.theguardian.com/food/2026/sep/08/why-deseed-tomatoes",
         "is_priority": false
       },
       {
-        "title": "Thousands of Serbs Gather to Mourn Ratko Mladic, the ‘Butcher of Bosnia’",
+        "title": "Want to borrow a dinosaur fossil? Try California’s one-of-a-kind taxidermy lending library",
+        "source": "The Guardian",
+        "published": "Tue, 08 Sep 2026 12:00:02 GMT",
+        "url": "https://www.theguardian.com/us-news/2026/sep/08/san-diego-taxidermy-museum",
+        "is_priority": false
+      },
+      {
+        "title": "‘Cantona’s a Kwengletarian!’ Inside the maximalist, magical mentality of rising London Irish rapper Kibo",
+        "source": "The Guardian",
+        "published": "Tue, 08 Sep 2026 12:00:02 GMT",
+        "url": "https://www.theguardian.com/music/2026/sep/08/kibo-rapper-london-irish-kwengletaria-ragamyff",
+        "is_priority": false
+      },
+      {
+        "title": "Eiffel Tower Workers Strike, Saying Women Were Excluded From Hindu Group’s Visit",
         "source": "NYT > World News",
-        "published": "Mon, 07 Sep 2026 13:15:54 +0000",
-        "url": "https://www.nytimes.com/2026/09/07/world/europe/ratko-mladic-funeral-serbia.html",
+        "published": "Tue, 08 Sep 2026 11:49:45 +0000",
+        "url": "https://www.nytimes.com/2026/09/08/world/europe/paris-eiffel-tower-closed-strike-hindu-temple.html",
         "is_priority": false
       },
       {
-        "title": "Kenya minister warns foreigners against 'misusing' visas to trade",
-        "source": "BBC News",
-        "published": "Mon, 07 Sep 2026 13:06:04 GMT",
-        "url": "https://www.bbc.co.uk/news/articles/c158wwl22xko?at_medium=RSS&at_campaign=rss",
+        "title": "AI will help find cure for cancer ‘within our lifetimes’, says Arm Holdings chief",
+        "source": "The Guardian",
+        "published": "Tue, 08 Sep 2026 11:49:11 GMT",
+        "url": "https://www.theguardian.com/business/2026/sep/08/ai-cure-cancer-arm-holdings-rene-haas",
         "is_priority": false
       },
       {
-        "title": "Israel Launches Deadly Strikes in Lebanon as Military Campaign Intensifies",
+        "title": "Houthis strike Saudi Arabian cities in significant expansion of Middle East war",
+        "source": "The Guardian",
+        "published": "Tue, 08 Sep 2026 11:48:33 GMT",
+        "url": "https://www.theguardian.com/world/2026/sep/08/houthi-strike-saudi-arabia-oil-facilities-middle-east-war-iran",
+        "is_priority": false
+      },
+      {
+        "title": "US datacenters face further backlash over wastewater pollution",
+        "source": "The Guardian",
+        "published": "Tue, 08 Sep 2026 11:47:13 GMT",
+        "url": "https://www.theguardian.com/us-news/2026/sep/08/us-datacenters-wastewater-pollution",
+        "is_priority": false
+      },
+      {
+        "title": "UK Set to Impose Sanctions on Israeli Settlements in West Bank",
         "source": "NYT > World News",
-        "published": "Mon, 07 Sep 2026 13:02:12 +0000",
-        "url": "https://www.nytimes.com/2026/09/07/world/middleeast/israel-lebanon-strikes-hezbollah.html",
+        "published": "Tue, 08 Sep 2026 11:43:59 +0000",
+        "url": "https://www.nytimes.com/2026/09/08/world/europe/uk-sanctions-israel-west-bank-settlements.html",
         "is_priority": false
       },
       {
-        "title": "Germany’s ‘Firewall’ Against the Far Right Is Being Tested Like Never Before",
-        "source": "NYT > World News",
-        "published": "Mon, 07 Sep 2026 13:00:07 +0000",
-        "url": "https://www.nytimes.com/2026/09/07/world/europe/germany-afd-election-saxony-anhalt-election.html",
-        "is_priority": false
-      },
-      {
-        "title": "Opposition parties accuse Healey of offering ‘more of the same’ in his first major speech as chancellor – UK politics live",
-        "source": "World news | The Guardian",
-        "published": "Mon, 07 Sep 2026 12:59:46 GMT",
-        "url": "https://www.theguardian.com/politics/live/2026/sep/07/uk-politics-live-john-healey-economy-portsmouth-immigration-protests-latest-news-updates",
-        "is_priority": false
-      },
-      {
-        "title": "Serbia holds funeral for convicted war criminal Ratko Mladic",
+        "title": "Saudi-Houthi fighting in Yemen escalates: What happened, and what’s next?",
         "source": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
-        "published": "Mon, 07 Sep 2026 12:55:53 +0000",
-        "url": "https://www.aljazeera.com/video/newsfeed/2026/9/7/serbia-holds-funeral-for-convicted-war-criminal-ratko-mladic?traffic_source=rss",
+        "published": "Tue, 08 Sep 2026 11:40:21 +0000",
+        "url": "https://www.aljazeera.com/news/2026/9/8/saudi-houthi-fighting-in-yemen-escalates-what-happened-and-whats-next?traffic_source=rss",
         "is_priority": false
       },
       {
-        "title": "John Healey backs growth but says Labour must be honest on spending",
-        "source": "World news | The Guardian",
-        "published": "Mon, 07 Sep 2026 12:54:05 GMT",
-        "url": "https://www.theguardian.com/business/2026/sep/07/john-healey-growth-labour-spending-raise-taxes",
-        "is_priority": false
-      },
-      {
-        "title": "After Victory in German State, Far Right Needs Help to Take Power",
-        "source": "NYT > World News",
-        "published": "Mon, 07 Sep 2026 12:53:32 +0000",
-        "url": "https://www.nytimes.com/2026/09/07/world/europe/germany-afd-elections-bsw.html",
-        "is_priority": false
-      },
-      {
-        "title": "Trial opens in Paris over murder of Argentina rugby star Federico Aramburu",
-        "source": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
-        "published": "Mon, 07 Sep 2026 12:47:12 +0000",
-        "url": "https://www.aljazeera.com/sports/2026/9/7/trial-opens-in-paris-over-murder-of-argentina-rugby-star-federico-aramburu?traffic_source=rss",
-        "is_priority": false
-      },
-      {
-        "title": "Next overturns equal pay ruling that raised basic wages for shop staff",
-        "source": "World news | The Guardian",
-        "published": "Mon, 07 Sep 2026 12:45:59 GMT",
-        "url": "https://www.theguardian.com/business/2026/sep/07/next-overturns-equal-pay-ruling-that-raised-basic-wages-for-shop-staff",
-        "is_priority": false
-      },
-      {
-        "title": "Building Housing Students Collapses in New Delhi, Killing at Least 7",
-        "source": "NYT > World News",
-        "published": "Mon, 07 Sep 2026 12:42:13 +0000",
-        "url": "https://www.nytimes.com/2026/09/07/world/asia/india-delhi-building-collapse-satya-niketan.html",
-        "is_priority": false
-      },
-      {
-        "title": "Oasis recordings up for auction despite band’s objections",
-        "source": "World news | The Guardian",
-        "published": "Mon, 07 Sep 2026 12:25:22 GMT",
-        "url": "https://www.theguardian.com/music/2026/sep/07/auction-oasis-recordings-archive-concerts-rehearsals-conversations",
-        "is_priority": false
-      },
-      {
-        "title": "Germany's far-right AfD says 'democracy demands' parties work with them after state election win",
+        "title": "Investigation after female staff at Eiffel Tower replaced by men for religious visit",
         "source": "BBC News",
-        "published": "Mon, 07 Sep 2026 12:22:39 GMT",
-        "url": "https://www.bbc.co.uk/news/articles/cpd0113082eo?at_medium=RSS&at_campaign=rss",
+        "published": "Tue, 08 Sep 2026 11:38:07 GMT",
+        "url": "https://www.bbc.co.uk/news/articles/clyenxp540vo?at_medium=RSS&at_campaign=rss",
         "is_priority": false
       },
       {
-        "title": "Virtual Taekwondo Takes the Contact Out of a Combat Sport",
-        "source": "NYT > World News",
-        "published": "Mon, 07 Sep 2026 12:20:03 +0000",
-        "url": "https://www.nytimes.com/2026/09/07/sports/virtual-taekwondo-asian-games.html",
+        "title": "New Hampshire and Rhode Island electorate to vote in state primaries - US politics live",
+        "source": "World news | The Guardian",
+        "published": "Tue, 08 Sep 2026 11:37:32 GMT",
+        "url": "https://www.theguardian.com/us-news/live/2026/sep/08/new-hampshire-rhode-island-vote-state-primaries-trump-canada-us-politics-latest-news-updates",
+        "is_priority": false
+      },
+      {
+        "title": "Russia says it will give a ‘harsh and painful’ response after Hungary expels 10 diplomats - Europe live",
+        "source": "World news | The Guardian",
+        "published": "Tue, 08 Sep 2026 11:33:47 GMT",
+        "url": "https://www.theguardian.com/world/live/2026/sep/08/ukraine-russia-war-zelesnkyy-putin-ruslan-kravchenko-prosecutor-general-germany-france-europe-latest-news-updates",
+        "is_priority": false
+      },
+      {
+        "title": "Israeli forces kill Palestinian man and withhold his body near Nablus",
+        "source": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
+        "published": "Tue, 08 Sep 2026 11:29:35 +0000",
+        "url": "https://www.aljazeera.com/news/2026/9/8/israeli-forces-kill-palestinian-man-and-withhold-his-body-near-nablus?traffic_source=rss",
+        "is_priority": false
+      },
+      {
+        "title": "UK plan to sanction illegal Israeli settlements draws criticism from US, Israel and British MPs – UK politics live",
+        "source": "World news | The Guardian",
+        "published": "Tue, 08 Sep 2026 11:29:19 GMT",
+        "url": "https://www.theguardian.com/politics/live/2026/sep/08/uk-us-trade-israel-sanctions-labour-ed-miliband-farage-latest-news-updates",
+        "is_priority": false
+      },
+      {
+        "title": "Harry and Meghan ‘surprised’ at king’s letter reiterating they are non-working royals",
+        "source": "World news | The Guardian",
+        "published": "Tue, 08 Sep 2026 11:28:33 GMT",
+        "url": "https://www.theguardian.com/uk-news/2026/sep/08/harry-meghan-surprised-king-charles-letter-non-working-royals",
         "is_priority": false
       }
     ],
     "Tech": [
       {
-        "title": "UK government seeks fund manager for £150m northern scaleup fund",
-        "source": "Sifted",
-        "published": "Mon, 07 Sep 2026 13:25:57 GMT",
-        "url": "https://sifted.eu/articles/uk-launches-150m-north-of-england-scaleup-fund/",
+        "title": "Apple says ‘Fold’ and competitors ask ‘how wide?’",
+        "source": "The Verge",
+        "published": "2026-09-08T08:00:00-04:00",
+        "url": "https://www.theverge.com/tech/991141/apple-first-foldable-iphone-launch-influence-john-ternus",
         "is_priority": false
       },
       {
-        "title": "De-Brainrot Vacations",
-        "source": "Hacker News: Front Page",
-        "published": "Mon, 07 Sep 2026 13:00:48 +0000",
-        "url": "https://devz.cl/posts/i-spent-my-vacations-de-brainrotting/",
+        "title": "AI will help find cure for cancer ‘within our lifetimes’, says Arm Holdings chief",
+        "source": "Technology | The Guardian",
+        "published": "Tue, 08 Sep 2026 11:49:11 GMT",
+        "url": "https://www.theguardian.com/business/2026/sep/08/ai-cure-cancer-arm-holdings-rene-haas",
         "is_priority": false
       },
       {
-        "title": "Splash-free urinals for global sustainability and accessibility",
-        "source": "Hacker News: Front Page",
-        "published": "Mon, 07 Sep 2026 12:58:57 +0000",
-        "url": "https://academic.oup.com/pnasnexus/article/4/4/pgaf087/8098745?login=false",
+        "title": "LG TVs caught spying even when offline or on standby",
+        "source": "The Verge",
+        "published": "2026-09-08T07:30:05-04:00",
+        "url": "https://www.theverge.com/tech/991190/lg-tv-spying-standby-recording-wi-fi-scanning-gamers-nexus",
         "is_priority": false
       },
       {
-        "title": "The DeepMind mafia building startups in Europe",
-        "source": "Sifted",
-        "published": "Mon, 07 Sep 2026 12:45:44 GMT",
-        "url": "https://sifted.eu/articles/investors-have-poured-billions-into-the-deepmind-mafia/",
+        "title": "How NASA Testing Changed US Food Inspection Forever",
+        "source": "WIRED",
+        "published": "Tue, 08 Sep 2026 11:00:00 +0000",
+        "url": "https://www.wired.com/story/book-excerpt-alex-davies-kobuk-the-destroyer-nasa-food-testing/",
         "is_priority": false
       },
       {
-        "title": "Virtual Taekwondo Takes the Contact Out of a Combat Sport",
-        "source": "NYT > Technology",
-        "published": "Mon, 07 Sep 2026 12:20:03 +0000",
-        "url": "https://www.nytimes.com/2026/09/07/sports/virtual-taekwondo-asian-games.html",
-        "is_priority": false
-      },
-      {
-        "title": "The Download: the hunt for underground hydrogen and more rogue OpenAI agents",
+        "title": "This founder is teaching chips how to recycle (their energy)",
         "source": "MIT Technology Review",
-        "published": "Mon, 07 Sep 2026 12:10:00 +0000",
-        "url": "https://www.technologyreview.com/2026/09/07/1143592/the-download-underground-hydrogen-search-rogue-openai-agents/",
+        "published": "Tue, 08 Sep 2026 10:36:00 +0000",
+        "url": "https://www.technologyreview.com/2026/09/08/1142079/hannah-earley-computer-chips-recycle-energy/",
         "is_priority": false
       },
       {
-        "title": "Why the iPhone is about to get more expensive",
-        "source": "The Verge",
-        "published": "2026-09-07T08:00:00-04:00",
-        "url": "https://www.theverge.com/tech/988225/ram-shortage-supply-chain-micron-apple-iphone",
-        "is_priority": false
-      },
-      {
-        "title": "Two of the Universe's Great Mysteries May Have Their Own Dimension",
+        "title": "5 Best Smart Speakers (2026): Alexa, Google, Apple",
         "source": "WIRED",
-        "published": "Mon, 07 Sep 2026 12:00:00 +0000",
-        "url": "https://www.wired.com/story/dark-energy-matter-may-have-own-dimension/",
+        "published": "Tue, 08 Sep 2026 10:35:00 +0000",
+        "url": "https://www.wired.com/story/best-smart-speakers/",
         "is_priority": false
       },
       {
-        "title": "Smartphone makers don't bother to comply with EU repairability requirements",
-        "source": "Hacker News: Front Page",
-        "published": "Mon, 07 Sep 2026 11:46:37 +0000",
-        "url": "https://www.theregister.com/personal-tech/2026/09/07/smartphone-makers-dont-bother-to-comply-with-eu-repairability-requirements/5294532",
+        "title": "This AI entrepreneur is developing agents that can plan ahead for the unexpected",
+        "source": "MIT Technology Review",
+        "published": "Tue, 08 Sep 2026 10:34:00 +0000",
+        "url": "https://www.technologyreview.com/2026/09/08/1142088/danijar-hafner-developing-plan-ahead-agents/",
         "is_priority": false
       },
       {
-        "title": "Astronomers Have Completed the Largest Map of Space. Yes, You Can Play With It.",
+        "title": "This founder is making cheaper, cleaner steel",
+        "source": "MIT Technology Review",
+        "published": "Tue, 08 Sep 2026 10:33:00 +0000",
+        "url": "https://www.technologyreview.com/2026/09/08/1142094/laureen-meroueh-makes-cheaper-cleaner-steel/",
+        "is_priority": false
+      },
+      {
+        "title": "This geneticist’s age-reversal tech could help restore sight",
+        "source": "MIT Technology Review",
+        "published": "Tue, 08 Sep 2026 10:32:00 +0000",
+        "url": "https://www.technologyreview.com/2026/09/08/1142074/yuancheng-ryan-lu-age-reversal-tech-restores-sight/",
+        "is_priority": false
+      },
+      {
+        "title": "US police fear Meta smart glasses could be used to secretly record them",
+        "source": "Technology | The Guardian",
+        "published": "Tue, 08 Sep 2026 10:00:02 GMT",
+        "url": "https://www.theguardian.com/technology/2026/sep/08/us-law-enforcement-meta-smart-glasses",
+        "is_priority": false
+      },
+      {
+        "title": "Gen AI Tools Are Now Being Used to Push ‘Slop Jihad’",
         "source": "WIRED",
-        "published": "Mon, 07 Sep 2026 11:30:00 +0000",
-        "url": "https://www.wired.com/story/astronomers-complete-largest-map-of-space-yes-you-can-play-with-it/",
+        "published": "Tue, 08 Sep 2026 10:00:00 +0000",
+        "url": "https://www.wired.com/story/gen-ai-tools-are-now-being-used-to-push-slop-jihad/",
         "is_priority": false
       },
       {
-        "title": "Apparently CodePen 2.0 sends data to their servers as you type",
-        "source": "Hacker News: Front Page",
-        "published": "Mon, 07 Sep 2026 11:22:40 +0000",
-        "url": "https://news.ycombinator.com/item?id=49596976",
-        "is_priority": false
-      },
-      {
-        "title": "VMware migration reduces Tottenham Hotspur's licensing fees by 85 percent",
-        "source": "Hacker News: Front Page",
-        "published": "Mon, 07 Sep 2026 11:01:06 +0000",
-        "url": "https://arstechnica.com/information-technology/2026/09/vmware-migration-reduces-tottenham-hotspurs-licensing-fees-by-85-percent/",
-        "is_priority": false
-      },
-      {
-        "title": "The complex corporate web behind a $3.2 billion AI data center",
-        "source": "Ars Technica - All content",
-        "published": "Mon, 07 Sep 2026 11:00:03 +0000",
-        "url": "https://arstechnica.com/ai/2026/09/the-ai-data-center-boom-is-causing-new-accountability-problems/",
-        "is_priority": false
-      },
-      {
-        "title": "Bentley’s Torcal EV tries to balance authenticity with fake V8 sounds",
-        "source": "The Verge",
-        "published": "2026-09-07T07:00:00-04:00",
-        "url": "https://www.theverge.com/transportation/990319/bentley-torcal-ev-power-ride-sound-v8",
-        "is_priority": false
-      },
-      {
-        "title": "Every Samsung Galaxy Phone Comes With This Unique Add-On",
+        "title": "Insta360 X6 Review (2026): A Great 360 and Action Camera Hybrid",
         "source": "WIRED",
-        "published": "Mon, 07 Sep 2026 11:00:00 +0000",
-        "url": "https://www.wired.com/story/every-samsung-galaxy-phone-comes-with-this-unique-add-on/",
+        "published": "Tue, 08 Sep 2026 10:00:00 +0000",
+        "url": "https://www.wired.com/review/insta360-x6-camera/",
+        "is_priority": false
+      },
+      {
+        "title": "Why getting your hands dirty is good for you",
+        "source": "Hacker News: Front Page",
+        "published": "Tue, 08 Sep 2026 09:48:24 +0000",
+        "url": "https://www.bbc.com/future/article/20260904-how-getting-your-hands-dirty-boosts-your-health-within-weeks",
+        "is_priority": false
+      },
+      {
+        "title": "Antiquated HTML Snippets and Artefacts",
+        "source": "Hacker News: Front Page",
+        "published": "Tue, 08 Sep 2026 09:43:14 +0000",
+        "url": "https://vale.rocks/posts/html-relics",
+        "is_priority": false
+      },
+      {
+        "title": "Apple to Make First Big Change to iPhones in Years",
+        "source": "NYT > Technology",
+        "published": "Tue, 08 Sep 2026 09:05:12 +0000",
+        "url": "https://www.nytimes.com/2026/09/08/technology/apple-iphone-event.html",
         "is_priority": false
       }
     ],
     "Automotive/Motorcycle": [
       {
-        "title": "Labor Day Green Deals hub – EVs, power stations, tools, smart devices, more",
-        "source": "Electrek",
-        "published": "Mon, 07 Sep 2026 13:21:52 +0000",
-        "url": "https://electrek.co/2026/09/07/labor-day-green-deals-hub-evs-power-stations-tools-smart-devices-more/",
-        "is_priority": false
-      },
-      {
-        "title": "1927-2027: Volvo celebrates 100 years with special-edition electric semi",
-        "source": "Electrek",
-        "published": "Mon, 07 Sep 2026 13:00:58 +0000",
-        "url": "https://electrek.co/2026/09/07/1927-2027-volvo-celebrates-100-years-with-special-edition-electric-semi/",
-        "is_priority": false
-      },
-      {
-        "title": "Polestar Has A New Look, And It Won’t Scare Buyers, Designer Says",
+        "title": "Only One Ferrari Enzo Was Built Matte Black, Now Up For Private Sale",
         "source": "Motor1.com - News",
-        "published": "Mon, 07 Sep 2026 12:43:50 +0000",
-        "url": "https://www.motor1.com/news/807391/polestar-formula-2030-concept-previews/",
+        "published": "Tue, 08 Sep 2026 11:34:06 +0000",
+        "url": "https://www.motor1.com/news/807510/ferrari-enzo-matte-nero-opaco/",
         "is_priority": false
       },
       {
-        "title": "At $12,000, Is This 1989 VW LT35 Feuerwehr Camper Van A Hot Ticket?",
+        "title": "Living By The Ocean Can Be A Dream, But Your Car Will Think It's A Nightmare",
         "source": "Jalopnik - Obsessed with the culture of cars",
-        "published": "Mon, 07 Sep 2026 12:25:00 +0000",
-        "url": "https://www.jalopnik.com/2251101/1989-volkswagen-lt35-camper-for-sale-12000/",
+        "published": "Tue, 08 Sep 2026 11:25:00 +0000",
+        "url": "https://www.jalopnik.com/2251617/living-near-ocean-terrible-for-cars/",
         "is_priority": false
       },
       {
-        "title": "The Audi A2 E-Tron Packs Up To 401 Miles Of Range And Serious Efficiency",
+        "title": "Plug-In Hybrids Have An Emissions Problem. Carmakers Want To Delay The Fix",
         "source": "InsideEVs - Articles",
-        "published": "Mon, 07 Sep 2026 11:51:59 +0000",
-        "url": "https://insideevs.com/news/807379/new-audi-a2-range-price-efficiency-official/",
+        "published": "Tue, 08 Sep 2026 10:34:22 +0000",
+        "url": "https://insideevs.com/news/807501/phev-emissions-six-times-higher/",
         "is_priority": false
       },
       {
-        "title": "Mitsubishi Shows Ralliart Pajero Concept, Then Says It Won't Be Built",
+        "title": "VW Polo Rear-Ends Bugatti Tourbillon Prototype, Video Shows The Moment",
         "source": "Motor1.com - News",
-        "published": "Mon, 07 Sep 2026 11:47:39 +0000",
-        "url": "https://www.motor1.com/news/807380/mitsubishi-pajero-rally-concept-ralliart/",
+        "published": "Tue, 08 Sep 2026 10:33:52 +0000",
+        "url": "https://www.motor1.com/news/807500/volkswagen-polo-hits-bugatti-tourbillon/",
         "is_priority": false
       },
       {
-        "title": "How Monza introduced oval-like slipstream racing to F1",
-        "source": "Autosport.com - All - Stories",
-        "published": "Mon, 07 Sep 2026 11:42:31 +0000",
-        "url": "https://www.autosport.com/f1/news/how-monza-introduced-oval-like-slipstream-racing-to-f1/10853410/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-ALL&utm_term=News&utm_content=uk",
+        "title": "2027 Chevrolet Bolt 70-MPH Range Test: Here’s How Far America’s Cheapest EV Goes",
+        "source": "InsideEVs - Articles",
+        "published": "Tue, 08 Sep 2026 10:32:07 +0000",
+        "url": "https://insideevs.com/news/807502/2027-chevrolet-bolt-ev-70-mph-highway-range-test/",
         "is_priority": false
       },
       {
-        "title": "After Chrysler Bought AMC, We Almost Got This V8 Sports Sedan",
+        "title": "ENGWE’s new E26 3.0 e-bike packs dual motors, full suspension, and half a deer",
+        "source": "Electrek",
+        "published": "Tue, 08 Sep 2026 10:22:51 +0000",
+        "url": "https://electrek.co/2026/09/08/engwes-new-e26-3-0-packs-dual-motors-full-suspension-and-tons-of-torque/",
+        "is_priority": false
+      },
+      {
+        "title": "7 Rare Engine Issues And The Signs One Of Them Is Happening To You",
         "source": "Jalopnik - Obsessed with the culture of cars",
-        "published": "Mon, 07 Sep 2026 11:25:00 +0000",
-        "url": "https://www.jalopnik.com/2251123/chrysler-amc-eagle-vision-optima-v8-sports-sedan/",
+        "published": "Tue, 08 Sep 2026 09:25:00 +0000",
+        "url": "https://www.jalopnik.com/2251369/rare-engine-issues-signs-one-is-happening/",
         "is_priority": false
       },
       {
-        "title": "What WRC’s new promoter wants from its events",
-        "source": "Autosport.com - All - Stories",
-        "published": "Mon, 07 Sep 2026 10:53:40 +0000",
-        "url": "https://www.autosport.com/wrc/news/what-wrcs-new-promoter-wants-from-its-events/10853371/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-ALL&utm_term=News&utm_content=uk",
+        "title": "Polestar’s New Concept Hints At What’s Coming To Its Next Two EVs",
+        "source": "InsideEVs - Articles",
+        "published": "Tue, 08 Sep 2026 09:22:41 +0000",
+        "url": "https://insideevs.com/news/807486/polestar-formula-2030-concept-teaser/",
         "is_priority": false
       },
       {
-        "title": "Italy’s Police Get a 907-HP Lamborghini Temerario",
+        "title": "BMW Turns iX3 Owners Into Real-World Safety Testers, If They Opt In",
         "source": "Motor1.com - News",
-        "published": "Mon, 07 Sep 2026 10:44:11 +0000",
-        "url": "https://www.motor1.com/news/807362/lamborghini-temerario-police-car/",
+        "published": "Tue, 08 Sep 2026 09:17:17 +0000",
+        "url": "https://www.motor1.com/news/807485/bmw-ix3-fleet-data-eu/",
         "is_priority": false
       },
       {
-        "title": "What doesn't make sense about Hamilton and Leclerc's Italian GP clash",
-        "source": "Autosport.com - All - Stories",
-        "published": "Mon, 07 Sep 2026 10:35:13 +0000",
-        "url": "https://www.autosport.com/f1/news/what-doesnt-make-sense-about-hamilton-and-leclercs-italian-gp-clash/10853389/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-ALL&utm_term=News&utm_content=uk",
-        "is_priority": false
-      },
-      {
-        "title": "Collard/Cook's Donington Park win causes huge British GT title swing",
-        "source": "Autosport.com - All - Stories",
-        "published": "Mon, 07 Sep 2026 10:29:46 +0000",
-        "url": "https://www.autosport.com/BGT/news/collard-cooks-donington-park-win-causes-huge-british-gt-title-swing/10853359/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-ALL&utm_term=News&utm_content=uk",
-        "is_priority": false
-      },
-      {
-        "title": "NHTSA Opens Audit Into Tesla Cybercab Hours After Austin Ride Launch",
+        "title": "Mercedes' Next Off-Roader Could Literally Float, Patent Shows",
         "source": "Motor1.com - News",
-        "published": "Mon, 07 Sep 2026 10:21:31 +0000",
-        "url": "https://www.motor1.com/news/807353/tesla-cybercab-under-nhtsa-probe/",
+        "published": "Tue, 08 Sep 2026 08:18:18 +0000",
+        "url": "https://www.motor1.com/news/807475/mercedes-off-roader-patent-describes/",
         "is_priority": false
       },
       {
-        "title": "This Is The Best Used Subaru For Retirees",
-        "source": "Jalopnik - Obsessed with the culture of cars",
-        "published": "Mon, 07 Sep 2026 09:25:00 +0000",
-        "url": "https://www.jalopnik.com/2251072/best-used-subaru-for-retirees/",
+        "title": "A Mercedes-Backed Company Just Put Solid-State Batteries Into Mass Production",
+        "source": "InsideEVs - Articles",
+        "published": "Tue, 08 Sep 2026 07:48:13 +0000",
+        "url": "https://insideevs.com/news/807472/solid-state-battery-mass-production-prologium/",
         "is_priority": false
       },
       {
-        "title": "Jaguar Land Rover Opens Voluntary Layoffs, Are 4,000 Jobs Really At Risk?",
+        "title": "Amazon Cargo Jet Skids Off Runway, Stops Feet From Parked Tesla Cybercabs",
         "source": "Motor1.com - News",
-        "published": "Mon, 07 Sep 2026 09:11:11 +0000",
-        "url": "https://www.motor1.com/news/807337/jaguar-land-rover-voluntary-job/",
+        "published": "Tue, 08 Sep 2026 07:15:07 +0000",
+        "url": "https://www.motor1.com/news/807465/tesla-cybercabs-nearly-hit-amazon/",
+        "is_priority": false
+      },
+      {
+        "title": "The New BMW 3 Series Gets A More Powerful Six-Cylinder Engine",
+        "source": "Motor1.com - News",
+        "published": "Tue, 08 Sep 2026 06:09:06 +0000",
+        "url": "https://www.motor1.com/news/807455/2027-bmw-3-series-m350-details-photos/",
+        "is_priority": false
+      },
+      {
+        "title": "This Armored Grenadier Could Replace The British Army's Land Rovers",
+        "source": "Motor1.com - News",
+        "published": "Tue, 08 Sep 2026 06:08:11 +0000",
+        "url": "https://www.motor1.com/news/807458/armored-ineos-grenadier-epv-british/",
+        "is_priority": false
+      },
+      {
+        "title": "Dacia’s Answer To Cheap Chinese EVs Used To Be One. Now It’s European",
+        "source": "InsideEVs - Articles",
+        "published": "Tue, 08 Sep 2026 05:24:40 +0000",
+        "url": "https://insideevs.com/news/807452/all-new-dacia-spring-revealed/",
         "is_priority": false
       }
     ],
     "Portugal": [
       {
-        "title": "Governo investe mais de 17 milhões de euros em equipamentos informáticos na Justiça",
-        "source": "ECO",
-        "published": "Mon, 07 Sep 2026 13:22:08 +0000",
-        "url": "https://eco.sapo.pt/2026/09/07/governo-investe-mais-de-17-milhoes-de-euros-em-equipamentos-informaticos-na-justica/",
-        "is_priority": true
-      },
-      {
-        "title": "FNE quer saber quantos professores faltam nas escolas",
+        "title": "Espanha. Ursos pardos recuperam e podem ser já mais de 500",
         "source": "Observador - Últimas",
-        "published": "Mon, 07 Sep 2026 14:21:48 +0100",
-        "url": "https://observador.pt/2026/09/07/federacao-nacional-de-educacao-pede-esclarecimentos-sobre-quantos-professores-faltam-nas-escolas-para-abertura-do-ano-letivo/",
+        "published": "Tue, 08 Sep 2026 12:58:35 +0100",
+        "url": "https://observador.pt/2026/09/08/espanha-outrora-quase-extintos-ursos-pardos-podem-chegar-aos-500-mas-especie-continua-ameacada/",
         "is_priority": true
       },
       {
-        "title": "Israel ameaça Autoridade Palestiniana com \"guerra total\"",
+        "title": "Porto determina \"abate urgente\" de 19 árvores nos Aliados",
         "source": "Observador - Últimas",
-        "published": "Mon, 07 Sep 2026 14:19:09 +0100",
-        "url": "https://observador.pt/2026/09/07/ministro-da-defesa-de-israel-ameaca-autoridade-palestiniana-com-guerra-total/",
+        "published": "Tue, 08 Sep 2026 12:55:23 +0100",
+        "url": "https://observador.pt/2026/09/08/camara-do-porto-determina-abate-urgente-de-19-arvores-na-avenida-dos-aliados/",
         "is_priority": true
       },
       {
-        "title": "União Europeia deteta falhas em anúncios online",
+        "title": "Açores. PS quer afirmar-se como alternativa política",
         "source": "Observador - Últimas",
-        "published": "Mon, 07 Sep 2026 14:18:28 +0100",
-        "url": "https://observador.pt/2026/09/07/uniao-europeia-deteta-falhas-em-anuncios-online-de-produtos-para-criancas-e-ginasios/",
+        "published": "Tue, 08 Sep 2026 12:49:24 +0100",
+        "url": "https://observador.pt/2026/09/08/lider-do-ps-acores-diz-que-o-partido-tem-de-se-afirmar-como-alternativa-politica/",
         "is_priority": true
       },
       {
-        "title": "Governo prepara bonificação do gasóleo agrícola",
-        "source": "Observador - Últimas",
-        "published": "Mon, 07 Sep 2026 14:17:19 +0100",
-        "url": "https://observador.pt/2026/09/07/governo-prepara-bonificacao-do-gasoleo-agricola-para-travar-impacto-nos-precos-dos-alimentos/",
-        "is_priority": true
-      },
-      {
-        "title": "Justiça recebe 24 mil equipamentos até dezembro",
-        "source": "Observador - Últimas",
-        "published": "Mon, 07 Sep 2026 14:16:07 +0100",
-        "url": "https://observador.pt/2026/09/07/servicos-da-justica-vao-receber-mais-de-24-mil-equipamentos-informaticos-ate-dezembro/",
-        "is_priority": true
-      },
-      {
-        "title": "Sofia Correia de Barros sucede a Ana Rita Bessa na Leya",
-        "source": "Observador - Últimas",
-        "published": "Mon, 07 Sep 2026 14:15:04 +0100",
-        "url": "https://observador.pt/2026/09/07/sofia-correia-de-barros-sucede-a-ana-rita-bessa-na-presidencia-executiva-do-grupo-leya/",
-        "is_priority": true
-      },
-      {
-        "title": "As notícias das 14h",
-        "source": "Observador - Últimas",
-        "published": "Mon, 07 Sep 2026 14:14:56 +0100",
-        "url": "https://observador.pt/programas/noticiario/as-noticias-das-14h-2468/",
-        "is_priority": true
-      },
-      {
-        "title": "FC Porto lamenta perda de \"figura marcante\" da cidade após morte de Nuno Cardoso",
+        "title": "Três meios aéreos combateram incêndio na Azambuja",
         "source": "Correio da Manhã",
-        "published": "Mon, 07 Sep 2026 14:13:21 +0100",
-        "url": "https://www.cmjornal.pt/politica/detalhe/fc-porto-lamenta-perda-de-figura-marcante-da-cidade-apos-morte-de-nuno-cardoso",
+        "published": "Tue, 08 Sep 2026 12:48:31 +0100",
+        "url": "https://www.cmjornal.pt/cmtv/videos/detalhe/tres-meios-aereos-combateram-incendio-na-azambuja",
         "is_priority": true
+      },
+      {
+        "title": "E-goi reforça ligação ao mercado brasileiro com nova edição do Business Connection",
+        "source": "dn",
+        "published": "Tue, 08 Sep 2026 11:42:12 +0000",
+        "url": "https://www.dn.pt/brand-story/e-goi-refora-ligao-ao-mercado-brasileiro-com-nova-edio-do-business-connection-2",
+        "is_priority": true
+      },
+      {
+        "title": "Reino Unido anuncia envio de 116 milhões de euros a Kiev para defesa aérea",
+        "source": "ECO",
+        "published": "Tue, 08 Sep 2026 11:41:27 +0000",
+        "url": "https://eco.sapo.pt/2026/09/08/reino-unido-anuncia-envio-de-116-milhoes-de-euros-a-kiev-para-defesa-aerea/",
+        "is_priority": true
+      },
+      {
+        "title": "Ex-'patrão' da Fórmula 1 detido com shotgun no Aeródromo de Tires",
+        "source": "Correio da Manhã",
+        "published": "Tue, 08 Sep 2026 12:41:01 +0100",
+        "url": "https://www.cmjornal.pt/cmtv/videos/detalhe/20260908-124101-ex-patrao-da-formula-1-detido-com-shotgun-no-aerodromo-de-tires",
+        "is_priority": true
+      },
+      {
+        "title": "Rixa em bar francês acaba com cinco condenações para portugueses",
+        "source": "Correio da Manhã",
+        "published": "Tue, 08 Sep 2026 12:40:41 +0100",
+        "url": "https://www.cmjornal.pt/portugal/detalhe/rixa-em-bar-frances-acaba-com-cinco-condenacoes-para-portugueses",
+        "is_priority": true
+      },
+      {
+        "title": "Mota-Engil e Sacyr reeditam disputa pelo metro de Bogotá",
+        "source": "Jornal de Negocios",
+        "published": "Tue, 08 Sep 2026 12:39:39 +0100",
+        "url": "https://www.jornaldenegocios.pt/empresas/transportes/detalhe/mota-engil-e-sacyr-reeditam-disputa-pelo-metro-de-bogota",
+        "is_priority": true
+      },
+      {
+        "title": "War criminal Ratko Mladic buried with military honors in Belgrade, Serbia",
+        "source": "Deutsche Welle: DW.com - Europe",
+        "published": "2026-09-08T12:02:49.938309+00:00",
+        "url": "https://www.dw.com/en/war-criminal-ratko-mladic-buried-with-military-honors-in-belgrade-serbia/a-79148678?maca=en-rss-en-eu-2092-rdf",
+        "is_priority": false
       },
       {
         "title": "US envoys Witkoff and Kushner hold Ukraine talks after meeting Putin",
         "source": "Deutsche Welle: DW.com - Europe",
-        "published": "2026-09-07T13:22:42.396332+00:00",
+        "published": "2026-09-08T12:02:49.938336+00:00",
         "url": "https://www.dw.com/en/us-envoys-witkoff-and-kushner-hold-ukraine-talks-after-meeting-putin/a-79054779?maca=en-rss-en-eu-2092-rdf",
         "is_priority": false
       },
       {
         "title": "Germany, Kosovo unite against ticks carrying deadly virus",
         "source": "Deutsche Welle: DW.com - Europe",
-        "published": "2026-09-07T13:22:42.396360+00:00",
+        "published": "2026-09-08T12:02:49.938351+00:00",
         "url": "https://www.dw.com/en/germany-kosovo-unite-against-ticks-carrying-deadly-virus/a-78655223?maca=en-rss-en-eu-2092-rdf",
         "is_priority": false
       },
       {
         "title": "Hungary begins hunt for corrupt regime's billions",
         "source": "Deutsche Welle: DW.com - Europe",
-        "published": "2026-09-07T13:22:42.396374+00:00",
+        "published": "2026-09-08T12:02:49.938365+00:00",
         "url": "https://www.dw.com/en/hungary-begins-hunt-for-corrupt-regime-s-billions/a-79047176?maca=en-rss-en-eu-2092-rdf",
         "is_priority": false
       },
       {
         "title": "Outrage as Maltese tycoon acquitted in journalist's murder",
         "source": "Deutsche Welle: DW.com - Europe",
-        "published": "2026-09-07T13:22:42.396386+00:00",
+        "published": "2026-09-08T12:02:49.938378+00:00",
         "url": "https://www.dw.com/en/outrage-as-maltese-tycoon-acquitted-in-journalist-s-murder/a-79027008?maca=en-rss-en-eu-2092-rdf",
         "is_priority": false
       },
       {
         "title": "Serbia: How the funeral of Ratko Mladic is dividing a nation",
         "source": "Deutsche Welle: DW.com - Europe",
-        "published": "2026-09-07T13:22:42.396399+00:00",
+        "published": "2026-09-08T12:02:49.938391+00:00",
         "url": "https://www.dw.com/en/serbia-how-the-funeral-of-ratko-mladic-is-dividing-a-nation/a-78948890?maca=en-rss-en-eu-2092-rdf",
-        "is_priority": false
-      },
-      {
-        "title": "Norway seizes Russian ship in Svalbard to compensate Ukraine",
-        "source": "Deutsche Welle: DW.com - Europe",
-        "published": "2026-09-07T13:22:42.396411+00:00",
-        "url": "https://www.dw.com/en/norway-seizes-russian-ship-in-svalbard-to-compensate-ukraine/a-78889005?maca=en-rss-en-eu-2092-rdf",
         "is_priority": false
       }
     ]

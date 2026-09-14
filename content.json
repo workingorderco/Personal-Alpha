@@ -1,538 +1,538 @@
 {
-  "built_at": "2026-09-13T12:42:06.107389+00:00",
+  "built_at": "2026-09-14T13:46:25.903518+00:00",
   "sections": {
     "Finance": [
       {
-        "title": "Saudi pipeline outage threatens loss of 4% of global oil supply",
+        "title": "Brent crude tops $108 after Saudi Arabia shuts down critical pipeline that bypasses Strait of Hormuz",
+        "source": "US Top News and Analysis",
+        "published": "Mon, 14 Sep 2026 13:42:31 GMT",
+        "url": "https://www.cnbc.com/2026/09/13/oil-price-iran-war-strait-hormuz-saudi-pipeline.html",
+        "is_priority": false
+      },
+      {
+        "title": "Stocks fall as investors weigh calls for AI slowdown, oil gains: Live updates",
+        "source": "US Top News and Analysis",
+        "published": "Mon, 14 Sep 2026 13:40:33 GMT",
+        "url": "https://www.cnbc.com/2026/09/13/stock-futures-today-live-updates.html",
+        "is_priority": false
+      },
+      {
+        "title": "Tech Stocks Tumble After AI Leaders Call for Industry to Slow Down",
+        "source": "NYT > Business",
+        "published": "Mon, 14 Sep 2026 13:38:49 +0000",
+        "url": "https://www.nytimes.com/2026/09/14/business/tech-stocks-ai.html",
+        "is_priority": false
+      },
+      {
+        "title": "OpenAI boss Sam Altman spells out how and why the AI industry wants to slow down: 'We could lose control'",
+        "source": "US Top News and Analysis",
+        "published": "Mon, 14 Sep 2026 13:38:48 GMT",
+        "url": "https://www.cnbc.com/2026/09/14/sam-altman-ai-slowdown-anthropic-amodei-musk.html",
+        "is_priority": false
+      },
+      {
+        "title": "Microsoft sets limits for future AI models as industry throttles frontier development",
+        "source": "US Top News and Analysis",
+        "published": "Mon, 14 Sep 2026 13:38:03 GMT",
+        "url": "https://www.cnbc.com/2026/09/14/microsoft-ai-model-limits-anthropic-openai.html",
+        "is_priority": false
+      },
+      {
+        "title": "Micron, Nvidia and other chip stocks fall after tech leaders call for an AI slowdown. Here’s what to know.",
+        "source": "MarketWatch.com - Top Stories",
+        "published": "Mon, 14 Sep 2026 13:37:00 GMT",
+        "url": "https://www.marketwatch.com/story/how-investors-are-reacting-to-the-ai-pause-calls-from-anthropic-and-other-frontier-labs-f69391b8?mod=mw_rss_topstories",
+        "is_priority": false
+      },
+      {
+        "title": "Aquestive at H.C. Wainwright conference: anaphylm launch in focus",
         "source": "All News",
-        "published": "2026-09-13 12:30:24",
-        "url": "https://www.investing.com/news/commodities-news/saudi-pipeline-outage-threatens-loss-of-4-of-global-oil-supply-4898730",
+        "published": "2026-09-14 13:36:19",
+        "url": "https://www.investing.com/news/transcripts/aquestive-at-hc-wainwright-conference-anaphylm-launch-in-focus-93CH-4899803",
         "is_priority": false
       },
       {
-        "title": "OpenAI rules out IPO this year as Altman, Musk & Amodei warn AI is moving too fast",
-        "source": "US Top News and Analysis",
-        "published": "Sun, 13 Sep 2026 12:29:49 GMT",
-        "url": "https://www.cnbc.com/2026/09/12/anthropics-amodei-proposes-plan-to-slow-the-pace-of-advancing-ai-capabilities.html",
-        "is_priority": false
-      },
-      {
-        "title": "Pacific Island Bougainville Vows Action After Alleged Mine Arson",
-        "source": "Bloomberg Markets",
-        "published": "Sun, 13 Sep 2026 12:22:59 GMT",
-        "url": "https://www.bloomberg.com/news/articles/2026-09-13/pacific-island-bougainville-vows-action-after-alleged-mine-arson",
-        "is_priority": false
-      },
-      {
-        "title": "New report of attack on Strait of Hormuz shipping fans fears of threats to oil supplies",
+        "title": "All eyes on Kestra Medical earnings amid defibrillator market push",
         "source": "All News",
-        "published": "2026-09-13 12:12:24",
-        "url": "https://www.investing.com/news/commodities-news/new-report-of-attack-on-strait-of-hormuz-shipping-fans-fears-of-threats-to-oil-supplies-4898701",
+        "published": "2026-09-14 13:35:37",
+        "url": "https://www.investing.com/news/earnings/all-eyes-on-kestra-medical-earnings-amid-defibrillator-market-push-93CH-4899802",
         "is_priority": false
       },
       {
-        "title": "Can Scotland’s Abundant Wind Power a Data Center Boom?",
-        "source": "Bloomberg Markets",
-        "published": "Sun, 13 Sep 2026 12:03:54 GMT",
-        "url": "https://www.bloomberg.com/news/videos/2026-09-13/can-scotland-s-abundant-wind-power-a-data-center-boom-video",
-        "is_priority": false
-      },
-      {
-        "title": "Goldman picks China healthcare stocks for a post-AI trade",
-        "source": "US Top News and Analysis",
-        "published": "Sun, 13 Sep 2026 11:54:40 GMT",
-        "url": "https://www.cnbc.com/2026/09/13/goldman-picks-china-healthcare-stocks-for-a-post-ai-trade.html",
-        "is_priority": false
-      },
-      {
-        "title": "Top Wall Street analysts recommend these 3 dividend stocks for higher returns",
-        "source": "US Top News and Analysis",
-        "published": "Sun, 13 Sep 2026 11:53:35 GMT",
-        "url": "https://www.cnbc.com/2026/09/13/top-wall-street-analysts-recommend-these-3-dividend-stocks-for-higher-returns.html",
-        "is_priority": false
-      },
-      {
-        "title": "NFL and midterm elections set up prediction markets for a critical fall season",
-        "source": "US Top News and Analysis",
-        "published": "Sun, 13 Sep 2026 11:52:33 GMT",
-        "url": "https://www.cnbc.com/2026/09/13/nfl-and-midterms-mark-key-fall-season-for-prediction-markets.html",
-        "is_priority": false
-      },
-      {
-        "title": "Xi says China will take lead to foster AI, tech cooperation among BRICS countries",
-        "source": "US Top News and Analysis",
-        "published": "Sun, 13 Sep 2026 11:17:12 GMT",
-        "url": "https://www.cnbc.com/2026/09/13/china-xi-ai-tech-brics.html",
-        "is_priority": false
-      },
-      {
-        "title": "InvestingPro’s Fair Value spotted 65% gain in Inspire Medical stock",
+        "title": "Nasdaq leads U.S. stocks lower at the open on AI development slowdown calls",
         "source": "All News",
-        "published": "2026-09-13 11:09:05",
-        "url": "https://www.investing.com/news/investment-ideas/investingpros-fair-value-spotted-65-gain-in-inspire-medical-stock-93CH-4898728",
+        "published": "2026-09-14 13:35:18",
+        "url": "https://www.investing.com/news/stock-market-news/us-stock-futures-slide-on-calls-to-slow-ai-development-meast-escalation-4898779",
         "is_priority": false
       },
       {
-        "title": "InvestingPro Fair Value predicted 57% drop in Rackspace Technology",
+        "title": "Dropbox stock hits 52-week high at 36.42 USD",
         "source": "All News",
-        "published": "2026-09-13 11:01:46",
-        "url": "https://www.investing.com/news/investment-ideas/investingpro-fair-value-predicted-57-drop-in-rackspace-technology-93CH-4898727",
+        "published": "2026-09-14 13:34:48",
+        "url": "https://www.investing.com/news/company-news/dropbox-stock-hits-52week-high-at-3642-usd-93CH-4899801",
         "is_priority": false
       },
       {
-        "title": "Ukraine Says Passenger Train Headed to Warsaw Hit by Drone",
-        "source": "Bloomberg Markets",
-        "published": "Sun, 13 Sep 2026 10:52:02 GMT",
-        "url": "https://www.bloomberg.com/news/articles/2026-09-13/ukraine-says-passenger-train-headed-to-warsaw-is-hit-by-drone",
-        "is_priority": false
-      },
-      {
-        "title": "Iran and UAE back joint BRICS statement urging restraint in war",
-        "source": "US Top News and Analysis",
-        "published": "Sun, 13 Sep 2026 10:38:08 GMT",
-        "url": "https://www.cnbc.com/2026/09/13/iran-and-uae-back-joint-brics-statement-urging-restraint-in-war.html",
-        "is_priority": false
-      },
-      {
-        "title": "Senegal Raises $179 Million as Debt Rework Tests Local Market",
-        "source": "Bloomberg Markets",
-        "published": "Sun, 13 Sep 2026 10:36:15 GMT",
-        "url": "https://www.bloomberg.com/news/articles/2026-09-13/senegal-raises-179-million-as-debt-rework-tests-local-market",
-        "is_priority": false
-      },
-      {
-        "title": "Street calls of the week: Sept. 7–11, 2026",
+        "title": "Why is Crown Castle stock sliding today?",
         "source": "All News",
-        "published": "2026-09-13 10:00:03",
-        "url": "https://www.investing.com/news/stock-market-news/street-calls-of-the-week-sept-711-2026-93CH-4898686",
+        "published": "2026-09-14 13:34:43",
+        "url": "https://www.investing.com/news/stock-market-news/why-is-crown-castle-stock-sliding-today-93CH-4899800",
+        "is_priority": false
+      },
+      {
+        "title": "Oil Prices Jump on Energy Supply Worries",
+        "source": "NYT > Business",
+        "published": "Mon, 14 Sep 2026 13:34:25 +0000",
+        "url": "https://www.nytimes.com/2026/09/13/business/oil-prices-iran-war.html",
+        "is_priority": false
+      },
+      {
+        "title": "A10 Networks appoints Mary C. Henry to board of directors, expands board size",
+        "source": "All News",
+        "published": "2026-09-14 13:33:16",
+        "url": "https://www.investing.com/news/sec-filings/a10-networks-appoints-mary-c-henry-to-board-of-directors-expands-board-size-93CH-4899799",
+        "is_priority": false
+      },
+      {
+        "title": "GXO stock hits 52-week low at 44.99 USD",
+        "source": "All News",
+        "published": "2026-09-14 13:32:47",
+        "url": "https://www.investing.com/news/company-news/gxo-stock-hits-52week-low-at-4499-usd-93CH-4899793",
+        "is_priority": false
+      },
+      {
+        "title": "DoubleVerify stock hits 52-week high at 13.65 USD",
+        "source": "All News",
+        "published": "2026-09-14 13:32:43",
+        "url": "https://www.investing.com/news/company-news/doubleverify-stock-hits-52week-high-at-1365-usd-93CH-4899792",
         "is_priority": false
       }
     ],
     "World News": [
       {
-        "title": "Rangers v Celtic: Scottish League Cup quarter-final – live",
+        "title": "Kennedy Center reportedly on brink of bankruptcy and could close as early as Tuesday",
         "source": "The Guardian",
-        "published": "Sun, 13 Sep 2026 12:36:45 GMT",
-        "url": "https://www.theguardian.com/football/live/2026/sep/13/rangers-v-celtic-scottish-league-cup-quarter-final-live",
+        "published": "Mon, 14 Sep 2026 13:35:54 GMT",
+        "url": "https://www.theguardian.com/us-news/2026/sep/14/kennedy-center-bankruptcy-trump",
         "is_priority": false
       },
       {
-        "title": "Solheim Cup golf 2026: final day – Europe make flying start",
-        "source": "The Guardian",
-        "published": "Sun, 13 Sep 2026 12:36:33 GMT",
-        "url": "https://www.theguardian.com/sport/live/2026/sep/13/solheim-cup-golf-2026-final-day-live",
-        "is_priority": false
-      },
-      {
-        "title": "Manchester United v Chelsea: Women’s Super League – live",
-        "source": "The Guardian",
-        "published": "Sun, 13 Sep 2026 12:35:57 GMT",
-        "url": "https://www.theguardian.com/football/live/2026/sep/13/manchester-united-v-chelsea-womens-super-league-live",
-        "is_priority": false
-      },
-      {
-        "title": "Surging inflation puts interest rates back in focus as policymakers meet in Japan, US and UK",
-        "source": "The Guardian",
-        "published": "Sun, 13 Sep 2026 12:33:16 GMT",
-        "url": "https://www.theguardian.com/business/2026/sep/13/interest-rates-predicted-rise-us-uk-inflation-fears",
-        "is_priority": false
-      },
-      {
-        "title": "Trash Mountain review – Caleb Hearon’s coming home indie is a funny if familiar journey",
-        "source": "The Guardian",
-        "published": "Sun, 13 Sep 2026 12:28:16 GMT",
-        "url": "https://www.theguardian.com/film/2026/sep/13/trash-mountain-review-caleb-hearon",
-        "is_priority": false
-      },
-      {
-        "title": "At least six dead and 130 missing after Indonesian ferry capsizes, officials say",
+        "title": "Swedish centre-left opposition widens lead to three seats with 95% of votes counted – Europe live",
         "source": "World news | The Guardian",
-        "published": "Sun, 13 Sep 2026 12:18:49 GMT",
-        "url": "https://www.theguardian.com/world/2026/sep/13/indonesian-rescue-crews-searching-for-140-people-after-ferry-hit-bad-weather",
+        "published": "Mon, 14 Sep 2026 13:23:39 GMT",
+        "url": "https://www.theguardian.com/world/live/2026/sep/14/sweden-election-magdalena-andersson-social-democrats-centre-left-latest-news-updates",
         "is_priority": false
       },
       {
-        "title": "Reform’s Robert Jenrick ‘very confident’ £72m donations are ‘perfectly legal’ – UK politics live",
+        "title": "Westminster’s time is ‘coming to an end’, say first ministers of UK’s Celtic nations",
         "source": "World news | The Guardian",
-        "published": "Sun, 13 Sep 2026 12:16:57 GMT",
-        "url": "https://www.theguardian.com/politics/live/2026/sep/13/reform-uk-nigel-farage-robert-jenrick-christopher-harborne-ben-delo-donations-funding-anthropic-ai-uk-politics-latest-news-updates",
+        "published": "Mon, 14 Sep 2026 13:21:16 GMT",
+        "url": "https://www.theguardian.com/politics/2026/sep/14/westminster-first-ministers-uk-celtic-nations-wales-northern-ireland-scotland",
         "is_priority": false
       },
       {
-        "title": "Spanish Grand Prix: Formula One – live",
-        "source": "The Guardian",
-        "published": "Sun, 13 Sep 2026 12:12:39 GMT",
-        "url": "https://www.theguardian.com/sport/live/2026/sep/13/spanish-grand-prix-formula-one-live",
-        "is_priority": false
-      },
-      {
-        "title": "India vs Sri Lanka live: Asia Cup final",
+        "title": "‘Attacks will be fully autonomous’: Russia, Ukraine race towards AI warfare",
         "source": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
-        "published": "Sun, 13 Sep 2026 12:06:09 +0000",
-        "url": "https://www.aljazeera.com/sports/liveblog/2026/9/13/india-vs-sri-lanka-live-asia-cup-final?traffic_source=rss",
+        "published": "Mon, 14 Sep 2026 13:20:50 +0000",
+        "url": "https://www.aljazeera.com/news/2026/9/14/attacks-will-be-fully-autonomous-russia-ukraine-race-towards-ai-warfare?traffic_source=rss",
         "is_priority": false
       },
       {
-        "title": "BRICS summit 2026: What are the key takeaways?",
+        "title": "A royal cavalry and beating a drum: photos of the day – Monday",
+        "source": "The Guardian",
+        "published": "Mon, 14 Sep 2026 13:20:12 GMT",
+        "url": "https://www.theguardian.com/news/gallery/2026/sep/14/royal-cavalry-and-beating-drum-photos-of-the-day-monday",
+        "is_priority": false
+      },
+      {
+        "title": "Why Scandals Don’t Bring Down Politicians Anymore",
+        "source": "NYT > World News",
+        "published": "Mon, 14 Sep 2026 13:18:36 +0000",
+        "url": "https://www.nytimes.com/2026/09/14/world/scandal-shame-politics-polarization.html",
+        "is_priority": false
+      },
+      {
+        "title": "Why Saudi Arabia’s East-West pipeline matters for global oil",
         "source": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
-        "published": "Sun, 13 Sep 2026 12:04:39 +0000",
-        "url": "https://www.aljazeera.com/news/2026/9/13/brics-summit-2026-what-are-the-key-takeaways?traffic_source=rss",
+        "published": "Mon, 14 Sep 2026 13:15:14 +0000",
+        "url": "https://www.aljazeera.com/news/2026/9/14/why-saudi-arabias-east-west-pipeline-matters-for-global-oil?traffic_source=rss",
         "is_priority": false
       },
       {
-        "title": "Pressure builds in Spain to deny US extradition request for leftwing donor",
+        "title": "The drought abides: US men still without a major since 2003 despite Shelton’s heroics",
+        "source": "The Guardian",
+        "published": "Mon, 14 Sep 2026 13:12:18 GMT",
+        "url": "https://www.theguardian.com/sport/2026/sep/14/ben-shelton-us-open-2026-tennis",
+        "is_priority": false
+      },
+      {
+        "title": "US environment agency reportedly set to scrap power-plant pollution limits – live",
         "source": "World news | The Guardian",
-        "published": "Sun, 13 Sep 2026 12:00:03 GMT",
-        "url": "https://www.theguardian.com/world/2026/sep/13/spain-james-fergie-chambers-extradition-request",
+        "published": "Mon, 14 Sep 2026 13:07:56 GMT",
+        "url": "https://www.theguardian.com/us-news/live/2026/sep/14/donald-trump-mail-in-voting-supreme-court-blocked-ukraine-oil-diplomat-latest-news-updates",
         "is_priority": false
       },
       {
-        "title": "How to make chocolate mousse – recipe | Felicity Cloake's Masterclass",
-        "source": "The Guardian",
-        "published": "Sun, 13 Sep 2026 12:00:03 GMT",
-        "url": "https://www.theguardian.com/food/2026/sep/13/chocolate-mousse-recipe-felicity-cloake",
-        "is_priority": false
-      },
-      {
-        "title": "‘He would have been the center of everything’: the art exhibition imagining if Emmett Till lived",
-        "source": "The Guardian",
-        "published": "Sun, 13 Sep 2026 12:00:02 GMT",
-        "url": "https://www.theguardian.com/artanddesign/ng-interactive/2026/sep/13/if-emmett-till-lived-exhibition-chicago",
-        "is_priority": false
-      },
-      {
-        "title": "Iran Will Meet With Gulf Arab States as Mideast Conflict Widens",
+        "title": "Saudi Arabia Faces ‘Worst-Case Scenario’ After Iran’s Attacks and Trump’s Rebuffs",
         "source": "NYT > World News",
-        "published": "Sun, 13 Sep 2026 11:52:17 +0000",
-        "url": "https://www.nytimes.com/2026/09/13/world/middleeast/iran-meeting-gulf-arab-states.html",
+        "published": "Mon, 14 Sep 2026 13:07:09 +0000",
+        "url": "https://www.nytimes.com/2026/09/14/world/middleeast/saudi-iran-trump-yemen-houthis.html",
         "is_priority": false
       },
       {
-        "title": "How One Man’s Quest for a Musketeer’s Bones Got Him Locked Up",
-        "source": "NYT > World News",
-        "published": "Sun, 13 Sep 2026 11:51:49 +0000",
-        "url": "https://www.nytimes.com/2026/09/13/world/europe/wim-dijkman-musketeer-bones-dartagnan.html",
+        "title": "Farage hints that Reform’s £72m donations may not be legal under new elections bill - UK politics live",
+        "source": "World news | The Guardian",
+        "published": "Mon, 14 Sep 2026 13:04:46 GMT",
+        "url": "https://www.theguardian.com/politics/live/2026/sep/14/reform-uk-political-donations-cap-richard-tice-ben-delo-christopher-harborne-latest-news-updates",
+        "is_priority": false
+      },
+      {
+        "title": "Polanski the first managerial victim of Bundesliga season as Gladbach fail again | Andy Brassell",
+        "source": "The Guardian",
+        "published": "Mon, 14 Sep 2026 13:03:47 GMT",
+        "url": "https://www.theguardian.com/football/2026/sep/14/borussia-monchengladbach-eugen-polanski-bundesliga",
+        "is_priority": false
+      },
+      {
+        "title": "The London hospital funded by donors who invested in the slave trade",
+        "source": "World news | The Guardian",
+        "published": "Mon, 14 Sep 2026 13:00:58 GMT",
+        "url": "https://www.theguardian.com/uk-news/ng-interactive/2026/sep/14/london-hospital-st-barts-funded-donors-invested-slave-trade",
+        "is_priority": false
+      },
+      {
+        "title": "Beck: Ride Lonesome review – stunning end to the heartache trilogy of Sea Change and Morning Phase",
+        "source": "The Guardian",
+        "published": "Mon, 14 Sep 2026 13:00:58 GMT",
+        "url": "https://www.theguardian.com/music/2026/sep/14/beck-ride-lonesome-review-stunning-end-to-the-heartache-trilogy-of-sea-change-and-morning-phase",
+        "is_priority": false
+      },
+      {
+        "title": "Israel working to eliminate Palestinian presence from West Bank, NGO warns",
+        "source": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
+        "published": "Mon, 14 Sep 2026 12:58:12 +0000",
+        "url": "https://www.aljazeera.com/news/2026/9/14/israel-working-to-eliminate-palestinian-presence-from-west-bank-ngo-warns?traffic_source=rss",
         "is_priority": false
       }
     ],
     "Tech": [
       {
-        "title": "'Fingerprints' inside the Sun could reveal if it once swallowed a planet",
+        "title": "Satellite startup Open Cosmos raises €300m amid space frenzy",
+        "source": "Sifted",
+        "published": "Mon, 14 Sep 2026 14:00:22 GMT",
+        "url": "https://sifted.eu/articles/open-cosmos-fundraise-space/",
+        "is_priority": false
+      },
+      {
+        "title": "Volkswagen Just Built an EV That Can Go Nearly 900 Miles on a Charge",
         "source": "Hacker News: Front Page",
-        "published": "Sun, 13 Sep 2026 12:01:52 +0000",
-        "url": "https://ras.ac.uk/news-and-press/research-highlights/fingerprints-inside-sun-could-reveal-if-it-once-swallowed-planet",
+        "published": "Mon, 14 Sep 2026 13:15:05 +0000",
+        "url": "https://www.motor1.com/news/808114/vw-mission-efficiency-concept-specs-photos/",
         "is_priority": false
       },
       {
-        "title": "Your car is selling your data",
-        "source": "The Verge",
-        "published": "2026-09-13T08:00:00-04:00",
-        "url": "https://www.theverge.com/column/994172/your-car-is-selling-your-data",
-        "is_priority": false
-      },
-      {
-        "title": "Apple’s new phones are here",
-        "source": "The Verge",
-        "published": "2026-09-13T08:00:00-04:00",
-        "url": "https://www.theverge.com/tech/994218/apple-iphone-18-pro-airpods-5-meta-muse-ai-sony-headphones",
-        "is_priority": false
-      },
-      {
-        "title": "Ask HN: Career paths to consider if I am better at supporting than creating?",
-        "source": "Hacker News: Front Page",
-        "published": "Sun, 13 Sep 2026 11:47:23 +0000",
-        "url": "https://news.ycombinator.com/item?id=49682920",
-        "is_priority": false
-      },
-      {
-        "title": "I fixed a tractor using John Deere’s self-repair service. Farmers aren’t sold on it.",
-        "source": "Ars Technica - All content",
-        "published": "Sun, 13 Sep 2026 11:00:41 +0000",
-        "url": "https://arstechnica.com/gadgets/2026/09/i-fixed-a-tractor-using-john-deeres-self-repair-service-farmers-arent-sold-on-it/",
-        "is_priority": false
-      },
-      {
-        "title": "AI will transform capitalism – but how?",
+        "title": "European tech stocks hit six-week low as calls for AI slowdown worry investors – business live",
         "source": "Technology | The Guardian",
-        "published": "Sun, 13 Sep 2026 11:00:02 GMT",
-        "url": "https://www.theguardian.com/technology/2026/sep/13/ai-will-transform-capitalism-but-how",
+        "published": "Mon, 14 Sep 2026 13:03:42 GMT",
+        "url": "https://www.theguardian.com/business/live/2026/sep/14/ai-stocks-fall-development-slowdown-anthropic-openai-investors-latest-news-updates",
         "is_priority": false
       },
       {
-        "title": "The Smart Bird Feeders Everyone’s Talking About (and Actually Buying) (2026)",
-        "source": "WIRED",
-        "published": "Sun, 13 Sep 2026 11:00:00 +0000",
-        "url": "https://www.wired.com/story/best-smart-bird-feeders/",
+        "title": "Microsoft says ‘people matter more than AI’ following safety concerns",
+        "source": "The Verge",
+        "published": "2026-09-14T09:00:00-04:00",
+        "url": "https://www.theverge.com/news/994566/microsoft-humanist-ai-code-of-conduct",
         "is_priority": false
       },
       {
-        "title": "Try These 3 iOS 27 Safari Settings to Get More Out of Apple’s Browser",
-        "source": "WIRED",
-        "published": "Sun, 13 Sep 2026 10:30:00 +0000",
-        "url": "https://www.wired.com/story/iphone-settings-ios-27-safari-browser/",
-        "is_priority": false
-      },
-      {
-        "title": "Best Indoor Garden Systems I’ve Been Testing All Year (2026)",
-        "source": "WIRED",
-        "published": "Sun, 13 Sep 2026 10:30:00 +0000",
-        "url": "https://www.wired.com/gallery/best-indoor-gardening-systems/",
-        "is_priority": false
-      },
-      {
-        "title": "Nvidia dismisses \"circular financing\", says every $1 it invests brings back $100",
+        "title": "What a time to be alive – rouge AI agents attack RubyGems.org",
         "source": "Hacker News: Front Page",
-        "published": "Sun, 13 Sep 2026 10:29:18 +0000",
-        "url": "https://invezz.com/news/2026/09/11/nvidia-says-every-1-it-invests-brings-back-100-so-why-does-the-stock-keep-falling/",
+        "published": "Mon, 14 Sep 2026 12:40:57 +0000",
+        "url": "https://tenderlovemaking.com/2026/09/11/what-a-time-to-be-alive/",
         "is_priority": false
       },
       {
-        "title": "Coway Airmega Halo Review: Is Your Air Really Clean?",
-        "source": "WIRED",
-        "published": "Sun, 13 Sep 2026 10:05:00 +0000",
-        "url": "https://www.wired.com/review/coway-airmega-halo/",
-        "is_priority": false
-      },
-      {
-        "title": "AI Agents Are Thirsty for Power",
-        "source": "WIRED",
-        "published": "Sun, 13 Sep 2026 10:00:00 +0000",
-        "url": "https://www.wired.com/story/ai-agents-are-thirsty-for-power/",
-        "is_priority": false
-      },
-      {
-        "title": "Revolut confirms customer data breach through fake government requests",
+        "title": "Texas judge rules TikTok misled users on child safety feature",
         "source": "Hacker News: Front Page",
-        "published": "Sun, 13 Sep 2026 09:59:58 +0000",
-        "url": "https://techcrunch.com/2026/09/12/revolut-confirms-customer-data-breach-through-fake-government-requests/",
+        "published": "Mon, 14 Sep 2026 12:37:42 +0000",
+        "url": "https://www.reuters.com/legal/litigation/texas-judge-rules-tiktok-misled-users-child-safety-feature-2026-09-11/",
         "is_priority": false
       },
       {
-        "title": "With a Better Understanding of Physics, We Could Predict Volcanic Eruptions",
+        "title": "The Download: AI’s real extinction threat and age-reversal tech for eyes",
+        "source": "MIT Technology Review",
+        "published": "Mon, 14 Sep 2026 12:10:00 +0000",
+        "url": "https://www.technologyreview.com/2026/09/14/1144012/the-download-ai-extinction-threat-age-reversal-vision/",
+        "is_priority": false
+      },
+      {
+        "title": "XCancel suspended \"due to a new development in the ongoing legal proceedings\"",
+        "source": "Hacker News: Front Page",
+        "published": "Mon, 14 Sep 2026 12:05:52 +0000",
+        "url": "https://xcancel.com/twitter",
+        "is_priority": false
+      },
+      {
+        "title": "Apple's Siri AI Can Be Swapped Out for Claude, ChatGPT, Code Shows",
+        "source": "Hacker News: Front Page",
+        "published": "Mon, 14 Sep 2026 12:01:32 +0000",
+        "url": "https://www.macrumors.com/2026/09/14/siri-can-be-swapped-out-for-chatgpt-claude/",
+        "is_priority": false
+      },
+      {
+        "title": "Show HN: Kinesis – Control your Mac with the Meta Neural Band",
+        "source": "Hacker News: Front Page",
+        "published": "Mon, 14 Sep 2026 12:01:31 +0000",
+        "url": "https://github.com/callbacked/kinesis",
+        "is_priority": false
+      },
+      {
+        "title": "I worked at Google DeepMind. You should listen to the warnings about AI | Alex Turner",
+        "source": "Technology | The Guardian",
+        "published": "Mon, 14 Sep 2026 12:00:59 GMT",
+        "url": "https://www.theguardian.com/technology/2026/sep/14/google-deepmind-ai-warnings",
+        "is_priority": false
+      },
+      {
+        "title": "The Best Air Purifier of 2026: Tested Picks for Every Room",
         "source": "WIRED",
-        "published": "Sun, 13 Sep 2026 09:30:00 +0000",
-        "url": "https://www.wired.com/story/physics-predict-volcanic-eruptions/",
+        "published": "Mon, 14 Sep 2026 11:33:00 +0000",
+        "url": "https://www.wired.com/gallery/best-air-purifiers/",
         "is_priority": false
       },
       {
-        "title": "10-Year-Old Children Predict the Future",
-        "source": "NYT > Technology",
-        "published": "Sun, 13 Sep 2026 09:01:01 +0000",
-        "url": "https://www.nytimes.com/2026/09/13/style/10-year-old-children-predict-the-future.html",
+        "title": "UK MPs and Lords call for new laws to tackle AI threat to human rights",
+        "source": "Technology | The Guardian",
+        "published": "Mon, 14 Sep 2026 11:07:24 GMT",
+        "url": "https://www.theguardian.com/technology/2026/sep/14/ai-regulation-anthropic-uk-human-rights-committee-mps-lords",
+        "is_priority": false
+      },
+      {
+        "title": "Watch AI materials-science and bioscience abilities closely",
+        "source": "Hacker News: Front Page",
+        "published": "Mon, 14 Sep 2026 11:01:00 +0000",
+        "url": "https://www.lesswrong.com/posts/SCtkSz4nQ9icLZ4uq/watch-ai-materials-science-and-bioscience-abilities-closely",
+        "is_priority": false
+      },
+      {
+        "title": "What happens after a town de-Flocks",
+        "source": "The Verge",
+        "published": "2026-09-14T07:00:00-04:00",
+        "url": "https://www.theverge.com/policy/994414/cities-ditching-flock-cameras-controversy",
         "is_priority": false
       }
     ],
     "Automotive/Motorcycle": [
       {
-        "title": "7 Sporty Cars To Consider If You Loved The Kia Stinger",
+        "title": "Volkswagen Mission Efficiency: the XL1 comes back as 1,000-mile range electric car",
+        "source": "Electrek",
+        "published": "Mon, 14 Sep 2026 13:29:50 +0000",
+        "url": "https://electrek.co/2026/09/14/volkswagen-mission-efficiency-the-xl1-comes-back-as-1000-mile-range-electric-car/",
+        "is_priority": false
+      },
+      {
+        "title": "Which Automotive Figure Would You Watch A 6-Hour Documentary About?",
         "source": "Jalopnik - Obsessed with the culture of cars",
-        "published": "Sun, 13 Sep 2026 12:05:00 +0000",
-        "url": "https://www.jalopnik.com/2256417/sporty-cars-kia-stinger-alternatives/",
+        "published": "Mon, 14 Sep 2026 13:25:00 +0000",
+        "url": "https://www.jalopnik.com/2256467/which-automotive-figure-watch-6-hour-documentary-about-reader-question/",
         "is_priority": false
       },
       {
-        "title": "1974 Corvette Comes With 78,000 Miles, And It's Packing A 4-Speed And Final-Year 454 Big Block",
-        "source": "Jalopnik - Obsessed with the culture of cars",
-        "published": "Sun, 13 Sep 2026 11:05:00 +0000",
-        "url": "https://www.jalopnik.com/2256731/1974-corvette-78000-miles-4-speed-manual-454-big-block-v8/",
+        "title": "BYD unveils flagship 600 km electric truck with 1.5 MW charging",
+        "source": "Electrek",
+        "published": "Mon, 14 Sep 2026 13:18:01 +0000",
+        "url": "https://electrek.co/2026/09/14/byd-ett-44-electric-truck-megawatt-charging/",
         "is_priority": false
       },
       {
-        "title": "Verstappen: Victory at Spanish GP to be \"tough\" with lack of overtaking opportunities",
-        "source": "Autosport.com - All - Stories",
-        "published": "Sun, 13 Sep 2026 10:38:48 +0000",
-        "url": "https://www.autosport.com/f1/news/verstappen-pessimistic-for-spanish-gp-win/10855330/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-ALL&utm_term=News&utm_content=uk",
-        "is_priority": false
-      },
-      {
-        "title": "The impact Madrid's \"six kilometres long\" pitlane will have on Spanish GP strategy",
-        "source": "Autosport.com - All - Stories",
-        "published": "Sun, 13 Sep 2026 09:31:38 +0000",
-        "url": "https://www.autosport.com/f1/news/spanish-gp-strategy-options-in-madrid/10855301/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-ALL&utm_term=News&utm_content=uk",
-        "is_priority": false
-      },
-      {
-        "title": "Ford Maverick Vs. Honda Ridgeline: How The Compact Truck Stacks Up To A Mid-Size Pickup",
-        "source": "Jalopnik - Obsessed with the culture of cars",
-        "published": "Sun, 13 Sep 2026 09:25:00 +0000",
-        "url": "https://www.jalopnik.com/2252666/ford-maverick-vs-honda-ridgeline-trucks-compare/",
-        "is_priority": false
-      },
-      {
-        "title": "Ugochukwu beats Slater to win F3 title",
-        "source": "Autosport.com - All - Stories",
-        "published": "Sun, 13 Sep 2026 09:05:10 +0000",
-        "url": "https://www.autosport.com/fia-f3/news/ugochukwu-beats-slater-to-win-f3-title/10855297/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-ALL&utm_term=News&utm_content=uk",
-        "is_priority": false
-      },
-      {
-        "title": "Supercars at The Bend: Mostert wins for Walkinshaw TWG Racing",
-        "source": "Autosport.com - All - Stories",
-        "published": "Sun, 13 Sep 2026 08:33:26 +0000",
-        "url": "https://www.autosport.com/supercars/news/supercars-at-the-bend-mostert-wins-for-walkinshaw-twg-racing/10855281/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-ALL&utm_term=News&utm_content=uk",
-        "is_priority": false
-      },
-      {
-        "title": "How The Company That Makes London's Black Cabs Ended Up Owned By A Chinese Company",
-        "source": "Jalopnik - Obsessed with the culture of cars",
-        "published": "Sun, 13 Sep 2026 03:25:00 +0000",
-        "url": "https://www.jalopnik.com/2253717/how-london-black-cabs-company-ended-up-being-owned-by-chinese-geely/",
-        "is_priority": false
-      },
-      {
-        "title": "Why Fleet Orders Can Send Car Sales Soaring But Still Hurt Automakers",
-        "source": "Jalopnik - Obsessed with the culture of cars",
-        "published": "Sun, 13 Sep 2026 01:25:00 +0000",
-        "url": "https://www.jalopnik.com/2255252/why-fleet-orders-send-car-sales-soaring-hurt-automakers/",
-        "is_priority": false
-      },
-      {
-        "title": "Pit Crew Members Hit By Out-of-Control Wrecking Cars in Huge Pit Lane Pile-Up During NASCAR O’Reilly Race",
+        "title": "Test Drive: Brabus Bodo Wants to Go Beyond Luxury",
         "source": "Latest Content - Road & Track",
-        "published": "Sun, 13 Sep 2026 01:01:52 +0000",
-        "url": "https://www.roadandtrack.com/news/a73703442/huge-pit-lane-crash-pit-crews-members-hit-red-flag-nascar-oreilly-race/",
+        "published": "Mon, 14 Sep 2026 13:16:22 +0000",
+        "url": "https://www.roadandtrack.com/reviews/a73605479/test-drive-brabus-bodo-wants-to-go-beyond-luxury/",
         "is_priority": false
       },
       {
-        "title": "Pajari to take \"deeper look\" to understand lack of speed at WRC Chile",
+        "title": "At $13,500, Are You Bonkers Enough To Buy This 1997 FSO Polonez Roy Pickup?",
+        "source": "Jalopnik - Obsessed with the culture of cars",
+        "published": "Mon, 14 Sep 2026 12:25:00 +0000",
+        "url": "https://www.jalopnik.com/2255988/1997-fso-polonez-roy-pickup-for-sale-13500/",
+        "is_priority": false
+      },
+      {
+        "title": "Shell, FAW partner on better, safer electric semi truck batteries",
+        "source": "Electrek",
+        "published": "Mon, 14 Sep 2026 12:23:46 +0000",
+        "url": "https://electrek.co/2026/09/14/shell-faw-partner-on-better-safer-electric-semi-truck-batteries/",
+        "is_priority": false
+      },
+      {
+        "title": "This Massive Chinese SUV Is Quite Literally A Tank",
+        "source": "Motor1.com - News",
+        "published": "Mon, 14 Sep 2026 12:02:34 +0000",
+        "url": "https://www.motor1.com/news/808172/gwm-tank-700-lwb-six/",
+        "is_priority": false
+      },
+      {
+        "title": "Volkswagen Just Unveiled An EV That Can Do Over 9 Miles/kWh",
+        "source": "InsideEVs - Articles",
+        "published": "Mon, 14 Sep 2026 11:43:02 +0000",
+        "url": "https://insideevs.com/news/808168/volkswagen-mission-efficiency-concept-range-charging-test/",
+        "is_priority": false
+      },
+      {
+        "title": "The Ford Fathom Furthers FoMoCo's Fascination With Alliterative Names",
+        "source": "Jalopnik - Obsessed with the culture of cars",
+        "published": "Mon, 14 Sep 2026 11:25:00 +0000",
+        "url": "https://www.jalopnik.com/2255265/ford-fathom-furthers-fomoco-fascination-alliteration-car-truck-names/",
+        "is_priority": false
+      },
+      {
+        "title": "Kelly's masterclass secures Leinster Trophy victory at Mondello Park",
         "source": "Autosport.com - All - Stories",
-        "published": "Sat, 12 Sep 2026 23:51:51 +0000",
-        "url": "https://www.autosport.com/wrc/news/sami-pajari-explains-lack-of-speed-at-wrc-chile/10855221/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-ALL&utm_term=News&utm_content=uk",
+        "published": "Mon, 14 Sep 2026 10:58:32 +0000",
+        "url": "https://www.autosport.com/national/news/kellys-masterclass-secures-leinster-trophy-victory-at-mondello-park/10855790/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-ALL&utm_term=News&utm_content=uk",
         "is_priority": false
       },
       {
-        "title": "Long Before The Ford Fathom, A Dealership Sit-In Saved Ford's First Electric Pickup",
+        "title": "Barely Driven Gordon Murray T.50 Targets $6.2 Million",
+        "source": "Motor1.com - News",
+        "published": "Mon, 14 Sep 2026 10:57:29 +0000",
+        "url": "https://www.motor1.com/news/808163/gordon-murray-t-50-rm/",
+        "is_priority": false
+      },
+      {
+        "title": "Watch The Brutal Genesis Off-Roader Storm Up A Hill Climb",
+        "source": "Motor1.com - News",
+        "published": "Mon, 14 Sep 2026 10:19:33 +0000",
+        "url": "https://www.motor1.com/news/808144/genesis-off-roader-hill-climb/",
+        "is_priority": false
+      },
+      {
+        "title": "BMW Lets You Outfit X5 And iX5 With M Parts From Day One",
+        "source": "Motor1.com - News",
+        "published": "Mon, 14 Sep 2026 10:03:36 +0000",
+        "url": "https://www.motor1.com/news/808147/bmw-x5-ix5-m-performance/",
+        "is_priority": false
+      },
+      {
+        "title": "These Fun New Cars All Have 3-Cylinder Engines",
         "source": "Jalopnik - Obsessed with the culture of cars",
-        "published": "Sat, 12 Sep 2026 23:45:00 +0000",
-        "url": "https://www.jalopnik.com/2254688/ford-fathom-sit-in-saved-fords-first-electric-pickup/",
+        "published": "Mon, 14 Sep 2026 09:25:00 +0000",
+        "url": "https://www.jalopnik.com/2252610/new-cars-3-cylinder-engines/",
         "is_priority": false
       },
       {
-        "title": "Why Cheap Engine Oil Filters Could End Up Costing You Dearly",
-        "source": "Jalopnik - Obsessed with the culture of cars",
-        "published": "Sat, 12 Sep 2026 22:25:00 +0000",
-        "url": "https://www.jalopnik.com/2254527/cheap-engine-oil-filters-could-cost-you/",
-        "is_priority": false
-      },
-      {
-        "title": "WRC Chile: Solberg saves best until last to pull away from Evans",
+        "title": "Spanish GP organisers promise Madring track changes following F1 criticism",
         "source": "Autosport.com - All - Stories",
-        "published": "Sat, 12 Sep 2026 22:14:56 +0000",
-        "url": "https://www.autosport.com/wrc/news/wrc-chile-oliver-solberg-extends-rally-lead-over-elfyn-evans-with-late-saturday-charge/10855213/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-ALL&utm_term=News&utm_content=uk",
-        "is_priority": false
-      },
-      {
-        "title": "New MIT Study Explores Improving Autonomous Driving Tech By Letting The Car Tell You What It's Doing And Why",
-        "source": "Jalopnik - Obsessed with the culture of cars",
-        "published": "Sat, 12 Sep 2026 21:05:00 +0000",
-        "url": "https://www.jalopnik.com/2256143/mit-study-improving-av-talking-car/",
+        "published": "Mon, 14 Sep 2026 09:17:21 +0000",
+        "url": "https://www.autosport.com/f1/news/spanish-gp-organisers-promise-madring-track-changes-following-f1-criticism/10855769/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-ALL&utm_term=News&utm_content=uk",
         "is_priority": false
       }
     ],
     "Portugal": [
       {
-        "title": "Aclamada obra brasileira \"Um Defeito de Cor\" será publicada em Portugal",
+        "title": "Bondalti integra comité de gestão da maior associação europeia do cloro",
+        "source": "ECO",
+        "published": "Mon, 14 Sep 2026 13:38:12 +0000",
+        "url": "https://eco.sapo.pt/2026/09/14/bondalti-integra-comite-de-gestao-da-maior-associacao-europeia-do-cloro/",
+        "is_priority": true
+      },
+      {
+        "title": "Joaquim Evangelista: \"Se nada fizermos estaremos a comprometer o sucesso das próximas gerações\"",
         "source": "dn",
-        "published": "Sun, 13 Sep 2026 12:31:10 +0000",
-        "url": "https://dnbrasil.dn.pt/cultura-dn-brasil/aclamada-obra-brasileira-um-defeito-de-cor-ser-publicada-em-portugal",
+        "published": "Mon, 14 Sep 2026 13:33:17 +0000",
+        "url": "https://www.dn.pt/desporto/joaquim-evangelista-se-nada-fizermos-estaremos-a-comprometer-o-sucesso-das-prximas-geraes",
         "is_priority": true
       },
       {
-        "title": "PS quer redução do IVA com efeitos imediatos",
-        "source": "ECO",
-        "published": "Sun, 13 Sep 2026 12:20:49 +0000",
-        "url": "https://eco.sapo.pt/2026/09/13/ps-quer-reducao-do-iva-com-efeitos-imediatos/",
-        "is_priority": true
-      },
-      {
-        "title": "As notícias das 13h",
-        "source": "Observador - Últimas",
-        "published": "Sun, 13 Sep 2026 13:18:13 +0100",
-        "url": "https://observador.pt/programas/noticiario/as-noticias-das-13h-2444/",
-        "is_priority": true
-      },
-      {
-        "title": "Confrontos com facas entre migrantes em Ceuta",
-        "source": "Observador - Últimas",
-        "published": "Sun, 13 Sep 2026 13:14:54 +0100",
-        "url": "https://observador.pt/2026/09/13/ceuta-duas-pessoas-foram-detidas-e-outras-duas-ficaram-feridas-apos-confrontos-com-facas-entre-migrantes/",
-        "is_priority": true
-      },
-      {
-        "title": "Turquia detém ativistas LGBT em operação de grande escala",
-        "source": "Observador - Últimas",
-        "published": "Sun, 13 Sep 2026 13:08:58 +0100",
-        "url": "https://observador.pt/2026/09/13/policia-turca-detem-ativistas-lgbt-e-faz-buscas-em-varias-provincias/",
-        "is_priority": true
-      },
-      {
-        "title": "Comércio defende ‘outra’ reforma laboral",
-        "source": "ECO",
-        "published": "Sun, 13 Sep 2026 12:07:50 +0000",
-        "url": "https://eco.sapo.pt/2026/09/13/comercio-defende-outra-reforma-laboral/",
-        "is_priority": true
-      },
-      {
-        "title": "PS acusa Chega de dar \"ponto de fuga\" ao Governo no combate à subida do custo de vida",
+        "title": "NATO promete mais apoio à Ucrânia após ataques de drones russos junto à fronteira com a Polónia",
         "source": "dn",
-        "published": "Sun, 13 Sep 2026 12:00:26 +0000",
-        "url": "https://www.dn.pt/pol%C3%ADtica/ps-acusa-chega-de-dar-ponto-de-fuga-ao-governo-no-combate-subida-do-custo-de-vida",
+        "published": "Mon, 14 Sep 2026 13:32:01 +0000",
+        "url": "https://www.dn.pt/internacional/nato-promete-mais-apoio-ucrnia-aps-ataques-de-drones-russos-junto-fronteira-com-a-polnia",
         "is_priority": true
       },
       {
-        "title": "Países europeus avaliam tirar o ouro dos Estados Unidos mas Portugal já não precisa",
+        "title": "Presidente da Junta de Freguesia de Arroios renuncia ao cargo",
+        "source": "Correio da Manhã",
+        "published": "Mon, 14 Sep 2026 14:27:25 +0100",
+        "url": "https://www.cmjornal.pt/politica/detalhe/presidente-da-junta-de-freguesia-de-arroios-renuncia-ao-cargo",
+        "is_priority": true
+      },
+      {
+        "title": "Alunos regressam à Secundária de Alcanena requalificada e deixam aulas em monoblocos",
+        "source": "Correio da Manhã",
+        "published": "Mon, 14 Sep 2026 14:25:03 +0100",
+        "url": "https://www.cmjornal.pt/sociedade/detalhe/alunos-regressam-a-secundaria-de-alcanena-requalificada-e-deixam-aulas-em-monoblocos",
+        "is_priority": true
+      },
+      {
+        "title": "IL acusa PSD de “tentar comprar votos dos portugueses” e de “rifa eleitoral” com descida do IRS",
         "source": "ECO",
-        "published": "Sun, 13 Sep 2026 11:59:32 +0000",
-        "url": "https://eco.sapo.pt/2026/09/13/paises-europeus-avaliam-tirar-o-ouro-dos-estados-unidos-mas-portugal-ja-nao-precisa/",
+        "published": "Mon, 14 Sep 2026 13:24:06 +0000",
+        "url": "https://eco.sapo.pt/2026/09/14/il-acusa-psd-de-tentar-comprar-votos-dos-portugueses-e-de-rifa-eleitoral-com-descida-do-irs/",
         "is_priority": true
       },
       {
-        "title": "Papa recorda vítimas dos ataques do 11 de setembro",
-        "source": "Observador - Últimas",
-        "published": "Sun, 13 Sep 2026 12:43:37 +0100",
-        "url": "https://observador.pt/2026/09/13/papa-recorda-vitimas-dos-ataques-do-11-de-setembro-nos-eua-e-renova-apelo-a-paz/",
+        "title": "Governo cria apoio até 4,5 milhões de euros para autocarros de emissões nulas no Alentejo Litoral",
+        "source": "Correio da Manhã",
+        "published": "Mon, 14 Sep 2026 14:22:13 +0100",
+        "url": "https://www.cmjornal.pt/politica/detalhe/governo-cria-apoio-ate-4-5-milhoes-de-euros-para-autocarros-de-emissoes-nulas-no-alentejo-litoral",
         "is_priority": true
+      },
+      {
+        "title": "Costa diz que UE precisa de adaptar à nova geopolítica que afeta o Ártico",
+        "source": "Jornal de Negocios",
+        "published": "Mon, 14 Sep 2026 14:20:08 +0100",
+        "url": "https://www.jornaldenegocios.pt/economia/europa/uniao-europeia/detalhe/costa-diz-que-ue-precisa-de-adaptar-a-nova-geopolitica-que-afeta-o-artico",
+        "is_priority": true
+      },
+      {
+        "title": "Rui Borges não sabe segurar resultados?",
+        "source": "Observador - Últimas",
+        "published": "Mon, 14 Sep 2026 14:20:06 +0100",
+        "url": "https://observador.pt/programas/e-o-campeao-e/rui-borges-nao-sabe-segurar-resultados/",
+        "is_priority": true
+      },
+      {
+        "title": "EU leaders urge unity after Russian strike on train",
+        "source": "Deutsche Welle: DW.com - Europe",
+        "published": "2026-09-14T13:46:13.615908+00:00",
+        "url": "https://www.dw.com/en/eu-leaders-urge-unity-after-russian-strike-on-train/a-79259807?maca=en-rss-en-eu-2092-rdf",
+        "is_priority": false
       },
       {
         "title": "Russians on the Goethe-Institut: 'Hostage to politics'",
         "source": "Deutsche Welle: DW.com - Europe",
-        "published": "2026-09-13T12:41:53.605174+00:00",
+        "published": "2026-09-14T13:46:13.615927+00:00",
         "url": "https://www.dw.com/en/russians-on-the-goethe-institut-hostage-to-politics/a-79218936?maca=en-rss-en-eu-2092-rdf",
         "is_priority": false
       },
       {
         "title": "A Romani artist in Hungary reclaims his identity",
         "source": "Deutsche Welle: DW.com - Europe",
-        "published": "2026-09-13T12:41:53.605216+00:00",
+        "published": "2026-09-14T13:46:13.615938+00:00",
         "url": "https://www.dw.com/en/a-romani-artist-in-hungary-reclaims-his-identity/a-79247266?maca=en-rss-en-eu-2092-rdf",
         "is_priority": false
       },
       {
         "title": "Russia's drone war comes to Moldova and Romania",
         "source": "Deutsche Welle: DW.com - Europe",
-        "published": "2026-09-13T12:41:53.605232+00:00",
+        "published": "2026-09-14T13:46:13.615948+00:00",
         "url": "https://www.dw.com/en/russia-s-drone-war-comes-to-moldova-and-romania/a-79239591?maca=en-rss-en-eu-2092-rdf",
         "is_priority": false
       },
       {
         "title": "DW exclusive: Zelenskyy offers to meet Putin at G20 in Miami",
         "source": "Deutsche Welle: DW.com - Europe",
-        "published": "2026-09-13T12:41:53.605245+00:00",
+        "published": "2026-09-14T13:46:13.615958+00:00",
         "url": "https://www.dw.com/en/dw-exclusive-zelenskyy-offers-to-meet-putin-at-g20-in-miami/a-79241703?maca=en-rss-en-eu-2092-rdf",
         "is_priority": false
       },
       {
         "title": "Turks in Germany anxious after AfD wins in Saxony-Anhalt",
         "source": "Deutsche Welle: DW.com - Europe",
-        "published": "2026-09-13T12:41:53.605258+00:00",
+        "published": "2026-09-14T13:46:13.615968+00:00",
         "url": "https://www.dw.com/en/turks-in-germany-anxious-after-afd-wins-in-saxony-anhalt/a-79221764?maca=en-rss-en-eu-2092-rdf",
-        "is_priority": false
-      },
-      {
-        "title": "Magyar vs. Moscow: Hungary toughens stance toward Russia",
-        "source": "Deutsche Welle: DW.com - Europe",
-        "published": "2026-09-13T12:41:53.605270+00:00",
-        "url": "https://www.dw.com/en/magyar-vs-moscow-hungary-toughens-stance-toward-russia/a-79223424?maca=en-rss-en-eu-2092-rdf",
         "is_priority": false
       }
     ]

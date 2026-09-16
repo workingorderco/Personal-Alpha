@@ -1,12 +1,12 @@
 {
-  "global_theme": "Global markets show caution amid rising interest rates and geopolitical tensions, while the AI sector shifts from speculative hype to practical, integrated solutions with EU relevance for wealth creation.",
-  "market_mood": "Risk-Off",
-  "risk_signal": "Rising Interest Rates & Geopolitical Tension",
-  "opportunity_signal": "AI Integration & Niche Market Development",
+  "global_theme": "The global economy is bracing for a US Fed rate hike amidst geopolitical tensions, while technological advancements and regional economic shifts present varied opportunities and challenges across the EU.",
+  "market_mood": "Cautiously Optimistic",
+  "risk_signal": "Rising interest rates and geopolitical instability",
+  "opportunity_signal": "Tech innovation and niche market expansion",
   "finance_sentiment": [
     {
       "i": 1,
-      "s": "="
+      "s": "-"
     },
     {
       "i": 2,
@@ -18,19 +18,19 @@
     },
     {
       "i": 4,
-      "s": "-"
+      "s": "+"
     },
     {
       "i": 5,
-      "s": "-"
+      "s": "+"
     },
     {
       "i": 6,
-      "s": "="
+      "s": "-"
     },
     {
       "i": 7,
-      "s": "-"
+      "s": "+"
     },
     {
       "i": 8,
@@ -46,49 +46,49 @@
     },
     {
       "i": 11,
-      "s": "+"
+      "s": "-"
     },
     {
       "i": 12,
-      "s": "="
+      "s": "-"
     },
     {
       "i": 13,
-      "s": "="
+      "s": "+"
     },
     {
       "i": 14,
-      "s": "-"
+      "s": "+"
     },
     {
       "i": 15,
-      "s": "-"
+      "s": "+"
     }
   ],
   "insights": {
     "g1": [
-      "Rising 10-year Treasury yields signal higher borrowing costs; prioritize managing debt and optimizing cash flow for your business.",
-      "The S&P 500 target cuts and market falls suggest a cautious economic outlook; diversify income streams for stability.",
-      "AI’s maturation phase means less speculation, more practical applications; focus on integrating proven AI tools for efficiency.",
-      "Investment in solar/BESS projects indicates growth in sustainable energy; explore related service opportunities or green tech investments.",
-      "Geopolitical developments like US weapons in space add uncertainty; ensure your financial plan includes a robust emergency fund."
+      "Impending Fed rate hikes signal tighter credit, increasing borrowing costs for future business loans.",
+      "Market relief before the hike suggests investor resilience and potential buying opportunities in selected assets.",
+      "Analyst calls on various companies indicate specific sectors with growth potential for research.",
+      "Big retailers entering Medicare Advantage plans highlight growing opportunities in the health sector.",
+      "Bond market dynamics suggest volatility, requiring careful financial planning and risk assessment."
     ],
     "g2": [
-      "AI’s 'youthful phase' ending (Santoli) means real-world application is key; master practical AI tools over chasing speculative trends.",
-      "OpenAI buying a camera maker shows AI integrating into physical capture; explore skills in visual AI or data collection for your niche.",
-      "New AI reasoning models like Salesforce/Nvidia's can accelerate capabilities; learn to leverage these for complex problem-solving.",
-      "The need for more biological data for AI (MIT Tech Review) highlights niche opportunities; consider data-centric AI in health/wellness.",
-      "With growing AI regulation talks, understanding AI ethics and data privacy is crucial for building trustworthy AI-driven services."
+      "The debate around AI regulation and its impact on job markets warrants close monitoring for future skills.",
+      "New tech like advanced smartphone cameras and EV advancements show areas of consumer spending and innovation.",
+      "Slow app review processes (Google Play) could affect launch timelines for app-based solopreneurs.",
+      "The 'Trojan horse' microplastics threat indicates a growing need for environmental tech solutions.",
+      "The Salesforce global outage emphasizes the importance of robust, redundant digital infrastructure."
     ],
     "g3": [
-      "SATA Handling privatization interest could open local service contracts or support roles within Portugal's transport sector.",
-      "Portugal's status as a 'mature democracy' provides a stable base; leverage this for trusted local and EU market expansion.",
-      "EU initiatives on climate observation satellites present opportunities in sustainability consulting or environmental data services.",
-      "Local infrastructure projects, like the Coimbra maternity, may create demand for complementary services or specialized suppliers.",
-      "Monitor EU Arctic strategy developments; these might unlock niche consulting roles or cross-border project opportunities for solopreneurs."
+      "Portugal's market tension with rising oil, interest rates, and debt directly impacts local business costs.",
+      "New insurance broker launches in Portugal indicate a competitive but potentially growing local financial services market.",
+      "Mandatory environmental assessments for new datacentres in Scotland signal a broader EU trend in green tech.",
+      "Discussions around VAT reduction in Portugal highlight potential policy shifts impacting consumer spending power.",
+      "Concerns about retirement preparedness in Portugal could open avenues for financial literacy or planning services."
     ]
   },
-  "learning_task": "Spend 30 minutes researching free AI tools for solopreneurs to automate routine administrative tasks, aiming to calculate potential time savings towards your €35k goal.",
-  "biz_opportunity": "Offer AI-powered efficiency consulting to small and medium-sized businesses in Portugal, helping them streamline operations and reduce costs amidst rising economic pressures.",
-  "built_at": "2026-09-15T12:32:46.378321+00:00"
+  "learning_task": "Spend 30 minutes researching how EU Green Deal initiatives might create opportunities for digital service providers in Portugal, specifically around datacentre environmental compliance.",
+  "biz_opportunity": "Offer specialized digital marketing and content creation services to Portuguese small businesses navigating new environmental regulations for data storage, leveraging the EU's push for green tech.",
+  "built_at": "2026-09-16T12:29:52.992484+00:00"
 }

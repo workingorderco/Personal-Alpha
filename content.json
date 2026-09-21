@@ -1,537 +1,537 @@
 {
-  "built_at": "2026-09-20T12:07:58.768820+00:00",
+  "built_at": "2026-09-21T13:46:44.254939+00:00",
   "sections": {
     "Finance": [
       {
-        "title": "‘It's awful’: How tariffs, soaring fuel costs and higher interest rates are squeezing American companies",
-        "source": "US Top News and Analysis",
-        "published": "Sun, 20 Sep 2026 12:00:01 GMT",
-        "url": "https://www.cnbc.com/2026/09/20/tariffs-fuel-prices-and-interest-rates-squeeze-us-companies.html",
+        "title": "CNN, MS NOW and Politico to Sue Trump Administration Over White House Access",
+        "source": "NYT > Business",
+        "published": "Mon, 21 Sep 2026 13:42:58 +0000",
+        "url": "https://www.nytimes.com/live/2026/09/21/business/trump-white-house-cnn-politico-msnow/trump-white-house-ban-lawsuit-cnn-politico-msnow",
         "is_priority": false
       },
       {
-        "title": "Williams-Sonoma's stock has soared in a sluggish housing market. Here's how it won over Wall Street",
+        "title": "White House TV pool won't cover Trump after press ban: CNN",
         "source": "US Top News and Analysis",
-        "published": "Sun, 20 Sep 2026 12:00:01 GMT",
-        "url": "https://www.cnbc.com/2026/09/20/williams-sonoma-stock-rises-housing-market.html",
+        "published": "Mon, 21 Sep 2026 13:42:27 GMT",
+        "url": "https://www.cnbc.com/2026/09/21/trump-white-house-press-pool-cnn-ban.html",
         "is_priority": false
       },
       {
-        "title": "Budget airline king Bill Franke warms to first-class seats and premium upgrades",
+        "title": "Stocks rise as oil and yields ease to start week: Live updates",
         "source": "US Top News and Analysis",
-        "published": "Sun, 20 Sep 2026 12:00:01 GMT",
-        "url": "https://www.cnbc.com/2026/09/20/bill-franke-frontier-spirit-budget-airlines.html",
+        "published": "Mon, 21 Sep 2026 13:42:11 GMT",
+        "url": "https://www.cnbc.com/2026/09/20/stock-market-today-live-updates.html",
         "is_priority": false
       },
       {
-        "title": "How much could investing $10,000 in a CD right now earn you in one year?",
-        "source": "US Top News and Analysis",
-        "published": "Sun, 20 Sep 2026 12:00:01 GMT",
-        "url": "https://www.cnbc.com/select/investing-10000-in-a-cd-earn-in-one-year/",
+        "title": "Michael Saylor's Strategy jumps as the company says it bought more bitcoin",
+        "source": "Yahoo Finance",
+        "published": "2026-09-21T13:35:38Z",
+        "url": "https://finance.yahoo.com/markets/article/michael-saylors-strategy-jumps-as-the-company-says-it-bought-more-bitcoin-133538866.html",
         "is_priority": false
       },
       {
-        "title": "China is chasing SpaceX and setting its sights on the global space economy",
+        "title": "Gold prices today, Monday, September 21, 2026: Gold prices slip on Middle East tensions",
+        "source": "Yahoo Finance",
+        "published": "2026-09-21T13:35:31Z",
+        "url": "https://finance.yahoo.com/personal-finance/investing/article/gold-prices-today-monday-september-21-2026-gold-prices-slip-on-middle-east-tensions-133531697.html",
+        "is_priority": false
+      },
+      {
+        "title": "Novo Nordisk’s stock tumbles as doubts persist about Ozempic maker’s goals for 2030",
         "source": "MarketWatch.com - Top Stories",
-        "published": "Sun, 20 Sep 2026 12:00:00 GMT",
-        "url": "https://www.marketwatch.com/story/china-is-chasing-spacex-and-setting-its-sights-on-the-global-space-economy-3b9e37ff?mod=mw_rss_topstories",
+        "published": "Mon, 21 Sep 2026 13:32:00 GMT",
+        "url": "https://www.marketwatch.com/story/novo-nordisk-stock-tumbles-as-ozempic-maker-sets-out-2030-goals-8a5a8d2d?mod=mw_rss_topstories",
         "is_priority": false
       },
       {
-        "title": "Morgan Stanley says stocks like Warner Music are a table-pounding buy right now",
+        "title": "Why one Warren Buffett–inspired fund manager is betting big on Chinese stocks",
+        "source": "MarketWatch.com - Top Stories",
+        "published": "Mon, 21 Sep 2026 13:30:00 GMT",
+        "url": "https://www.marketwatch.com/story/why-one-buffett-inspired-fund-manager-is-betting-big-on-chinese-stocks-b7b8a51e?mod=mw_rss_topstories",
+        "is_priority": false
+      },
+      {
+        "title": "Tech stocks haven't been this cheap since OpenAI launched ChatGPT",
+        "source": "Yahoo Finance",
+        "published": "2026-09-21T13:28:00Z",
+        "url": "https://finance.yahoo.com/markets/article/tech-stocks-havent-been-this-cheap-since-openai-launched-chatgpt-132800172.html",
+        "is_priority": false
+      },
+      {
+        "title": "German voters turn to left and far-right as 'disaster' for ruling CDU threatens pro-growth reforms",
         "source": "US Top News and Analysis",
-        "published": "Sun, 20 Sep 2026 11:57:29 GMT",
-        "url": "https://www.cnbc.com/2026/09/20/buy-stocks-such-as-warner-music-morgan-stanley-says-.html",
+        "published": "Mon, 21 Sep 2026 13:22:48 GMT",
+        "url": "https://www.cnbc.com/2026/09/21/german-election-result.html",
         "is_priority": false
       },
       {
-        "title": "San Francisco Tribune Releases List of Top Startups Shaping the Next Phase of Enterprise AI",
-        "source": "All News",
-        "published": "2026-09-20 11:30:48",
-        "url": "https://www.investing.com/news/company-news/san-francisco-tribune-releases-list-of-top-startups-shaping-the-next-phase-of-enterprise-ai-4908166",
-        "is_priority": false
-      },
-      {
-        "title": "Inside Jefferies’ Months-Long Tussle With Glencore Over Radiant",
+        "title": "USTR Greer on China Trade, Diesel Exports, Canada",
         "source": "Bloomberg Markets",
-        "published": "Sun, 20 Sep 2026 11:30:00 GMT",
-        "url": "https://www.bloomberg.com/news/articles/2026-09-20/inside-jefferies-months-long-tussle-with-glencore-over-radiant",
+        "published": "Mon, 21 Sep 2026 13:21:25 GMT",
+        "url": "https://www.bloomberg.com/news/videos/2026-09-21/ustr-greer-on-china-trade-diesel-exports-canada-video",
         "is_priority": false
       },
       {
-        "title": "Ukraine launches heavy Moscow drone attack as Russia votes",
-        "source": "US Top News and Analysis",
-        "published": "Sun, 20 Sep 2026 11:27:11 GMT",
-        "url": "https://www.cnbc.com/2026/09/20/ukraine-launches-heavy-moscow-drone-attack-as-russia-votes.html",
+        "title": "Aggressive Store Additions Challenge Black Rock Coffee Bar’s (BRCB) Long-Term Expansion Thesis",
+        "source": "Yahoo Finance",
+        "published": "2026-09-21T13:21:06Z",
+        "url": "https://finance.yahoo.com/markets/stocks/articles/aggressive-store-additions-challenge-black-132106435.html",
         "is_priority": false
       },
       {
-        "title": "Ed Sheeran calls Israel's treatment of Gazans 'unjustifiable,' apologizes for Macklemore controversy",
-        "source": "US Top News and Analysis",
-        "published": "Sun, 20 Sep 2026 11:26:30 GMT",
-        "url": "https://www.cnbc.com/2026/09/20/ed-sheeran-calls-israels-treatment-of-gazans-unjustifiable.html",
+        "title": "Fed Rate Hike Fails to Lift Bank Stocks as Market Reprices the Rally",
+        "source": "Yahoo Finance",
+        "published": "2026-09-21T13:20:42Z",
+        "url": "https://finance.yahoo.com/markets/stocks/articles/fed-rate-hike-fails-lift-132042446.html",
         "is_priority": false
       },
       {
-        "title": "Nvidia CEO Jensen Huang emerges as Trump's top ally in AI safety debate",
-        "source": "US Top News and Analysis",
-        "published": "Sun, 20 Sep 2026 11:25:08 GMT",
-        "url": "https://www.cnbc.com/2026/09/20/nvidia-ceo-jensen-huang-emerges-as-trumps-top-ally-in-ai-debate.html",
-        "is_priority": false
-      },
-      {
-        "title": "These 3 factors \"remain significant risks\" to stock market valuations: analyst",
+        "title": "Amazon to invest $1.9 billion in delivery partner program",
         "source": "All News",
-        "published": "2026-09-20 11:19:02",
-        "url": "https://www.investing.com/news/stock-market-news/these-3-factors-remain-significant-risks-to-stock-market-valuations-analyst-4908164",
+        "published": "2026-09-21 13:20:34",
+        "url": "https://www.investing.com/news/company-news/amazon-to-invest-19-billion-in-delivery-partner-program-93CH-4909177",
         "is_priority": false
       },
       {
-        "title": "China Names Li Chenggang Its Top International Trade Negotiator",
-        "source": "Bloomberg Markets",
-        "published": "Sun, 20 Sep 2026 11:15:10 GMT",
-        "url": "https://www.bloomberg.com/news/articles/2026-09-20/china-names-li-chenggang-its-top-international-trade-negotiator",
-        "is_priority": false
-      },
-      {
-        "title": "North Korea fires two ballistic missiles off east coast in three hours",
+        "title": "Lion Group reaffirms holding of 195,000 Hyperliquid tokens",
         "source": "All News",
-        "published": "2026-09-20 11:12:08",
-        "url": "https://www.investing.com/news/economy-news/north-korea-fires-two-missiles-off-east-coast-in-three-hours-4908161",
+        "published": "2026-09-21 13:20:27",
+        "url": "https://www.investing.com/news/company-news/lion-group-reaffirms-holding-of-195000-hyperliquid-tokens-93CH-4909175",
         "is_priority": false
       },
       {
-        "title": "Iran sets conditions for talks as threat of wider regional war grows",
+        "title": "Globalstar completes ground station expansion in Greece",
         "source": "All News",
-        "published": "2026-09-20 11:10:18",
-        "url": "https://www.investing.com/news/economy-news/iran-sets-terms-for-us-talks-as-houthis-step-up-attacks-on-saudi-arabia-4908144",
+        "published": "2026-09-21 13:20:27",
+        "url": "https://www.investing.com/news/company-news/globalstar-completes-ground-station-expansion-in-greece-93CH-4909176",
         "is_priority": false
       }
     ],
     "World News": [
       {
-        "title": "Celtic v Rangers: Scottish Premiership – live",
+        "title": "Thomas Tuchel rocked by five key withdrawals from England squad",
         "source": "The Guardian",
-        "published": "Sun, 20 Sep 2026 11:54:40 GMT",
-        "url": "https://www.theguardian.com/football/live/2026/sep/20/celtic-v-rangers-scottish-premiership-live",
+        "published": "Mon, 21 Sep 2026 13:39:28 GMT",
+        "url": "https://www.theguardian.com/football/2026/sep/21/cole-palmer-injury-england-nations-league-rashford-kobbie-mainoo-spain-tuchel",
         "is_priority": false
       },
       {
-        "title": "Ukraine targets Moscow with hundreds of drones and first ballistic missile Kyiv has used in the war",
+        "title": "Trump denies ‘assault’ on free press as three outlets plan to sue over White House ban – live",
         "source": "World news | The Guardian",
-        "published": "Sun, 20 Sep 2026 11:48:38 GMT",
-        "url": "https://www.theguardian.com/world/2026/sep/20/hundreds-of-drones-target-moscow-on-last-day-of-voting-in-russias-parliamentary-election",
+        "published": "Mon, 21 Sep 2026 13:37:57 GMT",
+        "url": "https://www.theguardian.com/us-news/live/2026/sep/21/donald-trump-arch-media-white-house-press-ban-mamdani-ai-unga-latest-news-updates",
         "is_priority": false
       },
       {
-        "title": "Bournemouth v Liverpool: Premier League – live",
-        "source": "The Guardian",
-        "published": "Sun, 20 Sep 2026 11:30:14 GMT",
-        "url": "https://www.theguardian.com/football/live/2026/sep/20/bournemouth-v-liverpool-premier-league-live",
-        "is_priority": false
-      },
-      {
-        "title": "Back to school in Gaza: Learning in tents after years of disruption",
-        "source": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
-        "published": "Sun, 20 Sep 2026 11:26:20 +0000",
-        "url": "https://www.aljazeera.com/features/2026/9/20/back-to-school-in-gaza-learning-in-tents-after-years-of-disruption?traffic_source=rss",
-        "is_priority": false
-      },
-      {
-        "title": "What are Iran’s latest conditions to end its war with the US?",
-        "source": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
-        "published": "Sun, 20 Sep 2026 11:21:06 +0000",
-        "url": "https://www.aljazeera.com/news/2026/9/20/what-are-irans-new-conditions-to-end-its-war-with-the-us?traffic_source=rss",
-        "is_priority": false
-      },
-      {
-        "title": "Anthems, transport, housing: What’s gone wrong at the Asian Games in Japan?",
-        "source": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
-        "published": "Sun, 20 Sep 2026 11:18:21 +0000",
-        "url": "https://www.aljazeera.com/sports/2026/9/20/anthems-transport-housing-whats-gone-wrong-at-the-asian-games-in-japan?traffic_source=rss",
-        "is_priority": false
-      },
-      {
-        "title": "Ed Sheeran says situation in Gaza ‘unjustifiable’ in first show since tour plunged into turmoil",
-        "source": "The Guardian",
-        "published": "Sun, 20 Sep 2026 11:16:29 GMT",
-        "url": "https://www.theguardian.com/music/2026/sep/20/ed-sheeran-gaza-catastrophic-and-unjustifiable-first-show-tour-loop-philadelphia-us",
-        "is_priority": false
-      },
-      {
-        "title": "Russia Barred Their Party, but These Antiwar Voices Are Still Standing",
-        "source": "NYT > World News",
-        "published": "Sun, 20 Sep 2026 11:14:55 +0000",
-        "url": "https://www.nytimes.com/2026/09/20/world/europe/russia-duma-election-yabloko.html",
-        "is_priority": false
-      },
-      {
-        "title": "LIVE: Atletico Madrid vs Real Madrid – La Liga",
-        "source": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
-        "published": "Sun, 20 Sep 2026 11:10:00 +0000",
-        "url": "https://www.aljazeera.com/sports/liveblog/2026/9/20/live-atletico-madrid-vs-real-madrid-la-liga-2?traffic_source=rss",
-        "is_priority": false
-      },
-      {
-        "title": "Dining across the divide: ‘He suggested the Clacton byelection was a vanity project. Obviously I disagree’",
-        "source": "The Guardian",
-        "published": "Sun, 20 Sep 2026 11:00:15 GMT",
-        "url": "https://www.theguardian.com/lifeandstyle/2026/sep/20/dining-across-the-divide-chris-alex",
-        "is_priority": false
-      },
-      {
-        "title": "Caitlin Moran: social media went from utopia to hellhole in a decade – if you want to feel hopeful again, get offline",
-        "source": "The Guardian",
-        "published": "Sun, 20 Sep 2026 11:00:15 GMT",
-        "url": "https://www.theguardian.com/media/2026/sep/20/caitlin-moran-social-media-what-to-do-instead",
-        "is_priority": false
-      },
-      {
-        "title": "China’s stranglehold on rare earths must be ended, says hopeful supplier to EU",
+        "title": "Maryland hunter charged after fatally shooting woman he mistook for a deer, authorities say",
         "source": "World news | The Guardian",
-        "published": "Sun, 20 Sep 2026 11:00:14 GMT",
-        "url": "https://www.theguardian.com/environment/2026/sep/20/china-stranglehold-rare-earths-hopeful-supplier-eu-viridis",
+        "published": "Mon, 21 Sep 2026 13:37:40 GMT",
+        "url": "https://www.theguardian.com/us-news/2026/sep/21/maryland-hunter-fatally-shot-woman-mistook-deer",
         "is_priority": false
       },
       {
-        "title": "‘It’s transformed the village’: the volunteers greening up Britain’s train stations",
+        "title": "German chancellor clinging to power after another loss to far-right AfD",
         "source": "World news | The Guardian",
-        "published": "Sun, 20 Sep 2026 11:00:13 GMT",
-        "url": "https://www.theguardian.com/lifeandstyle/2026/sep/20/transformed-volunteers-greening-up-britain-train-stations-rhs-bloom",
+        "published": "Mon, 21 Sep 2026 13:37:27 GMT",
+        "url": "https://www.theguardian.com/world/2026/sep/21/germany-chancellor-freidrich-merz-cdu-christian-democratic-union-state-election-defeats-mecklenburg-western-pomerania-berlin",
         "is_priority": false
       },
       {
-        "title": "An Unused and Divisive Philippine Nuclear Plant Awaits Its Fate",
-        "source": "NYT > World News",
-        "published": "Sun, 20 Sep 2026 10:50:59 +0000",
-        "url": "https://www.nytimes.com/2026/09/20/world/asia/philippines-bataan-nuclear-power-plant.html",
+        "title": "Illinois authorities investigate possible ICE wounding of US citizen",
+        "source": "World news | The Guardian",
+        "published": "Mon, 21 Sep 2026 13:34:27 GMT",
+        "url": "https://www.theguardian.com/us-news/2026/sep/21/illinois-ice-us-citizen-injured",
         "is_priority": false
       },
       {
-        "title": "Trump’s Greenland deal: A triumph of optics?",
+        "title": "Merz vows to keep coalition together for Germany's 'democratic future'",
+        "source": "BBC News",
+        "published": "Mon, 21 Sep 2026 13:34:20 GMT",
+        "url": "https://www.bbc.co.uk/news/articles/cqm27p8enwmko?at_medium=RSS&at_campaign=rss",
+        "is_priority": false
+      },
+      {
+        "title": "Germany’s Merz ‘grateful’ centre-left SPD wants to stay in coalition after CDU’s heavy losses – Europe live",
+        "source": "World news | The Guardian",
+        "published": "Mon, 21 Sep 2026 13:34:10 GMT",
+        "url": "https://www.theguardian.com/world/live/2026/sep/21/merz-german-chancellor-state-elections-russia-ukraine-europe-live-latest-news",
+        "is_priority": false
+      },
+      {
+        "title": "What’s the US–China AI ‘hotline’ that Trump plans to pitch to Xi Jinping?",
         "source": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
-        "published": "Sun, 20 Sep 2026 10:49:10 +0000",
-        "url": "https://www.aljazeera.com/opinions/2026/9/20/trumps-greenland-deal-a-triumph-of-optics?traffic_source=rss",
+        "published": "Mon, 21 Sep 2026 13:32:55 +0000",
+        "url": "https://www.aljazeera.com/news/2026/9/21/whats-the-us-china-ai-hotline-that-trump-plans-to-pitch-to-xi?traffic_source=rss",
+        "is_priority": false
+      },
+      {
+        "title": "Inside Kazakhstan’s push to become a regional AI centre",
+        "source": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
+        "published": "Mon, 21 Sep 2026 13:26:01 +0000",
+        "url": "https://www.aljazeera.com/news/2026/9/21/inside-kazakhstans-push-to-become-a-regional-ai-centre?traffic_source=rss",
+        "is_priority": false
+      },
+      {
+        "title": "‘Jaw-dropping’: Super El Niño bursts through temperature record months ahead of peak",
+        "source": "The Guardian",
+        "published": "Mon, 21 Sep 2026 13:25:04 GMT",
+        "url": "https://www.theguardian.com/environment/2026/sep/21/super-el-nino-temperature-record",
+        "is_priority": false
+      },
+      {
+        "title": "Swiss captain Xhaka sidelined over fake COVID-19 vaccination certificate",
+        "source": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
+        "published": "Mon, 21 Sep 2026 13:20:13 +0000",
+        "url": "https://www.aljazeera.com/sports/2026/9/21/swiss-captain-xhaka-sidelined-over-fake-covid-19-vaccination-certificate?traffic_source=rss",
+        "is_priority": false
+      },
+      {
+        "title": "Who is Yu Zidi, China’s 13-year-old swimming sensation?",
+        "source": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
+        "published": "Mon, 21 Sep 2026 13:19:07 +0000",
+        "url": "https://www.aljazeera.com/sports/2026/9/21/who-is-yu-zidi-chinas-13-year-old-swimming-sensation?traffic_source=rss",
+        "is_priority": false
+      },
+      {
+        "title": "Air traffic control failure ‘fixed’ after flight disruption in Scotland, Northern Ireland and northern England – business live",
+        "source": "The Guardian",
+        "published": "Mon, 21 Sep 2026 13:18:43 GMT",
+        "url": "https://www.theguardian.com/business/live/2026/sep/21/asian-shares-rise-optimism-us-chinese-talks-trade-ai-oil-falls-live-updates",
+        "is_priority": false
+      },
+      {
+        "title": "Cargo ship crashes into Chinese fishing boat near Singapore",
+        "source": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
+        "published": "Mon, 21 Sep 2026 13:18:20 +0000",
+        "url": "https://www.aljazeera.com/video/newsfeed/2026/9/21/cargo-ship-crashes-into-chinese-fishing-boat-near-singapore?traffic_source=rss",
+        "is_priority": false
+      },
+      {
+        "title": "Ghosts of 2023 surface after Dortmund return to the Bundesliga summit | Andy Brassell",
+        "source": "The Guardian",
+        "published": "Mon, 21 Sep 2026 13:17:05 GMT",
+        "url": "https://www.theguardian.com/football/2026/sep/21/ghosts-2023-surface-borussia-dortmund-bundesliga-summit-stuttgart",
         "is_priority": false
       }
     ],
     "Tech": [
       {
-        "title": "If AI coding is lowering your code quality, you're not managing quality right",
-        "source": "Hacker News: Front Page",
-        "published": "Sun, 20 Sep 2026 11:37:10 +0000",
-        "url": "https://www.i-kh.net/p/if-ai-coding-is-lowering-your-code",
+        "title": "iPhone owners can now submit a claim in Apple’s $250 million Siri AI lawsuit",
+        "source": "The Verge",
+        "published": "2026-09-21T09:36:52-04:00",
+        "url": "https://www.theverge.com/tech/998191/apple-siri-ai-iphone-16-class-action-lawsuit-settlement",
         "is_priority": false
       },
       {
-        "title": "I'm Tired of the AI Tone",
-        "source": "Hacker News: Front Page",
-        "published": "Sun, 20 Sep 2026 11:18:26 +0000",
-        "url": "https://sagivo.com/blog/im-tired-of-the-ai-tone",
+        "title": "Vivo’s X500 Pro Max has 17 stops of dynamic range and 4K240 slo-mo",
+        "source": "The Verge",
+        "published": "2026-09-21T09:16:25-04:00",
+        "url": "https://www.theverge.com/gadgets/998165/vivo-x500-pro-max-launch-specs-release-date-lofic-china",
         "is_priority": false
       },
       {
-        "title": "Thermacell LIV 2.0 Review: Taking My Yard Back",
-        "source": "WIRED",
-        "published": "Sun, 20 Sep 2026 11:07:00 +0000",
-        "url": "https://www.wired.com/review/thermacell-liv-smart-mosquito-repellent-system-2/",
+        "title": "These are the first five Googlebook laptops",
+        "source": "The Verge",
+        "published": "2026-09-21T09:01:00-04:00",
+        "url": "https://www.theverge.com/gadgets/997659/googlebooks-breakdown-acer-asus-hp-lenovo-dell",
         "is_priority": false
       },
       {
-        "title": "An undercover Google analyst infiltrated a notorious supply-chain hacking gang",
+        "title": "Apple Mac mini review: The new M6 impresses, but the price hike is rough",
         "source": "Ars Technica - All content",
-        "published": "Sun, 20 Sep 2026 11:07:00 +0000",
-        "url": "https://arstechnica.com/security/2026/09/an-undercover-google-analyst-infiltrated-a-notorious-supply-chain-hacking-gang/",
+        "published": "Mon, 21 Sep 2026 13:00:24 +0000",
+        "url": "https://arstechnica.com/gadgets/2026/09/apple-m6-mac-mini-review-300-price-hike-spoils-a-nice-upgrade/",
         "is_priority": false
       },
       {
-        "title": "Welcome to Dogs Anonymous, the Online Support Group for People With Difficult Dogs",
-        "source": "WIRED",
-        "published": "Sun, 20 Sep 2026 11:00:00 +0000",
-        "url": "https://www.wired.com/story/inside-dogs-anonymous-the-online-support-group-for-people-with-difficult-dogs/",
-        "is_priority": false
-      },
-      {
-        "title": "Why Do We Need Human Mathematicians Anymore?",
-        "source": "Hacker News: Front Page",
-        "published": "Sun, 20 Sep 2026 10:49:58 +0000",
-        "url": "https://terrytao.wordpress.com/2026/09/19/why-do-we-need-human-mathematicians-anymore/",
-        "is_priority": false
-      },
-      {
-        "title": "Meta's Muse Is Better at Surveilling Than Helping Me",
-        "source": "WIRED",
-        "published": "Sun, 20 Sep 2026 10:30:00 +0000",
-        "url": "https://www.wired.com/story/metas-muse-is-better-at-surveilling-than-helping-me/",
-        "is_priority": false
-      },
-      {
-        "title": "It’s Donald Trump Versus MAGA on Data Centers",
-        "source": "WIRED",
-        "published": "Sun, 20 Sep 2026 10:30:00 +0000",
-        "url": "https://www.wired.com/story/donald-trump-versus-maga-on-data-centers/",
-        "is_priority": false
-      },
-      {
-        "title": "AI and the Destruction of the Creative Commons",
-        "source": "Hacker News: Front Page",
-        "published": "Sun, 20 Sep 2026 10:07:51 +0000",
-        "url": "https://www.chesterwisniewski.com/post/2026-09-13-ai-is-destroying-the-creative-commons/",
-        "is_priority": false
-      },
-      {
-        "title": "Don't call it an SUV: The Ferrari Purosangue review",
+        "title": "Googlebooks launch October 4 starting at $899—here are the five models you can preorder today",
         "source": "Ars Technica - All content",
-        "published": "Sun, 20 Sep 2026 10:00:02 +0000",
-        "url": "https://arstechnica.com/cars/2026/09/dont-call-it-an-suv-the-ferrari-purosangue-review/",
+        "published": "Mon, 21 Sep 2026 13:00:11 +0000",
+        "url": "https://arstechnica.com/gadgets/2026/09/googlebook-laptops-launch-october-4-starting-at-899-preorders-for-five-models-live-today/",
         "is_priority": false
       },
       {
-        "title": "Meet the Academics Trying to Stop You From Having Sex in Robotaxis",
+        "title": "The long dream of the Googlebook",
+        "source": "The Verge",
+        "published": "2026-09-21T09:00:00-04:00",
+        "url": "https://www.theverge.com/tech/997972/googlebook-laptop-chromeos-android-history",
+        "is_priority": false
+      },
+      {
+        "title": "I got to see Google’s wild ideas about the future of laptops",
+        "source": "The Verge",
+        "published": "2026-09-21T09:00:00-04:00",
+        "url": "https://www.theverge.com/tech/997986/google-googlebooks-android-laptops-dell-hp-lenovo-acer-asus-price-specs",
+        "is_priority": false
+      },
+      {
+        "title": "The Mac Mini is still mighty, just not as cheap",
+        "source": "The Verge",
+        "published": "2026-09-21T09:00:00-04:00",
+        "url": "https://www.theverge.com/tech/998006/apple-mac-mini-m6-m5-pro-review",
+        "is_priority": false
+      },
+      {
+        "title": "The M5 Ultra Mac Studio tears through our benchmark tests",
+        "source": "The Verge",
+        "published": "2026-09-21T09:00:00-04:00",
+        "url": "https://www.theverge.com/tech/998040/apple-mac-studio-m5-ultra-initial-impressions-testing-review",
+        "is_priority": false
+      },
+      {
+        "title": "Googlebooks feel like the first laptops built for Android owners",
+        "source": "The Verge",
+        "published": "2026-09-21T09:00:00-04:00",
+        "url": "https://www.theverge.com/tech/998095/googlebook-laptop-android-continue-on-app-cast",
+        "is_priority": false
+      },
+      {
+        "title": "Got an Android Phone? Google Thinks You’ll Probably Want a Googlebook Laptop",
         "source": "WIRED",
-        "published": "Sun, 20 Sep 2026 10:00:00 +0000",
-        "url": "https://www.wired.com/story/meet-the-academics-trying-to-stop-you-from-having-sex-in-robotaxis/",
+        "published": "Mon, 21 Sep 2026 13:00:00 +0000",
+        "url": "https://www.wired.com/story/google-launches-googlebook-laptops/",
         "is_priority": false
       },
       {
-        "title": "What You Need to Know About the Foreign-Made Router Ban in the US",
+        "title": "Apple Mac Mini (M6) Review: For the AI Curious",
         "source": "WIRED",
-        "published": "Sun, 20 Sep 2026 10:00:00 +0000",
-        "url": "https://www.wired.com/story/us-government-foreign-made-router-ban-explained/",
+        "published": "Mon, 21 Sep 2026 13:00:00 +0000",
+        "url": "https://www.wired.com/review/apple-mac-mini-m6/",
         "is_priority": false
       },
       {
-        "title": "How to Avoid Scams and Sketchy Products on Amazon (2026)",
-        "source": "WIRED",
-        "published": "Sun, 20 Sep 2026 09:38:00 +0000",
-        "url": "https://www.wired.com/story/how-shop-safe-amazon/",
-        "is_priority": false
-      },
-      {
-        "title": "What ChatGPT Thinks It Knows About You Is Affecting Its Answers. Here’s How to Change That",
-        "source": "WIRED",
-        "published": "Sun, 20 Sep 2026 09:30:00 +0000",
-        "url": "https://www.wired.com/story/how-to-use-memory-in-chatgpt/",
-        "is_priority": false
-      },
-      {
-        "title": "Microsoft agentically ports Copilot runtime to Rust for $120K",
+        "title": "Raspberry Pi blocks changing RAM chips",
         "source": "Hacker News: Front Page",
-        "published": "Sun, 20 Sep 2026 09:08:52 +0000",
-        "url": "https://www.theregister.com/devops/2026/09/18/microsoft-agentically-ports-copilot-runtime-to-rust-for-120k/5297549",
+        "published": "Mon, 21 Sep 2026 12:54:24 +0000",
+        "url": "https://forums.raspberrypi.com/viewtopic.php?p=2380887#p2380888",
+        "is_priority": false
+      },
+      {
+        "title": "Ask HN: Is it impossible to disable Siri on macOS 27?",
+        "source": "Hacker News: Front Page",
+        "published": "Mon, 21 Sep 2026 12:47:05 +0000",
+        "url": "https://news.ycombinator.com/item?id=49786609",
+        "is_priority": false
+      },
+      {
+        "title": "Apple’s clever software solution lets iPhone batteries skirt shipping limits",
+        "source": "The Verge",
+        "published": "2026-09-21T08:37:27-04:00",
+        "url": "https://www.theverge.com/tech/998144/apple-iphone-18-pro-max-battery-firmware-limit",
         "is_priority": false
       }
     ],
     "Automotive/Motorcycle": [
       {
-        "title": "Why Only One US Highway Uses The Metric System",
+        "title": "What's Your Favorite Volvo?",
         "source": "Jalopnik - Obsessed with the culture of cars",
-        "published": "Sun, 20 Sep 2026 12:05:00 +0000",
-        "url": "https://www.jalopnik.com/2260737/us-highway-19-uses-metric-system-arizona/",
+        "published": "Mon, 21 Sep 2026 13:25:00 +0000",
+        "url": "https://www.jalopnik.com/2263012/whats-your-favorite-volvo-reader-question/",
         "is_priority": false
       },
       {
-        "title": "From 10-97% SOC in 9 minutes: Sunwoda joins the flash charging race",
+        "title": "Tesla and Sunrun’s virtual power plant dispatch record 580 MW to California grid",
         "source": "Electrek",
-        "published": "Sun, 20 Sep 2026 11:55:09 +0000",
-        "url": "https://electrek.co/2026/09/20/from-10-97-soc-in-9-minutes-sunwoda-joins-the-flash-charging-race/",
+        "published": "Mon, 21 Sep 2026 13:03:03 +0000",
+        "url": "https://electrek.co/2026/09/21/sunrun-tesla-580-mw-california-grid-record/",
         "is_priority": false
       },
       {
-        "title": "The Staggering Number Of Flock Cameras That Dot US Highways",
+        "title": "Hyundai Recalls Ioniq 9 EV Because Rear Seats Could Trap Children",
+        "source": "InsideEVs - Articles",
+        "published": "Mon, 21 Sep 2026 12:59:44 +0000",
+        "url": "https://insideevs.com/news/808955/hyundai-ioniq-9-ev-recall-child-trap-rear-seats/",
+        "is_priority": false
+      },
+      {
+        "title": "CATL’s New Batteries Target American Pickups. They Could Made In The U.S.",
+        "source": "InsideEVs - Articles",
+        "published": "Mon, 21 Sep 2026 12:58:10 +0000",
+        "url": "https://insideevs.com/news/808953/catl-us-pickup-battery-cells/",
+        "is_priority": false
+      },
+      {
+        "title": "Le Mans legend wins Goodwood’s RAC TT Celebration in low-drag Jaguar",
+        "source": "Autosport.com - All - Stories",
+        "published": "Mon, 21 Sep 2026 12:42:48 +0000",
+        "url": "https://www.autosport.com/national/news/le-mans-legend-wins-goodwoods-rac-tt-celebration-in-low-drag-jaguar/10857698/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-ALL&utm_term=News&utm_content=uk",
+        "is_priority": false
+      },
+      {
+        "title": "Nissan Reveals Pricing For Its New Hybrid That Drives Like An EV",
+        "source": "InsideEVs - Articles",
+        "published": "Mon, 21 Sep 2026 12:36:43 +0000",
+        "url": "https://insideevs.com/news/808948/2027-nissan-rogue-hybrid-prices/",
+        "is_priority": false
+      },
+      {
+        "title": "At $9,800, Is This 2000 Mitsubishi Montero Limited The Full Monty?",
         "source": "Jalopnik - Obsessed with the culture of cars",
-        "published": "Sun, 20 Sep 2026 11:05:00 +0000",
-        "url": "https://www.jalopnik.com/2260444/flock-cameras-operating-in-us-shocking/",
+        "published": "Mon, 21 Sep 2026 12:25:00 +0000",
+        "url": "https://www.jalopnik.com/2262547/2000-mitsubishi-montero-limited-for-sale-9800/",
         "is_priority": false
       },
       {
-        "title": "SONDORS’ abandoned 3-wheeled electric car just showed up for sale on eBay",
+        "title": "Wish You’d Been Here: The 2026 Goodwood Revival",
+        "source": "Latest Content - Car and Driver",
+        "published": "Mon, 21 Sep 2026 12:00:00 +0000",
+        "url": "https://www.caranddriver.com/photos/a73814099/2026-goodwood-revival-gallery/",
+        "is_priority": false
+      },
+      {
+        "title": "View Interior Photos of the 2027 Nissan Rogue Hybrid",
+        "source": "Latest Content - Car and Driver",
+        "published": "Mon, 21 Sep 2026 12:00:00 +0000",
+        "url": "https://www.caranddriver.com/photos/a73762699/2027-nissan-rogue-hybrid-details-interior-gallery/",
+        "is_priority": false
+      },
+      {
+        "title": "2027 Nissan Rogue Hybrid Is a New Kind of SUV That Starts Around $37K",
+        "source": "Latest Content - Car and Driver",
+        "published": "Mon, 21 Sep 2026 12:00:00 +0000",
+        "url": "https://www.caranddriver.com/news/a73810883/2027-nissan-rogue-hybrid-specs-pricing/",
+        "is_priority": false
+      },
+      {
+        "title": "View Exterior Photos of the 2027 Nissan Rogue Hybrid",
+        "source": "Latest Content - Car and Driver",
+        "published": "Mon, 21 Sep 2026 12:00:00 +0000",
+        "url": "https://www.caranddriver.com/photos/a73762654/2027-nissan-rogue-hybrid-details-exterior-gallery/",
+        "is_priority": false
+      },
+      {
+        "title": "2027 Nissan Rogue Hybrid Debuts With 38 MPG. But It's Not A Traditional Hybrid",
+        "source": "Motor1.com - News",
+        "published": "Mon, 21 Sep 2026 12:00:00 +0000",
+        "url": "https://www.motor1.com/news/808824/2027-nisssan-rouge-hybrid-powertrain-specs-price/",
+        "is_priority": false
+      },
+      {
+        "title": "2027 Nissan Rogue Hybrid Debuts With An EV-Like Driving Experience And 40 MPG",
+        "source": "Jalopnik - Obsessed with the culture of cars",
+        "published": "Mon, 21 Sep 2026 12:00:00 +0000",
+        "url": "https://www.jalopnik.com/2263558/2027-nissan-rogue-hybrid-reveal-e-power-system-40-mpg/",
+        "is_priority": false
+      },
+      {
+        "title": "European AUDI dealers could be facing a lawsuit from … Audi",
         "source": "Electrek",
-        "published": "Sun, 20 Sep 2026 09:55:29 +0000",
-        "url": "https://electrek.co/2026/09/20/sondors-forgotten-3-wheeled-electric-car-just-showed-up-for-sale-on-ebay/",
+        "published": "Mon, 21 Sep 2026 11:54:16 +0000",
+        "url": "https://electrek.co/2026/09/21/european-audi-buyers-could-be-facing-a-lawsuit-from-audi/",
         "is_priority": false
       },
       {
-        "title": "How Much Porsche Models Cost In 1976 Vs. 2026",
-        "source": "Jalopnik - Obsessed with the culture of cars",
-        "published": "Sun, 20 Sep 2026 09:25:00 +0000",
-        "url": "https://www.jalopnik.com/2260333/how-much-porsche-models-cost-1976-vs-2026/",
-        "is_priority": false
-      },
-      {
-        "title": "The year the legendary Daytona 24 Hours ran to six hours",
-        "source": "Autosport.com - All - Stories",
-        "published": "Sun, 20 Sep 2026 08:55:05 +0000",
-        "url": "https://www.autosport.com/imsa/news/the-year-the-legendary-daytona-24-hours-ran-to-six-hours/10857251/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-ALL&utm_term=News&utm_content=uk",
-        "is_priority": false
-      },
-      {
-        "title": "The Pirelli test row shows why MotoGP riders need a stronger voice",
-        "source": "Autosport.com - All - Stories",
-        "published": "Sun, 20 Sep 2026 07:05:02 +0000",
-        "url": "https://www.autosport.com/motogp/news/the-pirelli-test-row-shows-why-motogp-riders-need-a-stronger-voice/10857262/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-ALL&utm_term=News&utm_content=uk",
-        "is_priority": false
-      },
-      {
-        "title": "Blaney Becomes First Driver to Swing at NASCAR’s Most Polarizing Driver After Crash with Hocevar at Bristol",
-        "source": "Latest Content - Road & Track",
-        "published": "Sun, 20 Sep 2026 05:03:19 +0000",
-        "url": "https://www.roadandtrack.com/news/a73806105/nascar-bristol-fight-ryan-blaney-carson-hocevar/",
-        "is_priority": false
-      },
-      {
-        "title": "5 Fast, Powerful Mercedes That Aren't AMG-Branded",
-        "source": "Jalopnik - Obsessed with the culture of cars",
-        "published": "Sun, 20 Sep 2026 03:25:00 +0000",
-        "url": "https://www.jalopnik.com/2260318/fast-powerful-mercedes-benz-cars-without-amg-branding/",
-        "is_priority": false
-      },
-      {
-        "title": "Joey Logano Steals a Win in NASCAR’s Bristol Night Race While His Teammate Throws Punches on Pit Road",
-        "source": "Latest Content - Road & Track",
-        "published": "Sun, 20 Sep 2026 03:22:21 +0000",
-        "url": "https://www.roadandtrack.com/news/a73805905/joey-logano-steals-a-win-in-nascars-bristol-night-race-while-his-teammate-throws-punches-on-pit-road/",
-        "is_priority": false
-      },
-      {
-        "title": "What Are The Common Problems With 2021 Ford Broncos?",
-        "source": "Jalopnik - Obsessed with the culture of cars",
-        "published": "Sun, 20 Sep 2026 01:25:00 +0000",
-        "url": "https://www.jalopnik.com/2260270/how-much-routine-maintenance-cost-2021-ford-bronco/",
-        "is_priority": false
-      },
-      {
-        "title": "Listening To Birdsongs Can Boost Your Mood, But The Effects Are Undone By Traffic Noise",
-        "source": "Jalopnik - Obsessed with the culture of cars",
-        "published": "Sat, 19 Sep 2026 23:45:00 +0000",
-        "url": "https://www.jalopnik.com/2259443/study-says-listening-birdsongs-boost-mood-effects-undone-traffic-noise/",
-        "is_priority": false
-      },
-      {
-        "title": "No. 60 MSR Acura ARX-06 on Pole for Their Final IMSA Sprint Race",
-        "source": "Latest Content - Road & Track",
-        "published": "Sat, 19 Sep 2026 22:58:02 +0000",
-        "url": "https://www.roadandtrack.com/news/a73802779/no-60-msr-acura-arx-on-pole-for-their-final-imsa-sprint-race/",
-        "is_priority": false
-      },
-      {
-        "title": "3 Of The Worst Issues With Boxer Engines In Particular",
-        "source": "Jalopnik - Obsessed with the culture of cars",
-        "published": "Sat, 19 Sep 2026 22:25:00 +0000",
-        "url": "https://www.jalopnik.com/2259391/worst-issues-boxer-engine-layout/",
-        "is_priority": false
-      },
-      {
-        "title": "California Taxpayer Money Funded Nearly $600,000 In Reimbursements For High-Speed Rail Consultants To Uber To Bars, Investigation Finds",
-        "source": "Jalopnik - Obsessed with the culture of cars",
-        "published": "Sat, 19 Sep 2026 21:05:00 +0000",
-        "url": "https://www.jalopnik.com/2262838/california-taxpayer-money-funded-reimbursements-for-high-speed-rail-consultants/",
+        "title": "Tesla Reopens Roadster Reservations With A $50,000 Deposit",
+        "source": "Motor1.com - News",
+        "published": "Mon, 21 Sep 2026 11:20:30 +0000",
+        "url": "https://www.motor1.com/news/808935/tesla-roadster-50-000-reservations/",
         "is_priority": false
       }
     ],
     "Portugal": [
       {
-        "title": "Papa pede compromisso generoso para apoiar a Somália",
-        "source": "Observador - Últimas",
-        "published": "Sun, 20 Sep 2026 13:01:44 +0100",
-        "url": "https://observador.pt/2026/09/20/papa-apela-a-compromisso-generoso-para-apoio-a-populacao-da-somalia/",
+        "title": "Ministra do Ambiente diz que consumo de combustíveis aumentou e apela à poupança",
+        "source": "Jornal de Negocios",
+        "published": "Mon, 21 Sep 2026 14:39:51 +0100",
+        "url": "https://www.jornaldenegocios.pt/empresas/detalhe/ministra-do-ambiente-diz-que-consumo-de-combustiveis-aumentou-e-apela-a-poupanca",
         "is_priority": true
       },
       {
-        "title": "Seul acusa Pyongyang de lançar novo míssil balístico",
-        "source": "Observador - Últimas",
-        "published": "Sun, 20 Sep 2026 13:00:13 +0100",
-        "url": "https://observador.pt/2026/09/20/seul-acusa-pyongyang-de-lancar-novo-missil-balistico-e-outro-projetil-em-direcao-ao-mar/",
-        "is_priority": true
-      },
-      {
-        "title": "Alunos sem vagas. PS pede audição urgente do ministro",
-        "source": "Observador - Últimas",
-        "published": "Sun, 20 Sep 2026 12:58:18 +0100",
-        "url": "https://observador.pt/2026/09/20/ps-pede-audicao-urgente-de-fernando-alexandre-sobre-alunos-sem-vagas-nas-escolas/",
-        "is_priority": true
-      },
-      {
-        "title": "O verdadeiro teste aos carros elétricos não é na autoestrada, é na reunião de condomínio",
-        "source": "dn",
-        "published": "Sun, 20 Sep 2026 11:56:54 +0000",
-        "url": "https://motor24.pt/opiniao-motor24/o-verdadeiro-teste-aos-carros-eltricos-no-e-na-autoestrada-e-na-reunio-de-condomnio",
-        "is_priority": true
-      },
-      {
-        "title": "Queniana Agnes Jebet Ngetich bate recorde da meia-maratona",
-        "source": "Observador - Últimas",
-        "published": "Sun, 20 Sep 2026 12:53:21 +0100",
-        "url": "https://observador.pt/2026/09/20/queniana-agnes-jebet-ngetich-bate-recorde-do-mundo-da-meia-maratona-em-copenhaga/",
-        "is_priority": true
-      },
-      {
-        "title": "CEO da Startup Portugal vê “potencial grande” na deep tech para criar novas empresas",
+        "title": "CIM Alto Alentejo quer alteração legal que evite paragens de obras como Barragem do Pisão",
         "source": "ECO",
-        "published": "Sun, 20 Sep 2026 11:53:01 +0000",
-        "url": "https://eco.sapo.pt/2026/09/20/ceo-da-startup-portugal-ve-potencial-grande-na-deep-tech-para-criar-novas-empresas/",
+        "published": "Mon, 21 Sep 2026 13:35:39 +0000",
+        "url": "https://eco.sapo.pt/2026/09/21/cim-alto-alentejo-quer-alteracao-legal-que-evite-paragens-de-obras-como-barragem-do-pisao/",
         "is_priority": true
       },
       {
-        "title": "Rússia diz que lei de sanções dos EUA não ajuda nas negociações para a paz na Ucrânia",
-        "source": "dn",
-        "published": "Sun, 20 Sep 2026 11:51:29 +0000",
-        "url": "https://www.dn.pt/internacional/rssia-diz-que-lei-de-sanes-dos-eua-no-ajuda-negociaes-para-a-paz-na-ucrnia",
+        "title": "A guerra híbrida da Rússia contra a Europa",
+        "source": "Observador - Últimas",
+        "published": "Mon, 21 Sep 2026 14:35:17 +0100",
+        "url": "https://observador.pt/especiais/ciberataques-drones-e-sabotagem-a-guerra-hibrida-da-russia-contra-a-europa/",
         "is_priority": true
       },
       {
-        "title": "Garantias de 300 biliões fora dos balanços das tecnológicas",
-        "source": "ECO",
-        "published": "Sun, 20 Sep 2026 11:50:15 +0000",
-        "url": "https://eco.sapo.pt/2026/09/20/garantias-de-300-bilioes-fora-dos-balancos-das-tecnologicas/",
-        "is_priority": true
-      },
-      {
-        "title": "Supremo Tribunal de Justiça recusa diminuir pena a Diogo \"Xió\"",
+        "title": "Ucraniano foragido há 24 anos começou a ser julgado por matar russo em 2001 no Porto",
         "source": "Correio da Manhã",
-        "published": "Sun, 20 Sep 2026 12:48:43 +0100",
-        "url": "https://www.cmjornal.pt/cmtv/videos/detalhe/20260920-124844-supremo-tribunal-de-justica-recusa-diminuir-pena-a-diogo-xio",
+        "published": "Mon, 21 Sep 2026 14:29:00 +0100",
+        "url": "https://www.cmjornal.pt/portugal/detalhe/ucraniano-foragido-ha-24-anos-comecou-a-ser-julgado-por-matar-russo-em-2001-no-porto",
+        "is_priority": true
+      },
+      {
+        "title": "Ministra do Ambiente diz que consumo de combustíveis aumentou e apela à poupança",
+        "source": "Correio da Manhã",
+        "published": "Mon, 21 Sep 2026 14:28:00 +0100",
+        "url": "https://www.cmjornal.pt/politica/detalhe/ministra-do-ambiente-diz-que-consumo-de-combustiveis-aumentou-e-apela-a-poupanca",
+        "is_priority": true
+      },
+      {
+        "title": "Chanceler Friedrich Merz promete manter coligação após derrotas eleitorais na Alemanha",
+        "source": "ECO",
+        "published": "Mon, 21 Sep 2026 13:27:39 +0000",
+        "url": "https://eco.sapo.pt/2026/09/21/chanceler-friedrich-merz-promete-manter-coligacao-apos-derrotas-eleitorais-na-alemanha/",
+        "is_priority": true
+      },
+      {
+        "title": "Trump acusa parte da imprensa de representar uma \"ameaça à segurança nacional\"",
+        "source": "Correio da Manhã",
+        "published": "Mon, 21 Sep 2026 14:22:24 +0100",
+        "url": "https://www.cmjornal.pt/mundo/detalhe/trump-acusa-parte-da-imprensa-de-representar-uma-ameaca-a-seguranca-nacional",
+        "is_priority": true
+      },
+      {
+        "title": "Mais de trinta filmes portugueses em outubro no Doclisboa",
+        "source": "Observador - Últimas",
+        "published": "Mon, 21 Sep 2026 14:22:20 +0100",
+        "url": "https://observador.pt/2026/09/21/mais-de-trinta-filmes-portugueses-em-outubro-no-festival-doclisboa/",
+        "is_priority": true
+      },
+      {
+        "title": "Quinze anos após troika, rating de Portugal sobe em várias agências",
+        "source": "ECO",
+        "published": "Mon, 21 Sep 2026 13:18:54 +0000",
+        "url": "https://eco.sapo.pt/2026/09/21/quinze-anos-apos-troika-rating-de-portugal-sobe-em-varias-agencias/",
         "is_priority": true
       },
       {
         "title": "Ukraine steps up measures to protect railways",
         "source": "Deutsche Welle: DW.com - Europe",
-        "published": "2026-09-20T12:07:44.883443+00:00",
+        "published": "2026-09-21T13:46:28.955677+00:00",
         "url": "https://www.dw.com/en/ukraine-steps-up-measures-to-protect-railways/a-79339087?maca=en-rss-en-eu-2092-rdf",
         "is_priority": false
       },
       {
         "title": "Ever more Israelis moving to and investing in Cyprus",
         "source": "Deutsche Welle: DW.com - Europe",
-        "published": "2026-09-20T12:07:44.883466+00:00",
+        "published": "2026-09-21T13:46:28.955704+00:00",
         "url": "https://www.dw.com/en/ever-more-israelis-moving-to-and-investing-in-cyprus/a-79330240?maca=en-rss-en-eu-2092-rdf",
         "is_priority": false
       },
       {
         "title": "Airport malaria in Germany remains infrequent",
         "source": "Deutsche Welle: DW.com - Europe",
-        "published": "2026-09-20T12:07:44.883480+00:00",
+        "published": "2026-09-21T13:46:28.955718+00:00",
         "url": "https://www.dw.com/en/airport-malaria-in-germany-remains-infrequent/a-79333920?maca=en-rss-en-eu-2092-rdf",
         "is_priority": false
       },
       {
         "title": "Canada and EU: A look at the bloc's special relationships",
         "source": "Deutsche Welle: DW.com - Europe",
-        "published": "2026-09-20T12:07:44.883494+00:00",
+        "published": "2026-09-21T13:46:28.955732+00:00",
         "url": "https://www.dw.com/en/canada-and-eu-a-look-at-the-bloc-s-special-relationships/a-79328797?maca=en-rss-en-eu-2092-rdf",
         "is_priority": false
       },
       {
         "title": "Russian birth tourism to Brazil increases",
         "source": "Deutsche Welle: DW.com - Europe",
-        "published": "2026-09-20T12:07:44.883506+00:00",
+        "published": "2026-09-21T13:46:28.955743+00:00",
         "url": "https://www.dw.com/en/russian-birth-tourism-to-brazil-increases/a-79312304?maca=en-rss-en-eu-2092-rdf",
         "is_priority": false
       },
       {
         "title": "A war-fatigued and anxious Russia picks a new parliament",
         "source": "Deutsche Welle: DW.com - Europe",
-        "published": "2026-09-20T12:07:44.883519+00:00",
+        "published": "2026-09-21T13:46:28.955755+00:00",
         "url": "https://www.dw.com/en/a-war-fatigued-and-anxious-russia-picks-a-new-parliament/a-79312440?maca=en-rss-en-eu-2092-rdf",
         "is_priority": false
       }

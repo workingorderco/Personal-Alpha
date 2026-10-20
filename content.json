@@ -1,538 +1,538 @@
 {
-  "built_at": "2026-10-19T14:32:52.927808+00:00",
+  "built_at": "2026-10-20T12:36:40.871871+00:00",
   "sections": {
     "Finance": [
       {
-        "title": "Elon Musk Says He Will Give a SpaceX Share to ‘Every Kid in America’",
-        "source": "NYT > Business",
-        "published": "Mon, 19 Oct 2026 14:23:08 +0000",
-        "url": "https://www.nytimes.com/2026/10/19/business/elon-musk-spacex-stock-anthropic-giveaway.html",
-        "is_priority": false
-      },
-      {
-        "title": "Women may be at greater risk of AI job losses. Telephone switch operators and PCs show why",
+        "title": "Alberta votes by large majority to remain part of Canada in boost for Carney",
         "source": "US Top News and Analysis",
-        "published": "Mon, 19 Oct 2026 14:20:08 GMT",
-        "url": "https://www.cnbc.com/2026/10/19/ai-job-losses-women-automation-risk.html",
+        "published": "Tue, 20 Oct 2026 12:32:19 GMT",
+        "url": "https://www.cnbc.com/2026/10/20/alberta-canada-vote-remain.html",
         "is_priority": false
       },
       {
-        "title": "Nasdaq gains as investors buy the dip in the AI trade: Live updates",
-        "source": "US Top News and Analysis",
-        "published": "Mon, 19 Oct 2026 14:19:28 GMT",
-        "url": "https://www.cnbc.com/2026/10/18/stock-market-today-live-updates.html",
-        "is_priority": false
-      },
-      {
-        "title": "De olho nas eleições",
+        "title": "GM Narrows 2026 Profit Forecast, Boosts Share Buyback",
         "source": "Bloomberg Markets",
-        "published": "Mon, 19 Oct 2026 14:18:45 GMT",
-        "url": "https://www.bloomberg.com/news/videos/2026-10-19/de-olho-nas-eleicoes-video",
+        "published": "Tue, 20 Oct 2026 12:30:13 GMT",
+        "url": "https://www.bloomberg.com/news/videos/2026-10-20/gm-narrows-2026-profit-forecast-boosts-share-buyback-video",
         "is_priority": false
       },
       {
-        "title": "US homebuilder sentiment tumbles to near 14-1/2-year low in October",
-        "source": "All News",
-        "published": "2026-10-19 14:06:25",
-        "url": "https://www.investing.com/news/economic-indicators/us-homebuilder-sentiment-tumbles-to-near-1412year-low-in-october-4957879",
+        "title": "Qualcomm to cut jobs worldwide in performance-focused layoffs, internal memo shows",
+        "source": "US Top News and Analysis",
+        "published": "Tue, 20 Oct 2026 12:29:44 GMT",
+        "url": "https://www.cnbc.com/2026/10/20/qualcomm-performance-focused-layoffs-reuters.html",
         "is_priority": false
       },
       {
-        "title": "Gauzy completes $7M financing to restart smart glass production",
-        "source": "All News",
-        "published": "2026-10-19 14:04:33",
-        "url": "https://www.investing.com/news/company-news/gauzy-completes-7m-financing-to-restart-smart-glass-production-93CH-4957877",
+        "title": "Apple adds U.S. titanium supplier for iPhone Duo as supply stays tight",
+        "source": "US Top News and Analysis",
+        "published": "Tue, 20 Oct 2026 12:29:26 GMT",
+        "url": "https://www.cnbc.com/2026/10/20/apple-adds-us-titanium-supplier-for-iphone-duo.html",
         "is_priority": false
       },
       {
-        "title": "Cboe launches extended trading hours for select equity options",
-        "source": "All News",
-        "published": "2026-10-19 14:04:32",
-        "url": "https://www.investing.com/news/company-news/cboe-launches-extended-trading-hours-for-select-equity-options-93CH-4957876",
-        "is_priority": false
-      },
-      {
-        "title": "Fujifilm forms alliance with ePac for digital packaging expansion",
-        "source": "All News",
-        "published": "2026-10-19 14:04:30",
-        "url": "https://www.investing.com/news/company-news/fujifilm-forms-alliance-with-epac-for-digital-packaging-expansion-93CH-4957875",
-        "is_priority": false
-      },
-      {
-        "title": "Title Resources Group names Robert Greenbaum as EVP",
-        "source": "All News",
-        "published": "2026-10-19 14:04:29",
-        "url": "https://www.investing.com/news/company-news/title-resources-group-names-robert-greenbaum-as-evp-93CH-4957874",
-        "is_priority": false
-      },
-      {
-        "title": "Why is Marvell Technology stock rallying today?",
-        "source": "All News",
-        "published": "2026-10-19 14:04:08",
-        "url": "https://www.investing.com/news/stock-market-news/why-is-marvell-technology-stock-rallying-today-93CH-4957873",
-        "is_priority": false
-      },
-      {
-        "title": "Oklo stock hits 52-week low at 27.43 USD",
-        "source": "All News",
-        "published": "2026-10-19 14:04:02",
-        "url": "https://www.investing.com/news/company-news/oklo-stock-hits-52week-low-at-2743-usd-93CH-4957872",
-        "is_priority": false
-      },
-      {
-        "title": "Centrus Energy stock hits 52-week low at 112.25 USD",
-        "source": "All News",
-        "published": "2026-10-19 14:02:57",
-        "url": "https://www.investing.com/news/company-news/centrus-energy-stock-hits-52week-low-at-11225-usd-93CH-4957869",
-        "is_priority": false
-      },
-      {
-        "title": "Piper Sandler lowers Oklo stock price target on higher capex estimates",
-        "source": "All News",
-        "published": "2026-10-19 14:02:51",
-        "url": "https://www.investing.com/news/analyst-ratings/piper-sandler-lowers-oklo-stock-price-target-on-higher-capex-estimates-93CH-4957868",
-        "is_priority": false
-      },
-      {
-        "title": "Piper Sandler reiterates Neptune Insurance stock rating ahead of earnings",
-        "source": "All News",
-        "published": "2026-10-19 14:02:48",
-        "url": "https://www.investing.com/news/analyst-ratings/piper-sandler-reiterates-neptune-insurance-stock-rating-ahead-of-earnings-93CH-4957865",
-        "is_priority": false
-      },
-      {
-        "title": "Builders slash prices on new homes as buyer traffic drops to 14-year low",
+        "title": "Credit markets have entered uncharted territory as the riskiest junk bonds send a warning to investors",
         "source": "MarketWatch.com - Top Stories",
-        "published": "Mon, 19 Oct 2026 14:00:00 GMT",
-        "url": "https://www.marketwatch.com/story/builders-slash-prices-on-new-homes-as-buyer-traffic-drops-to-14-year-low-3dd8caea?mod=mw_rss_topstories",
+        "published": "Tue, 20 Oct 2026 12:29:00 GMT",
+        "url": "https://www.marketwatch.com/story/credit-markets-have-entered-uncharted-territory-as-the-riskiest-junk-bonds-send-a-warning-to-investors-816a05d5?mod=mw_rss_topstories",
+        "is_priority": false
+      },
+      {
+        "title": "Salesforce to acquire Braze in a $5.66 billion deal",
+        "source": "US Top News and Analysis",
+        "published": "Tue, 20 Oct 2026 12:25:09 GMT",
+        "url": "https://www.cnbc.com/2026/10/20/salesforce-to-acquire-braze.html",
+        "is_priority": false
+      },
+      {
+        "title": "Salesforce to acquire Braze in a $5.66 billion deal",
+        "source": "All News",
+        "published": "2026-10-20 12:24:57",
+        "url": "https://www.investing.com/news/stock-market-news/salesforce-to-acquire-braze-in-a-566-billion-deal-4959937",
+        "is_priority": false
+      },
+      {
+        "title": "Bank of Israel to pause rate cuts ahead of October 27 election: Reuters poll",
+        "source": "All News",
+        "published": "2026-10-20 12:24:44",
+        "url": "https://www.investing.com/news/economy-news/bank-of-israel-to-pause-rate-cuts-ahead-of-october-27-election-reuters-poll-4959988",
+        "is_priority": false
+      },
+      {
+        "title": "China’s CATL profit growth slows in third quarter as competition intensifies",
+        "source": "All News",
+        "published": "2026-10-20 12:24:26",
+        "url": "https://www.investing.com/news/stock-market-news/chinas-catl-profit-growth-slows-in-third-quarter-as-competition-intensifies-4959970",
+        "is_priority": false
+      },
+      {
+        "title": "UK to deploy fighter jets to defend Saudi cities from Houthi attacks",
+        "source": "US Top News and Analysis",
+        "published": "Tue, 20 Oct 2026 12:23:29 GMT",
+        "url": "https://www.cnbc.com/2026/10/20/uk-fighter-jets-saudi-houthi-attacks-iran.html",
+        "is_priority": false
+      },
+      {
+        "title": "HSBC says CoreWeave shares to drop another 30%-plus because of 'structural concerns for neoclouds'",
+        "source": "US Top News and Analysis",
+        "published": "Tue, 20 Oct 2026 12:23:01 GMT",
+        "url": "https://www.cnbc.com/2026/10/20/coreweave-hsbc-debt-risks.html",
+        "is_priority": false
+      },
+      {
+        "title": "Evercore ISI initiates Kestra Medical stock with outperform rating",
+        "source": "All News",
+        "published": "2026-10-20 12:22:48",
+        "url": "https://www.investing.com/news/analyst-ratings/evercore-isi-initiates-kestra-medical-stock-with-outperform-rating-93CH-4959984",
+        "is_priority": false
+      },
+      {
+        "title": "Leerink initiates Kazia Therapeutics stock with $30 target",
+        "source": "All News",
+        "published": "2026-10-20 12:22:42",
+        "url": "https://www.investing.com/news/analyst-ratings/leerink-initiates-kazia-therapeutics-stock-with-30-target-93CH-4959983",
+        "is_priority": false
+      },
+      {
+        "title": "Fifth Circuit vacates class certification in Filana Therapeutics securities case",
+        "source": "All News",
+        "published": "2026-10-20 12:22:30",
+        "url": "https://www.investing.com/news/sec-filings/fifth-circuit-vacates-class-certification-in-filana-therapeutics-securities-case-93CH-4959982",
+        "is_priority": false
+      },
+      {
+        "title": "Romania’s central bank unanimously voted to hold rates, minutes show",
+        "source": "All News",
+        "published": "2026-10-20 12:21:41",
+        "url": "https://www.investing.com/news/economy-news/romanias-central-bank-unanimously-voted-to-hold-rates-minutes-show-93CH-4959981",
         "is_priority": false
       }
     ],
     "World News": [
       {
-        "title": "South Africa v Australia: play starts on day two of second men’s cricket Test after rain delays – live",
+        "title": "England chasing 303 to beat Pakistan in men’s tri-series cricket ODI – live",
         "source": "The Guardian",
-        "published": "Mon, 19 Oct 2026 14:25:31 GMT",
-        "url": "https://www.theguardian.com/sport/live/2026/oct/19/south-africa-v-australia-second-test-day-two-cricket-st-georges-park-gqeberha-live-updates",
+        "published": "Tue, 20 Oct 2026 12:33:01 GMT",
+        "url": "https://www.theguardian.com/sport/live/2026/oct/20/pakistan-v-england-mens-tri-series-cricket-odi-live",
         "is_priority": false
       },
       {
-        "title": "Israeli Police Detain 10 Over Violent Settler Attacks in West Bank",
+        "title": "Rubio Travels to India for Trade Talks Amid Strained U.S. Relations",
         "source": "NYT > World News",
-        "published": "Mon, 19 Oct 2026 14:22:13 +0000",
-        "url": "https://www.nytimes.com/2026/10/19/world/middleeast/israel-west-bank-settlers-palestinians.html",
+        "published": "Tue, 20 Oct 2026 12:31:21 +0000",
+        "url": "https://www.nytimes.com/2026/10/20/world/asia/marco-rubio-india-us-trade-deal.html",
         "is_priority": false
       },
       {
-        "title": "Tell us about a great conservation tourism experience",
+        "title": "South Africa v Australia: second men’s cricket Test, day three – live",
         "source": "The Guardian",
-        "published": "Mon, 19 Oct 2026 14:22:06 GMT",
-        "url": "https://www.theguardian.com/travel/2026/oct/19/tell-us-about-great-conservation-tourism-experience",
+        "published": "Tue, 20 Oct 2026 12:31:04 GMT",
+        "url": "https://www.theguardian.com/sport/live/2026/oct/20/south-africa-v-australia-second-test-day-three-cricket-st-georges-park-gqeberha-live-updates",
         "is_priority": false
       },
       {
-        "title": "Will Trump’s Endorsement of Netanyahu Fire Up His Campaign or Fizzle?",
+        "title": "The Mayor of a City in Haiti Warned of a Massacre. No One Listened.",
         "source": "NYT > World News",
-        "published": "Mon, 19 Oct 2026 14:21:13 +0000",
-        "url": "https://www.nytimes.com/2026/10/19/world/middleeast/trump-netanyahu-endorsement-election.html",
+        "published": "Tue, 20 Oct 2026 12:30:00 +0000",
+        "url": "https://www.nytimes.com/2026/10/20/world/americas/mayor-kenscoff-haiti-gangs-massacre.html",
         "is_priority": false
       },
       {
-        "title": "Maternity care in the UK is in a doom loop – how has it come to this? | Zoe Williams",
+        "title": "Trump continues midterm campaign blitz in North Carolina – US politics live",
+        "source": "World news | The Guardian",
+        "published": "Tue, 20 Oct 2026 12:20:54 GMT",
+        "url": "https://www.theguardian.com/us-news/live/2026/oct/20/donald-trump-midterms-republicans-democrats-north-carolina-latest-updates",
+        "is_priority": false
+      },
+      {
+        "title": "Google says ‘power event’ that disrupted Cloud services has been ‘mitigated’, after widespread problems – latest updates",
         "source": "The Guardian",
-        "published": "Mon, 19 Oct 2026 14:18:28 GMT",
-        "url": "https://www.theguardian.com/commentisfree/2026/oct/19/maternity-care-in-the-uk-is-in-a-doom-loop-how-has-it-come-to-this",
+        "published": "Tue, 20 Oct 2026 12:15:19 GMT",
+        "url": "https://www.theguardian.com/business/live/2026/oct/20/uk-unemployment-rate-pre-budget-boost-wages-vacancies-latest-news-updates",
         "is_priority": false
       },
       {
-        "title": "Violent street protests in France and Italy trigger stock and bond sell-off and send euro lower – as it happened",
+        "title": "Ban on family visits to care homes at start of pandemic had ‘devastating consequences’, inquiry finds – UK politics live",
+        "source": "World news | The Guardian",
+        "published": "Tue, 20 Oct 2026 12:15:11 GMT",
+        "url": "https://www.theguardian.com/politics/live/2026/oct/20/kemi-badenoch-john-healey-capital-gains-tax-budget-covid-inquiry-care-homes-uk-politics-latest-news",
+        "is_priority": false
+      },
+      {
+        "title": "‘These risks are real’: the threat of AI bioweapons - video",
         "source": "The Guardian",
-        "published": "Mon, 19 Oct 2026 14:09:57 GMT",
-        "url": "https://www.theguardian.com/business/live/2026/oct/19/exports-lift-china-economic-growth-french-protests-pressure-euro-bonds-latest-business-live-updates",
+        "published": "Tue, 20 Oct 2026 12:14:42 GMT",
+        "url": "https://www.theguardian.com/science/video/2026/oct/20/these-risks-are-real-the-threat-of-ai-bioweapons-video",
         "is_priority": false
       },
       {
-        "title": "‘Someone served sushi off a guy’s naked chest!’ How we made Come Dine With Me",
-        "source": "The Guardian",
-        "published": "Mon, 19 Oct 2026 14:09:26 GMT",
-        "url": "https://www.theguardian.com/tv-and-radio/2026/oct/19/sushi-naked-chest-how-we-made-come-dine-with-me",
+        "title": "French cities ‘calm overnight’ after targeted curfews, prime minister says – Europe live",
+        "source": "World news | The Guardian",
+        "published": "Tue, 20 Oct 2026 12:11:05 GMT",
+        "url": "https://www.theguardian.com/world/live/2026/oct/20/france-protests-paris-curfews-italy-europe-ukraine-latest-news-updates",
         "is_priority": false
       },
       {
-        "title": "Catalonia's former rebel president can return to Spain, court rules",
+        "title": "Yemeni City of Taiz Running Out of Essentials as Houthis Close in",
+        "source": "NYT > World News",
+        "published": "Tue, 20 Oct 2026 12:09:31 +0000",
+        "url": "https://www.nytimes.com/2026/10/20/world/middleeast/yemen-taiz-houthi-siege.html",
+        "is_priority": false
+      },
+      {
+        "title": "Zelensky prepares for Oslo talks with US envoys as Rubio denies withholding intelligence",
         "source": "BBC News",
-        "published": "Mon, 19 Oct 2026 14:06:53 GMT",
-        "url": "https://www.bbc.co.uk/news/articles/cvp8gzg4e143o?at_medium=RSS&at_campaign=rss",
+        "published": "Tue, 20 Oct 2026 12:08:41 GMT",
+        "url": "https://www.bbc.co.uk/news/articles/ck9qzn193lrlo?at_medium=RSS&at_campaign=rss",
         "is_priority": false
       },
       {
-        "title": "No 10: Hegseth ‘wrong’ to say most non-US Nato soldiers didn’t fight in Afghanistan – UK politics live",
-        "source": "World news | The Guardian",
-        "published": "Mon, 19 Oct 2026 14:06:13 GMT",
-        "url": "https://www.theguardian.com/politics/live/2026/oct/19/andy-burnham-labour-children-welfare-neets-kemi-badenoch-conservatives-nigel-farage-reform-latest-news-updates",
-        "is_priority": false
-      },
-      {
-        "title": "Priest in Ecuador Dies After Crucifix Falls on Him During Livestreamed Mass",
+        "title": "Hegseth Said to Make Unannounced Visit to Israel for Talks With Netanyahu",
         "source": "NYT > World News",
-        "published": "Mon, 19 Oct 2026 14:02:29 +0000",
-        "url": "https://www.nytimes.com/2026/10/19/world/americas/ecuador-priest-dies-crucifix.html",
+        "published": "Tue, 20 Oct 2026 12:01:18 +0000",
+        "url": "https://www.nytimes.com/2026/10/20/world/middleeast/hegseth-netanyahu-trump-israel-election.html",
         "is_priority": false
       },
       {
-        "title": "French PM blames ‘ultra-left’ for exploiting protests as he seeks partial curfews – Europe live",
+        "title": "Giving £2 a day to people in the Amazon helps protect rainforest, pilot project finds",
         "source": "World news | The Guardian",
-        "published": "Mon, 19 Oct 2026 14:01:17 GMT",
-        "url": "https://www.theguardian.com/world/live/2026/oct/19/europe-france-protests-riots-macron-ukraine-russia-zelenskyy-sweden-latest-news-updates",
+        "published": "Tue, 20 Oct 2026 12:00:36 GMT",
+        "url": "https://www.theguardian.com/environment/2026/oct/20/unconditional-basic-income-amazon-rainforest-peru-study",
         "is_priority": false
       },
       {
-        "title": "PSG vs Barcelona match will not be postponed despite protests: French PM",
-        "source": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
-        "published": "Mon, 19 Oct 2026 14:01:00 +0000",
-        "url": "https://www.aljazeera.com/sports/2026/10/19/psg-vs-barcelona-match-will-not-be-postponed-despite-protests-french-pm?traffic_source=rss",
-        "is_priority": false
-      },
-      {
-        "title": "Konsa bullish about Arsenal’s Champions League hopes as Bayern clash looms",
+        "title": "‘If the lion does not tell its story, the hunter will’: a century of thrilling Cameroonian art",
         "source": "The Guardian",
-        "published": "Mon, 19 Oct 2026 14:00:59 GMT",
-        "url": "https://www.theguardian.com/football/2026/oct/19/ezri-konsa-arsenal-champions-league-bayern-munich",
+        "published": "Tue, 20 Oct 2026 12:00:36 GMT",
+        "url": "https://www.theguardian.com/artanddesign/2026/oct/20/cameroon-cameroonian-art-lion-hunter-roxane-mbanga",
         "is_priority": false
       },
       {
-        "title": "Tricky time for lunchboxes: banana shortage hits supermarket shelves after cool weather in Queensland",
-        "source": "World news | The Guardian",
-        "published": "Mon, 19 Oct 2026 14:00:03 GMT",
-        "url": "https://www.theguardian.com/australia-news/2026/oct/19/tricky-time-for-lunchboxes-banana-shortage-hits-supermarket-shelves-after-cool-weather-in-queensland",
-        "is_priority": false
-      },
-      {
-        "title": "Calls to strengthen workplace privacy in Australia as employers turn to AI to track staff",
-        "source": "World news | The Guardian",
-        "published": "Mon, 19 Oct 2026 14:00:03 GMT",
-        "url": "https://www.theguardian.com/technology/2026/oct/20/workplace-privacy-concerns-employers-use-ai-to-monitor-staff",
+        "title": "Fridge or not? What’s the best way to store bread?",
+        "source": "The Guardian",
+        "published": "Tue, 20 Oct 2026 12:00:36 GMT",
+        "url": "https://www.theguardian.com/food/2026/oct/20/fridge-or-not-whats-the-best-way-to-store-bread",
         "is_priority": false
       }
     ],
     "Tech": [
       {
-        "title": "Major European mobile carriers are teaming up for a ‘direct’ satellite program without Starlink",
-        "source": "The Verge",
-        "published": "2026-10-19T10:24:42-04:00",
-        "url": "https://www.theverge.com/policy/1013680/european-mobile-carriers-mobile-satellite-starlink",
-        "is_priority": false
-      },
-      {
-        "title": "Elon Musk promises to give one SpaceX share to every child in the US",
-        "source": "The Verge",
-        "published": "2026-10-19T10:20:11-04:00",
-        "url": "https://www.theverge.com/tech/1013667/elon-musk-space-x-shares-us-children",
-        "is_priority": false
-      },
-      {
-        "title": "Beyond These Stars",
-        "source": "Hacker News: Front Page",
-        "published": "Mon, 19 Oct 2026 14:06:10 +0000",
-        "url": "https://store.steampowered.com/app/2295060/Beyond_These_Stars/",
-        "is_priority": false
-      },
-      {
-        "title": "It’s hard to imagine wireless headphones ever getting lighter than these",
-        "source": "The Verge",
-        "published": "2026-10-19T10:03:28-04:00",
-        "url": "https://www.theverge.com/tech/1013635/its-hard-to-imagine-wireless-headphones-ever-getting-lighter-than-these",
-        "is_priority": false
-      },
-      {
-        "title": "Calls to strengthen workplace privacy in Australia as employers turn to AI to track staff",
+        "title": "Google says ‘power event’ that disrupted Cloud services has been ‘mitigated’, after widespread problems – latest updates",
         "source": "Technology | The Guardian",
-        "published": "Mon, 19 Oct 2026 14:00:03 GMT",
-        "url": "https://www.theguardian.com/technology/2026/oct/20/workplace-privacy-concerns-employers-use-ai-to-monitor-staff",
+        "published": "Tue, 20 Oct 2026 12:15:19 GMT",
+        "url": "https://www.theguardian.com/business/live/2026/oct/20/uk-unemployment-rate-pre-budget-boost-wages-vacancies-latest-news-updates",
         "is_priority": false
       },
       {
-        "title": "A hacker broke into John Deere and SharkNinja with an army of AI agents",
-        "source": "The Verge",
-        "published": "2026-10-19T09:58:41-04:00",
-        "url": "https://www.theverge.com/ai-artificial-intelligence/1013643/ai-agents-hack-john-deere-shark-ninja-cummins",
+        "title": "The Download: the claim shaking up AI and the internet’s agent problem",
+        "source": "MIT Technology Review",
+        "published": "Tue, 20 Oct 2026 12:10:00 +0000",
+        "url": "https://www.technologyreview.com/2026/10/20/1147355/the-download-claim-shaking-up-ai-internet-agent-problem/",
         "is_priority": false
       },
       {
-        "title": "Wine Ported to OpenBSD",
+        "title": "Hazel (YC W24) Is Hiring",
         "source": "Hacker News: Front Page",
-        "published": "Mon, 19 Oct 2026 13:35:34 +0000",
-        "url": "https://marc.info/?l=openbsd-ports&m=179236125692175",
+        "published": "Tue, 20 Oct 2026 12:00:32 +0000",
+        "url": "https://www.ycombinator.com/companies/hazel-2/jobs/PpNKYBS-full-stack-engineer-ts-sci",
         "is_priority": false
       },
       {
-        "title": "Review: Lanterns is a truly unique twist on the superhero genre",
-        "source": "Ars Technica - All content",
-        "published": "Mon, 19 Oct 2026 13:31:08 +0000",
-        "url": "https://arstechnica.com/culture/2026/10/review-lanterns-is-a-truly-unique-twist-on-the-superhero-genre/",
-        "is_priority": false
-      },
-      {
-        "title": "Show HN: Qwen3-4B with the AI writing tics trained out",
-        "source": "Hacker News: Front Page",
-        "published": "Mon, 19 Oct 2026 13:00:47 +0000",
-        "url": "https://100toolkit.com/blog/deslop-model/",
-        "is_priority": false
-      },
-      {
-        "title": "Wyze moved the screen on its new smart scale to the handle so it’s easier to read at eye level",
+        "title": "Spotify’s new podcast memberships let you pay for extra perks",
         "source": "The Verge",
-        "published": "2026-10-19T09:00:00-04:00",
-        "url": "https://www.theverge.com/tech/1013081/wyze-smart-scale-ultra-bodyscan-plus-handle-display",
+        "published": "2026-10-20T08:00:00-04:00",
+        "url": "https://www.theverge.com/entertainment/1013606/spotify-podcast-memberships-paid-subscription-launch",
         "is_priority": false
       },
       {
-        "title": "Apple updates guidelines to ban nudify apps masquerading as regular apps to pass review",
+        "title": "Spotify launches paid podcast memberships with perks beyond bonus content",
         "source": "TechCrunch",
-        "published": "Mon, 19 Oct 2026 12:56:14 +0000",
-        "url": "https://techcrunch.com/2026/10/19/apple-updates-guidelines-to-ban-nudify-apps-masquerading-as-regular-apps-to-pass-review/",
+        "published": "Tue, 20 Oct 2026 12:00:00 +0000",
+        "url": "https://techcrunch.com/2026/10/20/spotify-launches-paid-podcast-memberships-with-perks-beyond-bonus-content/",
         "is_priority": false
       },
       {
-        "title": "AI firm Anthropic to commit 5% of shares to fund for ‘public good’",
-        "source": "Technology | The Guardian",
-        "published": "Mon, 19 Oct 2026 12:51:04 GMT",
-        "url": "https://www.theguardian.com/technology/2026/oct/19/ai-firm-anthropic-to-commit-shares-to-fund-for-public-good",
-        "is_priority": false
-      },
-      {
-        "title": "Musk pledges to give ‘every kid in America’ one of his SpaceX shares",
+        "title": "Oura adds new fitness metrics to show how workouts impact your body",
         "source": "TechCrunch",
-        "published": "Mon, 19 Oct 2026 12:42:55 +0000",
-        "url": "https://techcrunch.com/2026/10/19/musk-pledges-to-give-every-kid-in-america-one-of-his-spacex-shares/",
+        "published": "Tue, 20 Oct 2026 12:00:00 +0000",
+        "url": "https://techcrunch.com/2026/10/20/oura-is-launching-two-new-ways-to-track-and-understand-activity/",
         "is_priority": false
       },
       {
-        "title": "DIY VR: How to build your own headset, and why you probably won't want to",
+        "title": "AI adoption by industry shows what other sectors can learn",
+        "source": "MIT Technology Review",
+        "published": "Tue, 20 Oct 2026 12:00:00 +0000",
+        "url": "https://www.technologyreview.com/2026/10/20/1145423/ai-adoption-by-industry-shows-what-other-sectors-can-learn/",
+        "is_priority": false
+      },
+      {
+        "title": "Google Reports Cloud Disruptions in Europe Region",
+        "source": "NYT > Technology",
+        "published": "Tue, 20 Oct 2026 11:34:52 +0000",
+        "url": "https://www.nytimes.com/2026/10/20/technology/google-cloud-down-outage-europe.html",
+        "is_priority": false
+      },
+      {
+        "title": "‘The true barrier to entry is scale’: Inside the new frontier of European fintech’s AI arms race",
+        "source": "Sifted",
+        "published": "Tue, 20 Oct 2026 11:00:53 GMT",
+        "url": "https://sifted.eu/articles/transactional-foundation-models/",
+        "is_priority": false
+      },
+      {
+        "title": "Visiting Slate’s first showroom as its $25,000 electric truck nears production",
         "source": "Ars Technica - All content",
-        "published": "Mon, 19 Oct 2026 12:33:34 +0000",
-        "url": "https://arstechnica.com/gadgets/2026/10/diy-vr-how-to-build-your-own-headset-and-why-you-probably-wont-want-to/",
+        "published": "Tue, 20 Oct 2026 11:00:16 +0000",
+        "url": "https://arstechnica.com/cars/2026/10/visiting-slates-first-showroom-as-its-25000-electric-truck-nears-production/",
         "is_priority": false
       },
       {
-        "title": "Vibe coding is turning the music gear world upside down",
-        "source": "The Verge",
-        "published": "2026-10-19T08:30:00-04:00",
-        "url": "https://www.theverge.com/gadgets/1013493/vibe-coding-ai-music-gear-hacking-custom-firmware",
+        "title": "Sony Party Speaker Deal: Save $100 Off the ULT Tower 7",
+        "source": "WIRED",
+        "published": "Tue, 20 Oct 2026 11:00:00 +0000",
+        "url": "https://www.wired.com/story/sony-party-speaker-deals-october-2026/",
+        "is_priority": false
+      },
+      {
+        "title": "Yelp can now call on your behalf to check wait times at a restaurant",
+        "source": "TechCrunch",
+        "published": "Tue, 20 Oct 2026 11:00:00 +0000",
+        "url": "https://techcrunch.com/2026/10/20/yelp-can-now-call-on-your-behalf-to-check-wait-times-at-a-restaurant/",
+        "is_priority": false
+      },
+      {
+        "title": "Otter.ai raises $320 million from General Catalyst’s growth fund for its meeting tool",
+        "source": "TechCrunch",
+        "published": "Tue, 20 Oct 2026 11:00:00 +0000",
+        "url": "https://techcrunch.com/2026/10/20/otter-ai-raises-320-million-from-general-catalysts-growth-fund-for-its-meeting-tool/",
+        "is_priority": false
+      },
+      {
+        "title": "The Physics Behind Tesla’s Flying Roadster",
+        "source": "WIRED",
+        "published": "Tue, 20 Oct 2026 10:45:00 +0000",
+        "url": "https://www.wired.com/story/physics-behind-tesla-flying-roadster/",
+        "is_priority": false
+      },
+      {
+        "title": "Sexual Assault Is a Free Speech Issue",
+        "source": "WIRED",
+        "published": "Tue, 20 Oct 2026 10:30:00 +0000",
+        "url": "https://www.wired.com/story/the-big-interview-mary-anne-franks/",
         "is_priority": false
       }
     ],
     "Automotive/Motorcycle": [
       {
-        "title": "Tested: 2026 Cadillac Optiq RWD Goes Solo",
-        "source": "Latest Content - Car and Driver",
-        "published": "Mon, 19 Oct 2026 14:25:25 +0000",
-        "url": "https://www.caranddriver.com/reviews/a74107966/2026-cadillac-optiq-single-motor-test/",
-        "is_priority": false
-      },
-      {
-        "title": "View Interior Photos of the 2026 Cadillac Optiq RWD",
-        "source": "Latest Content - Car and Driver",
-        "published": "Mon, 19 Oct 2026 14:25:03 +0000",
-        "url": "https://www.caranddriver.com/photos/a74147329/2026-cadillac-optiq-rwd-test-interior-gallery/",
-        "is_priority": false
-      },
-      {
-        "title": "View Exterior Photos of the 2026 Cadillac Optiq RWD",
-        "source": "Latest Content - Car and Driver",
-        "published": "Mon, 19 Oct 2026 14:25:00 +0000",
-        "url": "https://www.caranddriver.com/photos/a74147319/2026-cadillac-optiq-rwd-test-exterior-gallery/",
-        "is_priority": false
-      },
-      {
-        "title": "CarGurus Sued By New York City For Allegedly Lying About Dealership Prices",
-        "source": "Jalopnik - Obsessed with the culture of cars",
-        "published": "Mon, 19 Oct 2026 14:11:11 +0000",
-        "url": "https://www.jalopnik.com/2290149/cargurus-sued-new-york-allegedly-lying-dealership-prices/",
-        "is_priority": false
-      },
-      {
-        "title": "Tesla (TSLA) proxy shows a board getting ready for a SpaceX merger",
-        "source": "Electrek",
-        "published": "Mon, 19 Oct 2026 14:07:33 +0000",
-        "url": "https://electrek.co/2026/10/19/tesla-tsla-proxy-annual-meeting-spacex-merger/",
-        "is_priority": false
-      },
-      {
-        "title": "Future Electric Vehicles: The EVs You'll Soon Be Able to Buy",
-        "source": "Latest Content - Car and Driver",
-        "published": "Mon, 19 Oct 2026 14:06:24 +0000",
-        "url": "https://www.caranddriver.com/news/g29994375/future-electric-cars-trucks/",
-        "is_priority": false
-      },
-      {
-        "title": "GTA VI Is Exactly One Month Away. The Final Trailer Looks Awesome",
-        "source": "Motor1.com - News",
-        "published": "Mon, 19 Oct 2026 14:00:13 +0000",
-        "url": "https://www.motor1.com/news/812432/grand-theft-auto-6-final-trailer/",
-        "is_priority": false
-      },
-      {
-        "title": "Why this major e-bike brand just started selling battery-less electric bikes",
-        "source": "Electrek",
-        "published": "Mon, 19 Oct 2026 13:57:15 +0000",
-        "url": "https://electrek.co/2026/10/19/why-this-major-e-bike-brand-just-started-selling-battery-less-electric-bikes/",
-        "is_priority": false
-      },
-      {
-        "title": "Rivian Is Giving Some Owners Early Access To Its Latest Hands-Free Driving Tech",
+        "title": "GM Is Closing Its Detroit EV Battery Plant",
         "source": "InsideEVs - Articles",
-        "published": "Mon, 19 Oct 2026 13:42:50 +0000",
-        "url": "https://insideevs.com/news/812431/rivian-point-to-point-hands-free-early-access/",
+        "published": "Tue, 20 Oct 2026 12:29:17 +0000",
+        "url": "https://insideevs.com/news/812603/gm-brownstown-ev-battery-plant-closure/",
         "is_priority": false
       },
       {
-        "title": "Boot this: BYD Denza B8 driver gets booted, doesn’t care [video]",
-        "source": "Electrek",
-        "published": "Mon, 19 Oct 2026 13:35:00 +0000",
-        "url": "https://electrek.co/2026/10/19/boot-this-byd-denza-b8-driver-gets-booted-doesnt-care-video/",
-        "is_priority": false
-      },
-      {
-        "title": "What Car Have You Driven That Got The Most Attention?",
+        "title": "At $10,000, Would You Race To Buy This 1987 Chevy Sprint Turbo?",
         "source": "Jalopnik - Obsessed with the culture of cars",
-        "published": "Mon, 19 Oct 2026 13:25:00 +0000",
-        "url": "https://www.jalopnik.com/2289396/what-car-have-you-driven-got-most-attention-reader-question/",
+        "published": "Tue, 20 Oct 2026 12:25:00 +0000",
+        "url": "https://www.jalopnik.com/2290987/1987-chevrolet-sprint-turbo-10000-dollars-nice-price/",
         "is_priority": false
       },
       {
-        "title": "There’s More Than Meets the Eye to This Bentley Flying Spur Art Car",
-        "source": "Latest Content - Road & Track",
-        "published": "Mon, 19 Oct 2026 13:22:24 +0000",
-        "url": "https://www.roadandtrack.com/news/a74158069/bentley-flying-spur-art-car-deathspray/",
-        "is_priority": false
-      },
-      {
-        "title": "Subaru Wants Its Own EVs. A 510-HP Mule Shows What’s Coming",
-        "source": "InsideEVs - Articles",
-        "published": "Mon, 19 Oct 2026 13:04:51 +0000",
-        "url": "https://insideevs.com/news/812422/subaru-new-ev-platform-detailed/",
-        "is_priority": false
-      },
-      {
-        "title": "2027 Nissan Pathfinder Toasts to 40 Years with Special Edition Trim",
-        "source": "Latest Content - Car and Driver",
-        "published": "Mon, 19 Oct 2026 13:00:00 +0000",
-        "url": "https://www.caranddriver.com/news/a74163676/2027-nissan-pathfinder-special-edition-40-year-anniversary-details/",
-        "is_priority": false
-      },
-      {
-        "title": "Hyundai Recalls 94,000 Genesis Models Over Power Seat Fire Risk",
+        "title": "Bugatti Restores One-Off Veyron With A Mirror-Like Aluminum Body",
         "source": "Motor1.com - News",
-        "published": "Mon, 19 Oct 2026 13:00:00 +0000",
-        "url": "https://www.motor1.com/news/812414/hyundai-genesis-recall-over-power/",
+        "published": "Tue, 20 Oct 2026 11:23:49 +0000",
+        "url": "https://www.motor1.com/news/812586/bugatti-restores-veyron-polished-aluminum-body/",
+        "is_priority": false
+      },
+      {
+        "title": "View Interior Photos of the 2027 Lexus NX",
+        "source": "Latest Content - Car and Driver",
+        "published": "Tue, 20 Oct 2026 11:00:00 +0000",
+        "url": "https://www.caranddriver.com/photos/a74167213/2027-lexus-nx-drive-interior-gallery/",
+        "is_priority": false
+      },
+      {
+        "title": "Follow Your Nose: We Drive the 2027 Lexus NX",
+        "source": "Latest Content - Car and Driver",
+        "published": "Tue, 20 Oct 2026 11:00:00 +0000",
+        "url": "https://www.caranddriver.com/reviews/a74163845/2027-lexus-nx-drive/",
+        "is_priority": false
+      },
+      {
+        "title": "View Exterior Photos of the 2027 Lexus NX",
+        "source": "Latest Content - Car and Driver",
+        "published": "Tue, 20 Oct 2026 11:00:00 +0000",
+        "url": "https://www.caranddriver.com/photos/a74167209/2027-lexus-nx-drive-exterior-gallery/",
+        "is_priority": false
+      },
+      {
+        "title": "Lexus NX Goes Hybrid Only For 2027",
+        "source": "Motor1.com - News",
+        "published": "Tue, 20 Oct 2026 11:00:00 +0000",
+        "url": "https://www.motor1.com/news/812567/2027-lexus-nx-drops-gas/",
+        "is_priority": false
+      },
+      {
+        "title": "2027 Lexus NX Says The Quiet Luxury Part Out Loud",
+        "source": "Jalopnik - Obsessed with the culture of cars",
+        "published": "Tue, 20 Oct 2026 11:00:00 +0000",
+        "url": "https://www.jalopnik.com/2290975/2027-lexus-nx-facelift-nx350h-hybrid-nx450h-phev-first-drive-review/",
+        "is_priority": false
+      },
+      {
+        "title": "The 2027 Lexus NX Plug-In Hybrid Gets A Bigger Battery And Fast Charging",
+        "source": "InsideEVs - Articles",
+        "published": "Tue, 20 Oct 2026 11:00:00 +0000",
+        "url": "https://insideevs.com/news/812539/2027-lexus-nx-hybrid-plug-in-hybrid-specs-range-official/",
+        "is_priority": false
+      },
+      {
+        "title": "You Can Buy This Wild 1967 Alfa Romeo Giulia Built Like A Le Mans Racer",
+        "source": "Motor1.com - News",
+        "published": "Tue, 20 Oct 2026 10:43:37 +0000",
+        "url": "https://www.motor1.com/news/812578/1967-alfa-romeo-giulia-low/",
+        "is_priority": false
+      },
+      {
+        "title": "Cobra is King while battle for second rages in Silverstone Pall Mall Cup contest",
+        "source": "Autosport.com - All - Stories",
+        "published": "Tue, 20 Oct 2026 10:19:39 +0000",
+        "url": "https://www.autosport.com/national/news/cobra-is-king-while-battle-for-second-rages-in-silverstone-pall-mall-cup-contest/10866359/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-ALL&utm_term=News&utm_content=uk",
+        "is_priority": false
+      },
+      {
+        "title": "The Gas BMW M3 Isn't Dead: Next-Gen Prototype Roars",
+        "source": "Motor1.com - News",
+        "published": "Tue, 20 Oct 2026 09:53:35 +0000",
+        "url": "https://www.motor1.com/news/812548/2028-bmw-m3-gas-engine/",
+        "is_priority": false
+      },
+      {
+        "title": "FIA ratifies key 2027 WRC sporting regulations",
+        "source": "Autosport.com - All - Stories",
+        "published": "Tue, 20 Oct 2026 09:44:32 +0000",
+        "url": "https://www.autosport.com/wrc/news/fia-ratifies-key-2027-wrc-sporting-regulations/10866457/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-ALL&utm_term=News&utm_content=uk",
+        "is_priority": false
+      },
+      {
+        "title": "Razgatlioglu to miss the rest MotoGP season due to shoulder injury",
+        "source": "Autosport.com - All - Stories",
+        "published": "Tue, 20 Oct 2026 08:54:04 +0000",
+        "url": "https://www.autosport.com/motogp/news/toprak-razgatlioglu-to-miss-the-rest-motogp-season-due-to-shoulder-injury/10866448/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-ALL&utm_term=News&utm_content=uk",
+        "is_priority": false
+      },
+      {
+        "title": "Barcelona set to host IndyCar race in 2027 under multi-year deal",
+        "source": "Autosport.com - All - Stories",
+        "published": "Tue, 20 Oct 2026 08:48:32 +0000",
+        "url": "https://www.autosport.com/indycar/news/barcelona-set-to-host-indycar-race-in-2027-under-multi-year-deal/10866433/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-ALL&utm_term=News&utm_content=uk",
         "is_priority": false
       }
     ],
     "Portugal": [
       {
-        "title": "As notícias das 15h",
-        "source": "Observador - Últimas",
-        "published": "Mon, 19 Oct 2026 15:17:15 +0100",
-        "url": "https://observador.pt/programas/noticiario/as-noticias-das-15h-2490/",
-        "is_priority": true
-      },
-      {
-        "title": "Igualdade: o segredo para liderar melhor",
-        "source": "Observador - Últimas",
-        "published": "Mon, 19 Oct 2026 15:14:25 +0100",
-        "url": "https://observador.pt/especiais/igualdade-o-segredo-para-liderar-melhor/",
-        "is_priority": true
-      },
-      {
-        "title": "Indústria alemã perde meio milhão de empregos em seis anos",
+        "title": "Portugal tem linhas vermelhas nos recursos próprios para financiar orçamento europeu",
         "source": "ECO",
-        "published": "Mon, 19 Oct 2026 14:12:55 +0000",
-        "url": "https://eco.sapo.pt/2026/10/19/industria-alema-perde-meio-milhao-de-empregos-em-seis-anos/",
+        "published": "Tue, 20 Oct 2026 12:31:01 +0000",
+        "url": "https://eco.sapo.pt/2026/10/20/portugal-tem-linhas-vermelhas-nos-recursos-proprios-para-financiar-orcamento-europeu/",
         "is_priority": true
       },
       {
-        "title": "Passos quer regresso a regras revogadas para o aborto",
-        "source": "Observador - Últimas",
-        "published": "Mon, 19 Oct 2026 15:11:39 +0100",
-        "url": "https://observador.pt/2026/10/19/passos-defende-regresso-as-regras-para-o-aborto-que-aprovou-em-2015-foram-revogadas-sem-explicacao/",
+        "title": "Fernando Daniel inicia em março em Lisboa e Porto digressão de novo álbum \"Índigo\"",
+        "source": "Correio da Manhã",
+        "published": "Tue, 20 Oct 2026 13:27:24 +0100",
+        "url": "https://www.cmjornal.pt/cultura/detalhe/fernando-daniel-inicia-em-marco-em-lisboa-e-porto-digressao-de-novo-album-indigo",
         "is_priority": true
       },
       {
-        "title": "Médio Oriente: Pelo menos 53 soldados mortos em ataque atribuído aos huthis",
+        "title": "Eurodeputados defendem que alta velocidade ligue grandes cidades e não só capitais",
+        "source": "Correio da Manhã",
+        "published": "Tue, 20 Oct 2026 13:24:55 +0100",
+        "url": "https://www.cmjornal.pt/mundo/detalhe/eurodeputados-defendem-que-alta-velocidade-ligue-grandes-cidades-e-nao-so-capitais",
+        "is_priority": true
+      },
+      {
+        "title": "Crédito ao consumo: Portugal está atrasado face a toda a Europa e arrisca \"desinvestimento estrangeiro\"",
         "source": "dn",
-        "published": "Mon, 19 Oct 2026 14:06:30 +0000",
-        "url": "https://www.dn.pt/internacional/mdio-oriente-pelo-menos-53-soldados-mortos-em-ataque-atribudo-aos-huthis",
+        "published": "Tue, 20 Oct 2026 12:23:59 +0000",
+        "url": "http://dinheirovivo.dn.pt/empresas/crdito-ao-consumo-portugal-est-atrasado-face-a-toda-a-europa-e-arrisca-desinvestimento-estrangeiro",
         "is_priority": true
       },
       {
-        "title": "Liderança no feminino: espelhar a sociedade",
+        "title": "Intervenção da PSP respeitou a lei ao pôr fim às acampadas?",
         "source": "Observador - Últimas",
-        "published": "Mon, 19 Oct 2026 15:05:58 +0100",
-        "url": "https://observador.pt/programas/o-ingrediente-invisivel/lideranca-no-feminino-espelhar-a-sociedade-2/",
+        "published": "Tue, 20 Oct 2026 13:23:02 +0100",
+        "url": "https://observador.pt/programas/justica-cega/intervencao-da-psp-respeitou-a-lei-ao-por-fim-as-acampadas/",
         "is_priority": true
       },
       {
-        "title": "Portugal e China preveem financiamento conjunto de projetos científicos a partir de 2027",
-        "source": "dn",
-        "published": "Mon, 19 Oct 2026 14:02:00 +0000",
-        "url": "https://www.dn.pt/economia/portugal-e-china-preveem-financiamento-conjunto-de-projetos-cientficos-a-partir-de-2027",
-        "is_priority": true
-      },
-      {
-        "title": "Investir também implica saber gerir as emoções",
+        "title": "Gás na Europa supera os 90 euros, sobe mais de 200% este ano",
         "source": "Observador - Últimas",
-        "published": "Mon, 19 Oct 2026 15:01:15 +0100",
-        "url": "https://observador.pt/programas/big-investor-week/investir-tambem-implica-saber-gerir-as-emocoes/",
+        "published": "Tue, 20 Oct 2026 13:17:58 +0100",
+        "url": "https://observador.pt/2026/10/20/gas-natural-na-europa-supera-os-90-euros-sobe-mais-de-200-desde-o-inicio-do-ano/",
         "is_priority": true
       },
       {
-        "title": "Liderança no feminino: espelhar a sociedade",
-        "source": "Observador - Últimas",
-        "published": "Mon, 19 Oct 2026 14:56:38 +0100",
-        "url": "https://observador.pt/programas/o-ingrediente-invisivel/lideranca-no-feminino-espelhar-a-sociedade/",
+        "title": "Lince compra Villa Garden para o transformar num hotel de cinco estrelas",
+        "source": "Jornal de Negocios",
+        "published": "Tue, 20 Oct 2026 13:14:44 +0100",
+        "url": "https://www.jornaldenegocios.pt/empresas/turismo---lazer/detalhe/lince-compra-villa-garden-para-o-transformar-num-hotel-de-cinco-estrelas",
         "is_priority": true
+      },
+      {
+        "title": "13h. Acampada. 27 dos 55 detidos vão ser libertados hoje",
+        "source": "Observador - Últimas",
+        "published": "Tue, 20 Oct 2026 13:14:28 +0100",
+        "url": "https://observador.pt/programas/noticiario/as-noticias-das-13h-2481/",
+        "is_priority": true
+      },
+      {
+        "title": "Porto pede à Provedoria de Justiça para avaliar intervenção da PSP na manifestação",
+        "source": "Correio da Manhã",
+        "published": "Tue, 20 Oct 2026 13:13:21 +0100",
+        "url": "https://www.cmjornal.pt/sociedade/detalhe/porto-pede-a-provedoria-de-justica-para-avaliar-intervencao-da-psp-na-manifestacao",
+        "is_priority": true
+      },
+      {
+        "title": "Bulgaria seeks suspects in Germany after Starlink sabotage",
+        "source": "Deutsche Welle: DW.com - Europe",
+        "published": "2026-10-20T12:36:27.233215+00:00",
+        "url": "https://www.dw.com/en/bulgaria-seeks-suspects-in-germany-after-starlink-sabotage/a-79706745?maca=en-rss-en-eu-2092-rdf",
+        "is_priority": false
       },
       {
         "title": "What Earth's sixth mass extinction event means for humans",
         "source": "Deutsche Welle: DW.com - Europe",
-        "published": "2026-10-19T14:32:31.054788+00:00",
+        "published": "2026-10-20T12:36:27.233239+00:00",
         "url": "https://www.dw.com/en/what-earth-s-sixth-mass-extinction-event-means-for-humans/a-79680410?maca=en-rss-en-eu-2092-rdf",
         "is_priority": false
       },
       {
         "title": "France: Young voters blase about Glucksmann's Socialists",
         "source": "Deutsche Welle: DW.com - Europe",
-        "published": "2026-10-19T14:32:31.054813+00:00",
+        "published": "2026-10-20T12:36:27.233253+00:00",
         "url": "https://www.dw.com/en/france-young-voters-blase-about-glucksmann-s-socialists/a-79684159?maca=en-rss-en-eu-2092-rdf",
         "is_priority": false
       },
       {
         "title": "How reliant is Ukraine on the US-controlled Starlink internet service?",
         "source": "Deutsche Welle: DW.com - Europe",
-        "published": "2026-10-19T14:32:31.054826+00:00",
+        "published": "2026-10-20T12:36:27.233267+00:00",
         "url": "https://www.dw.com/en/how-reliant-is-ukraine-on-the-us-controlled-starlink-internet-service/a-79689729?maca=en-rss-en-eu-2092-rdf",
         "is_priority": false
       },
       {
         "title": "Populist Czech PM Babis goes empty-handed in Senate elections",
         "source": "Deutsche Welle: DW.com - Europe",
-        "published": "2026-10-19T14:32:31.054838+00:00",
+        "published": "2026-10-20T12:36:27.233279+00:00",
         "url": "https://www.dw.com/en/populist-czech-pm-babis-goes-empty-handed-in-senate-elections/a-79690934?maca=en-rss-en-eu-2092-rdf",
         "is_priority": false
       },
       {
         "title": "Russia wants blackout in Ukraine as winter comes — Zelenskyy",
         "source": "Deutsche Welle: DW.com - Europe",
-        "published": "2026-10-19T14:32:31.054854+00:00",
+        "published": "2026-10-20T12:36:27.233295+00:00",
         "url": "https://www.dw.com/en/russia-wants-blackout-in-ukraine-as-winter-comes-zelenskyy/a-79686703?maca=en-rss-en-eu-2092-rdf",
-        "is_priority": false
-      },
-      {
-        "title": "France: Protesters clash with police in nationwide protests, amid rising social polarization",
-        "source": "Deutsche Welle: DW.com - Europe",
-        "published": "2026-10-19T14:32:31.054867+00:00",
-        "url": "https://www.dw.com/en/france-protesters-clash-with-police-in-nationwide-protests-amid-rising-social-polarization/a-79685584?maca=en-rss-en-eu-2092-rdf",
         "is_priority": false
       }
     ]
